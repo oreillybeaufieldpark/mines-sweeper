@@ -373,15 +373,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 42
-  },
-  {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 43
@@ -423,7 +414,16 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 42
+  },
+  {
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,22 +540,13 @@
     "order": 60
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 61
-  },
-  {
-    "position": "T48",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 62
   },
   {
     "position": "T47",
@@ -576,7 +567,16 @@
     "order": 64
   },
   {
-    "position": "T65",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 62
+  },
+  {
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -738,7 +738,7 @@
     "order": 82
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -756,7 +756,7 @@
     "order": 84
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
