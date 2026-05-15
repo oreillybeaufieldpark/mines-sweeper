@@ -301,6 +301,15 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 43
+  },
+  {
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 45
@@ -324,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -376,15 +385,6 @@
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 41
-  },
-  {
-    "position": "T24",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 43
   },
   {
     "position": "T36",
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -612,7 +612,16 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Kota Kaneko",
+    "owner": "",
+    "order": 85
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -621,7 +630,7 @@
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -702,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -711,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -720,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -729,7 +738,7 @@
     "order": 82
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -738,22 +747,13 @@
     "order": 83
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
     "golfer": "Thomas Detry",
     "owner": "",
     "order": 84
-  },
-  {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
-    "golfer": "Kota Kaneko",
-    "owner": "",
-    "order": 85
   },
   {
     "position": "T85",
@@ -1314,16 +1314,16 @@
     "order": 146
   },
   {
-    "position": "147",
-    "score": "+13",
-    "score_num": 13,
+    "position": "T147",
+    "score": "+14",
+    "score_num": 14,
     "thru": "",
     "golfer": "Francisco Bid\u00e9",
     "owner": "",
     "order": 147
   },
   {
-    "position": "148",
+    "position": "T147",
     "score": "+14",
     "score_num": 14,
     "thru": "F",
