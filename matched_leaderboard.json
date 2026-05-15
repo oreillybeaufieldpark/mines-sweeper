@@ -165,7 +165,7 @@
     "position": "T14",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 19
@@ -405,7 +405,16 @@
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 58
+  },
+  {
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -513,16 +522,7 @@
     "order": 57
   },
   {
-    "position": "T46",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 58
-  },
-  {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -840,7 +840,7 @@
     "position": "T85",
     "score": "+5",
     "score_num": 5,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Thomas Detry",
     "owner": "",
     "order": 94
@@ -1290,22 +1290,22 @@
     "position": "T143",
     "score": "+13",
     "score_num": 13,
-    "thru": "13",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 144
-  },
-  {
-    "position": "T143",
-    "score": "+13",
-    "score_num": 13,
     "thru": "12",
     "golfer": "Jared Jones",
     "owner": "",
     "order": 145
   },
   {
-    "position": "T146",
+    "position": "T145",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "14",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 144
+  },
+  {
+    "position": "T145",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1314,7 +1314,7 @@
     "order": 146
   },
   {
-    "position": "T146",
+    "position": "T145",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
