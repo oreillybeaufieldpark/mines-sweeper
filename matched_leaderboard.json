@@ -966,22 +966,13 @@
     "position": "T96",
     "score": "+6",
     "score_num": 6,
-    "thru": "10",
-    "golfer": "Brandt Snedeker",
-    "owner": "",
-    "order": 108
-  },
-  {
-    "position": "T96",
-    "score": "+6",
-    "score_num": 6,
     "thru": "16",
     "golfer": "Gary Woodland",
     "owner": "Stephen Walker",
     "order": 115
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -990,7 +981,7 @@
     "order": 109
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -999,7 +990,7 @@
     "order": 110
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1008,7 +999,7 @@
     "order": 111
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1017,7 +1008,7 @@
     "order": 112
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1026,7 +1017,7 @@
     "order": 113
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "16",
@@ -1035,7 +1026,7 @@
     "order": 114
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "14",
@@ -1044,7 +1035,7 @@
     "order": 116
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "13",
@@ -1053,7 +1044,7 @@
     "order": 117
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "11",
@@ -1062,7 +1053,7 @@
     "order": 118
   },
   {
-    "position": "T110",
+    "position": "T109",
     "score": "+7",
     "score_num": 7,
     "thru": "10",
@@ -1071,7 +1062,16 @@
     "order": 119
   },
   {
-    "position": "T120",
+    "position": "T119",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "11",
+    "golfer": "Brandt Snedeker",
+    "owner": "",
+    "order": 108
+  },
+  {
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1080,7 +1080,7 @@
     "order": 120
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1089,7 +1089,7 @@
     "order": 121
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1098,7 +1098,7 @@
     "order": 122
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1107,7 +1107,7 @@
     "order": 123
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1116,7 +1116,7 @@
     "order": 124
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "16",
@@ -1125,7 +1125,7 @@
     "order": 125
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "17",
@@ -1134,7 +1134,7 @@
     "order": 126
   },
   {
-    "position": "T120",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "11",
@@ -1299,7 +1299,7 @@
     "position": "T143",
     "score": "+13",
     "score_num": 13,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Jared Jones",
     "owner": "",
     "order": 145
