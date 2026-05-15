@@ -607,15 +607,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "",
-    "golfer": "Wyndham Clark",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 70
@@ -666,7 +657,7 @@
     "order": 74
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +684,7 @@
     "order": 77
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +693,7 @@
     "order": 78
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -711,7 +702,7 @@
     "order": 79
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -907,6 +898,15 @@
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 112
+  },
+  {
+    "position": "T101",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Wyndham Clark",
+    "owner": "",
+    "order": 69
   },
   {
     "position": "T101",
