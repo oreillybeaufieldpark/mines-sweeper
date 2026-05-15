@@ -390,7 +390,7 @@
     "position": "T30",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 44
@@ -741,7 +741,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 82
@@ -1161,16 +1161,16 @@
     "order": 129
   },
   {
-    "position": "T127",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "16",
+    "position": "T130",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "17",
     "golfer": "Paul McClure",
     "owner": "",
     "order": 130
   },
   {
-    "position": "T131",
+    "position": "T130",
     "score": "+10",
     "score_num": 10,
     "thru": "18",
@@ -1179,7 +1179,7 @@
     "order": 131
   },
   {
-    "position": "T131",
+    "position": "T130",
     "score": "+10",
     "score_num": 10,
     "thru": "18",
@@ -1188,7 +1188,7 @@
     "order": 132
   },
   {
-    "position": "T131",
+    "position": "T130",
     "score": "+10",
     "score_num": 10,
     "thru": "18",
@@ -1197,7 +1197,7 @@
     "order": 133
   },
   {
-    "position": "T131",
+    "position": "T130",
     "score": "+10",
     "score_num": 10,
     "thru": "18",
