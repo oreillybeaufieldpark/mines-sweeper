@@ -390,7 +390,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 44
@@ -525,7 +525,7 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 60
@@ -597,7 +597,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 68
@@ -723,7 +723,7 @@
     "position": "T70",
     "score": "+4",
     "score_num": 4,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 81
@@ -1047,7 +1047,7 @@
     "position": "T111",
     "score": "+7",
     "score_num": 7,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Jacob Bridgeman",
     "owner": "",
     "order": 117
