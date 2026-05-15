@@ -57,7 +57,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 7
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -1278,7 +1278,7 @@
     "order": 142
   },
   {
-    "position": "143",
+    "position": "T143",
     "score": "+13",
     "score_num": 13,
     "thru": "13",
@@ -1287,7 +1287,16 @@
     "order": 143
   },
   {
-    "position": "T144",
+    "position": "T143",
+    "score": "+13",
+    "score_num": 13,
+    "thru": "13",
+    "golfer": "Ryan Vermeer",
+    "owner": "",
+    "order": 146
+  },
+  {
+    "position": "T145",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1296,22 +1305,13 @@
     "order": 144
   },
   {
-    "position": "T144",
+    "position": "T145",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
     "golfer": "Zach Haynes",
     "owner": "",
     "order": 145
-  },
-  {
-    "position": "T144",
-    "score": "+14",
-    "score_num": 14,
-    "thru": "12",
-    "golfer": "Ryan Vermeer",
-    "owner": "",
-    "order": 146
   },
   {
     "position": "T147",
