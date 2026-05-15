@@ -117,7 +117,7 @@
     "order": 14
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -126,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T7",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -207,7 +207,7 @@
     "order": 24
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -400,15 +400,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T38",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 44
@@ -450,7 +441,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -459,7 +450,16 @@
     "order": 42
   },
   {
-    "position": "T51",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -558,7 +558,16 @@
     "order": 62
   },
   {
-    "position": "T51",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Wyndham Clark",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -567,7 +576,7 @@
     "order": 69
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +603,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +612,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,16 +621,7 @@
     "order": 67
   },
   {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Wyndham Clark",
-    "owner": "",
-    "order": 68
-  },
-  {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
