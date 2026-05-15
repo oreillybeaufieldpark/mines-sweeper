@@ -211,21 +211,21 @@
     "score": "-1",
     "score_num": -1,
     "thru": "",
-    "golfer": "Xander Schauffele",
-    "owner": "Finbarr Callaly",
-    "order": 24
-  },
-  {
-    "position": "T13",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
   },
   {
-    "position": "T26",
+    "position": "T25",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Xander Schauffele",
+    "owner": "Finbarr Callaly",
+    "order": 24
+  },
+  {
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -306,7 +306,7 @@
     "order": 40
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -1287,15 +1287,6 @@
     "order": 143
   },
   {
-    "position": "T145",
-    "score": "+12",
-    "score_num": 12,
-    "thru": "",
-    "golfer": "Chris Gabriele",
-    "owner": "",
-    "order": 144
-  },
-  {
     "position": "T141",
     "score": "+12",
     "score_num": 12,
@@ -1303,6 +1294,15 @@
     "golfer": "Derek Berg",
     "owner": "",
     "order": 145
+  },
+  {
+    "position": "T145",
+    "score": "+13",
+    "score_num": 13,
+    "thru": "",
+    "golfer": "Chris Gabriele",
+    "owner": "",
+    "order": 144
   },
   {
     "position": "T145",
