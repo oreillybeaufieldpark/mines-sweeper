@@ -364,15 +364,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 41
-  },
-  {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 44
@@ -405,7 +396,16 @@
     "order": 59
   },
   {
-    "position": "T46",
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "F",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 41
+  },
+  {
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -414,7 +414,7 @@
     "order": 42
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -423,7 +423,7 @@
     "order": 43
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 68
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -850,15 +850,6 @@
     "score": "+5",
     "score_num": 5,
     "thru": "",
-    "golfer": "Garrick Higgo",
-    "owner": "",
-    "order": 94
-  },
-  {
-    "position": "T83",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 96
@@ -882,7 +873,16 @@
     "order": 108
   },
   {
-    "position": "T99",
+    "position": "T98",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Garrick Higgo",
+    "owner": "",
+    "order": 94
+  },
+  {
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -891,7 +891,7 @@
     "order": 98
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -900,7 +900,7 @@
     "order": 99
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +909,7 @@
     "order": 100
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +963,7 @@
     "order": 106
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,16 +972,7 @@
     "order": 107
   },
   {
-    "position": "T99",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
-    "golfer": "Tom McKibbin",
-    "owner": "",
-    "order": 109
-  },
-  {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -990,13 +981,22 @@
     "order": 110
   },
   {
-    "position": "T99",
+    "position": "T98",
     "score": "+6",
     "score_num": 6,
     "thru": "",
     "golfer": "Paul McClure",
     "owner": "",
     "order": 112
+  },
+  {
+    "position": "T98",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "",
+    "golfer": "Tom McKibbin",
+    "owner": "",
+    "order": 109
   },
   {
     "position": "T112",
