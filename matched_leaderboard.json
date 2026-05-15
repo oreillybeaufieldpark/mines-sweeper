@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "18",
@@ -18,7 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "16",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 7
+  },
+  {
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "18",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "18",
@@ -36,7 +45,7 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "18",
@@ -45,22 +54,13 @@
     "order": 5
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "17",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 6
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "15",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 7
   },
   {
     "position": "T8",
@@ -183,7 +183,7 @@
     "position": "T15",
     "score": "-1",
     "score_num": -1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 21
@@ -354,7 +354,7 @@
     "position": "T33",
     "score": "+1",
     "score_num": 1,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 41
@@ -570,7 +570,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 64
@@ -840,7 +840,7 @@
     "position": "T85",
     "score": "+5",
     "score_num": 5,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Wyndham Clark",
     "owner": "",
     "order": 94
@@ -972,7 +972,16 @@
     "order": 107
   },
   {
-    "position": "T109",
+    "position": "T98",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "13",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 117
+  },
+  {
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -981,7 +990,7 @@
     "order": 109
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -990,7 +999,7 @@
     "order": 110
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -999,7 +1008,7 @@
     "order": 111
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1008,7 +1017,7 @@
     "order": 112
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1017,7 +1026,7 @@
     "order": 113
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "17",
@@ -1026,7 +1035,7 @@
     "order": 114
   },
   {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "15",
@@ -1035,16 +1044,7 @@
     "order": 115
   },
   {
-    "position": "T109",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "12",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 117
-  },
-  {
-    "position": "T109",
+    "position": "T110",
     "score": "+7",
     "score_num": 7,
     "thru": "11",
@@ -1236,7 +1236,7 @@
     "position": "T136",
     "score": "+11",
     "score_num": 11,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Matt McCarty",
     "owner": "",
     "order": 138
