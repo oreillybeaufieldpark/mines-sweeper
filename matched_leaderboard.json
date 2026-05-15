@@ -54,7 +54,7 @@
     "order": 8
   },
   {
-    "position": "T3",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -63,7 +63,7 @@
     "order": 5
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -72,7 +72,7 @@
     "order": 6
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -459,7 +459,16 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 60
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -522,16 +531,7 @@
     "order": 58
   },
   {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 60
-  },
-  {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -1314,16 +1314,16 @@
     "order": 146
   },
   {
-    "position": "T144",
-    "score": "+12",
-    "score_num": 12,
+    "position": "T147",
+    "score": "+13",
+    "score_num": 13,
     "thru": "",
     "golfer": "Francisco Bid\u00e9",
     "owner": "",
     "order": 147
   },
   {
-    "position": "148",
+    "position": "T147",
     "score": "+13",
     "score_num": 13,
     "thru": "",
