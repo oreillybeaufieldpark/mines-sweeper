@@ -183,7 +183,7 @@
     "position": "T16",
     "score": "-1",
     "score_num": -1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 21
@@ -498,7 +498,7 @@
     "position": "T44",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 56
@@ -523,9 +523,9 @@
   },
   {
     "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "11",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "12",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 59
@@ -588,7 +588,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 66
@@ -1045,8 +1045,8 @@
   },
   {
     "position": "T110",
-    "score": "+7",
-    "score_num": 7,
+    "score": "+8",
+    "score_num": 8,
     "thru": "11",
     "golfer": "Paul McClure",
     "owner": "",
