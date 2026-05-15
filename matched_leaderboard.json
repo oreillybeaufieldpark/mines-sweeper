@@ -126,6 +126,15 @@
     "order": 20
   },
   {
+    "position": "T8",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 22
+  },
+  {
     "position": "T16",
     "score": "-1",
     "score_num": -1,
@@ -153,7 +162,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -162,7 +171,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +189,7 @@
     "order": 19
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,16 +198,7 @@
     "order": 21
   },
   {
-    "position": "T15",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 22
-  },
-  {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
