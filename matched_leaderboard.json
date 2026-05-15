@@ -184,15 +184,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 21
-  },
-  {
-    "position": "T14",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 22
@@ -216,7 +207,16 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 21
+  },
+  {
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -225,7 +225,7 @@
     "order": 23
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,16 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 30
-  },
-  {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -306,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -315,7 +306,7 @@
     "order": 46
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -324,7 +315,7 @@
     "order": 49
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -333,7 +324,16 @@
     "order": 50
   },
   {
-    "position": "T38",
+    "position": "T37",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 30
+  },
+  {
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
