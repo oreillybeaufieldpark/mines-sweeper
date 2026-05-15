@@ -85,27 +85,9 @@
     "score": "-2",
     "score_num": -2,
     "thru": "",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 11
-  },
-  {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 12
-  },
-  {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 13
   },
   {
     "position": "T7",
@@ -135,7 +117,25 @@
     "order": 22
   },
   {
-    "position": "T16",
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 11
+  },
+  {
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 13
+  },
+  {
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -198,7 +198,16 @@
     "order": 23
   },
   {
-    "position": "T23",
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Xander Schauffele",
+    "owner": "Finbarr Callaly",
+    "order": 34
+  },
+  {
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -207,7 +216,7 @@
     "order": 6
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -216,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -225,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,22 +288,13 @@
     "order": 32
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 33
-  },
-  {
-    "position": "T23",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Xander Schauffele",
-    "owner": "Finbarr Callaly",
-    "order": 34
   },
   {
     "position": "T34",
