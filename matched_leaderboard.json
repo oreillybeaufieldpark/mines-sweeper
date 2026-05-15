@@ -400,15 +400,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 45
-  },
-  {
-    "position": "T38",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 46
@@ -432,7 +423,16 @@
     "order": 62
   },
   {
-    "position": "T49",
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 45
+  },
+  {
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -441,7 +441,7 @@
     "order": 47
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
