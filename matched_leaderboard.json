@@ -508,15 +508,6 @@
     "score": "+2",
     "score_num": 2,
     "thru": "",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T48",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 58
@@ -567,7 +558,16 @@
     "order": 63
   },
   {
-    "position": "T64",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -985,15 +985,6 @@
     "score": "+6",
     "score_num": 6,
     "thru": "",
-    "golfer": "Ian Holt",
-    "owner": "",
-    "order": 110
-  },
-  {
-    "position": "T100",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
     "golfer": "Wyndham Clark",
     "owner": "",
     "order": 111
@@ -1026,7 +1017,16 @@
     "order": 114
   },
   {
-    "position": "T115",
+    "position": "T114",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "",
+    "golfer": "Ian Holt",
+    "owner": "",
+    "order": 110
+  },
+  {
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1035,7 +1035,7 @@
     "order": 115
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1044,7 +1044,7 @@
     "order": 116
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1053,7 +1053,7 @@
     "order": 117
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1062,7 +1062,7 @@
     "order": 118
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1071,7 +1071,7 @@
     "order": 119
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1080,7 +1080,7 @@
     "order": 120
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1089,7 +1089,7 @@
     "order": 121
   },
   {
-    "position": "T115",
+    "position": "T114",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1386,9 +1386,9 @@
     "order": 154
   },
   {
-    "position": "T153",
-    "score": "+18",
-    "score_num": 18,
+    "position": "155",
+    "score": "+20",
+    "score_num": 20,
     "thru": "",
     "golfer": "Bryce Fisher",
     "owner": "",
