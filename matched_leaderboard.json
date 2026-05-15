@@ -625,15 +625,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "",
-    "golfer": "Thomas Detry",
-    "owner": "",
-    "order": 70
-  },
-  {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 71
@@ -651,13 +642,22 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
+    "thru": "",
+    "golfer": "Thomas Detry",
+    "owner": "",
+    "order": 70
+  },
+  {
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
     "thru": "F",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 73
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -738,7 +738,7 @@
     "order": 82
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -747,7 +747,7 @@
     "order": 83
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -765,7 +765,7 @@
     "order": 85
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -774,7 +774,7 @@
     "order": 86
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -783,7 +783,7 @@
     "order": 87
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
