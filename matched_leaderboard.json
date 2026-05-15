@@ -1107,6 +1107,15 @@
     "order": 123
   },
   {
+    "position": "T118",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "",
+    "golfer": "Jacob Bridgeman",
+    "owner": "",
+    "order": 131
+  },
+  {
     "position": "T125",
     "score": "+8",
     "score_num": 8,
@@ -1168,15 +1177,6 @@
     "golfer": "Lucas Glover",
     "owner": "",
     "order": 130
-  },
-  {
-    "position": "T118",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "",
-    "golfer": "Jacob Bridgeman",
-    "owner": "",
-    "order": 131
   },
   {
     "position": "T125",
