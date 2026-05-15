@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-5",
     "score_num": -5,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 1
@@ -855,16 +855,16 @@
     "order": 95
   },
   {
-    "position": "T84",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "13",
+    "position": "T96",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "14",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 96
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -891,7 +891,7 @@
     "order": 99
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -900,7 +900,7 @@
     "order": 100
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -909,7 +909,7 @@
     "order": 101
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -918,7 +918,7 @@
     "order": 102
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -927,7 +927,7 @@
     "order": 103
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -936,7 +936,7 @@
     "order": 104
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -945,7 +945,7 @@
     "order": 105
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -954,7 +954,7 @@
     "order": 106
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -963,7 +963,7 @@
     "order": 107
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "15",
@@ -972,7 +972,7 @@
     "order": 108
   },
   {
-    "position": "T97",
+    "position": "T96",
     "score": "+6",
     "score_num": 6,
     "thru": "14",
@@ -1278,16 +1278,16 @@
     "order": 142
   },
   {
-    "position": "143",
-    "score": "+13",
-    "score_num": 13,
-    "thru": "13",
+    "position": "T143",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "14",
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 143
   },
   {
-    "position": "T144",
+    "position": "T143",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1296,7 +1296,7 @@
     "order": 144
   },
   {
-    "position": "T144",
+    "position": "T143",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1305,7 +1305,7 @@
     "order": 145
   },
   {
-    "position": "T144",
+    "position": "T143",
     "score": "+14",
     "score_num": 14,
     "thru": "14",
