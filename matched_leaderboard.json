@@ -112,15 +112,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "16",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 13
-  },
-  {
-    "position": "T8",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "16",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 14
@@ -135,7 +126,16 @@
     "order": 15
   },
   {
-    "position": "T16",
+    "position": "T15",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "17",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 13
+  },
+  {
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -237,7 +237,7 @@
     "position": "T23",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 27
@@ -1278,15 +1278,6 @@
     "order": 142
   },
   {
-    "position": "T144",
-    "score": "+13",
-    "score_num": 13,
-    "thru": "13",
-    "golfer": "Jared Jones",
-    "owner": "",
-    "order": 143
-  },
-  {
     "position": "143",
     "score": "+13",
     "score_num": 13,
@@ -1294,6 +1285,15 @@
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 146
+  },
+  {
+    "position": "T144",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "14",
+    "golfer": "Jared Jones",
+    "owner": "",
+    "order": 143
   },
   {
     "position": "T144",
