@@ -297,7 +297,16 @@
     "order": 34
   },
   {
-    "position": "T34",
+    "position": "T26",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 40
+  },
+  {
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -306,7 +315,7 @@
     "order": 28
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -315,7 +324,7 @@
     "order": 29
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 37
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,16 +369,7 @@
     "order": 39
   },
   {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 40
-  },
-  {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -499,15 +499,6 @@
     "score": "+2",
     "score_num": 2,
     "thru": "",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T46",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 57
@@ -549,7 +540,16 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -747,7 +747,7 @@
     "order": 84
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "",
