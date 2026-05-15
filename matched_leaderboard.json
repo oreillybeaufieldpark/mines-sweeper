@@ -121,21 +121,12 @@
     "score": "-2",
     "score_num": -2,
     "thru": "",
-    "golfer": "Maverick McNealy",
-    "owner": "Igor Fleming",
-    "order": 15
-  },
-  {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 16
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -144,7 +135,16 @@
     "order": 13
   },
   {
-    "position": "T16",
+    "position": "T15",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Maverick McNealy",
+    "owner": "Igor Fleming",
+    "order": 15
+  },
+  {
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -760,15 +760,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "",
-    "golfer": "Joe Highsmith",
-    "owner": "",
-    "order": 85
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 86
@@ -792,7 +783,16 @@
     "order": 88
   },
   {
-    "position": "T89",
+    "position": "T88",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Joe Highsmith",
+    "owner": "",
+    "order": 85
+  },
+  {
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +801,7 @@
     "order": 89
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +810,7 @@
     "order": 90
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +819,7 @@
     "order": 91
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -837,7 +837,7 @@
     "order": 93
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -846,7 +846,7 @@
     "order": 94
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -864,7 +864,7 @@
     "order": 96
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -891,7 +891,7 @@
     "order": 99
   },
   {
-    "position": "T89",
+    "position": "T88",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -1021,15 +1021,6 @@
     "score": "+6",
     "score_num": 6,
     "thru": "",
-    "golfer": "Adrien Saddier",
-    "owner": "",
-    "order": 115
-  },
-  {
-    "position": "T101",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 116
@@ -1044,7 +1035,7 @@
     "order": 117
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1053,7 +1044,16 @@
     "order": 114
   },
   {
-    "position": "T117",
+    "position": "T116",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "",
+    "golfer": "Adrien Saddier",
+    "owner": "",
+    "order": 115
+  },
+  {
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1062,7 +1062,7 @@
     "order": 118
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1071,7 +1071,7 @@
     "order": 119
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1080,7 +1080,7 @@
     "order": 120
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1089,7 +1089,7 @@
     "order": 121
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1098,7 +1098,7 @@
     "order": 122
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1107,7 +1107,7 @@
     "order": 123
   },
   {
-    "position": "T117",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1255,21 +1255,21 @@
     "score": "+10",
     "score_num": 10,
     "thru": "",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 140
-  },
-  {
-    "position": "T135",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "",
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 141
   },
   {
-    "position": "T142",
+    "position": "T141",
+    "score": "+11",
+    "score_num": 11,
+    "thru": "",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 140
+  },
+  {
+    "position": "T141",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1278,7 +1278,7 @@
     "order": 142
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1332,7 +1332,7 @@
     "order": 148
   },
   {
-    "position": "T149",
+    "position": "149",
     "score": "+14",
     "score_num": 14,
     "thru": "F",
@@ -1341,16 +1341,16 @@
     "order": 149
   },
   {
-    "position": "T149",
-    "score": "+14",
-    "score_num": 14,
+    "position": "T150",
+    "score": "+15",
+    "score_num": 15,
     "thru": "",
     "golfer": "Jared Jones",
     "owner": "",
     "order": 150
   },
   {
-    "position": "T151",
+    "position": "T150",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
@@ -1359,7 +1359,7 @@
     "order": 151
   },
   {
-    "position": "T151",
+    "position": "T150",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
