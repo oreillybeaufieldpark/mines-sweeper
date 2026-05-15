@@ -117,15 +117,6 @@
     "order": 14
   },
   {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 16
-  },
-  {
     "position": "T15",
     "score": "-1",
     "score_num": -1,
@@ -142,6 +133,15 @@
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 15
+  },
+  {
+    "position": "T7",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 16
   },
   {
     "position": "T15",
@@ -310,6 +310,15 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
+    "golfer": "Cameron Smith",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T25",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 49
@@ -324,7 +333,7 @@
     "order": 50
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 36
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 37
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +369,7 @@
     "order": 38
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 39
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +387,7 @@
     "order": 40
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +396,7 @@
     "order": 41
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,7 +414,7 @@
     "order": 44
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,16 +423,7 @@
     "order": 45
   },
   {
-    "position": "T37",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Cameron Smith",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -742,15 +742,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "",
-    "golfer": "Ian Holt",
-    "owner": "",
-    "order": 83
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 84
@@ -783,7 +774,16 @@
     "order": 88
   },
   {
-    "position": "T88",
+    "position": "T87",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Ian Holt",
+    "owner": "",
+    "order": 83
+  },
+  {
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -792,7 +792,7 @@
     "order": 85
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +801,7 @@
     "order": 89
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +810,7 @@
     "order": 90
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +819,7 @@
     "order": 91
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -837,7 +837,7 @@
     "order": 93
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -846,7 +846,7 @@
     "order": 94
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -864,7 +864,7 @@
     "order": 96
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -891,7 +891,7 @@
     "order": 99
   },
   {
-    "position": "T88",
+    "position": "T87",
     "score": "+5",
     "score_num": 5,
     "thru": "",
