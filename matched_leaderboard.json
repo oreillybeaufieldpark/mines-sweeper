@@ -118,6 +118,15 @@
   },
   {
     "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "15",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 20
+  },
+  {
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -169,15 +178,6 @@
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 19
-  },
-  {
-    "position": "T14",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "14",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 20
   },
   {
     "position": "T14",
@@ -363,7 +363,7 @@
     "position": "T33",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 42
