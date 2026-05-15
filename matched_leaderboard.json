@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T44",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -1044,16 +1044,16 @@
     "order": 116
   },
   {
-    "position": "T110",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Paul McClure",
     "owner": "",
     "order": 117
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1062,7 +1062,7 @@
     "order": 118
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1071,7 +1071,7 @@
     "order": 119
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1080,7 +1080,7 @@
     "order": 120
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1089,7 +1089,7 @@
     "order": 121
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1098,7 +1098,7 @@
     "order": 122
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1107,7 +1107,7 @@
     "order": 123
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "15",
@@ -1116,7 +1116,7 @@
     "order": 124
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "12",
@@ -1125,7 +1125,7 @@
     "order": 125
   },
   {
-    "position": "T118",
+    "position": "T117",
     "score": "+8",
     "score_num": 8,
     "thru": "12",
