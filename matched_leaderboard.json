@@ -715,15 +715,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "",
-    "golfer": "Harry Hall",
-    "owner": "Dave Smyth",
-    "order": 80
-  },
-  {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 81
@@ -754,6 +745,15 @@
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
     "order": 84
+  },
+  {
+    "position": "T84",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Harry Hall",
+    "owner": "Dave Smyth",
+    "order": 80
   },
   {
     "position": "T84",
@@ -801,7 +801,7 @@
     "order": 89
   },
   {
-    "position": "T85",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T85",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T85",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T85",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -1386,16 +1386,16 @@
     "order": 154
   },
   {
-    "position": "155",
-    "score": "+20",
-    "score_num": 20,
+    "position": "T155",
+    "score": "+21",
+    "score_num": 21,
     "thru": "",
     "golfer": "Bryce Fisher",
     "owner": "",
     "order": 155
   },
   {
-    "position": "156",
+    "position": "T155",
     "score": "+21",
     "score_num": 21,
     "thru": "F",
