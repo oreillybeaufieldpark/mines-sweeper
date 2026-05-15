@@ -102,7 +102,7 @@
     "position": "T8",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 12
@@ -183,7 +183,7 @@
     "position": "T16",
     "score": "-1",
     "score_num": -1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 20
@@ -192,7 +192,7 @@
     "position": "T16",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 22
@@ -570,7 +570,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 63
@@ -849,7 +849,7 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Thomas Detry",
     "owner": "",
     "order": 95
@@ -1308,22 +1308,22 @@
     "position": "T144",
     "score": "+14",
     "score_num": 14,
-    "thru": "16",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 146
-  },
-  {
-    "position": "T144",
-    "score": "+14",
-    "score_num": 14,
     "thru": "14",
     "golfer": "Jared Jones",
     "owner": "",
     "order": 147
   },
   {
-    "position": "T148",
+    "position": "T147",
+    "score": "+15",
+    "score_num": 15,
+    "thru": "17",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 146
+  },
+  {
+    "position": "T147",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1332,7 +1332,7 @@
     "order": 148
   },
   {
-    "position": "T148",
+    "position": "T147",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1341,7 +1341,7 @@
     "order": 149
   },
   {
-    "position": "T148",
+    "position": "T147",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1350,7 +1350,7 @@
     "order": 150
   },
   {
-    "position": "T148",
+    "position": "T147",
     "score": "+15",
     "score_num": 15,
     "thru": "15",
