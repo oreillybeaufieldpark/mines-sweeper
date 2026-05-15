@@ -56,24 +56,31 @@ th{
 .player{width:130px}
 .owner{width:110px}
 
-.owned{font-weight:bold}
+.owned{
+  font-weight:bold;
+}
 
 .leader{
-  animation:flashGold 1.1s infinite;
+  animation:flashGold 3s ease-in-out infinite;
   font-weight:bold;
 }
 
 @keyframes flashGold{
-  0%{background:#fff7b3}
+  0%{background:#ffffff}
+  35%{background:#fff7b3}
   50%{background:#ffd700}
-  100%{background:#fff7b3}
+  65%{background:#fff7b3}
+  100%{background:#ffffff}
 }
 </style>
 </head>
 
 <body>
+
 <main>
+
 <h1>PGA Championship Sweep</h1>
+
 <div id="updated">Loading...</div>
 
 <table>
@@ -86,39 +93,63 @@ th{
   <th class="owner">Owner</th>
 </tr>
 </thead>
+
 <tbody id="board"></tbody>
+
 </table>
+
 </main>
 
 <script>
 async function loadBoard(){
-  const res = await fetch('matched_leaderboard.json?t=' + Date.now());
+
+  const res = await fetch(
+    'matched_leaderboard.json?t=' + Date.now()
+  );
+
   const data = await res.json();
 
   const owned = data.filter(r => r.owner);
+
   const bestOwnedScore = owned.length
     ? Math.min(...owned.map(r => Number(r.score_num)))
     : null;
 
   board.innerHTML = data.map(r => {
+
     const isOwned = !!r.owner;
-    const isLeader = isOwned && Number(r.score_num) === bestOwnedScore;
+
+    const isLeader =
+      isOwned &&
+      Number(r.score_num) === bestOwnedScore;
 
     return `
-      <tr class="${isLeader ? 'leader' : isOwned ? 'owned' : ''}">
+      <tr class="${
+        isLeader ? 'leader' :
+        isOwned ? 'owned' : ''
+      }">
+
         <td class="pos">${r.position || ''}</td>
+
         <td class="scr">${r.score || ''}</td>
+
         <td class="thru">${r.thru || ''}</td>
+
         <td class="player">${r.golfer || ''}</td>
+
         <td class="owner">${r.owner || ''}</td>
+
       </tr>
     `;
   }).join('');
 
-  updated.textContent = 'Updated: ' + new Date().toLocaleTimeString();
+  updated.textContent =
+    'Updated: ' +
+    new Date().toLocaleTimeString();
 }
 
 loadBoard();
+
 setInterval(loadBoard, 60000);
 </script>
 
