@@ -198,7 +198,16 @@
     "order": 22
   },
   {
-    "position": "T23",
+    "position": "T15",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 32
+  },
+  {
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -216,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -225,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,16 +279,7 @@
     "order": 31
   },
   {
-    "position": "T23",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 32
-  },
-  {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -900,7 +900,16 @@
     "order": 100
   },
   {
-    "position": "T101",
+    "position": "T87",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Paul McClure",
+    "owner": "",
+    "order": 114
+  },
+  {
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +963,7 @@
     "order": 106
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +972,7 @@
     "order": 107
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,7 +981,7 @@
     "order": 108
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -981,7 +990,7 @@
     "order": 109
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -990,7 +999,7 @@
     "order": 110
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -999,7 +1008,7 @@
     "order": 111
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1008,22 +1017,13 @@
     "order": 112
   },
   {
-    "position": "T101",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 113
-  },
-  {
-    "position": "T101",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
-    "golfer": "Paul McClure",
-    "owner": "",
-    "order": 114
   },
   {
     "position": "T115",
@@ -1170,7 +1170,16 @@
     "order": 130
   },
   {
-    "position": "T131",
+    "position": "T124",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "",
+    "golfer": "Ryan Lenahan",
+    "owner": "",
+    "order": 133
+  },
+  {
+    "position": "T132",
     "score": "+9",
     "score_num": 9,
     "thru": "F",
@@ -1179,22 +1188,13 @@
     "order": 131
   },
   {
-    "position": "T131",
+    "position": "T132",
     "score": "+9",
     "score_num": 9,
     "thru": "",
     "golfer": "Shaun Micheel",
     "owner": "",
     "order": 132
-  },
-  {
-    "position": "T131",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "",
-    "golfer": "Ryan Lenahan",
-    "owner": "",
-    "order": 133
   },
   {
     "position": "T134",
