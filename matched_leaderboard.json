@@ -306,16 +306,16 @@
     "order": 34
   },
   {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
     "thru": "",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -540,7 +540,16 @@
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "F",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 79
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -576,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +612,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +621,7 @@
     "order": 68
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +666,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +675,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +684,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +693,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +702,7 @@
     "order": 77
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,16 +711,7 @@
     "order": 78
   },
   {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 79
-  },
-  {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -1314,7 +1314,7 @@
     "order": 146
   },
   {
-    "position": "147",
+    "position": "T147",
     "score": "+14",
     "score_num": 14,
     "thru": "F",
@@ -1323,7 +1323,16 @@
     "order": 147
   },
   {
-    "position": "T148",
+    "position": "T147",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "",
+    "golfer": "Jared Jones",
+    "owner": "",
+    "order": 151
+  },
+  {
+    "position": "T149",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
@@ -1332,7 +1341,7 @@
     "order": 148
   },
   {
-    "position": "T148",
+    "position": "T149",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
@@ -1341,7 +1350,7 @@
     "order": 149
   },
   {
-    "position": "T148",
+    "position": "T149",
     "score": "+15",
     "score_num": 15,
     "thru": "",
@@ -1350,19 +1359,10 @@
     "order": 150
   },
   {
-    "position": "T148",
-    "score": "+15",
-    "score_num": 15,
-    "thru": "",
-    "golfer": "Jared Jones",
-    "owner": "",
-    "order": 151
-  },
-  {
     "position": "152",
-    "score": "+17",
-    "score_num": 17,
-    "thru": "",
+    "score": "+16",
+    "score_num": 16,
+    "thru": "F",
     "golfer": "Braden Shattuck",
     "owner": "",
     "order": 152
