@@ -607,15 +607,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 68
-  },
-  {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
     "golfer": "Wyndham Clark",
     "owner": "",
     "order": 69
@@ -630,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -747,7 +747,7 @@
     "order": 83
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -765,7 +765,7 @@
     "order": 85
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -1237,15 +1237,6 @@
     "score": "+10",
     "score_num": 10,
     "thru": "",
-    "golfer": "Chris Gabriele",
-    "owner": "",
-    "order": 138
-  },
-  {
-    "position": "T135",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "",
     "golfer": "Matt McCarty",
     "owner": "",
     "order": 139
@@ -1269,7 +1260,7 @@
     "order": 141
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1278,7 +1269,7 @@
     "order": 142
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1287,7 +1278,16 @@
     "order": 143
   },
   {
-    "position": "T144",
+    "position": "T143",
+    "score": "+12",
+    "score_num": 12,
+    "thru": "",
+    "golfer": "Chris Gabriele",
+    "owner": "",
+    "order": 138
+  },
+  {
+    "position": "T143",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1296,7 +1296,7 @@
     "order": 144
   },
   {
-    "position": "T144",
+    "position": "T143",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1305,7 +1305,7 @@
     "order": 145
   },
   {
-    "position": "T144",
+    "position": "T143",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
