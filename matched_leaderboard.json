@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T14",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -1260,7 +1260,16 @@
     "order": 140
   },
   {
-    "position": "T141",
+    "position": "T134",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 143
+  },
+  {
+    "position": "T142",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1269,22 +1278,13 @@
     "order": 141
   },
   {
-    "position": "T141",
+    "position": "T142",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
     "golfer": "Michael Thorbjornsen",
     "owner": "",
     "order": 142
-  },
-  {
-    "position": "T141",
-    "score": "+11",
-    "score_num": 11,
-    "thru": "",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 143
   },
   {
     "position": "T144",
