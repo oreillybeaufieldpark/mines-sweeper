@@ -243,15 +243,6 @@
     "order": 27
   },
   {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "17",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 28
-  },
-  {
     "position": "T23",
     "score": "E",
     "score_num": 0,
@@ -277,6 +268,15 @@
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 31
+  },
+  {
+    "position": "T31",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "18",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 28
   },
   {
     "position": "T31",
@@ -387,6 +387,15 @@
     "order": 43
   },
   {
+    "position": "T31",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "16",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 58
+  },
+  {
     "position": "T44",
     "score": "+2",
     "score_num": 2,
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -513,16 +522,7 @@
     "order": 57
   },
   {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 58
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -966,7 +966,7 @@
     "position": "T97",
     "score": "+6",
     "score_num": 6,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
     "order": 108
@@ -1119,7 +1119,7 @@
     "position": "T118",
     "score": "+8",
     "score_num": 8,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Jacob Bridgeman",
     "owner": "",
     "order": 125
@@ -1353,7 +1353,7 @@
     "position": "T146",
     "score": "+15",
     "score_num": 15,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Ryan Lenahan",
     "owner": "",
     "order": 151
