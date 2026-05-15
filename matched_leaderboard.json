@@ -156,7 +156,7 @@
     "position": "T14",
     "score": "-1",
     "score_num": -1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 18
@@ -507,15 +507,6 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 59
-  },
-  {
-    "position": "T46",
-    "score": "+2",
-    "score_num": 2,
     "thru": "13",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
@@ -540,7 +531,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -549,7 +540,16 @@
     "order": 40
   },
   {
-    "position": "T61",
+    "position": "T60",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "15",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -558,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -567,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -576,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -603,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -612,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -738,7 +738,7 @@
     "order": 82
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -957,7 +957,7 @@
     "position": "T96",
     "score": "+6",
     "score_num": 6,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 108
@@ -1029,7 +1029,7 @@
     "position": "T109",
     "score": "+7",
     "score_num": 7,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Tom McKibbin",
     "owner": "",
     "order": 115
@@ -1209,7 +1209,7 @@
     "position": "T132",
     "score": "+10",
     "score_num": 10,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Shaun Micheel",
     "owner": "",
     "order": 135
