@@ -228,7 +228,7 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 26
@@ -241,15 +241,6 @@
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 27
-  },
-  {
-    "position": "T22",
-    "score": "E",
-    "score_num": 0,
-    "thru": "14",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 28
   },
   {
     "position": "T22",
@@ -315,7 +306,16 @@
     "order": 45
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -324,7 +324,7 @@
     "order": 34
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -333,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -342,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -351,7 +351,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -360,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -369,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -378,7 +378,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -405,7 +405,7 @@
     "order": 58
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -855,7 +855,16 @@
     "order": 95
   },
   {
-    "position": "T96",
+    "position": "T85",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "16",
+    "golfer": "Wyndham Clark",
+    "owner": "",
+    "order": 107
+  },
+  {
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -864,7 +873,7 @@
     "order": 96
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -873,7 +882,7 @@
     "order": 97
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -882,7 +891,7 @@
     "order": 98
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -891,7 +900,7 @@
     "order": 99
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -900,7 +909,7 @@
     "order": 100
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -909,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -918,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -927,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -936,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -945,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "17",
@@ -954,16 +963,7 @@
     "order": 106
   },
   {
-    "position": "T96",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "15",
-    "golfer": "Wyndham Clark",
-    "owner": "",
-    "order": 107
-  },
-  {
-    "position": "T96",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "16",
