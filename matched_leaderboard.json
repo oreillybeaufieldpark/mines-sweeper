@@ -522,7 +522,16 @@
     "order": 58
   },
   {
-    "position": "T59",
+    "position": "T42",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 65
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -531,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -540,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "18",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -576,16 +585,7 @@
     "order": 64
   },
   {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 65
-  },
-  {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -1116,7 +1116,16 @@
     "order": 124
   },
   {
-    "position": "T125",
+    "position": "T117",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "14",
+    "golfer": "Brandt Snedeker",
+    "owner": "",
+    "order": 129
+  },
+  {
+    "position": "T126",
     "score": "+9",
     "score_num": 9,
     "thru": "13",
@@ -1125,7 +1134,7 @@
     "order": 125
   },
   {
-    "position": "T125",
+    "position": "T126",
     "score": "+9",
     "score_num": 9,
     "thru": "18",
@@ -1134,7 +1143,7 @@
     "order": 126
   },
   {
-    "position": "T125",
+    "position": "T126",
     "score": "+9",
     "score_num": 9,
     "thru": "18",
@@ -1143,7 +1152,7 @@
     "order": 127
   },
   {
-    "position": "T125",
+    "position": "T126",
     "score": "+9",
     "score_num": 9,
     "thru": "18",
@@ -1152,16 +1161,7 @@
     "order": 128
   },
   {
-    "position": "T125",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "13",
-    "golfer": "Brandt Snedeker",
-    "owner": "",
-    "order": 129
-  },
-  {
-    "position": "T125",
+    "position": "T126",
     "score": "+9",
     "score_num": 9,
     "thru": "16",
