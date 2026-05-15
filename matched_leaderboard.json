@@ -57,7 +57,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 7
@@ -111,7 +111,7 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 12
@@ -300,6 +300,15 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
+    "thru": "15",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 42
+  },
+  {
+    "position": "T22",
+    "score": "E",
+    "score_num": 0,
     "thru": "12",
     "golfer": "Ryo Hisatsune",
     "owner": "",
@@ -360,22 +369,13 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 40
-  },
-  {
-    "position": "T22",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "14",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 42
   },
   {
     "position": "T36",
@@ -576,15 +576,6 @@
     "order": 65
   },
   {
-    "position": "T68",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 66
-  },
-  {
     "position": "T59",
     "score": "+3",
     "score_num": 3,
@@ -624,6 +615,15 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
+    "thru": "15",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
     "thru": "18",
     "golfer": "Daniel Berger",
     "owner": "",
@@ -657,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -723,7 +723,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 80
