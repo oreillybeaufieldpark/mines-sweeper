@@ -234,15 +234,6 @@
     "order": 26
   },
   {
-    "position": "T45",
-    "score": "E",
-    "score_num": 0,
-    "thru": "16",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 27
-  },
-  {
     "position": "T22",
     "score": "E",
     "score_num": 0,
@@ -255,7 +246,7 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 30
@@ -324,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -387,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -408,6 +399,15 @@
     "position": "T45",
     "score": "+2",
     "score_num": 2,
+    "thru": "17",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 27
+  },
+  {
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
     "thru": "18",
     "golfer": "Keith Mitchell",
     "owner": "",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "18",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -1044,6 +1044,15 @@
     "order": 116
   },
   {
+    "position": "T111",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "18",
+    "golfer": "Bryson DeChambeau",
+    "owner": "Michael Murray",
+    "order": 125
+  },
+  {
     "position": "T118",
     "score": "+8",
     "score_num": 8,
@@ -1114,15 +1123,6 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 124
-  },
-  {
-    "position": "T111",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "17",
-    "golfer": "Bryson DeChambeau",
-    "owner": "Michael Murray",
-    "order": 125
   },
   {
     "position": "T118",
@@ -1344,7 +1344,7 @@
     "position": "T146",
     "score": "+15",
     "score_num": 15,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ryan Lenahan",
     "owner": "",
     "order": 150
