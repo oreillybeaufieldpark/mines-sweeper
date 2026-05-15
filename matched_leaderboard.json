@@ -741,7 +741,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 83
@@ -1038,15 +1038,6 @@
     "position": "T109",
     "score": "+7",
     "score_num": 7,
-    "thru": "14",
-    "golfer": "Joe Highsmith",
-    "owner": "",
-    "order": 116
-  },
-  {
-    "position": "T109",
-    "score": "+7",
-    "score_num": 7,
     "thru": "12",
     "golfer": "Michael Kim",
     "owner": "",
@@ -1062,7 +1053,16 @@
     "order": 118
   },
   {
-    "position": "T119",
+    "position": "T118",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "15",
+    "golfer": "Joe Highsmith",
+    "owner": "",
+    "order": 116
+  },
+  {
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1071,7 +1071,7 @@
     "order": 119
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1080,7 +1080,7 @@
     "order": 120
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1089,7 +1089,7 @@
     "order": 121
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1098,7 +1098,7 @@
     "order": 122
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1107,7 +1107,7 @@
     "order": 123
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1116,7 +1116,7 @@
     "order": 124
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "12",
@@ -1125,7 +1125,7 @@
     "order": 126
   },
   {
-    "position": "T119",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "12",
