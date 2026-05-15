@@ -382,15 +382,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 42
-  },
-  {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 43
@@ -459,7 +450,16 @@
     "order": 51
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 42
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -558,7 +558,16 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 69
+  },
+  {
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +612,7 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,16 +621,7 @@
     "order": 68
   },
   {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -1161,15 +1161,6 @@
     "order": 128
   },
   {
-    "position": "T135",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "",
-    "golfer": "Chris Gabriele",
-    "owner": "",
-    "order": 129
-  },
-  {
     "position": "T125",
     "score": "+8",
     "score_num": 8,
@@ -1213,6 +1204,15 @@
     "golfer": "Bryson DeChambeau",
     "owner": "Michael Murray",
     "order": 135
+  },
+  {
+    "position": "T135",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "",
+    "golfer": "Chris Gabriele",
+    "owner": "",
+    "order": 129
   },
   {
     "position": "T135",
