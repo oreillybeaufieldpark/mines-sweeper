@@ -360,15 +360,6 @@
     "order": 39
   },
   {
-    "position": "T47",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 40
-  },
-  {
     "position": "T35",
     "score": "+1",
     "score_num": 1,
@@ -421,6 +412,15 @@
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 47
+  },
+  {
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 40
   },
   {
     "position": "T47",
@@ -558,6 +558,15 @@
     "order": 63
   },
   {
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 67
+  },
+  {
     "position": "T64",
     "score": "+3",
     "score_num": 3,
@@ -592,15 +601,6 @@
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 66
-  },
-  {
-    "position": "T47",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 67
   },
   {
     "position": "T64",
@@ -1260,16 +1260,7 @@
     "order": 141
   },
   {
-    "position": "T137",
-    "score": "+11",
-    "score_num": 11,
-    "thru": "",
-    "golfer": "Ryan Lenahan",
-    "owner": "",
-    "order": 142
-  },
-  {
-    "position": "T142",
+    "position": "T141",
     "score": "+12",
     "score_num": 12,
     "thru": "",
@@ -1278,7 +1269,7 @@
     "order": 137
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1287,7 +1278,7 @@
     "order": 143
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1296,7 +1287,7 @@
     "order": 144
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1305,13 +1296,22 @@
     "order": 145
   },
   {
-    "position": "T142",
+    "position": "T141",
     "score": "+12",
     "score_num": 12,
     "thru": "",
     "golfer": "Chris Gabriele",
     "owner": "",
     "order": 146
+  },
+  {
+    "position": "146",
+    "score": "+13",
+    "score_num": 13,
+    "thru": "",
+    "golfer": "Ryan Lenahan",
+    "owner": "",
+    "order": 142
   },
   {
     "position": "T147",
