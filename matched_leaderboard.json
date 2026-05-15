@@ -1138,15 +1138,6 @@
     "score": "+8",
     "score_num": 8,
     "thru": "",
-    "golfer": "Y.E. Yang",
-    "owner": "",
-    "order": 127
-  },
-  {
-    "position": "T120",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "",
     "golfer": "Adrien Saddier",
     "owner": "",
     "order": 128
@@ -1159,6 +1150,15 @@
     "golfer": "Tyler Collet",
     "owner": "",
     "order": 129
+  },
+  {
+    "position": "T120",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "",
+    "golfer": "Y.E. Yang",
+    "owner": "",
+    "order": 127
   },
   {
     "position": "T130",
@@ -1387,8 +1387,8 @@
   },
   {
     "position": "155",
-    "score": "+20",
-    "score_num": 20,
+    "score": "+21",
+    "score_num": 21,
     "thru": "",
     "golfer": "Bryce Fisher",
     "owner": "",
