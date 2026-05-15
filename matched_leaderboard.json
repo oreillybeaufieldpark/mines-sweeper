@@ -324,7 +324,16 @@
     "order": 36
   },
   {
-    "position": "T37",
+    "position": "T23",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,16 +387,7 @@
     "order": 42
   },
   {
-    "position": "T37",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,22 +414,22 @@
     "order": 46
   },
   {
-    "position": "T37",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 47
-  },
-  {
-    "position": "T37",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 48
+  },
+  {
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 47
   },
   {
     "position": "T49",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T49",
+    "position": "T38",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -1171,8 +1171,8 @@
   },
   {
     "position": "T131",
-    "score": "+8",
-    "score_num": 8,
+    "score": "+9",
+    "score_num": 9,
     "thru": "",
     "golfer": "Ryan Lenahan",
     "owner": "",
