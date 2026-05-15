@@ -193,21 +193,12 @@
     "score": "-1",
     "score_num": -1,
     "thru": "",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 23
-  },
-  {
-    "position": "T14",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 32
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -216,7 +207,16 @@
     "order": 22
   },
   {
-    "position": "T24",
+    "position": "T23",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 23
+  },
+  {
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T14",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "",
