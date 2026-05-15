@@ -193,15 +193,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 21
-  },
-  {
-    "position": "T17",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 22
@@ -225,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +225,7 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +252,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,7 +261,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,7 +270,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,7 +279,7 @@
     "order": 36
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,13 +288,31 @@
     "order": 37
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 38
+  },
+  {
+    "position": "T25",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 21
   },
   {
     "position": "T35",
@@ -333,7 +342,7 @@
     "order": 32
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -342,7 +351,7 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -385,15 +394,6 @@
     "golfer": "Corey Conners",
     "owner": "",
     "order": 43
-  },
-  {
-    "position": "T26",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 44
   },
   {
     "position": "T35",
@@ -414,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -423,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -886,15 +886,6 @@
     "score": "+5",
     "score_num": 5,
     "thru": "",
-    "golfer": "Gary Woodland",
-    "owner": "Stephen Walker",
-    "order": 100
-  },
-  {
-    "position": "T89",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
     "golfer": "Tom McKibbin",
     "owner": "",
     "order": 101
@@ -918,7 +909,7 @@
     "order": 103
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -927,7 +918,16 @@
     "order": 85
   },
   {
-    "position": "T103",
+    "position": "T102",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Gary Woodland",
+    "owner": "Stephen Walker",
+    "order": 100
+  },
+  {
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +936,7 @@
     "order": 104
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +945,7 @@
     "order": 105
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +954,7 @@
     "order": 106
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +963,7 @@
     "order": 107
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,7 +972,7 @@
     "order": 108
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -981,7 +981,7 @@
     "order": 109
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -990,7 +990,7 @@
     "order": 110
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -999,7 +999,7 @@
     "order": 111
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -1008,7 +1008,7 @@
     "order": 112
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -1017,7 +1017,7 @@
     "order": 113
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1026,7 +1026,7 @@
     "order": 114
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1035,7 +1035,7 @@
     "order": 115
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1044,7 +1044,7 @@
     "order": 116
   },
   {
-    "position": "T103",
+    "position": "T102",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1111,21 +1111,12 @@
     "score": "+7",
     "score_num": 7,
     "thru": "",
-    "golfer": "Ryan Lenahan",
-    "owner": "",
-    "order": 126
-  },
-  {
-    "position": "T118",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "",
     "golfer": "Tyler Collet",
     "owner": "",
     "order": 127
   },
   {
-    "position": "T126",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1134,7 +1125,7 @@
     "order": 122
   },
   {
-    "position": "T126",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1143,7 +1134,16 @@
     "order": 124
   },
   {
-    "position": "T126",
+    "position": "T124",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "",
+    "golfer": "Ryan Lenahan",
+    "owner": "",
+    "order": 126
+  },
+  {
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1152,7 +1152,7 @@
     "order": 128
   },
   {
-    "position": "T126",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1161,7 +1161,7 @@
     "order": 129
   },
   {
-    "position": "T126",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1170,7 +1170,7 @@
     "order": 130
   },
   {
-    "position": "T126",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1179,7 +1179,7 @@
     "order": 131
   },
   {
-    "position": "T126",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1188,7 +1188,7 @@
     "order": 132
   },
   {
-    "position": "T126",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1197,7 +1197,7 @@
     "order": 133
   },
   {
-    "position": "T134",
+    "position": "T133",
     "score": "+9",
     "score_num": 9,
     "thru": "F",
@@ -1206,7 +1206,7 @@
     "order": 134
   },
   {
-    "position": "T134",
+    "position": "T133",
     "score": "+9",
     "score_num": 9,
     "thru": "",
@@ -1369,8 +1369,8 @@
   },
   {
     "position": "153",
-    "score": "+15",
-    "score_num": 15,
+    "score": "+17",
+    "score_num": 17,
     "thru": "",
     "golfer": "Bryce Fisher",
     "owner": "",
