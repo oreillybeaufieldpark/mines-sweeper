@@ -306,7 +306,16 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -360,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -369,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,16 +414,7 @@
     "order": 47
   },
   {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -859,15 +859,6 @@
     "score": "+5",
     "score_num": 5,
     "thru": "",
-    "golfer": "Ian Holt",
-    "owner": "",
-    "order": 96
-  },
-  {
-    "position": "T87",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 97
@@ -909,7 +900,16 @@
     "order": 114
   },
   {
-    "position": "T102",
+    "position": "T101",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Ian Holt",
+    "owner": "",
+    "order": 96
+  },
+  {
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +963,7 @@
     "order": 106
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,7 +972,7 @@
     "order": 107
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -981,7 +981,7 @@
     "order": 108
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -990,7 +990,7 @@
     "order": 109
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -999,7 +999,7 @@
     "order": 110
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1008,7 +1008,7 @@
     "order": 111
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1017,7 +1017,7 @@
     "order": 113
   },
   {
-    "position": "T102",
+    "position": "T101",
     "score": "+6",
     "score_num": 6,
     "thru": "",
