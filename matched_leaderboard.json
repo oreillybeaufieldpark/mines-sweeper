@@ -858,22 +858,22 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "14",
-    "golfer": "Tyrrell Hatton",
-    "owner": "Michael Murray",
-    "order": 96
-  },
-  {
-    "position": "T84",
-    "score": "+5",
-    "score_num": 5,
     "thru": "13",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 97
   },
   {
-    "position": "T98",
+    "position": "T97",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "15",
+    "golfer": "Tyrrell Hatton",
+    "owner": "Michael Murray",
+    "order": 96
+  },
+  {
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -891,7 +891,7 @@
     "order": 99
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -900,7 +900,7 @@
     "order": 100
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -909,7 +909,7 @@
     "order": 101
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -918,7 +918,7 @@
     "order": 102
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -927,7 +927,7 @@
     "order": 103
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -936,7 +936,7 @@
     "order": 104
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -945,7 +945,7 @@
     "order": 105
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -954,7 +954,7 @@
     "order": 106
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -963,7 +963,7 @@
     "order": 107
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "18",
@@ -972,7 +972,7 @@
     "order": 108
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "14",
@@ -1353,7 +1353,7 @@
     "position": "T148",
     "score": "+15",
     "score_num": 15,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Ryan Lenahan",
     "owner": "",
     "order": 151
