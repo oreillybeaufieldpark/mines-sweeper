@@ -4,41 +4,62 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PGA 2026 Sweep</title>
+
 <style>
 body{
   font-family:Arial,sans-serif;
-  margin:10px;
+  margin:8px;
   background:#fff;
   color:#004c99;
 }
-h1{font-size:22px;margin:8px 0}
-#updated{font-size:13px;margin-bottom:8px;color:#336699}
+
+h1{
+  font-size:20px;
+  margin:6px 0;
+}
+
+#updated{
+  font-size:12px;
+  margin-bottom:6px;
+  color:#336699;
+}
+
 table{
   width:100%;
   border-collapse:collapse;
-  font-size:13px;
+  table-layout:fixed;
+  font-size:12px;
 }
+
 th,td{
-  padding:5px 4px;
+  padding:4px 3px;
   border-bottom:1px solid #c9d8ee;
   text-align:left;
+  overflow:hidden;
+  text-overflow:ellipsis;
   white-space:nowrap;
 }
+
 th{
   background:#e8f1ff;
   color:#003b7a;
 }
-td:nth-child(1),th:nth-child(1){width:36px}
-td:nth-child(2),th:nth-child(2){width:42px;text-align:right}
-td:nth-child(3),th:nth-child(3){width:38px;text-align:center}
-td:nth-child(4),th:nth-child(4){max-width:135px;overflow:hidden;text-overflow:ellipsis}
-td:nth-child(5),th:nth-child(5){max-width:110px;overflow:hidden;text-overflow:ellipsis}
 
-.owned{font-weight:bold}
-.leader{
-  animation: flashGold 1.2s infinite;
+.col-pos{width:34px}
+.col-score{width:40px;text-align:right}
+.col-thru{width:34px;text-align:center}
+.col-player{width:120px}
+.col-owner{width:88px}
+
+.owned{
   font-weight:bold;
 }
+
+.leader{
+  animation:flashGold 1.2s infinite;
+  font-weight:bold;
+}
+
 @keyframes flashGold{
   0%{background:#fff4b0}
   50%{background:#ffd700}
@@ -46,53 +67,88 @@ td:nth-child(5),th:nth-child(5){max-width:110px;overflow:hidden;text-overflow:el
 }
 </style>
 </head>
+
 <body>
+
 <h1>PGA Championship Sweep</h1>
 <div id="updated">Loading...</div>
 
 <table>
 <thead>
 <tr>
-  <th>Pos</th>
-  <th>Score</th>
-  <th>Thru</th>
-  <th>Player</th>
-  <th>Owner</th>
+  <th class="col-pos">Pos</th>
+  <th class="col-score">Scr</th>
+  <th class="col-thru">Thru</th>
+  <th class="col-player">Player</th>
+  <th class="col-owner">Owner</th>
 </tr>
 </thead>
+
 <tbody id="board"></tbody>
 </table>
 
 <script>
 async function loadBoard(){
-  const res = await fetch('matched_leaderboard.json?t=' + Date.now());
+
+  const res = await fetch(
+    'matched_leaderboard.json?t=' + Date.now()
+  );
+
   const data = await res.json();
 
   const owned = data.filter(r => r.owner);
+
   const bestOwnedScore = owned.length
     ? Math.min(...owned.map(r => Number(r.score_num)))
     : null;
 
   board.innerHTML = data.map(r => {
+
     const isOwned = !!r.owner;
-    const isLeader = isOwned && Number(r.score_num) === bestOwnedScore;
+
+    const isLeader =
+      isOwned &&
+      Number(r.score_num) === bestOwnedScore;
 
     return `
-      <tr class="${isLeader ? 'leader' : isOwned ? 'owned' : ''}">
-        <td>${r.position || ''}</td>
-        <td>${r.score || ''}</td>
-        <td>${r.thru || ''}</td>
-        <td>${r.golfer || ''}</td>
-        <td>${r.owner || ''}</td>
+      <tr class="${
+        isLeader ? 'leader' :
+        isOwned ? 'owned' : ''
+      }">
+
+        <td class="col-pos">
+          ${r.position || ''}
+        </td>
+
+        <td class="col-score">
+          ${r.score || ''}
+        </td>
+
+        <td class="col-thru">
+          ${r.thru || ''}
+        </td>
+
+        <td class="col-player">
+          ${r.golfer || ''}
+        </td>
+
+        <td class="col-owner">
+          ${r.owner || ''}
+        </td>
+
       </tr>
     `;
   }).join('');
 
-  updated.textContent = 'Updated: ' + new Date().toLocaleTimeString();
+  updated.textContent =
+    'Updated: ' +
+    new Date().toLocaleTimeString();
 }
 
 loadBoard();
+
 setInterval(loadBoard, 60000);
 </script>
+
 </body>
 </html>
