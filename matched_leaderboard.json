@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -18,7 +18,7 @@
     "order": 2
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "",
@@ -756,7 +756,7 @@
     "order": 95
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -837,7 +837,7 @@
     "order": 92
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -855,7 +855,7 @@
     "order": 94
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
