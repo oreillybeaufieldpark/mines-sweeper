@@ -382,15 +382,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 43
-  },
-  {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 44
@@ -414,7 +405,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -423,7 +414,16 @@
     "order": 40
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 43
+  },
+  {
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,16 +495,7 @@
     "order": 55
   },
   {
-    "position": "T47",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +504,7 @@
     "order": 58
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +513,7 @@
     "order": 59
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,16 +522,7 @@
     "order": 60
   },
   {
-    "position": "T47",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 61
-  },
-  {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +531,7 @@
     "order": 62
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -567,7 +549,16 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -576,7 +567,16 @@
     "order": 57
   },
   {
-    "position": "T64",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 61
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -873,7 +873,16 @@
     "order": 99
   },
   {
-    "position": "T98",
+    "position": "T85",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Max McGreevy",
+    "owner": "",
+    "order": 112
+  },
+  {
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -882,7 +891,7 @@
     "order": 96
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -891,7 +900,7 @@
     "order": 97
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -900,7 +909,7 @@
     "order": 100
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +963,7 @@
     "order": 106
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +972,7 @@
     "order": 107
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,7 +981,7 @@
     "order": 108
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -981,7 +990,7 @@
     "order": 109
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -990,16 +999,7 @@
     "order": 111
   },
   {
-    "position": "T98",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
-    "golfer": "Max McGreevy",
-    "owner": "",
-    "order": 112
-  },
-  {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1008,7 +1008,7 @@
     "order": 113
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
