@@ -990,7 +990,16 @@
     "order": 110
   },
   {
-    "position": "T111",
+    "position": "T97",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "18",
+    "golfer": "Brandt Snedeker",
+    "owner": "",
+    "order": 118
+  },
+  {
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -999,7 +1008,7 @@
     "order": 111
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1008,7 +1017,7 @@
     "order": 112
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1017,7 +1026,7 @@
     "order": 113
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1026,7 +1035,7 @@
     "order": 114
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1035,7 +1044,7 @@
     "order": 115
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1044,22 +1053,13 @@
     "order": 116
   },
   {
-    "position": "T111",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 117
-  },
-  {
-    "position": "T111",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "17",
-    "golfer": "Brandt Snedeker",
-    "owner": "",
-    "order": 118
   },
   {
     "position": "T119",
