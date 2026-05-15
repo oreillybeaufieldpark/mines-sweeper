@@ -265,15 +265,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 29
-  },
-  {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 30
@@ -318,6 +309,15 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
+    "thru": "",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 29
+  },
+  {
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
     "thru": "F",
     "golfer": "Ben Kern",
     "owner": "",
@@ -342,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -747,6 +747,15 @@
     "order": 84
   },
   {
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 95
+  },
+  {
     "position": "T84",
     "score": "+5",
     "score_num": 5,
@@ -756,7 +765,7 @@
     "order": 80
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -765,7 +774,7 @@
     "order": 85
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -774,7 +783,7 @@
     "order": 86
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -783,7 +792,7 @@
     "order": 87
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -792,7 +801,7 @@
     "order": 88
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +810,7 @@
     "order": 89
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +819,7 @@
     "order": 90
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +828,7 @@
     "order": 91
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -837,7 +846,7 @@
     "order": 93
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -850,21 +859,12 @@
     "score": "+5",
     "score_num": 5,
     "thru": "",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 95
-  },
-  {
-    "position": "T84",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 96
   },
   {
-    "position": "T84",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
