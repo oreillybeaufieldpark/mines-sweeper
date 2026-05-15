@@ -553,6 +553,15 @@
     "score": "+2",
     "score_num": 2,
     "thru": "",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 69
@@ -567,7 +576,7 @@
     "order": 70
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,16 +621,7 @@
     "order": 66
   },
   {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 67
-  },
-  {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -1198,6 +1198,15 @@
   },
   {
     "position": "T134",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "",
+    "golfer": "Bryson DeChambeau",
+    "owner": "Michael Murray",
+    "order": 139
+  },
+  {
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1206,7 +1215,7 @@
     "order": 134
   },
   {
-    "position": "T134",
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1215,7 +1224,7 @@
     "order": 135
   },
   {
-    "position": "T134",
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1224,7 +1233,7 @@
     "order": 136
   },
   {
-    "position": "T134",
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "",
@@ -1242,16 +1251,7 @@
     "order": 138
   },
   {
-    "position": "T134",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "",
-    "golfer": "Bryson DeChambeau",
-    "owner": "Michael Murray",
-    "order": 139
-  },
-  {
-    "position": "T134",
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "",
@@ -1260,7 +1260,7 @@
     "order": 140
   },
   {
-    "position": "T134",
+    "position": "T135",
     "score": "+10",
     "score_num": 10,
     "thru": "",
@@ -1360,8 +1360,8 @@
   },
   {
     "position": "152",
-    "score": "+16",
-    "score_num": 16,
+    "score": "+17",
+    "score_num": 17,
     "thru": "",
     "golfer": "Braden Shattuck",
     "owner": "",
