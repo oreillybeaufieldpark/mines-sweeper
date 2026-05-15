@@ -733,21 +733,21 @@
     "score": "+4",
     "score_num": 4,
     "thru": "",
-    "golfer": "Thomas Detry",
-    "owner": "",
-    "order": 82
-  },
-  {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
     "order": 83
   },
   {
-    "position": "T84",
+    "position": "T83",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Thomas Detry",
+    "owner": "",
+    "order": 82
+  },
+  {
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -756,7 +756,7 @@
     "order": 84
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -765,7 +765,7 @@
     "order": 85
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -774,7 +774,7 @@
     "order": 86
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -783,7 +783,7 @@
     "order": 87
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -792,7 +792,7 @@
     "order": 88
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +801,7 @@
     "order": 89
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +810,7 @@
     "order": 90
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +819,7 @@
     "order": 91
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -837,7 +837,7 @@
     "order": 93
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -846,7 +846,7 @@
     "order": 94
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -864,7 +864,7 @@
     "order": 96
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -1147,15 +1147,6 @@
     "score": "+8",
     "score_num": 8,
     "thru": "",
-    "golfer": "Ian Holt",
-    "owner": "",
-    "order": 128
-  },
-  {
-    "position": "T121",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "",
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
@@ -1170,7 +1161,16 @@
     "order": 130
   },
   {
-    "position": "131",
+    "position": "T130",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "",
+    "golfer": "Ian Holt",
+    "owner": "",
+    "order": 128
+  },
+  {
+    "position": "T130",
     "score": "+9",
     "score_num": 9,
     "thru": "F",
