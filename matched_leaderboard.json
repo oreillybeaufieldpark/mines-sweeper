@@ -333,7 +333,7 @@
     "order": 32
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -342,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T26",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -423,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -553,21 +553,21 @@
     "score": "+2",
     "score_num": 2,
     "thru": "",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 63
-  },
-  {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 70
   },
   {
-    "position": "T64",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 63
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +621,7 @@
     "order": 71
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +630,7 @@
     "order": 72
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -639,7 +639,16 @@
     "order": 73
   },
   {
-    "position": "T72",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 84
+  },
+  {
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -648,7 +657,7 @@
     "order": 46
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -657,7 +666,7 @@
     "order": 69
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +675,7 @@
     "order": 74
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +684,7 @@
     "order": 75
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +693,7 @@
     "order": 76
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +702,7 @@
     "order": 77
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +711,7 @@
     "order": 78
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -711,7 +720,7 @@
     "order": 79
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -720,7 +729,7 @@
     "order": 80
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -729,7 +738,7 @@
     "order": 81
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -738,7 +747,7 @@
     "order": 82
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -747,16 +756,7 @@
     "order": 83
   },
   {
-    "position": "T63",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 84
-  },
-  {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -765,7 +765,7 @@
     "order": 86
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -774,7 +774,7 @@
     "order": 88
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -1368,7 +1368,7 @@
     "order": 152
   },
   {
-    "position": "T151",
+    "position": "153",
     "score": "+15",
     "score_num": 15,
     "thru": "",
