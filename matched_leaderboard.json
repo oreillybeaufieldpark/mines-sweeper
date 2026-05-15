@@ -40,15 +40,6 @@
     "score": "-3",
     "score_num": -3,
     "thru": "",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 5
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 7
@@ -61,6 +52,15 @@
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 8
+  },
+  {
+    "position": "T3",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 5
   },
   {
     "position": "T8",
@@ -216,7 +216,16 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T17",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 31
+  },
+  {
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -225,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,16 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 31
-  },
-  {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +261,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,7 +270,7 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,7 +279,7 @@
     "order": 36
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,7 +288,7 @@
     "order": 37
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -297,7 +297,7 @@
     "order": 38
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -1102,21 +1102,12 @@
     "score": "+7",
     "score_num": 7,
     "thru": "",
-    "golfer": "Bryson DeChambeau",
-    "owner": "Michael Murray",
-    "order": 125
-  },
-  {
-    "position": "T118",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "",
     "golfer": "Tyler Collet",
     "owner": "",
     "order": 127
   },
   {
-    "position": "T125",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1143,7 +1134,7 @@
     "order": 126
   },
   {
-    "position": "T125",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1152,7 +1143,7 @@
     "order": 128
   },
   {
-    "position": "T125",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1170,7 +1161,7 @@
     "order": 130
   },
   {
-    "position": "T125",
+    "position": "T124",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1195,6 +1186,15 @@
     "golfer": "Jacob Bridgeman",
     "owner": "",
     "order": 133
+  },
+  {
+    "position": "T133",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "",
+    "golfer": "Bryson DeChambeau",
+    "owner": "Michael Murray",
+    "order": 125
   },
   {
     "position": "T133",
