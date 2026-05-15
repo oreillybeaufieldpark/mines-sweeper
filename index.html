@@ -8,9 +8,14 @@
 <style>
 body{
   font-family:Arial,sans-serif;
-  margin:4px;
+  margin:6px;
   background:#fff;
   color:#004c99;
+}
+
+main{
+  max-width:520px;
+  margin:0 auto;
 }
 
 h1{
@@ -45,31 +50,13 @@ th{
   text-align:left;
 }
 
-.pos{
-  width:26px;
-}
+.pos{width:28px}
+.scr{width:26px;text-align:right}
+.thru{width:28px;text-align:center}
+.player{width:130px}
+.owner{width:110px}
 
-.scr{
-  width:24px;
-  text-align:right;
-}
-
-.thru{
-  width:24px;
-  text-align:center;
-}
-
-.player{
-  width:92px;
-}
-
-.owner{
-  width:82px;
-}
-
-.owned{
-  font-weight:bold;
-}
+.owned{font-weight:bold}
 
 .leader{
   animation:flashGold 1.1s infinite;
@@ -85,84 +72,53 @@ th{
 </head>
 
 <body>
-
+<main>
 <h1>PGA Championship Sweep</h1>
 <div id="updated">Loading...</div>
 
 <table>
 <thead>
 <tr>
-  <th class="pos">P</th>
-  <th class="scr">S</th>
-  <th class="thru">T</th>
+  <th class="pos">Pos</th>
+  <th class="scr">Scr</th>
+  <th class="thru">Thru</th>
   <th class="player">Player</th>
   <th class="owner">Owner</th>
 </tr>
 </thead>
-
 <tbody id="board"></tbody>
 </table>
+</main>
 
 <script>
 async function loadBoard(){
-
-  const res = await fetch(
-    'matched_leaderboard.json?t=' + Date.now()
-  );
-
+  const res = await fetch('matched_leaderboard.json?t=' + Date.now());
   const data = await res.json();
 
   const owned = data.filter(r => r.owner);
-
   const bestOwnedScore = owned.length
     ? Math.min(...owned.map(r => Number(r.score_num)))
     : null;
 
   board.innerHTML = data.map(r => {
-
     const isOwned = !!r.owner;
-
-    const isLeader =
-      isOwned &&
-      Number(r.score_num) === bestOwnedScore;
+    const isLeader = isOwned && Number(r.score_num) === bestOwnedScore;
 
     return `
-      <tr class="${
-        isLeader ? 'leader' :
-        isOwned ? 'owned' : ''
-      }">
-
-        <td class="pos">
-          ${r.position || ''}
-        </td>
-
-        <td class="scr">
-          ${r.score || ''}
-        </td>
-
-        <td class="thru">
-          ${r.thru || ''}
-        </td>
-
-        <td class="player">
-          ${r.golfer || ''}
-        </td>
-
-        <td class="owner">
-          ${r.owner || ''}
-        </td>
-
+      <tr class="${isLeader ? 'leader' : isOwned ? 'owned' : ''}">
+        <td class="pos">${r.position || ''}</td>
+        <td class="scr">${r.score || ''}</td>
+        <td class="thru">${r.thru || ''}</td>
+        <td class="player">${r.golfer || ''}</td>
+        <td class="owner">${r.owner || ''}</td>
       </tr>
     `;
   }).join('');
 
-  updated.textContent =
-    'Updated: ' +
-    new Date().toLocaleTimeString();
+  updated.textContent = 'Updated: ' + new Date().toLocaleTimeString();
 }
 
 loadBoard();
-
 setInterval(loadBoard, 60000);
 </script>
 
