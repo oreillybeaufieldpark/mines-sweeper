@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T7",
+    "position": "T3",
     "score": "-2",
     "score_num": -2,
     "thru": "",
@@ -1314,22 +1314,22 @@
     "order": 146
   },
   {
-    "position": "T147",
+    "position": "T144",
+    "score": "+13",
+    "score_num": 13,
+    "thru": "",
+    "golfer": "Jared Jones",
+    "owner": "",
+    "order": 148
+  },
+  {
+    "position": "148",
     "score": "+14",
     "score_num": 14,
     "thru": "F",
     "golfer": "Zach Haynes",
     "owner": "",
     "order": 147
-  },
-  {
-    "position": "T147",
-    "score": "+14",
-    "score_num": 14,
-    "thru": "",
-    "golfer": "Jared Jones",
-    "owner": "",
-    "order": 148
   },
   {
     "position": "T149",
