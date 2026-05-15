@@ -112,15 +112,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 13
-  },
-  {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 14
@@ -144,7 +135,16 @@
     "order": 16
   },
   {
-    "position": "T17",
+    "position": "T16",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 13
+  },
+  {
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -756,7 +756,7 @@
     "order": 84
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "",
