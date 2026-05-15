@@ -297,6 +297,15 @@
     "order": 34
   },
   {
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 46
+  },
+  {
     "position": "T35",
     "score": "+1",
     "score_num": 1,
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,15 +414,6 @@
     "order": 45
   },
   {
-    "position": "T24",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 46
-  },
-  {
     "position": "T35",
     "score": "+1",
     "score_num": 1,
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -558,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -567,7 +567,7 @@
     "order": 57
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T47",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
