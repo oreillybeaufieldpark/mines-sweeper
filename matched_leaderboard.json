@@ -265,15 +265,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "12",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 31
-  },
-  {
-    "position": "T22",
-    "score": "E",
-    "score_num": 0,
-    "thru": "12",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 32
@@ -306,7 +297,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -315,7 +306,16 @@
     "order": 28
   },
   {
-    "position": "T35",
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 31
+  },
+  {
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -324,7 +324,7 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -333,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -342,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -351,7 +351,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -360,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -369,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -378,7 +378,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -405,7 +405,7 @@
     "order": 58
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
