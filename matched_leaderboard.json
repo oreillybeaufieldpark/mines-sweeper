@@ -396,7 +396,16 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "F",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 53
+  },
+  {
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,15 +477,6 @@
     "order": 52
   },
   {
-    "position": "T45",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 53
-  },
-  {
     "position": "T46",
     "score": "+2",
     "score_num": 2,
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -873,7 +873,16 @@
     "order": 97
   },
   {
-    "position": "T98",
+    "position": "T83",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 108
+  },
+  {
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -882,7 +891,7 @@
     "order": 98
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -891,7 +900,7 @@
     "order": 99
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -900,7 +909,7 @@
     "order": 100
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +918,7 @@
     "order": 101
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +927,7 @@
     "order": 102
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +936,7 @@
     "order": 103
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +945,7 @@
     "order": 104
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +954,7 @@
     "order": 105
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +963,7 @@
     "order": 106
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,16 +972,7 @@
     "order": 107
   },
   {
-    "position": "T98",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 108
-  },
-  {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -981,7 +981,7 @@
     "order": 109
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -990,7 +990,7 @@
     "order": 110
   },
   {
-    "position": "T98",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1386,21 +1386,21 @@
     "order": 154
   },
   {
-    "position": "T155",
+    "position": "155",
+    "score": "+20",
+    "score_num": 20,
+    "thru": "",
+    "golfer": "Bryce Fisher",
+    "owner": "",
+    "order": 156
+  },
+  {
+    "position": "156",
     "score": "+21",
     "score_num": 21,
     "thru": "F",
     "golfer": "Mark Geddes",
     "owner": "",
     "order": 155
-  },
-  {
-    "position": "T155",
-    "score": "+21",
-    "score_num": 21,
-    "thru": "",
-    "golfer": "Bryce Fisher",
-    "owner": "",
-    "order": 156
   }
 ]
