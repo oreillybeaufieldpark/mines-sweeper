@@ -183,22 +183,22 @@
     "position": "T16",
     "score": "-1",
     "score_num": -1,
-    "thru": "17",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 21
-  },
-  {
-    "position": "T16",
-    "score": "-1",
-    "score_num": -1,
     "thru": "18",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 22
   },
   {
-    "position": "T23",
+    "position": "T22",
+    "score": "E",
+    "score_num": 0,
+    "thru": "18",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 21
+  },
+  {
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -858,7 +858,7 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Kota Kaneko",
     "owner": "",
     "order": 96
@@ -975,7 +975,7 @@
     "position": "T97",
     "score": "+6",
     "score_num": 6,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 109
