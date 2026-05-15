@@ -1,9 +1,9 @@
 [
   {
     "position": "1",
-    "score": "-6",
-    "score_num": -6,
-    "thru": "14",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "15",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 1
@@ -597,7 +597,7 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Kota Kaneko",
     "owner": "",
     "order": 67
@@ -849,7 +849,7 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Thomas Detry",
     "owner": "",
     "order": 95
@@ -1119,7 +1119,7 @@
     "position": "T117",
     "score": "+8",
     "score_num": 8,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Tyler Collet",
     "owner": "",
     "order": 125
