@@ -237,7 +237,7 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 27
@@ -255,7 +255,7 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 30
@@ -264,7 +264,7 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 32
@@ -750,7 +750,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
     "order": 84
@@ -966,7 +966,7 @@
     "position": "T97",
     "score": "+6",
     "score_num": 6,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Gary Woodland",
     "owner": "Stephen Walker",
     "order": 115
