@@ -252,7 +252,16 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T23",
+    "score": "E",
+    "score_num": 0,
+    "thru": "18",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 42
+  },
+  {
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -279,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -288,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "18",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -369,16 +378,7 @@
     "order": 41
   },
   {
-    "position": "T29",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "17",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 42
-  },
-  {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -732,22 +732,22 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
-    "golfer": "Kota Kaneko",
-    "owner": "",
-    "order": 82
-  },
-  {
-    "position": "T67",
-    "score": "+4",
-    "score_num": 4,
     "thru": "15",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 83
   },
   {
-    "position": "T84",
+    "position": "T83",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "17",
+    "golfer": "Kota Kaneko",
+    "owner": "",
+    "order": 82
+  },
+  {
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -756,7 +756,7 @@
     "order": 84
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -765,7 +765,7 @@
     "order": 85
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -774,7 +774,7 @@
     "order": 86
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -783,7 +783,7 @@
     "order": 87
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -792,7 +792,7 @@
     "order": 88
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -801,7 +801,7 @@
     "order": 89
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -810,7 +810,7 @@
     "order": 90
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -819,7 +819,7 @@
     "order": 91
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -837,7 +837,7 @@
     "order": 93
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -846,7 +846,7 @@
     "order": 94
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "18",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T84",
+    "position": "T83",
     "score": "+5",
     "score_num": 5,
     "thru": "17",
@@ -1053,7 +1053,16 @@
     "order": 117
   },
   {
-    "position": "T118",
+    "position": "T111",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "17",
+    "golfer": "Brandt Snedeker",
+    "owner": "",
+    "order": 126
+  },
+  {
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1062,7 +1071,7 @@
     "order": 118
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1071,7 +1080,7 @@
     "order": 119
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1080,7 +1089,7 @@
     "order": 120
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1089,7 +1098,7 @@
     "order": 121
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1098,7 +1107,7 @@
     "order": 122
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1107,7 +1116,7 @@
     "order": 123
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
@@ -1116,22 +1125,13 @@
     "order": 124
   },
   {
-    "position": "T118",
+    "position": "T119",
     "score": "+8",
     "score_num": 8,
     "thru": "18",
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 125
-  },
-  {
-    "position": "T118",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "16",
-    "golfer": "Brandt Snedeker",
-    "owner": "",
-    "order": 126
   },
   {
     "position": "T127",
