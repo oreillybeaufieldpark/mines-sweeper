@@ -859,15 +859,6 @@
     "score": "+5",
     "score_num": 5,
     "thru": "",
-    "golfer": "Tom McKibbin",
-    "owner": "",
-    "order": 96
-  },
-  {
-    "position": "T85",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
     "golfer": "Joe Highsmith",
     "owner": "",
     "order": 97
@@ -891,7 +882,16 @@
     "order": 99
   },
   {
-    "position": "T100",
+    "position": "T99",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Tom McKibbin",
+    "owner": "",
+    "order": 96
+  },
+  {
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -900,7 +900,7 @@
     "order": 100
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +909,7 @@
     "order": 101
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +918,7 @@
     "order": 102
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +927,7 @@
     "order": 103
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +936,7 @@
     "order": 104
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +945,7 @@
     "order": 105
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +954,7 @@
     "order": 106
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +963,7 @@
     "order": 107
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -972,7 +972,7 @@
     "order": 108
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -981,7 +981,7 @@
     "order": 109
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -990,7 +990,7 @@
     "order": 111
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -999,7 +999,7 @@
     "order": 112
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1008,7 +1008,7 @@
     "order": 113
   },
   {
-    "position": "T100",
+    "position": "T99",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -1224,16 +1224,7 @@
     "order": 136
   },
   {
-    "position": "T133",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 137
-  },
-  {
-    "position": "T138",
+    "position": "T137",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1242,7 +1233,7 @@
     "order": 138
   },
   {
-    "position": "T138",
+    "position": "T137",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1251,7 +1242,7 @@
     "order": 139
   },
   {
-    "position": "T138",
+    "position": "T137",
     "score": "+11",
     "score_num": 11,
     "thru": "",
@@ -1260,7 +1251,7 @@
     "order": 140
   },
   {
-    "position": "T138",
+    "position": "T137",
     "score": "+11",
     "score_num": 11,
     "thru": "",
@@ -1269,7 +1260,7 @@
     "order": 141
   },
   {
-    "position": "T138",
+    "position": "T137",
     "score": "+11",
     "score_num": 11,
     "thru": "",
@@ -1278,7 +1269,16 @@
     "order": 142
   },
   {
-    "position": "T143",
+    "position": "T142",
+    "score": "+12",
+    "score_num": 12,
+    "thru": "",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 137
+  },
+  {
+    "position": "T142",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1287,7 +1287,7 @@
     "order": 143
   },
   {
-    "position": "T143",
+    "position": "T142",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1296,7 +1296,7 @@
     "order": 144
   },
   {
-    "position": "T143",
+    "position": "T142",
     "score": "+12",
     "score_num": 12,
     "thru": "F",
@@ -1305,7 +1305,7 @@
     "order": 145
   },
   {
-    "position": "T143",
+    "position": "T142",
     "score": "+12",
     "score_num": 12,
     "thru": "",
