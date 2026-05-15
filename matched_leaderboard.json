@@ -198,6 +198,15 @@
     "order": 23
   },
   {
+    "position": "T15",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 28
+  },
+  {
     "position": "T24",
     "score": "E",
     "score_num": 0,
@@ -241,15 +250,6 @@
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 27
-  },
-  {
-    "position": "T15",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 28
   },
   {
     "position": "T24",
