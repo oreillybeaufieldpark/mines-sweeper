@@ -120,7 +120,7 @@
     "position": "T8",
     "score": "-2",
     "score_num": -2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 14
@@ -363,7 +363,7 @@
     "position": "T31",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 42
@@ -372,7 +372,7 @@
     "position": "T31",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 43
@@ -732,7 +732,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 82
@@ -741,7 +741,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 83
@@ -1035,13 +1035,22 @@
     "order": 115
   },
   {
-    "position": "T110",
+    "position": "T117",
     "score": "+7",
     "score_num": 7,
     "thru": "16",
     "golfer": "Jacob Bridgeman",
     "owner": "",
     "order": 116
+  },
+  {
+    "position": "T110",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "16",
+    "golfer": "Joe Highsmith",
+    "owner": "",
+    "order": 124
   },
   {
     "position": "T117",
@@ -1105,15 +1114,6 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 123
-  },
-  {
-    "position": "T117",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "15",
-    "golfer": "Joe Highsmith",
-    "owner": "",
-    "order": 124
   },
   {
     "position": "T117",
