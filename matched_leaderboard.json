@@ -405,7 +405,7 @@
     "order": 42
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -598,15 +598,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 66
-  },
-  {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 67
@@ -639,7 +630,16 @@
     "order": 70
   },
   {
-    "position": "T72",
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 73
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 74
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +684,7 @@
     "order": 75
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +693,7 @@
     "order": 76
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +702,7 @@
     "order": 77
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -711,7 +711,7 @@
     "order": 78
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -994,21 +994,21 @@
     "score": "+6",
     "score_num": 6,
     "thru": "",
-    "golfer": "Joe Highsmith",
-    "owner": "",
-    "order": 111
-  },
-  {
-    "position": "T98",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "",
     "golfer": "Paul McClure",
     "owner": "",
     "order": 112
   },
   {
-    "position": "T113",
+    "position": "T112",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "",
+    "golfer": "Joe Highsmith",
+    "owner": "",
+    "order": 111
+  },
+  {
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1017,7 +1017,7 @@
     "order": 113
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1026,7 +1026,7 @@
     "order": 114
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1035,7 +1035,7 @@
     "order": 115
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1044,7 +1044,7 @@
     "order": 116
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1053,7 +1053,7 @@
     "order": 117
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1062,7 +1062,7 @@
     "order": 118
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1071,7 +1071,7 @@
     "order": 119
   },
   {
-    "position": "T113",
+    "position": "T112",
     "score": "+7",
     "score_num": 7,
     "thru": "",
