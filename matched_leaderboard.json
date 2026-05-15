@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "T2",
+    "position": "2",
     "score": "-4",
     "score_num": -4,
     "thru": "18",
@@ -246,7 +246,7 @@
     "position": "T23",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 28
@@ -507,7 +507,7 @@
     "position": "T43",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 57
@@ -840,7 +840,7 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Wyndham Clark",
     "owner": "",
     "order": 94
