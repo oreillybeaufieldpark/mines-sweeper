@@ -292,15 +292,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 33
-  },
-  {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 34
@@ -319,21 +310,21 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 36
-  },
-  {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 43
   },
   {
-    "position": "T38",
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 36
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,7 +396,7 @@
     "order": 46
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,7 +405,7 @@
     "order": 48
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -423,7 +414,7 @@
     "order": 60
   },
   {
-    "position": "T38",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,7 +423,7 @@
     "order": 62
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -441,7 +432,7 @@
     "order": 45
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -450,7 +441,7 @@
     "order": 47
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -513,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -558,7 +549,16 @@
     "order": 61
   },
   {
-    "position": "T63",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 33
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
