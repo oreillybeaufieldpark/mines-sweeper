@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "18",
@@ -981,7 +981,16 @@
     "order": 109
   },
   {
-    "position": "T110",
+    "position": "T97",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "15",
+    "golfer": "Tyler Collet",
+    "owner": "",
+    "order": 117
+  },
+  {
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -990,7 +999,7 @@
     "order": 110
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -999,7 +1008,7 @@
     "order": 111
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1008,7 +1017,7 @@
     "order": 112
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1017,7 +1026,7 @@
     "order": 113
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1026,7 +1035,7 @@
     "order": 114
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "18",
@@ -1035,22 +1044,13 @@
     "order": 115
   },
   {
-    "position": "T110",
+    "position": "T111",
     "score": "+7",
     "score_num": 7,
     "thru": "17",
     "golfer": "Joe Highsmith",
     "owner": "",
     "order": 116
-  },
-  {
-    "position": "T110",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "14",
-    "golfer": "Tyler Collet",
-    "owner": "",
-    "order": 117
   },
   {
     "position": "T118",
