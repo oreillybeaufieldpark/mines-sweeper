@@ -261,15 +261,6 @@
     "order": 29
   },
   {
-    "position": "T48",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 30
-  },
-  {
     "position": "T23",
     "score": "E",
     "score_num": 0,
@@ -435,6 +426,15 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
+    "thru": "",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 30
+  },
+  {
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
     "thru": "F",
     "golfer": "Dustin Johnson",
     "owner": "",
@@ -558,7 +558,16 @@
     "order": 69
   },
   {
-    "position": "T63",
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 70
+  },
+  {
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -567,7 +576,7 @@
     "order": 58
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +603,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +612,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,22 +621,13 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 68
-  },
-  {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 70
   },
   {
     "position": "T71",
@@ -1368,16 +1368,16 @@
     "order": 152
   },
   {
-    "position": "153",
-    "score": "+17",
-    "score_num": 17,
+    "position": "T153",
+    "score": "+18",
+    "score_num": 18,
     "thru": "",
     "golfer": "Bryce Fisher",
     "owner": "",
     "order": 153
   },
   {
-    "position": "T154",
+    "position": "T153",
     "score": "+18",
     "score_num": 18,
     "thru": "F",
@@ -1386,7 +1386,7 @@
     "order": 154
   },
   {
-    "position": "T154",
+    "position": "T153",
     "score": "+18",
     "score_num": 18,
     "thru": "F",
