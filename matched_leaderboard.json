@@ -297,7 +297,16 @@
     "order": 33
   },
   {
-    "position": "T34",
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Angel Ayora",
+    "owner": "",
+    "order": 45
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -306,7 +315,7 @@
     "order": 31
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T34",
+    "position": "T24",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,16 +396,7 @@
     "order": 44
   },
   {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Angel Ayora",
-    "owner": "",
-    "order": 45
-  },
-  {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T34",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -756,16 +756,16 @@
     "order": 85
   },
   {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
+    "position": "T85",
+    "score": "+5",
+    "score_num": 5,
     "thru": "",
     "golfer": "Brandt Snedeker",
     "owner": "",
     "order": 86
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -774,7 +774,7 @@
     "order": 87
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -783,7 +783,7 @@
     "order": 88
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -792,7 +792,7 @@
     "order": 89
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +801,7 @@
     "order": 90
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +810,7 @@
     "order": 91
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +819,7 @@
     "order": 92
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 93
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -837,7 +837,7 @@
     "order": 94
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -846,7 +846,7 @@
     "order": 95
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -855,7 +855,7 @@
     "order": 96
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -864,7 +864,7 @@
     "order": 97
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -873,7 +873,7 @@
     "order": 98
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -882,7 +882,7 @@
     "order": 99
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -891,7 +891,7 @@
     "order": 100
   },
   {
-    "position": "T86",
+    "position": "T85",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -1183,21 +1183,21 @@
     "score": "+9",
     "score_num": 9,
     "thru": "",
-    "golfer": "Shaun Micheel",
-    "owner": "",
-    "order": 133
-  },
-  {
-    "position": "T131",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "",
     "golfer": "Bryson DeChambeau",
     "owner": "Michael Murray",
     "order": 134
   },
   {
-    "position": "T134",
+    "position": "T133",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "",
+    "golfer": "Shaun Micheel",
+    "owner": "",
+    "order": 133
+  },
+  {
+    "position": "T133",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1206,7 +1206,7 @@
     "order": 135
   },
   {
-    "position": "T134",
+    "position": "T133",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1215,7 +1215,7 @@
     "order": 136
   },
   {
-    "position": "T134",
+    "position": "T133",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1224,7 +1224,7 @@
     "order": 137
   },
   {
-    "position": "T134",
+    "position": "T133",
     "score": "+10",
     "score_num": 10,
     "thru": "",
