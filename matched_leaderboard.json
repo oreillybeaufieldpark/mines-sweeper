@@ -85,15 +85,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 10
-  },
-  {
-    "position": "T7",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 11
@@ -126,7 +117,16 @@
     "order": 21
   },
   {
-    "position": "T15",
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 10
+  },
+  {
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -135,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -144,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -162,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -189,7 +189,7 @@
     "order": 22
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
@@ -198,7 +198,7 @@
     "order": 23
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-1",
     "score_num": -1,
     "thru": "",
