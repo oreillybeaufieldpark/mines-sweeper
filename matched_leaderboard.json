@@ -543,13 +543,22 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
+    "thru": "",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 68
+  },
+  {
+    "position": "T46",
+    "score": "+2",
+    "score_num": 2,
     "thru": "F",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 79
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +576,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -585,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +603,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,16 +612,7 @@
     "order": 67
   },
   {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 68
-  },
-  {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -738,7 +738,16 @@
     "order": 83
   },
   {
-    "position": "T83",
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "",
+    "golfer": "Chris Kirk",
+    "owner": "",
+    "order": 95
+  },
+  {
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -747,7 +756,7 @@
     "order": 82
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -756,7 +765,7 @@
     "order": 84
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -765,7 +774,7 @@
     "order": 85
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -774,7 +783,7 @@
     "order": 86
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -783,7 +792,7 @@
     "order": 87
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -792,7 +801,7 @@
     "order": 88
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -801,7 +810,7 @@
     "order": 89
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +819,7 @@
     "order": 90
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +828,7 @@
     "order": 91
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +837,7 @@
     "order": 92
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -837,7 +846,7 @@
     "order": 93
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -846,16 +855,7 @@
     "order": 94
   },
   {
-    "position": "T83",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 95
-  },
-  {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -864,7 +864,7 @@
     "order": 96
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T83",
+    "position": "T84",
     "score": "+5",
     "score_num": 5,
     "thru": "",
