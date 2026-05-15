@@ -126,7 +126,16 @@
     "order": 14
   },
   {
-    "position": "T15",
+    "position": "T8",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 21
+  },
+  {
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -135,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -144,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -153,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18",
@@ -162,7 +171,7 @@
     "order": 18
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -180,16 +189,7 @@
     "order": 20
   },
   {
-    "position": "T15",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 21
-  },
-  {
-    "position": "T15",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -264,7 +264,7 @@
     "position": "T23",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 31
