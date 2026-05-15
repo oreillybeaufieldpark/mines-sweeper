@@ -129,7 +129,7 @@
     "position": "T8",
     "score": "-2",
     "score_num": -2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 15
@@ -345,7 +345,7 @@
     "position": "T31",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 39
@@ -516,7 +516,7 @@
     "position": "T43",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 58
@@ -579,7 +579,7 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 65
@@ -975,7 +975,7 @@
     "position": "T98",
     "score": "+6",
     "score_num": 6,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 109
@@ -1035,15 +1035,6 @@
     "order": 115
   },
   {
-    "position": "T117",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "16",
-    "golfer": "Jacob Bridgeman",
-    "owner": "",
-    "order": 116
-  },
-  {
     "position": "T110",
     "score": "+7",
     "score_num": 7,
@@ -1051,6 +1042,15 @@
     "golfer": "Joe Highsmith",
     "owner": "",
     "order": 124
+  },
+  {
+    "position": "T117",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "17",
+    "golfer": "Jacob Bridgeman",
+    "owner": "",
+    "order": 116
   },
   {
     "position": "T117",
@@ -1278,7 +1278,7 @@
     "order": 142
   },
   {
-    "position": "T143",
+    "position": "T144",
     "score": "+13",
     "score_num": 13,
     "thru": "13",
@@ -1287,7 +1287,7 @@
     "order": 143
   },
   {
-    "position": "T143",
+    "position": "143",
     "score": "+13",
     "score_num": 13,
     "thru": "13",
@@ -1296,7 +1296,7 @@
     "order": 146
   },
   {
-    "position": "T145",
+    "position": "T144",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1305,7 +1305,7 @@
     "order": 144
   },
   {
-    "position": "T145",
+    "position": "T144",
     "score": "+14",
     "score_num": 14,
     "thru": "18",
@@ -1314,7 +1314,7 @@
     "order": 145
   },
   {
-    "position": "T145",
+    "position": "T144",
     "score": "+14",
     "score_num": 14,
     "thru": "16",
