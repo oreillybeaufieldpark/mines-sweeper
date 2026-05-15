@@ -508,15 +508,6 @@
     "score": "+2",
     "score_num": 2,
     "thru": "",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 57
-  },
-  {
-    "position": "T46",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 58
@@ -558,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -594,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -603,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 57
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "",
@@ -864,16 +864,16 @@
     "order": 96
   },
   {
-    "position": "T83",
-    "score": "+5",
-    "score_num": 5,
+    "position": "T97",
+    "score": "+6",
+    "score_num": 6,
     "thru": "",
     "golfer": "Brandt Snedeker",
     "owner": "",
     "order": 97
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -891,7 +891,7 @@
     "order": 99
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -900,7 +900,7 @@
     "order": 100
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -909,7 +909,7 @@
     "order": 101
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -918,7 +918,7 @@
     "order": 102
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -927,7 +927,7 @@
     "order": 103
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -936,7 +936,7 @@
     "order": 104
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -945,7 +945,7 @@
     "order": 105
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -954,7 +954,7 @@
     "order": 106
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "F",
@@ -963,7 +963,7 @@
     "order": 107
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -972,7 +972,7 @@
     "order": 108
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "",
@@ -981,7 +981,7 @@
     "order": 109
   },
   {
-    "position": "T98",
+    "position": "T97",
     "score": "+6",
     "score_num": 6,
     "thru": "",
