@@ -8,19 +8,19 @@
 <style>
 body{
   font-family:Arial,sans-serif;
-  margin:8px;
+  margin:4px;
   background:#fff;
   color:#004c99;
 }
 
 h1{
-  font-size:20px;
-  margin:6px 0;
+  font-size:18px;
+  margin:2px 0 4px 2px;
 }
 
 #updated{
-  font-size:12px;
-  margin-bottom:6px;
+  font-size:10px;
+  margin:0 0 4px 2px;
   color:#336699;
 }
 
@@ -28,42 +28,58 @@ table{
   width:100%;
   border-collapse:collapse;
   table-layout:fixed;
-  font-size:12px;
+  font-size:11px;
 }
 
 th,td{
-  padding:4px 3px;
-  border-bottom:1px solid #c9d8ee;
-  text-align:left;
+  padding:2px 2px;
+  border-bottom:1px solid #d7e3f5;
+  white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
-  white-space:nowrap;
 }
 
 th{
-  background:#e8f1ff;
+  background:#eef5ff;
   color:#003b7a;
+  text-align:left;
 }
 
-.col-pos{width:34px}
-.col-score{width:40px;text-align:right}
-.col-thru{width:34px;text-align:center}
-.col-player{width:120px}
-.col-owner{width:88px}
+.pos{
+  width:26px;
+}
+
+.scr{
+  width:24px;
+  text-align:right;
+}
+
+.thru{
+  width:24px;
+  text-align:center;
+}
+
+.player{
+  width:92px;
+}
+
+.owner{
+  width:82px;
+}
 
 .owned{
   font-weight:bold;
 }
 
 .leader{
-  animation:flashGold 1.2s infinite;
+  animation:flashGold 1.1s infinite;
   font-weight:bold;
 }
 
 @keyframes flashGold{
-  0%{background:#fff4b0}
+  0%{background:#fff7b3}
   50%{background:#ffd700}
-  100%{background:#fff4b0}
+  100%{background:#fff7b3}
 }
 </style>
 </head>
@@ -76,11 +92,11 @@ th{
 <table>
 <thead>
 <tr>
-  <th class="col-pos">Pos</th>
-  <th class="col-score">Scr</th>
-  <th class="col-thru">Thru</th>
-  <th class="col-player">Player</th>
-  <th class="col-owner">Owner</th>
+  <th class="pos">P</th>
+  <th class="scr">S</th>
+  <th class="thru">T</th>
+  <th class="player">Player</th>
+  <th class="owner">Owner</th>
 </tr>
 </thead>
 
@@ -116,23 +132,23 @@ async function loadBoard(){
         isOwned ? 'owned' : ''
       }">
 
-        <td class="col-pos">
+        <td class="pos">
           ${r.position || ''}
         </td>
 
-        <td class="col-score">
+        <td class="scr">
           ${r.score || ''}
         </td>
 
-        <td class="col-thru">
+        <td class="thru">
           ${r.thru || ''}
         </td>
 
-        <td class="col-player">
+        <td class="player">
           ${r.golfer || ''}
         </td>
 
-        <td class="col-owner">
+        <td class="owner">
           ${r.owner || ''}
         </td>
 
