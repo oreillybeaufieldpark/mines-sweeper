@@ -252,6 +252,15 @@
     "order": 28
   },
   {
+    "position": "T23",
+    "score": "E",
+    "score_num": 0,
+    "thru": "18",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 43
+  },
+  {
     "position": "T30",
     "score": "+1",
     "score_num": 1,
@@ -376,15 +385,6 @@
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 42
-  },
-  {
-    "position": "T23",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "17",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 43
   },
   {
     "position": "T30",
