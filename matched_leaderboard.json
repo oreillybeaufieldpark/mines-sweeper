@@ -211,12 +211,21 @@
     "score": "-1",
     "score_num": -1,
     "thru": "",
+    "golfer": "Angel Ayora",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T13",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -225,7 +234,7 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +252,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -261,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -270,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -279,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -288,16 +297,7 @@
     "order": 33
   },
   {
-    "position": "T25",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
-    "golfer": "Angel Ayora",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -306,7 +306,7 @@
     "order": 40
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "",
@@ -1170,7 +1170,7 @@
     "order": 130
   },
   {
-    "position": "T131",
+    "position": "131",
     "score": "+9",
     "score_num": 9,
     "thru": "F",
@@ -1179,16 +1179,16 @@
     "order": 131
   },
   {
-    "position": "T131",
-    "score": "+9",
-    "score_num": 9,
+    "position": "T132",
+    "score": "+10",
+    "score_num": 10,
     "thru": "",
     "golfer": "Bryson DeChambeau",
     "owner": "Michael Murray",
     "order": 132
   },
   {
-    "position": "T133",
+    "position": "T132",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1197,7 +1197,7 @@
     "order": 133
   },
   {
-    "position": "T133",
+    "position": "T132",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1206,7 +1206,7 @@
     "order": 134
   },
   {
-    "position": "T133",
+    "position": "T132",
     "score": "+10",
     "score_num": 10,
     "thru": "F",
@@ -1215,7 +1215,7 @@
     "order": 135
   },
   {
-    "position": "T133",
+    "position": "T132",
     "score": "+10",
     "score_num": 10,
     "thru": "",
