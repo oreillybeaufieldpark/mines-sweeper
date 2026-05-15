@@ -966,7 +966,7 @@
     "position": "T97",
     "score": "+6",
     "score_num": 6,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
     "order": 108
@@ -1299,7 +1299,7 @@
     "position": "T143",
     "score": "+14",
     "score_num": 14,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 145
@@ -1335,15 +1335,6 @@
     "position": "T146",
     "score": "+15",
     "score_num": 15,
-    "thru": "17",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 149
-  },
-  {
-    "position": "T146",
-    "score": "+15",
-    "score_num": 15,
     "thru": "15",
     "golfer": "Jared Jones",
     "owner": "",
@@ -1359,7 +1350,16 @@
     "order": 151
   },
   {
-    "position": "152",
+    "position": "T151",
+    "score": "+16",
+    "score_num": 16,
+    "thru": "18",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 149
+  },
+  {
+    "position": "T151",
     "score": "+16",
     "score_num": 16,
     "thru": "18",
