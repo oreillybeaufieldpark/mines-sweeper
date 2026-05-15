@@ -390,7 +390,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 44
@@ -498,7 +498,7 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 55
@@ -1029,7 +1029,7 @@
     "position": "T109",
     "score": "+7",
     "score_num": 7,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Jacob Bridgeman",
     "owner": "",
     "order": 116
@@ -1386,7 +1386,7 @@
     "order": 154
   },
   {
-    "position": "T155",
+    "position": "155",
     "score": "+21",
     "score_num": 21,
     "thru": "18",
@@ -1395,7 +1395,7 @@
     "order": 155
   },
   {
-    "position": "T155",
+    "position": "156",
     "score": "+21",
     "score_num": 21,
     "thru": "17",
