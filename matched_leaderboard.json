@@ -189,7 +189,16 @@
     "order": 21
   },
   {
-    "position": "T22",
+    "position": "T16",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "16",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 29
+  },
+  {
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -216,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -225,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "18",
@@ -234,16 +243,7 @@
     "order": 26
   },
   {
-    "position": "T22",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 29
-  },
-  {
-    "position": "T22",
+    "position": "T23",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -354,7 +354,7 @@
     "position": "T29",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
+    "thru": "18",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 41
@@ -523,9 +523,9 @@
   },
   {
     "position": "T45",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "17",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "18",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 59
@@ -858,7 +858,7 @@
     "position": "T84",
     "score": "+5",
     "score_num": 5,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 96
@@ -975,7 +975,7 @@
     "position": "T97",
     "score": "+6",
     "score_num": 6,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Max McGreevy",
     "owner": "",
     "order": 109
