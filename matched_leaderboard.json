@@ -342,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 36
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 37
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 38
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 39
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +387,7 @@
     "order": 40
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,16 +396,7 @@
     "order": 41
   },
   {
-    "position": "T38",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -423,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -441,7 +432,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -450,7 +441,7 @@
     "order": 42
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -459,7 +450,7 @@
     "order": 43
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -468,7 +459,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +468,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +477,7 @@
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +486,7 @@
     "order": 55
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -513,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -522,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -531,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -558,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -567,7 +558,7 @@
     "order": 68
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -576,7 +567,16 @@
     "order": 69
   },
   {
-    "position": "T65",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 65
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -612,7 +612,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -621,7 +621,7 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "",
