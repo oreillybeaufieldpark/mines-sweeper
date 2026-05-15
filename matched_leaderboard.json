@@ -423,6 +423,15 @@
     "order": 48
   },
   {
+    "position": "T38",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 62
+  },
+  {
     "position": "T49",
     "score": "+2",
     "score_num": 2,
@@ -547,15 +556,6 @@
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 61
-  },
-  {
-    "position": "T38",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 62
   },
   {
     "position": "T63",
