@@ -306,7 +306,16 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T26",
+    "score": "E",
+    "score_num": 0,
+    "thru": "",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 49
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -387,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -432,16 +441,7 @@
     "order": 48
   },
   {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 49
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "",
@@ -891,15 +891,6 @@
     "order": 99
   },
   {
-    "position": "T101",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "",
-    "golfer": "Paul McClure",
-    "owner": "",
-    "order": 100
-  },
-  {
     "position": "T89",
     "score": "+5",
     "score_num": 5,
@@ -907,6 +898,15 @@
     "golfer": "Michael Kim",
     "owner": "",
     "order": 101
+  },
+  {
+    "position": "T101",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Paul McClure",
+    "owner": "",
+    "order": 100
   },
   {
     "position": "T101",
@@ -1107,7 +1107,7 @@
     "order": 123
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1116,7 +1116,7 @@
     "order": 124
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1125,7 +1125,7 @@
     "order": 125
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1134,7 +1134,7 @@
     "order": 126
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1143,7 +1143,7 @@
     "order": 127
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "F",
@@ -1152,7 +1152,7 @@
     "order": 128
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1161,7 +1161,7 @@
     "order": 129
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1170,7 +1170,7 @@
     "order": 130
   },
   {
-    "position": "T124",
+    "position": "T118",
     "score": "+8",
     "score_num": 8,
     "thru": "",
@@ -1179,7 +1179,7 @@
     "order": 131
   },
   {
-    "position": "T124",
+    "position": "T125",
     "score": "+8",
     "score_num": 8,
     "thru": "",
