@@ -5,35 +5,92 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PGA 2026 Sweep</title>
 <style>
-body{font-family:Arial,sans-serif;margin:24px;background:#0b1320;color:#f5f7fa}
-table{width:100%;border-collapse:collapse;background:#111827}
-th,td{padding:10px;border-bottom:1px solid #2d3748;text-align:left}
-th{background:#1f2937}
-.owned{background:#16311f;font-weight:bold}
-.muted{color:#a0aec0}
+body{
+  font-family:Arial,sans-serif;
+  margin:10px;
+  background:#fff;
+  color:#004c99;
+}
+h1{font-size:22px;margin:8px 0}
+#updated{font-size:13px;margin-bottom:8px;color:#336699}
+table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:13px;
+}
+th,td{
+  padding:5px 4px;
+  border-bottom:1px solid #c9d8ee;
+  text-align:left;
+  white-space:nowrap;
+}
+th{
+  background:#e8f1ff;
+  color:#003b7a;
+}
+td:nth-child(1),th:nth-child(1){width:36px}
+td:nth-child(2),th:nth-child(2){width:42px;text-align:right}
+td:nth-child(3),th:nth-child(3){width:38px;text-align:center}
+td:nth-child(4),th:nth-child(4){max-width:135px;overflow:hidden;text-overflow:ellipsis}
+td:nth-child(5),th:nth-child(5){max-width:110px;overflow:hidden;text-overflow:ellipsis}
+
+.owned{font-weight:bold}
+.leader{
+  animation: flashGold 1.2s infinite;
+  font-weight:bold;
+}
+@keyframes flashGold{
+  0%{background:#fff4b0}
+  50%{background:#ffd700}
+  100%{background:#fff4b0}
+}
 </style>
 </head>
 <body>
 <h1>PGA Championship Sweep</h1>
-<div id="updated" class="muted">Loading...</div>
+<div id="updated">Loading...</div>
+
 <table>
-<thead><tr><th>Pos</th><th>Score</th><th>Thru</th><th>Player</th><th>Owner</th></tr></thead>
+<thead>
+<tr>
+  <th>Pos</th>
+  <th>Score</th>
+  <th>Thru</th>
+  <th>Player</th>
+  <th>Owner</th>
+</tr>
+</thead>
 <tbody id="board"></tbody>
 </table>
+
 <script>
 async function loadBoard(){
   const res = await fetch('matched_leaderboard.json?t=' + Date.now());
   const data = await res.json();
-  board.innerHTML = data.map(r => `
-    <tr class="${r.owner ? 'owned' : ''}">
-      <td>${r.position || ''}</td>
-      <td>${r.score || ''}</td>
-      <td>${r.thru || ''}</td>
-      <td>${r.golfer || ''}</td>
-      <td>${r.owner || ''}</td>
-    </tr>`).join('');
+
+  const owned = data.filter(r => r.owner);
+  const bestOwnedScore = owned.length
+    ? Math.min(...owned.map(r => Number(r.score_num)))
+    : null;
+
+  board.innerHTML = data.map(r => {
+    const isOwned = !!r.owner;
+    const isLeader = isOwned && Number(r.score_num) === bestOwnedScore;
+
+    return `
+      <tr class="${isLeader ? 'leader' : isOwned ? 'owned' : ''}">
+        <td>${r.position || ''}</td>
+        <td>${r.score || ''}</td>
+        <td>${r.thru || ''}</td>
+        <td>${r.golfer || ''}</td>
+        <td>${r.owner || ''}</td>
+      </tr>
+    `;
+  }).join('');
+
   updated.textContent = 'Updated: ' + new Date().toLocaleTimeString();
 }
+
 loadBoard();
 setInterval(loadBoard, 60000);
 </script>
