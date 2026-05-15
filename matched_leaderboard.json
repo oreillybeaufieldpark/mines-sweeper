@@ -769,15 +769,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "",
-    "golfer": "Paul McClure",
-    "owner": "",
-    "order": 87
-  },
-  {
-    "position": "T73",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "",
     "golfer": "Kota Kaneko",
     "owner": "",
     "order": 88
@@ -801,7 +792,16 @@
     "order": 99
   },
   {
-    "position": "T90",
+    "position": "T89",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "",
+    "golfer": "Paul McClure",
+    "owner": "",
+    "order": 87
+  },
+  {
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -810,7 +810,7 @@
     "order": 90
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -819,7 +819,7 @@
     "order": 91
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -828,7 +828,7 @@
     "order": 92
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -837,7 +837,7 @@
     "order": 93
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -846,7 +846,7 @@
     "order": 94
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -855,7 +855,7 @@
     "order": 95
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -864,7 +864,7 @@
     "order": 96
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -873,7 +873,7 @@
     "order": 97
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "F",
@@ -882,7 +882,7 @@
     "order": 98
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -891,7 +891,7 @@
     "order": 100
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -900,7 +900,7 @@
     "order": 101
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "",
@@ -909,7 +909,7 @@
     "order": 102
   },
   {
-    "position": "T90",
+    "position": "T89",
     "score": "+5",
     "score_num": 5,
     "thru": "",
