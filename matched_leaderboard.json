@@ -274,15 +274,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 31
-  },
-  {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 32
@@ -304,6 +295,15 @@
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 34
+  },
+  {
+    "position": "T24",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 31
   },
   {
     "position": "T35",
@@ -414,7 +414,16 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 63
+  },
+  {
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -423,7 +432,7 @@
     "order": 42
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -531,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -540,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -549,16 +558,7 @@
     "order": 61
   },
   {
-    "position": "T47",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 63
-  },
-  {
-    "position": "T47",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "",
@@ -1026,7 +1026,16 @@
     "order": 114
   },
   {
-    "position": "T115",
+    "position": "T101",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 122
+  },
+  {
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1035,7 +1044,7 @@
     "order": 115
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1044,7 +1053,7 @@
     "order": 116
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1053,7 +1062,7 @@
     "order": 117
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "F",
@@ -1062,7 +1071,7 @@
     "order": 118
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1071,7 +1080,7 @@
     "order": 119
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
@@ -1080,22 +1089,13 @@
     "order": 120
   },
   {
-    "position": "T115",
+    "position": "T116",
     "score": "+7",
     "score_num": 7,
     "thru": "",
     "golfer": "Tyler Collet",
     "owner": "",
     "order": 121
-  },
-  {
-    "position": "T115",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 122
   },
   {
     "position": "T123",
@@ -1233,15 +1233,6 @@
     "order": 137
   },
   {
-    "position": "T140",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "",
-    "golfer": "Matt McCarty",
-    "owner": "",
-    "order": 139
-  },
-  {
     "position": "T135",
     "score": "+10",
     "score_num": 10,
@@ -1251,16 +1242,25 @@
     "order": 140
   },
   {
-    "position": "T135",
-    "score": "+10",
-    "score_num": 10,
+    "position": "T139",
+    "score": "+11",
+    "score_num": 11,
+    "thru": "",
+    "golfer": "Matt McCarty",
+    "owner": "",
+    "order": 139
+  },
+  {
+    "position": "T139",
+    "score": "+11",
+    "score_num": 11,
     "thru": "",
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 141
   },
   {
-    "position": "T140",
+    "position": "T139",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
@@ -1269,7 +1269,7 @@
     "order": 142
   },
   {
-    "position": "T140",
+    "position": "T139",
     "score": "+11",
     "score_num": 11,
     "thru": "F",
