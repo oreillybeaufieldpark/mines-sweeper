@@ -1,9 +1,9 @@
 [
   {
-    "position": "1",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "16",
+    "position": "T1",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "17",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 1
@@ -589,21 +589,21 @@
     "score": "+3",
     "score_num": 3,
     "thru": "14",
-    "golfer": "Kota Kaneko",
-    "owner": "",
-    "order": 66
-  },
-  {
-    "position": "T60",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
     "golfer": "Angel Ayora",
     "owner": "",
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
+    "golfer": "Kota Kaneko",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
@@ -729,7 +729,7 @@
     "order": 81
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "17",
@@ -738,7 +738,7 @@
     "order": 82
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "18",
