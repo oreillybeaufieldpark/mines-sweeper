@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -18,7 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "",
+    "golfer": "Maverick McNealy",
+    "owner": "Igor Fleming",
+    "order": 6
+  },
+  {
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -36,22 +45,13 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 5
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "",
-    "golfer": "Maverick McNealy",
-    "owner": "Igor Fleming",
-    "order": 6
   },
   {
     "position": "T7",
@@ -216,6 +216,15 @@
     "order": 24
   },
   {
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 43
+  },
+  {
     "position": "T26",
     "score": "E",
     "score_num": 0,
@@ -376,15 +385,6 @@
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 42
-  },
-  {
-    "position": "T14",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 43
   },
   {
     "position": "T36",
@@ -1314,7 +1314,7 @@
     "order": 146
   },
   {
-    "position": "T147",
+    "position": "147",
     "score": "+14",
     "score_num": 14,
     "thru": "F",
@@ -1323,7 +1323,7 @@
     "order": 147
   },
   {
-    "position": "T147",
+    "position": "T148",
     "score": "+14",
     "score_num": 14,
     "thru": "",
@@ -1332,7 +1332,7 @@
     "order": 148
   },
   {
-    "position": "T149",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
@@ -1341,7 +1341,7 @@
     "order": 149
   },
   {
-    "position": "T149",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "F",
@@ -1350,7 +1350,7 @@
     "order": 150
   },
   {
-    "position": "T149",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "",
