@@ -174,7 +174,7 @@
     "position": "T16",
     "score": "-1",
     "score_num": -1,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 20
@@ -1314,7 +1314,16 @@
     "order": 145
   },
   {
-    "position": "T147",
+    "position": "T145",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "16",
+    "golfer": "Derek Berg",
+    "owner": "",
+    "order": 150
+  },
+  {
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1323,7 +1332,7 @@
     "order": 147
   },
   {
-    "position": "T147",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1332,7 +1341,7 @@
     "order": 148
   },
   {
-    "position": "T147",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "18",
@@ -1341,16 +1350,7 @@
     "order": 149
   },
   {
-    "position": "T147",
-    "score": "+15",
-    "score_num": 15,
-    "thru": "15",
-    "golfer": "Derek Berg",
-    "owner": "",
-    "order": 150
-  },
-  {
-    "position": "T147",
+    "position": "T148",
     "score": "+15",
     "score_num": 15,
     "thru": "14",
