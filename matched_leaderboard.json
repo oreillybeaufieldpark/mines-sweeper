@@ -93,15 +93,6 @@
     "position": "T10",
     "score": "-2",
     "score_num": -2,
-    "thru": "7",
-    "golfer": "Xander Schauffele",
-    "owner": "Finbarr Callaly",
-    "order": 11
-  },
-  {
-    "position": "T10",
-    "score": "-2",
-    "score_num": -2,
     "thru": "18:20",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
@@ -171,7 +162,16 @@
     "order": 32
   },
   {
-    "position": "T20",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "8",
+    "golfer": "Xander Schauffele",
+    "owner": "Finbarr Callaly",
+    "order": 11
+  },
+  {
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -180,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -189,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -198,16 +198,16 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -216,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -225,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -234,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -243,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -441,7 +441,16 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -450,7 +459,7 @@
     "order": 44
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -459,7 +468,7 @@
     "order": 49
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -504,22 +513,22 @@
     "order": 56
   },
   {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 58
+  },
+  {
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "9",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 67
   },
   {
     "position": "T60",
@@ -585,15 +594,6 @@
     "order": 66
   },
   {
-    "position": "T50",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "8",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 67
-  },
-  {
     "position": "T60",
     "score": "+3",
     "score_num": 3,
@@ -606,7 +606,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Ben Kern",
     "owner": "",
     "order": 69
@@ -963,22 +963,13 @@
     "order": 111
   },
   {
-    "position": "T79",
+    "position": "79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 79
-  },
-  {
-    "position": "T79",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 80
   },
   {
     "position": "-",
@@ -1044,7 +1035,16 @@
     "order": 118
   },
   {
-    "position": "81",
+    "position": "T80",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 80
+  },
+  {
+    "position": "T80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
