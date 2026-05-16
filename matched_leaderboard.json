@@ -75,7 +75,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 9
@@ -84,7 +84,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 11
@@ -405,6 +405,15 @@
     "order": 47
   },
   {
+    "position": "T50",
+    "score": "E",
+    "score_num": 0,
+    "thru": "9",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 57
+  },
+  {
     "position": "T46",
     "score": "+1",
     "score_num": 1,
@@ -493,15 +502,6 @@
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 56
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 57
   },
   {
     "position": "T57",
