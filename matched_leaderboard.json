@@ -678,7 +678,7 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 77
@@ -1053,6 +1053,15 @@
     "order": 118
   },
   {
+    "position": "82",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
+  },
+  {
     "position": "-",
     "score": "+8",
     "score_num": 8,
@@ -1123,15 +1132,6 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 126
-  },
-  {
-    "position": "82",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
   },
   {
     "position": "-",
