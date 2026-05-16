@@ -93,6 +93,15 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
+    "thru": "5",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 18
+  },
+  {
+    "position": "T3",
+    "score": "-3",
+    "score_num": -3,
     "thru": "3",
     "golfer": "Aaron Rai",
     "owner": "",
@@ -108,7 +117,7 @@
     "order": 29
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -117,7 +126,7 @@
     "order": 3
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +135,7 @@
     "order": 12
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +144,7 @@
     "order": 13
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,16 +153,16 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 16
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -162,16 +171,7 @@
     "order": 17
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "4",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 18
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -180,7 +180,7 @@
     "order": 21
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,7 +189,7 @@
     "order": 23
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -198,7 +198,7 @@
     "order": 24
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -207,10 +207,10 @@
     "order": 25
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:40",
+    "thru": "1",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 26
@@ -396,7 +396,16 @@
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T36",
+    "score": "E",
+    "score_num": 0,
+    "thru": "17",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,16 +414,7 @@
     "order": 45
   },
   {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
