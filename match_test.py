@@ -48,9 +48,14 @@ def load_one(item):
             "position", {}
         ).get("displayName", ""),
         "thru": (
-            str(status.get("thru"))
-            if status.get("thru") not in (None, "", 0)
-            else status.get("displayValue", "")
+            "F"
+            if status.get("type", {}).get("completed")
+            else (
+                str(status.get("thru"))
+                if status.get("type", {}).get("state") == "in"
+                and status.get("thru") not in (None, "", 0)
+                else ""
+            )
         ),
         "order": item.get("order", 9999),
     }
