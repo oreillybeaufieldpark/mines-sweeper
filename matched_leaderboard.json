@@ -282,7 +282,7 @@
     "position": "T32",
     "score": "+1",
     "score_num": 1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 31
@@ -666,15 +666,6 @@
     "order": 75
   },
   {
-    "position": "T77",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 76
-  },
-  {
     "position": "T72",
     "score": "+4",
     "score_num": 4,
@@ -700,6 +691,15 @@
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 69
+  },
+  {
+    "position": "T77",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 76
   },
   {
     "position": "T77",
