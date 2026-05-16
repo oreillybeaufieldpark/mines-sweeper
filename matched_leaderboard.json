@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 4
@@ -84,7 +84,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 9
@@ -183,7 +183,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 20
@@ -297,15 +297,6 @@
     "order": 33
   },
   {
-    "position": "T37",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "11",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 34
-  },
-  {
     "position": "T28",
     "score": "-1",
     "score_num": -1,
@@ -331,6 +322,15 @@
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 37
+  },
+  {
+    "position": "T37",
+    "score": "E",
+    "score_num": 0,
+    "thru": "12",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 34
   },
   {
     "position": "T37",
