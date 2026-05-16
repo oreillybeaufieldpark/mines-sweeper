@@ -543,6 +543,15 @@
     "position": "T45",
     "score": "+2",
     "score_num": 2,
+    "thru": "7",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 62
+  },
+  {
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
     "thru": "3",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
@@ -558,16 +567,7 @@
     "order": 65
   },
   {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "6",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 62
-  },
-  {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14:06",
@@ -576,7 +576,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -585,7 +585,7 @@
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -594,7 +594,7 @@
     "order": 68
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -603,7 +603,7 @@
     "order": 69
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -612,7 +612,7 @@
     "order": 70
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -621,16 +621,16 @@
     "order": 71
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:06",
+    "thru": "1",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 72
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -702,16 +702,16 @@
     "order": 78
   },
   {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
+    "position": "T79",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 79
   },
   {
-    "position": "T80",
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T80",
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
