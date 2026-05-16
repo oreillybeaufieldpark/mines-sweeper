@@ -738,10 +738,10 @@
     "order": 82
   },
   {
-    "position": "T83",
+    "position": "-",
     "score": "+5",
     "score_num": 5,
-    "thru": "F",
+    "thru": "18",
     "golfer": "Wyndham Clark",
     "owner": "",
     "order": 83
@@ -756,19 +756,19 @@
     "order": 84
   },
   {
-    "position": "T83",
+    "position": "-",
     "score": "+5",
     "score_num": 5,
-    "thru": "F",
+    "thru": "18",
     "golfer": "Kota Kaneko",
     "owner": "",
     "order": 85
   },
   {
-    "position": "T83",
+    "position": "-",
     "score": "+5",
     "score_num": 5,
-    "thru": "F",
+    "thru": "18",
     "golfer": "Russell Henley",
     "owner": "Donal Maher",
     "order": 86
@@ -1017,10 +1017,10 @@
     "order": 113
   },
   {
-    "position": "T112",
+    "position": "-",
     "score": "+7",
     "score_num": 7,
-    "thru": "F",
+    "thru": "18",
     "golfer": "Ricky Castillo",
     "owner": "",
     "order": 114
@@ -1071,10 +1071,10 @@
     "order": 119
   },
   {
-    "position": "T119",
+    "position": "-",
     "score": "+8",
     "score_num": 8,
-    "thru": "F",
+    "thru": "18",
     "golfer": "Emiliano Grillo",
     "owner": "",
     "order": 120
