@@ -300,7 +300,7 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 34
@@ -354,10 +354,19 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "17:20",
+    "thru": "1",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 41
+  },
+  {
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 43
   },
   {
     "position": "T29",
@@ -378,7 +387,7 @@
     "order": 50
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -387,7 +396,7 @@
     "order": 36
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,16 +405,7 @@
     "order": 42
   },
   {
-    "position": "T43",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -414,7 +414,7 @@
     "order": 44
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -450,7 +450,16 @@
     "order": 49
   },
   {
-    "position": "T43",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 51
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -459,16 +468,7 @@
     "order": 58
   },
   {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 51
-  },
-  {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -513,16 +513,7 @@
     "order": 56
   },
   {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "3",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 57
-  },
-  {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -531,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -540,7 +531,16 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T60",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "4",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 57
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -585,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -660,7 +660,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 74
