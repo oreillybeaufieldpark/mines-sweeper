@@ -183,7 +183,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 21
@@ -246,7 +246,7 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 28
@@ -372,7 +372,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 43
