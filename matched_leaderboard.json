@@ -523,6 +523,15 @@
   },
   {
     "position": "T59",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "13:48",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -574,15 +583,6 @@
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 64
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "13:48",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 65
   },
   {
     "position": "T59",
