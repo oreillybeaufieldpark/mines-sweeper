@@ -234,7 +234,16 @@
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "4",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 34
+  },
+  {
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -279,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -288,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -297,16 +306,7 @@
     "order": 33
   },
   {
-    "position": "T27",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "3",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 34
-  },
-  {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T44",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,16 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "8",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -459,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -468,7 +459,7 @@
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -477,7 +468,16 @@
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "9",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
