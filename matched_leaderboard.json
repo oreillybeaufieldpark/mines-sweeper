@@ -48,7 +48,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 6
@@ -57,7 +57,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 7
@@ -243,6 +243,15 @@
     "order": 36
   },
   {
+    "position": "T15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "5",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 39
+  },
+  {
     "position": "T29",
     "score": "-1",
     "score_num": -1,
@@ -291,7 +300,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 32
@@ -331,15 +340,6 @@
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 38
-  },
-  {
-    "position": "T15",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "4",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 39
   },
   {
     "position": "T29",
@@ -408,7 +408,7 @@
     "position": "T40",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 45
@@ -489,15 +489,6 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 55
-  },
-  {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
     "thru": "12",
     "golfer": "Ryo Hisatsune",
     "owner": "",
@@ -522,7 +513,16 @@
     "order": 58
   },
   {
-    "position": "T59",
+    "position": "T58",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "15",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 55
+  },
+  {
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
