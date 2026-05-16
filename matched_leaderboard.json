@@ -156,7 +156,7 @@
     "position": "T17",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 18
@@ -318,7 +318,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 36
@@ -471,7 +471,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 53
@@ -567,16 +567,16 @@
     "order": 63
   },
   {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15:40",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 64
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -603,16 +603,16 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 68
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -630,7 +630,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "9",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 74
+  },
+  {
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -648,22 +657,13 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
     "golfer": "John Parry",
     "owner": "",
     "order": 73
-  },
-  {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "8",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 74
   },
   {
     "position": "T75",
