@@ -378,7 +378,16 @@
     "order": 46
   },
   {
-    "position": "T43",
+    "position": "T33",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,22 +414,13 @@
     "order": 44
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 45
-  },
-  {
-    "position": "T43",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 47
   },
   {
     "position": "T48",
