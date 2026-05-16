@@ -435,6 +435,15 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
+    "thru": "5",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 55
+  },
+  {
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
     "thru": "3",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
@@ -459,7 +468,7 @@
     "order": 36
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -486,16 +495,7 @@
     "order": 54
   },
   {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "4",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 55
-  },
-  {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -522,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -531,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -540,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -558,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -567,10 +567,10 @@
     "order": 64
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:30",
+    "thru": "1",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 65
