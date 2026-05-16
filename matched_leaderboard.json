@@ -75,7 +75,7 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 9
@@ -477,6 +477,15 @@
     "order": 59
   },
   {
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 60
+  },
+  {
     "position": "T54",
     "score": "+2",
     "score_num": 2,
@@ -495,7 +504,7 @@
     "order": 40
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -504,7 +513,7 @@
     "order": 48
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -513,7 +522,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,25 +540,16 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
-    "thru": "8",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 60
-  },
-  {
-    "position": "T54",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 61
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
