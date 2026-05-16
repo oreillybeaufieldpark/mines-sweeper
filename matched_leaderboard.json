@@ -156,15 +156,6 @@
     "position": "T18",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 18
-  },
-  {
-    "position": "T18",
-    "score": "-1",
-    "score_num": -1,
     "thru": "18:00",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
@@ -216,7 +207,16 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 18
+  },
+  {
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -225,16 +225,16 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -444,7 +444,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "16:40",
+    "thru": "1",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 50
@@ -666,15 +666,6 @@
     "order": 74
   },
   {
-    "position": "T76",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "14",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 75
-  },
-  {
     "position": "T72",
     "score": "+4",
     "score_num": 4,
@@ -682,6 +673,15 @@
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 76
+  },
+  {
+    "position": "T76",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 75
   },
   {
     "position": "T76",
