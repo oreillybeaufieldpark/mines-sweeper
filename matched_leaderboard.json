@@ -39,7 +39,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 5
@@ -243,7 +243,7 @@
     "order": 36
   },
   {
-    "position": "T15",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -252,7 +252,7 @@
     "order": 21
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -315,16 +315,7 @@
     "order": 34
   },
   {
-    "position": "T28",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "13",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 35
-  },
-  {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -333,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -342,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T28",
+    "position": "T15",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -351,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -360,7 +351,16 @@
     "order": 46
   },
   {
-    "position": "T41",
+    "position": "T40",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 35
+  },
+  {
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -396,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "12",
