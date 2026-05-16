@@ -391,7 +391,7 @@
     "score": "+2",
     "score_num": 2,
     "thru": "F",
-    "golfer": "Mikael Lindberg",
+    "golfer": "Keith Mitchell",
     "owner": "",
     "order": 44
   },
@@ -400,7 +400,7 @@
     "score": "+2",
     "score_num": 2,
     "thru": "F",
-    "golfer": "Keith Mitchell",
+    "golfer": "Dustin Johnson",
     "owner": "",
     "order": 45
   },
@@ -409,18 +409,9 @@
     "score": "+2",
     "score_num": 2,
     "thru": "F",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "F",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
-    "order": 47
+    "order": 46
   },
   {
     "position": "T44",
@@ -429,7 +420,7 @@
     "thru": "F",
     "golfer": "Tom Hoge",
     "owner": "",
-    "order": 48
+    "order": 47
   },
   {
     "position": "T44",
@@ -438,7 +429,7 @@
     "thru": "F",
     "golfer": "Matt Wallace",
     "owner": "",
-    "order": 49
+    "order": 48
   },
   {
     "position": "T44",
@@ -447,7 +438,7 @@
     "thru": "F",
     "golfer": "Denny McCarthy",
     "owner": "",
-    "order": 50
+    "order": 49
   },
   {
     "position": "T44",
@@ -455,6 +446,15 @@
     "score_num": 2,
     "thru": "F",
     "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T44",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "F",
+    "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 51
   },
@@ -744,7 +744,7 @@
     "thru": "F",
     "golfer": "Wyndham Clark",
     "owner": "",
-    "order": 84
+    "order": 83
   },
   {
     "position": "T83",
@@ -753,7 +753,7 @@
     "thru": "F",
     "golfer": "Sungjae Im",
     "owner": "",
-    "order": 85
+    "order": 84
   },
   {
     "position": "T83",
@@ -762,7 +762,7 @@
     "thru": "F",
     "golfer": "Kota Kaneko",
     "owner": "",
-    "order": 86
+    "order": 85
   },
   {
     "position": "T83",
@@ -771,7 +771,7 @@
     "thru": "F",
     "golfer": "Russell Henley",
     "owner": "Donal Maher",
-    "order": 87
+    "order": 86
   },
   {
     "position": "T83",
@@ -780,7 +780,7 @@
     "thru": "F",
     "golfer": "Tommy Fleetwood",
     "owner": "Donal Maher",
-    "order": 88
+    "order": 87
   },
   {
     "position": "T83",
@@ -789,7 +789,7 @@
     "thru": "F",
     "golfer": "Andy Sullivan",
     "owner": "",
-    "order": 89
+    "order": 88
   },
   {
     "position": "T83",
@@ -798,7 +798,7 @@
     "thru": "F",
     "golfer": "Thomas Detry",
     "owner": "",
-    "order": 90
+    "order": 89
   },
   {
     "position": "T83",
@@ -807,7 +807,7 @@
     "thru": "F",
     "golfer": "Akshay Bhatia",
     "owner": "Richard Kendrick",
-    "order": 91
+    "order": 90
   },
   {
     "position": "T83",
@@ -816,7 +816,7 @@
     "thru": "F",
     "golfer": "Jimmy Walker",
     "owner": "",
-    "order": 92
+    "order": 91
   },
   {
     "position": "T83",
@@ -825,7 +825,7 @@
     "thru": "F",
     "golfer": "J.T. Poston",
     "owner": "",
-    "order": 93
+    "order": 92
   },
   {
     "position": "T83",
@@ -834,7 +834,7 @@
     "thru": "F",
     "golfer": "Michael Block",
     "owner": "",
-    "order": 94
+    "order": 93
   },
   {
     "position": "T83",
@@ -843,7 +843,7 @@
     "thru": "F",
     "golfer": "Robert MacIntyre",
     "owner": "Igor Fleming",
-    "order": 95
+    "order": 94
   },
   {
     "position": "T83",
@@ -852,16 +852,7 @@
     "thru": "F",
     "golfer": "Garrick Higgo",
     "owner": "",
-    "order": 96
-  },
-  {
-    "position": "T96",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "F",
-    "golfer": "Angel Ayora",
-    "owner": "",
-    "order": 83
+    "order": 95
   },
   {
     "position": "T96",
@@ -870,7 +861,7 @@
     "thru": "F",
     "golfer": "Max McGreevy",
     "owner": "",
-    "order": 97
+    "order": 96
   },
   {
     "position": "T96",
@@ -879,7 +870,7 @@
     "thru": "F",
     "golfer": "Adam Schenk",
     "owner": "",
-    "order": 98
+    "order": 97
   },
   {
     "position": "T96",
@@ -888,7 +879,7 @@
     "thru": "F",
     "golfer": "Tyler Collet",
     "owner": "",
-    "order": 99
+    "order": 98
   },
   {
     "position": "T96",
@@ -897,7 +888,7 @@
     "thru": "F",
     "golfer": "David Lipsky",
     "owner": "",
-    "order": 100
+    "order": 99
   },
   {
     "position": "T96",
@@ -906,7 +897,7 @@
     "thru": "F",
     "golfer": "Stewart Cink",
     "owner": "",
-    "order": 101
+    "order": 100
   },
   {
     "position": "T96",
@@ -915,7 +906,7 @@
     "thru": "F",
     "golfer": "Viktor Hovland",
     "owner": "Stephen Walker",
-    "order": 102
+    "order": 101
   },
   {
     "position": "T96",
@@ -924,7 +915,7 @@
     "thru": "F",
     "golfer": "Keegan Bradley",
     "owner": "Richard Kendrick",
-    "order": 103
+    "order": 102
   },
   {
     "position": "T96",
@@ -933,7 +924,7 @@
     "thru": "F",
     "golfer": "Jordan Gumberg",
     "owner": "",
-    "order": 104
+    "order": 103
   },
   {
     "position": "T96",
@@ -942,7 +933,7 @@
     "thru": "F",
     "golfer": "Ben Polland",
     "owner": "",
-    "order": 105
+    "order": 104
   },
   {
     "position": "T96",
@@ -951,7 +942,7 @@
     "thru": "F",
     "golfer": "Sepp Straka",
     "owner": "Donal Brogan",
-    "order": 106
+    "order": 105
   },
   {
     "position": "T96",
@@ -960,7 +951,7 @@
     "thru": "F",
     "golfer": "Gary Woodland",
     "owner": "Stephen Walker",
-    "order": 107
+    "order": 106
   },
   {
     "position": "T96",
@@ -969,7 +960,7 @@
     "thru": "F",
     "golfer": "Tyrrell Hatton",
     "owner": "Michael Murray",
-    "order": 108
+    "order": 107
   },
   {
     "position": "T96",
@@ -977,6 +968,15 @@
     "score_num": 6,
     "thru": "F",
     "golfer": "Brandt Snedeker",
+    "owner": "",
+    "order": 108
+  },
+  {
+    "position": "T96",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "F",
+    "golfer": "Angel Ayora",
     "owner": "",
     "order": 109
   },
@@ -1201,7 +1201,7 @@
     "score": "+11",
     "score_num": 11,
     "thru": "F",
-    "golfer": "Paul McClure",
+    "golfer": "Davis Riley",
     "owner": "",
     "order": 134
   },
@@ -1210,7 +1210,7 @@
     "score": "+11",
     "score_num": 11,
     "thru": "F",
-    "golfer": "Davis Riley",
+    "golfer": "Michael Thorbjornsen",
     "owner": "",
     "order": 135
   },
@@ -1219,7 +1219,7 @@
     "score": "+11",
     "score_num": 11,
     "thru": "F",
-    "golfer": "Michael Thorbjornsen",
+    "golfer": "Matt McCarty",
     "owner": "",
     "order": 136
   },
@@ -1228,7 +1228,7 @@
     "score": "+11",
     "score_num": 11,
     "thru": "F",
-    "golfer": "Matt McCarty",
+    "golfer": "Paul McClure",
     "owner": "",
     "order": 137
   },
