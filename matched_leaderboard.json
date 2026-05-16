@@ -27,7 +27,16 @@
     "order": 6
   },
   {
-    "position": "T4",
+    "position": "T1",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "9",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 8
+  },
+  {
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "11",
@@ -36,7 +45,7 @@
     "order": 1
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -45,7 +54,7 @@
     "order": 4
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -54,7 +63,7 @@
     "order": 5
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -63,16 +72,7 @@
     "order": 7
   },
   {
-    "position": "T4",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "8",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 8
-  },
-  {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "4",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "5",
@@ -90,7 +90,7 @@
     "order": 11
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "9",
@@ -156,7 +156,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 17
@@ -169,6 +169,15 @@
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 18
+  },
+  {
+    "position": "T27",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "13",
+    "golfer": "Cameron Smith",
+    "owner": "",
+    "order": 19
   },
   {
     "position": "T12",
@@ -232,15 +241,6 @@
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 39
-  },
-  {
-    "position": "T27",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "12",
-    "golfer": "Cameron Smith",
-    "owner": "",
-    "order": 19
   },
   {
     "position": "T27",
@@ -327,22 +327,13 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 36
-  },
-  {
-    "position": "T27",
-    "score": "-1",
-    "score_num": -1,
     "thru": "8",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 38
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +342,7 @@
     "order": 40
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +351,7 @@
     "order": 41
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +360,7 @@
     "order": 42
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,7 +369,7 @@
     "order": 43
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -387,7 +378,7 @@
     "order": 44
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -396,7 +387,7 @@
     "order": 46
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -405,7 +396,7 @@
     "order": 47
   },
   {
-    "position": "T39",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -414,7 +405,16 @@
     "order": 57
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "10",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 36
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -423,7 +423,7 @@
     "order": 37
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -432,7 +432,7 @@
     "order": 45
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
