@@ -513,15 +513,6 @@
     "order": 58
   },
   {
-    "position": "T63",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "3",
-    "golfer": "Chandler Blanchet",
-    "owner": "",
-    "order": 59
-  },
-  {
     "position": "T51",
     "score": "+2",
     "score_num": 2,
@@ -579,6 +570,15 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
+    "thru": "4",
+    "golfer": "Chandler Blanchet",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
     "thru": "16",
     "golfer": "Jhonattan Vegas",
     "owner": "",
@@ -612,7 +612,16 @@
     "order": 67
   },
   {
-    "position": "T69",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 72
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -621,7 +630,7 @@
     "order": 53
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -639,16 +648,7 @@
     "order": 71
   },
   {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "13",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 72
-  },
-  {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
