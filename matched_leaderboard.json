@@ -327,7 +327,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 37
@@ -498,7 +498,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 56
@@ -621,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "4",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -630,7 +639,7 @@
     "order": 68
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -648,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -657,7 +666,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -666,22 +675,13 @@
     "order": 74
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 75
-  },
-  {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "3",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "T77",
