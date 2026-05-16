@@ -237,15 +237,6 @@
     "position": "T25",
     "score": "E",
     "score_num": 0,
-    "thru": "13",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T25",
-    "score": "E",
-    "score_num": 0,
     "thru": "2",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
@@ -360,7 +351,16 @@
     "order": 45
   },
   {
-    "position": "T41",
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "14",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 26
+  },
+  {
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -369,7 +369,7 @@
     "order": 38
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -378,7 +378,7 @@
     "order": 39
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -387,7 +387,7 @@
     "order": 41
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -396,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -405,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -423,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -432,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -441,7 +441,7 @@
     "order": 50
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -972,15 +972,6 @@
     "order": 111
   },
   {
-    "position": "80",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 80
-  },
-  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1042,6 +1033,15 @@
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 118
+  },
+  {
+    "position": "80",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 80
   },
   {
     "position": "-",
