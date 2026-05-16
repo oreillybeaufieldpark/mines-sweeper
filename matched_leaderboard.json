@@ -318,15 +318,6 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 35
-  },
-  {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
     "thru": "3",
     "golfer": "Martin Kaymer",
     "owner": "",
@@ -450,7 +441,16 @@
     "order": 68
   },
   {
-    "position": "T51",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 35
+  },
+  {
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -477,7 +477,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -486,7 +486,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -495,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -504,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -513,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -522,7 +522,7 @@
     "order": 60
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -531,7 +531,7 @@
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -540,7 +540,7 @@
     "order": 62
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -549,7 +549,7 @@
     "order": 63
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -666,16 +666,16 @@
     "order": 74
   },
   {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 75
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -810,7 +810,7 @@
     "order": 95
   },
   {
-    "position": "T78",
+    "position": "T76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -819,7 +819,7 @@
     "order": 78
   },
   {
-    "position": "T78",
+    "position": "79",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
