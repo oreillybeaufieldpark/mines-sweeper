@@ -192,7 +192,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 21
@@ -300,7 +300,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 33
@@ -327,7 +327,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 37
@@ -498,7 +498,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 56
@@ -570,19 +570,10 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 64
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "11",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 65
   },
   {
     "position": "T59",
@@ -621,7 +612,16 @@
     "order": 69
   },
   {
-    "position": "T70",
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "12",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
