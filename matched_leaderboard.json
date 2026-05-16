@@ -234,15 +234,6 @@
     "order": 25
   },
   {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "3",
-    "golfer": "Rory McIlroy",
-    "owner": "Richard Kendrick",
-    "order": 26
-  },
-  {
     "position": "T25",
     "score": "E",
     "score_num": 0,
@@ -315,7 +306,16 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Rory McIlroy",
+    "owner": "Richard Kendrick",
+    "order": 26
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -342,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -351,7 +351,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -369,7 +369,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -378,7 +378,7 @@
     "order": 44
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -387,7 +387,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -396,7 +396,7 @@
     "order": 46
   },
   {
-    "position": "T35",
+    "position": "T25",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -408,13 +408,13 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "16:40",
+    "thru": "1",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 49
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -432,7 +432,7 @@
     "order": 51
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -441,16 +441,7 @@
     "order": 52
   },
   {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -459,7 +450,7 @@
     "order": 54
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -468,7 +459,7 @@
     "order": 56
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -477,7 +468,7 @@
     "order": 59
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -486,7 +477,7 @@
     "order": 60
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -495,7 +486,7 @@
     "order": 38
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -504,7 +495,7 @@
     "order": 40
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -513,7 +504,16 @@
     "order": 48
   },
   {
-    "position": "T55",
+    "position": "T54",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "17",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -522,7 +522,7 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -570,7 +570,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 63
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T70",
+    "position": "T63",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T63",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -666,22 +666,31 @@
     "order": 74
   },
   {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "6",
-    "golfer": "Chandler Blanchet",
-    "owner": "",
-    "order": 75
-  },
-  {
-    "position": "T70",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 76
+  },
+  {
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "11",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T77",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Chandler Blanchet",
+    "owner": "",
+    "order": 75
   },
   {
     "position": "T77",
@@ -700,15 +709,6 @@
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T77",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
