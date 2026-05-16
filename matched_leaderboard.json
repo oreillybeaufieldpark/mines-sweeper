@@ -84,7 +84,7 @@
     "position": "T10",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 10
@@ -219,7 +219,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 25
@@ -684,22 +684,22 @@
     "order": 76
   },
   {
-    "position": "T77",
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "16",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 78
+  },
+  {
+    "position": "78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 77
-  },
-  {
-    "position": "T77",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 78
   },
   {
     "position": "-",
