@@ -66,7 +66,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 8
@@ -174,7 +174,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 21
@@ -246,7 +246,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 28
@@ -414,15 +414,6 @@
     "order": 46
   },
   {
-    "position": "T49",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 47
-  },
-  {
     "position": "T42",
     "score": "+1",
     "score_num": 1,
@@ -439,6 +430,15 @@
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 53
+  },
+  {
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 47
   },
   {
     "position": "T49",
