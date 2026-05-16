@@ -147,15 +147,6 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "14",
-    "golfer": "Martin Kaymer",
-    "owner": "",
-    "order": 15
-  },
-  {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
     "thru": "8",
     "golfer": "Corey Conners",
     "owner": "",
@@ -192,7 +183,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:40",
+    "thru": "1",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 23
@@ -225,7 +216,16 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "15",
+    "golfer": "Martin Kaymer",
+    "owner": "",
+    "order": 15
+  },
+  {
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -234,7 +234,7 @@
     "order": 20
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -243,7 +243,7 @@
     "order": 22
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -306,7 +306,7 @@
     "order": 38
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -363,7 +363,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 40
@@ -507,6 +507,15 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
+    "thru": "16",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
     "thru": "15",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
@@ -522,7 +531,7 @@
     "order": 68
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -531,7 +540,7 @@
     "order": 55
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +549,7 @@
     "order": 57
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 58
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 59
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +576,7 @@
     "order": 60
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +585,7 @@
     "order": 61
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -585,16 +594,7 @@
     "order": 63
   },
   {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
