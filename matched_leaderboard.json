@@ -18,16 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -36,7 +36,7 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -45,7 +45,7 @@
     "order": 5
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:10",
@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:10",
@@ -63,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -171,7 +171,16 @@
     "order": 19
   },
   {
-    "position": "T20",
+    "position": "T10",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "6",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 26
+  },
+  {
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -216,16 +225,7 @@
     "order": 25
   },
   {
-    "position": "T20",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "5",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -234,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -252,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -345,7 +345,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 39
@@ -459,25 +459,16 @@
     "order": 51
   },
   {
-    "position": "T47",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "10",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 56
-  },
-  {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 52
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -486,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -495,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -504,16 +495,25 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "10",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 56
+  },
+  {
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 57
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
