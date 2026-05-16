@@ -351,7 +351,16 @@
     "order": 39
   },
   {
-    "position": "T40",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "15",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 46
+  },
+  {
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T40",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T40",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T40",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T40",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,22 +405,13 @@
     "order": 44
   },
   {
-    "position": "T40",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 45
-  },
-  {
-    "position": "T40",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "14",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 46
   },
   {
     "position": "T47",
@@ -669,7 +669,7 @@
     "position": "T64",
     "score": "+4",
     "score_num": 4,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 75
