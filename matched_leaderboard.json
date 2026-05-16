@@ -102,7 +102,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 12
@@ -237,7 +237,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 27
@@ -246,7 +246,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 28
@@ -408,7 +408,7 @@
     "position": "T42",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 46
