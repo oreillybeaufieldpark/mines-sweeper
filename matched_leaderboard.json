@@ -147,7 +147,7 @@
     "position": "T17",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 16
@@ -588,7 +588,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "William Mouw",
     "owner": "",
     "order": 65
@@ -621,7 +621,16 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "8",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -630,7 +639,7 @@
     "order": 53
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -639,7 +648,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -648,16 +657,7 @@
     "order": 71
   },
   {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T70",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
