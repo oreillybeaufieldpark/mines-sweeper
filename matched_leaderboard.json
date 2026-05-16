@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-5",
     "score_num": -5,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
@@ -252,15 +252,6 @@
     "order": 37
   },
   {
-    "position": "T30",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "13",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 39
-  },
-  {
     "position": "T22",
     "score": "-1",
     "score_num": -1,
@@ -358,6 +349,15 @@
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 38
+  },
+  {
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 39
   },
   {
     "position": "T30",
@@ -567,25 +567,25 @@
     "order": 63
   },
   {
-    "position": "T52",
-    "score": "+3",
-    "score_num": 3,
+    "position": "T64",
+    "score": "+4",
+    "score_num": 4,
     "thru": "17",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 64
   },
   {
-    "position": "T65",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "16",
+    "position": "T64",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "17",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 65
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
