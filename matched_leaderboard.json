@@ -27,15 +27,6 @@
     "order": 3
   },
   {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "11",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 4
-  },
-  {
     "position": "T2",
     "score": "-4",
     "score_num": -4,
@@ -63,7 +54,16 @@
     "order": 9
   },
   {
-    "position": "T8",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "12",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 4
+  },
+  {
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -282,15 +282,6 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
     "thru": "10",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
@@ -306,7 +297,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -315,7 +306,7 @@
     "order": 26
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -324,7 +315,7 @@
     "order": 27
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -333,7 +324,16 @@
     "order": 33
   },
   {
-    "position": "T35",
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "12",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -954,22 +954,13 @@
     "order": 111
   },
   {
-    "position": "T78",
+    "position": "78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T78",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
@@ -1035,7 +1026,16 @@
     "order": 118
   },
   {
-    "position": "80",
+    "position": "T79",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T79",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
