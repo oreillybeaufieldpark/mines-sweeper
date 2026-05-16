@@ -318,7 +318,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 36
@@ -363,7 +363,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 41
@@ -381,7 +381,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 43
@@ -489,7 +489,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 55
