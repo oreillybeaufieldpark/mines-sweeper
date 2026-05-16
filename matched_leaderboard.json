@@ -75,7 +75,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 9
@@ -576,6 +576,15 @@
     "order": 64
   },
   {
+    "position": "T54",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Kurt Kitayama",
+    "owner": "Simon Smyth",
+    "order": 77
+  },
+  {
     "position": "T66",
     "score": "+4",
     "score_num": 4,
@@ -664,15 +673,6 @@
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 74
-  },
-  {
-    "position": "T54",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "13",
-    "golfer": "Kurt Kitayama",
-    "owner": "Simon Smyth",
-    "order": 77
   },
   {
     "position": "T76",
