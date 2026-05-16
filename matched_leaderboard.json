@@ -255,6 +255,15 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
+    "thru": "16",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 37
+  },
+  {
+    "position": "T22",
+    "score": "-1",
+    "score_num": -1,
     "thru": "13",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
@@ -270,7 +279,7 @@
     "order": 41
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -279,7 +288,7 @@
     "order": 28
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -340,15 +349,6 @@
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 36
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 37
   },
   {
     "position": "T32",
