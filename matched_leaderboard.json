@@ -246,15 +246,6 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "14",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 28
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
     "thru": "11",
     "golfer": "Stephan Jaeger",
     "owner": "",
@@ -270,7 +261,16 @@
     "order": 39
   },
   {
-    "position": "T31",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "15",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 28
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -342,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -351,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "10",
