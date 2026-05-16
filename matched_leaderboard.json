@@ -624,7 +624,7 @@
     "position": "T65",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:24",
+    "thru": "1",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 70
@@ -633,7 +633,7 @@
     "position": "T65",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:24",
+    "thru": "1",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 71
@@ -669,15 +669,6 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "7",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 75
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
     "thru": "6",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
@@ -696,13 +687,22 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "John Parry",
     "owner": "",
     "order": 78
   },
   {
-    "position": "T79",
+    "position": "T78",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
