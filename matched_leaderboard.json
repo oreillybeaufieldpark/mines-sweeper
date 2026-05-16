@@ -318,15 +318,6 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 37
-  },
-  {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
     "thru": "16:00",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
@@ -459,7 +450,7 @@
     "order": 62
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -468,7 +459,16 @@
     "order": 34
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "5",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 37
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -522,16 +522,16 @@
     "order": 58
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -540,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -549,7 +549,7 @@
     "order": 63
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -624,7 +624,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 70
@@ -1152,15 +1152,6 @@
     "order": 129
   },
   {
-    "position": "82",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+10",
     "score_num": 10,
@@ -1195,6 +1186,15 @@
     "golfer": "Sudarshan Yellamaraju",
     "owner": "",
     "order": 133
+  },
+  {
+    "position": "82",
+    "score": "+11",
+    "score_num": 11,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
