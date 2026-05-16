@@ -1,6 +1,8 @@
 import json, re, unicodedata
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import requests
@@ -33,6 +35,34 @@ def score_to_num(score):
         return 0
     return int(str(score).replace("+", ""))
 
+def irish_tee_time(status):
+    tee = status.get("teeTime")
+    if not tee:
+        return ""
+
+    try:
+        dt = datetime.fromisoformat(
+            tee.replace("Z", "+00:00")
+        )
+        ie = dt.astimezone(
+            ZoneInfo("Europe/Dublin")
+        )
+        return ie.strftime("%H:%M")
+    except Exception:
+        return ""
+
+def display_thru(status):
+    typ = status.get("type", {})
+    state = typ.get("state")
+
+    if typ.get("completed"):
+        return "F"
+
+    if state == "in" and status.get("thru") not in (None, "", 0):
+        return str(status.get("thru"))
+
+    return irish_tee_time(status)
+
 def load_one(item):
     athlete = get_json(item["athlete"]["$ref"])
     score = get_json(item["score"]["$ref"])
@@ -47,16 +77,7 @@ def load_one(item):
         "position": status.get(
             "position", {}
         ).get("displayName", ""),
-        "thru": (
-            "F"
-            if status.get("type", {}).get("completed")
-            else (
-                str(status.get("thru"))
-                if status.get("type", {}).get("state") == "in"
-                and status.get("thru") not in (None, "", 0)
-                else ""
-            )
-        ),
+        "thru": display_thru(status),
         "order": item.get("order", 9999),
     }
 
