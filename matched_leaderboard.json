@@ -262,9 +262,9 @@
   },
   {
     "position": "T30",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "2",
+    "score": "E",
+    "score_num": 0,
+    "thru": "3",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 30
@@ -670,15 +670,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "3",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 75
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "3",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 76
@@ -844,6 +835,15 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
+  },
+  {
+    "position": "T72",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Daniel Berger",
+    "owner": "",
+    "order": 75
   },
   {
     "position": "-",
