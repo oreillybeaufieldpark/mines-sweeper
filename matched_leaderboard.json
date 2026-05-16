@@ -219,7 +219,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 26
@@ -450,16 +450,16 @@
     "order": 50
   },
   {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "9",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "10",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 51
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
