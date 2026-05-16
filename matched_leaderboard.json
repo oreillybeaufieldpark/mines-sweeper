@@ -228,7 +228,7 @@
     "position": "T18",
     "score": "-1",
     "score_num": -1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 30
@@ -345,6 +345,15 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
+    "thru": "15",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 41
+  },
+  {
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
     "thru": "5",
     "golfer": "Bud Cauley",
     "owner": "",
@@ -376,15 +385,6 @@
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 40
-  },
-  {
-    "position": "T29",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "14",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 41
   },
   {
     "position": "T42",
@@ -450,16 +450,7 @@
     "order": 52
   },
   {
-    "position": "T42",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "17:10",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -468,7 +459,7 @@
     "order": 44
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -477,7 +468,16 @@
     "order": 45
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "1",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -486,7 +486,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -495,7 +495,16 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "5",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -504,7 +513,7 @@
     "order": 60
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -513,7 +522,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -522,7 +531,7 @@
     "order": 75
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -531,7 +540,7 @@
     "order": 54
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -540,7 +549,7 @@
     "order": 56
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -549,16 +558,7 @@
     "order": 58
   },
   {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "4",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 59
-  },
-  {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -594,7 +594,7 @@
     "order": 68
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -603,7 +603,7 @@
     "order": 69
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -612,7 +612,7 @@
     "order": 70
   },
   {
-    "position": "T59",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
