@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T17",
+    "position": "T9",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -345,7 +345,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 38
@@ -390,7 +390,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "16:20",
+    "thru": "1",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 43
@@ -606,7 +606,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 70
@@ -675,16 +675,16 @@
     "order": 75
   },
   {
-    "position": "T76",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "F",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
