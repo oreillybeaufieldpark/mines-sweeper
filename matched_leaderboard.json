@@ -390,22 +390,22 @@
     "position": "T30",
     "score": "+1",
     "score_num": 1,
+    "thru": "7",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T30",
+    "score": "+1",
+    "score_num": 1,
     "thru": "2",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 45
   },
   {
-    "position": "T45",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "6",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:42",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:51",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:00",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:33",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:33",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:00",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:42",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14:51",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:20",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:20",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -558,7 +558,7 @@
     "order": 64
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -678,7 +678,7 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 76
@@ -693,16 +693,16 @@
     "order": 77
   },
   {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "2",
+    "position": "T78",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 78
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
