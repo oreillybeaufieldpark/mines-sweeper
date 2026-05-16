@@ -399,13 +399,22 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
+    "thru": "17",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
     "thru": "15",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,22 +423,13 @@
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 46
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 48
   },
   {
     "position": "T49",
