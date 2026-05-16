@@ -318,15 +318,6 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "17:20",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 36
-  },
-  {
-    "position": "T29",
-    "score": "E",
-    "score_num": 0,
     "thru": "17:30",
     "golfer": "Rico Hoey",
     "owner": "",
@@ -387,7 +378,16 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T43",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "1",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 36
+  },
+  {
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -405,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -414,7 +414,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -594,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
