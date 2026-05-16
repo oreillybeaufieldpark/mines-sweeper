@@ -192,15 +192,6 @@
     "position": "T22",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 22
-  },
-  {
-    "position": "T22",
-    "score": "E",
-    "score_num": 0,
     "thru": "17:10",
     "golfer": "Daniel Hillier",
     "owner": "",
@@ -270,7 +261,16 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T30",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 22
+  },
+  {
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:00",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:30",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:10",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "15:50",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:00",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:20",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:30",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:10",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:20",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -579,7 +579,7 @@
     "position": "T65",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 65
