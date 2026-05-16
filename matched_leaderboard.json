@@ -498,7 +498,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 56
@@ -597,22 +597,22 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 67
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
     "thru": "14",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "F",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -1116,15 +1116,6 @@
     "order": 126
   },
   {
-    "position": "81",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 81
-  },
-  {
     "position": "-",
     "score": "+9",
     "score_num": 9,
@@ -1150,6 +1141,15 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
+  },
+  {
+    "position": "81",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
