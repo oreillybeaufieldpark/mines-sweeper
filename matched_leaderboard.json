@@ -21,7 +21,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 3
@@ -219,13 +219,22 @@
     "position": "T18",
     "score": "-1",
     "score_num": -1,
+    "thru": "13",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
     "thru": "6",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -243,7 +252,7 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -252,16 +261,7 @@
     "order": 27
   },
   {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "12",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 28
-  },
-  {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -394,15 +394,6 @@
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 44
-  },
-  {
-    "position": "T40",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "9",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 45
   },
   {
     "position": "T40",
@@ -477,7 +468,16 @@
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "10",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 45
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -495,16 +495,7 @@
     "order": 55
   },
   {
-    "position": "T54",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -513,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -522,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -531,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -540,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -549,7 +540,16 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
