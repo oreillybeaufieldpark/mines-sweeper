@@ -630,6 +630,15 @@
     "order": 70
   },
   {
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 72
+  },
+  {
     "position": "T72",
     "score": "+4",
     "score_num": 4,
@@ -637,15 +646,6 @@
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 71
-  },
-  {
-    "position": "T63",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "9",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 72
   },
   {
     "position": "T72",
