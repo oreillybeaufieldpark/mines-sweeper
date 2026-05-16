@@ -660,28 +660,10 @@
     "position": "T70",
     "score": "+4",
     "score_num": 4,
-    "thru": "13:30",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "13:48",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 75
-  },
-  {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
     "thru": "1",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
-    "order": 76
+    "order": 74
   },
   {
     "position": "T70",
@@ -690,7 +672,34 @@
     "thru": "1",
     "golfer": "Brian Campbell",
     "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "1",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 76
+  },
+  {
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13:30",
+    "golfer": "Daniel Berger",
+    "owner": "",
     "order": 77
+  },
+  {
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13:48",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "T70",
@@ -699,7 +708,7 @@
     "thru": "13:30",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
-    "order": 78
+    "order": 79
   },
   {
     "position": "T70",
@@ -708,7 +717,7 @@
     "thru": "13:39",
     "golfer": "Elvis Smylie",
     "owner": "",
-    "order": 79
+    "order": 80
   },
   {
     "position": "T70",
@@ -717,15 +726,6 @@
     "thru": "13:39",
     "golfer": "Luke Donald",
     "owner": "",
-    "order": 80
-  },
-  {
-    "position": "T70",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "13:21",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
     "order": 81
   },
   {
