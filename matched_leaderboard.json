@@ -426,7 +426,7 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 48
@@ -693,7 +693,16 @@
     "order": 78
   },
   {
-    "position": "T78",
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "6",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 80
+  },
+  {
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,16 +711,7 @@
     "order": 79
   },
   {
-    "position": "T78",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 80
-  },
-  {
-    "position": "T78",
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
