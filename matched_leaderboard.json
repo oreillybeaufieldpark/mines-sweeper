@@ -648,7 +648,16 @@
     "order": 72
   },
   {
-    "position": "T73",
+    "position": "T65",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "6",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 77
+  },
+  {
+    "position": "T74",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -657,25 +666,16 @@
     "order": 74
   },
   {
-    "position": "T73",
+    "position": "T74",
     "score": "+4",
     "score_num": 4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 76
   },
   {
-    "position": "T73",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "5",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 77
-  },
-  {
-    "position": "T73",
+    "position": "T74",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -684,7 +684,7 @@
     "order": 78
   },
   {
-    "position": "T73",
+    "position": "T74",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -1053,15 +1053,6 @@
     "order": 118
   },
   {
-    "position": "82",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+8",
     "score_num": 8,
@@ -1159,6 +1150,15 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
+  },
+  {
+    "position": "82",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
