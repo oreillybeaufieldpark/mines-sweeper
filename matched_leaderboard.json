@@ -145,9 +145,9 @@
   },
   {
     "position": "T9",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "10",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "11",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 17
@@ -363,7 +363,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 40
@@ -435,7 +435,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "16:20",
+    "thru": "1",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 48
@@ -580,15 +580,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "14",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 65
@@ -621,7 +612,16 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -630,7 +630,7 @@
     "order": 66
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,7 +639,7 @@
     "order": 69
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -666,16 +666,16 @@
     "order": 74
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 75
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
