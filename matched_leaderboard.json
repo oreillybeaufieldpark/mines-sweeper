@@ -183,15 +183,6 @@
     "position": "T11",
     "score": "-2",
     "score_num": -2,
-    "thru": "10",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 22
-  },
-  {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
     "thru": "8",
     "golfer": "Stephan Jaeger",
     "owner": "",
@@ -207,7 +198,7 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -216,7 +207,16 @@
     "order": 11
   },
   {
-    "position": "T24",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "11",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 22
+  },
+  {
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -396,7 +396,16 @@
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "15",
+    "golfer": "Andrew Putnam",
+    "owner": "",
+    "order": 49
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -423,22 +432,13 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 48
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "14",
-    "golfer": "Andrew Putnam",
-    "owner": "",
-    "order": 49
   },
   {
     "position": "T50",
