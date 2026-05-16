@@ -606,10 +606,19 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
+    "thru": "1",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
     "thru": "13:12",
     "golfer": "William Mouw",
     "owner": "",
-    "order": 68
+    "order": 69
   },
   {
     "position": "T68",
@@ -618,7 +627,7 @@
     "thru": "13:30",
     "golfer": "Daniel Berger",
     "owner": "",
-    "order": 69
+    "order": 70
   },
   {
     "position": "T68",
@@ -696,19 +705,10 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "1",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 79
-  },
-  {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
     "thru": "13:39",
     "golfer": "Luke Donald",
     "owner": "",
-    "order": 80
+    "order": 79
   },
   {
     "position": "T68",
@@ -717,7 +717,7 @@
     "thru": "12:54",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
-    "order": 81
+    "order": 80
   },
   {
     "position": "T68",
@@ -726,7 +726,7 @@
     "thru": "13:21",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
-    "order": 82
+    "order": 81
   },
   {
     "position": "82",
@@ -735,7 +735,7 @@
     "thru": "CUT",
     "golfer": "Jhonattan Vegas",
     "owner": "",
-    "order": 70
+    "order": 82
   },
   {
     "position": "-",
