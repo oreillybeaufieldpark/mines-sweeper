@@ -381,15 +381,6 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
     "thru": "4",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
@@ -414,7 +405,16 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
