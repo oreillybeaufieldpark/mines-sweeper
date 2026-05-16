@@ -210,7 +210,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 26
@@ -408,7 +408,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 46
@@ -435,7 +435,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 50
@@ -462,7 +462,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 52
@@ -606,7 +606,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 67
