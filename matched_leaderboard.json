@@ -387,7 +387,16 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "6",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 52
+  },
+  {
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -396,7 +405,7 @@
     "order": 42
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -405,7 +414,7 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -423,7 +432,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -432,7 +441,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -450,16 +459,7 @@
     "order": 51
   },
   {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 52
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -468,7 +468,7 @@
     "order": 55
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -589,21 +589,21 @@
     "score": "+3",
     "score_num": 3,
     "thru": "11",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 66
-  },
-  {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "11",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "12",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "17",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
