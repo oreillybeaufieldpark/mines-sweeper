@@ -84,13 +84,22 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
+    "thru": "16",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 13
+  },
+  {
+    "position": "T3",
+    "score": "-3",
+    "score_num": -3,
     "thru": "11",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 14
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -99,7 +108,7 @@
     "order": 10
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -108,7 +117,7 @@
     "order": 11
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -117,16 +126,7 @@
     "order": 12
   },
   {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "15",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 13
-  },
-  {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -144,16 +144,16 @@
     "order": 16
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:20",
+    "thru": "1",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 17
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:30",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:30",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:40",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:40",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "13",
