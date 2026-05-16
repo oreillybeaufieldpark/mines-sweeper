@@ -291,7 +291,7 @@
     "position": "T32",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 33
@@ -657,15 +657,6 @@
     "order": 73
   },
   {
-    "position": "T76",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 74
-  },
-  {
     "position": "T72",
     "score": "+4",
     "score_num": 4,
@@ -682,6 +673,15 @@
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 76
+  },
+  {
+    "position": "T76",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 74
   },
   {
     "position": "T76",
@@ -1152,6 +1152,15 @@
     "order": 129
   },
   {
+    "position": "82",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
+  },
+  {
     "position": "-",
     "score": "+10",
     "score_num": 10,
@@ -1186,15 +1195,6 @@
     "golfer": "Sudarshan Yellamaraju",
     "owner": "",
     "order": 133
-  },
-  {
-    "position": "82",
-    "score": "+11",
-    "score_num": 11,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
   },
   {
     "position": "-",
