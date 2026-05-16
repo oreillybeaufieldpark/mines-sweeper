@@ -198,16 +198,16 @@
     "order": 22
   },
   {
-    "position": "T23",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
+    "position": "T17",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "6",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 24
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -216,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -225,7 +225,7 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -234,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -252,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -558,7 +558,16 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 69
+  },
+  {
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -576,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -603,16 +612,7 @@
     "order": 68
   },
   {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 69
-  },
-  {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -642,7 +642,7 @@
     "position": "T71",
     "score": "+4",
     "score_num": 4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 71
@@ -651,7 +651,7 @@
     "position": "T71",
     "score": "+4",
     "score_num": 4,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 73
