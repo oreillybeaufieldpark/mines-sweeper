@@ -1,6 +1,15 @@
 [
   {
-    "position": "T1",
+    "position": "1",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "15",
+    "golfer": "Alex Smalley",
+    "owner": "",
+    "order": 7
+  },
+  {
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -9,7 +18,7 @@
     "order": 1
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -18,7 +27,7 @@
     "order": 2
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -36,7 +45,7 @@
     "order": 4
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -45,22 +54,13 @@
     "order": 5
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "14",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 6
-  },
-  {
-    "position": "T1",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "14",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 7
   },
   {
     "position": "T8",
