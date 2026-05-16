@@ -3,7 +3,7 @@
     "position": "T1",
     "score": "-5",
     "score_num": -5,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
@@ -84,7 +84,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 10
@@ -246,7 +246,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 29
@@ -345,7 +345,7 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 39
@@ -577,9 +577,9 @@
   },
   {
     "position": "T65",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 65
