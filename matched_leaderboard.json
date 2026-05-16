@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -567,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T44",
     "score": "+3",
     "score_num": 3,
     "thru": "13:57",
@@ -576,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:06",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -603,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "13:57",
@@ -612,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "14:06",
@@ -702,16 +702,16 @@
     "order": 78
   },
   {
-    "position": "T79",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "7",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "80",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
