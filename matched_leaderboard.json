@@ -174,6 +174,15 @@
     "position": "T10",
     "score": "-2",
     "score_num": -2,
+    "thru": "15",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 21
+  },
+  {
+    "position": "T10",
+    "score": "-2",
+    "score_num": -2,
     "thru": "9",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
@@ -198,7 +207,7 @@
     "order": 31
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -207,16 +216,7 @@
     "order": 20
   },
   {
-    "position": "T23",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "14",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 21
-  },
-  {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 22
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -234,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -297,7 +297,7 @@
     "order": 38
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -306,7 +306,7 @@
     "order": 40
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -372,7 +372,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 41
@@ -597,7 +597,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 67
@@ -963,7 +963,7 @@
     "order": 111
   },
   {
-    "position": "T79",
+    "position": "79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -972,7 +972,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "81",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -1044,7 +1044,7 @@
     "order": 118
   },
   {
-    "position": "81",
+    "position": "80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
