@@ -27,7 +27,16 @@
     "order": 3
   },
   {
-    "position": "T4",
+    "position": "T1",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "1",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 10
+  },
+  {
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -36,7 +45,7 @@
     "order": 4
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -45,7 +54,7 @@
     "order": 5
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -54,7 +63,7 @@
     "order": 6
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "6",
@@ -63,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -72,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -81,16 +90,7 @@
     "order": 9
   },
   {
-    "position": "T4",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "19:10",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 10
-  },
-  {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "19:10",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -426,15 +426,6 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 46
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
     "thru": "15",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
@@ -475,6 +466,15 @@
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 56
+  },
+  {
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 46
   },
   {
     "position": "T54",
@@ -585,6 +585,15 @@
     "order": 67
   },
   {
+    "position": "T58",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "16",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 76
+  },
+  {
     "position": "T67",
     "score": "+4",
     "score_num": 4,
@@ -594,7 +603,7 @@
     "order": 64
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -603,7 +612,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +621,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -673,15 +682,6 @@
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 75
-  },
-  {
-    "position": "T58",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "15",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "77",
