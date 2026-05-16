@@ -111,7 +111,7 @@
     "position": "T11",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 12
@@ -288,7 +288,16 @@
     "order": 32
   },
   {
-    "position": "T33",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 41
+  },
+  {
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -360,16 +369,7 @@
     "order": 40
   },
   {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 41
-  },
-  {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -579,7 +579,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 64
