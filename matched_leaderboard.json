@@ -21,22 +21,22 @@
     "position": "T1",
     "score": "-4",
     "score_num": -4,
-    "thru": "6",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 3
-  },
-  {
-    "position": "T1",
-    "score": "-4",
-    "score_num": -4,
     "thru": "3",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 4
   },
   {
-    "position": "T5",
+    "position": "T4",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "7",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 3
+  },
+  {
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -45,7 +45,7 @@
     "order": 5
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -63,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "11",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "9",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "6",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "5",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T5",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "4",
