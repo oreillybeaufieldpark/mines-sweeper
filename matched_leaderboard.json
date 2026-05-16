@@ -507,13 +507,22 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
+    "thru": "15",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 67
+  },
+  {
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
     "thru": "9",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 68
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -522,7 +531,7 @@
     "order": 55
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +540,7 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +549,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +576,7 @@
     "order": 61
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -576,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -594,16 +603,7 @@
     "order": 66
   },
   {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 67
-  },
-  {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
