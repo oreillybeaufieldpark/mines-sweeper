@@ -525,8 +525,8 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "4",
-    "golfer": "Michael Brennan",
+    "thru": "5",
+    "golfer": "Alex Noren",
     "owner": "",
     "order": 59
   },
@@ -534,7 +534,7 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 60
@@ -543,91 +543,10 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "13:57",
-    "golfer": "Padraig Harrington",
+    "thru": "4",
+    "golfer": "Michael Brennan",
     "owner": "",
     "order": 61
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "13:48",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 62
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:06",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 63
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:24",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:24",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "13:57",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 66
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:15",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 67
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:15",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 68
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:06",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "5",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 70
   },
   {
     "position": "T59",
@@ -636,7 +555,7 @@
     "thru": "3",
     "golfer": "Taylor Pendrith",
     "owner": "",
-    "order": 71
+    "order": 62
   },
   {
     "position": "T59",
@@ -645,7 +564,88 @@
     "thru": "1",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
-    "order": 79
+    "order": 63
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13:57",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13:48",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:06",
+    "golfer": "Chris Kirk",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:24",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:24",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13:57",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 69
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:15",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 70
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:15",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 71
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14:06",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 72
   },
   {
     "position": "T73",
@@ -654,7 +654,7 @@
     "thru": "3",
     "golfer": "Johnny Keefer",
     "owner": "",
-    "order": 72
+    "order": 73
   },
   {
     "position": "T73",
@@ -663,7 +663,7 @@
     "thru": "2",
     "golfer": "William Mouw",
     "owner": "",
-    "order": 73
+    "order": 74
   },
   {
     "position": "T73",
@@ -671,15 +671,6 @@
     "score_num": 4,
     "thru": "2",
     "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T73",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "1",
-    "golfer": "Brian Campbell",
     "owner": "",
     "order": 75
   },
@@ -690,7 +681,7 @@
     "thru": "1",
     "golfer": "Daniel Berger",
     "owner": "",
-    "order": 77
+    "order": 76
   },
   {
     "position": "T73",
@@ -699,7 +690,7 @@
     "thru": "13:48",
     "golfer": "John Parry",
     "owner": "",
-    "order": 78
+    "order": 77
   },
   {
     "position": "T73",
@@ -708,34 +699,34 @@
     "thru": "13:39",
     "golfer": "Elvis Smylie",
     "owner": "",
-    "order": 80
+    "order": 78
   },
   {
     "position": "T73",
     "score": "+4",
     "score_num": 4,
-    "thru": "13:39",
+    "thru": "1",
     "golfer": "Luke Donald",
     "owner": "",
-    "order": 81
+    "order": 79
   },
   {
-    "position": "T81",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 76
-  },
-  {
-    "position": "T81",
+    "position": "T80",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Jhonattan Vegas",
     "owner": "",
-    "order": 82
+    "order": 80
+  },
+  {
+    "position": "T80",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 81
   },
   {
     "position": "-",
@@ -853,6 +844,15 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
+  },
+  {
+    "position": "82",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
