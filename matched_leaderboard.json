@@ -165,7 +165,7 @@
     "position": "T19",
     "score": "-1",
     "score_num": -1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 19
@@ -252,7 +252,16 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "5",
+    "golfer": "Matti Schmid",
+    "owner": "",
+    "order": 35
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -279,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -306,16 +315,7 @@
     "order": 34
   },
   {
-    "position": "T29",
-    "score": "E",
-    "score_num": 0,
-    "thru": "4",
-    "golfer": "Matti Schmid",
-    "owner": "",
-    "order": 35
-  },
-  {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
