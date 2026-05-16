@@ -165,7 +165,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 19
@@ -273,13 +273,22 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
+    "thru": "13",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 42
+  },
+  {
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
     "thru": "9",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 46
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +315,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 34
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -342,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -351,16 +360,7 @@
     "order": 41
   },
   {
-    "position": "T32",
-    "score": "E",
-    "score_num": 0,
-    "thru": "12",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 42
-  },
-  {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -369,7 +369,7 @@
     "order": 43
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -378,7 +378,7 @@
     "order": 44
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "9",
