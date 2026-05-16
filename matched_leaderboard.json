@@ -165,28 +165,10 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "7",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 20
-  },
-  {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
     "thru": "5",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 21
-  },
-  {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "3",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 22
   },
   {
     "position": "T14",
@@ -228,13 +210,31 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 34
   },
   {
-    "position": "T27",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "8",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 20
+  },
+  {
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "4",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 22
+  },
+  {
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -453,7 +453,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 55
