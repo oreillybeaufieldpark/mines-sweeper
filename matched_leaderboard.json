@@ -282,13 +282,22 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
+    "thru": "16",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 40
+  },
+  {
+    "position": "T22",
+    "score": "-1",
+    "score_num": -1,
     "thru": "14",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 41
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 31
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +315,7 @@
     "order": 32
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 34
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 36
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,22 +360,13 @@
     "order": 37
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 38
-  },
-  {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 40
   },
   {
     "position": "T42",
@@ -408,7 +408,7 @@
     "position": "T42",
     "score": "+1",
     "score_num": 1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 46
