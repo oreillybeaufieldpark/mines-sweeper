@@ -57,7 +57,7 @@
     "position": "T5",
     "score": "-3",
     "score_num": -3,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 8
@@ -93,7 +93,7 @@
     "position": "T5",
     "score": "-3",
     "score_num": -3,
-    "thru": "19:20",
+    "thru": "1",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 12
@@ -102,7 +102,7 @@
     "position": "T5",
     "score": "-3",
     "score_num": -3,
-    "thru": "19:20",
+    "thru": "1",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 13
@@ -297,6 +297,15 @@
     "order": 40
   },
   {
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "7",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 42
+  },
+  {
     "position": "T35",
     "score": "E",
     "score_num": 0,
@@ -363,25 +372,16 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 41
   },
   {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "7",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 42
-  },
-  {
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 43
@@ -579,7 +579,7 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 65
