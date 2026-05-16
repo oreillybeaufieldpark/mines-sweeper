@@ -183,7 +183,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 22
@@ -309,7 +309,7 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 34
@@ -381,22 +381,22 @@
     "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T38",
-    "score": "E",
-    "score_num": 0,
     "thru": "9",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
