@@ -462,7 +462,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 52
@@ -489,7 +489,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 55
@@ -567,16 +567,16 @@
     "order": 63
   },
   {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "12",
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "13",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -612,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "4",
