@@ -1,15 +1,6 @@
 [
   {
-    "position": "T1",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "17",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 1
-  },
-  {
-    "position": "T1",
+    "position": "1",
     "score": "-5",
     "score_num": -5,
     "thru": "15",
@@ -18,7 +9,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "F",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 1
+  },
+  {
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "10",
@@ -27,7 +27,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -84,7 +84,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 10
@@ -255,15 +255,6 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 29
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
     "thru": "11",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
@@ -279,7 +270,16 @@
     "order": 42
   },
   {
-    "position": "T32",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 29
+  },
+  {
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -360,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -414,25 +414,7 @@
     "order": 46
   },
   {
-    "position": "T42",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 53
-  },
-  {
-    "position": "T48",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "16",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 47
-  },
-  {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -441,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +441,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +459,25 @@
     "order": 52
   },
   {
-    "position": "T54",
+    "position": "T52",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "17",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 47
+  },
+  {
+    "position": "T52",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "17",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 53
+  },
+  {
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T54",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
