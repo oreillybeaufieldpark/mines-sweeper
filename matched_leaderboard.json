@@ -48,7 +48,7 @@
     "position": "T5",
     "score": "-3",
     "score_num": -3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 5
@@ -372,16 +372,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 44
-  },
-  {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 48
@@ -396,7 +387,7 @@
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -405,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -414,7 +405,16 @@
     "order": 43
   },
   {
-    "position": "T45",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 44
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -459,7 +459,7 @@
     "order": 55
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
