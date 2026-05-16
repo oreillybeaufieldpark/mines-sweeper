@@ -417,22 +417,13 @@
     "position": "T42",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 48
-  },
-  {
-    "position": "T42",
-    "score": "+1",
-    "score_num": 1,
     "thru": "16",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -441,7 +432,16 @@
     "order": 47
   },
   {
-    "position": "T49",
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "11",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
