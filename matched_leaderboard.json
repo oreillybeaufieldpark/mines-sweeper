@@ -108,7 +108,16 @@
     "order": 11
   },
   {
-    "position": "T13",
+    "position": "T8",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "9",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 25
+  },
+  {
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -117,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +171,7 @@
     "order": 18
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "14",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "13",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "13",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -216,16 +225,7 @@
     "order": 24
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "8",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 25
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -243,10 +243,10 @@
     "order": 27
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 28
@@ -414,15 +414,6 @@
     "order": 45
   },
   {
-    "position": "T51",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 46
-  },
-  {
     "position": "T45",
     "score": "+1",
     "score_num": 1,
@@ -462,13 +453,22 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
+    "thru": "17",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
     "thru": "F",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
