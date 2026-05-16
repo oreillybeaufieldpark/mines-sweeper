@@ -219,7 +219,7 @@
     "position": "T25",
     "score": "E",
     "score_num": 0,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 25
@@ -450,7 +450,16 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "2",
+    "golfer": "Martin Kaymer",
+    "owner": "",
+    "order": 62
+  },
+  {
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -459,7 +468,7 @@
     "order": 34
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -477,16 +486,7 @@
     "order": 53
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "7",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -531,16 +531,7 @@
     "order": 59
   },
   {
-    "position": "T63",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 60
-  },
-  {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -549,22 +540,40 @@
     "order": 61
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Martin Kaymer",
-    "owner": "",
-    "order": 62
-  },
-  {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 63
+  },
+  {
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "13",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "8",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 54
+  },
+  {
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "2",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 60
   },
   {
     "position": "T63",
@@ -592,15 +601,6 @@
     "golfer": "William Mouw",
     "owner": "",
     "order": 66
-  },
-  {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "12",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 67
   },
   {
     "position": "T63",
@@ -667,9 +667,9 @@
   },
   {
     "position": "T72",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 75
