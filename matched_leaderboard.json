@@ -327,7 +327,7 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 37
@@ -450,7 +450,16 @@
     "order": 50
   },
   {
-    "position": "T51",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Andrew Putnam",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,22 +486,13 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 54
-  },
-  {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "11",
-    "golfer": "Andrew Putnam",
-    "owner": "",
-    "order": 56
   },
   {
     "position": "T56",
