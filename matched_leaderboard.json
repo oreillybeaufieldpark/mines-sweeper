@@ -75,7 +75,7 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 9
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T51",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -459,7 +459,7 @@
     "order": 60
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -468,7 +468,7 @@
     "order": 50
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -522,25 +522,25 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 58
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -570,7 +570,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 63
@@ -1188,15 +1188,6 @@
     "order": 133
   },
   {
-    "position": "82",
-    "score": "+11",
-    "score_num": 11,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+11",
     "score_num": 11,
@@ -1231,6 +1222,15 @@
     "golfer": "Paul McClure",
     "owner": "",
     "order": 137
+  },
+  {
+    "position": "82",
+    "score": "+12",
+    "score_num": 12,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
