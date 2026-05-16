@@ -211,15 +211,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "6",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 24
-  },
-  {
-    "position": "T20",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "6",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 25
@@ -306,7 +297,16 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "7",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 24
+  },
+  {
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -324,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -342,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -612,16 +612,16 @@
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
