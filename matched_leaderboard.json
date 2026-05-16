@@ -291,7 +291,7 @@
     "position": "T28",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 32
@@ -378,15 +378,6 @@
     "order": 42
   },
   {
-    "position": "T44",
-    "score": "E",
-    "score_num": 0,
-    "thru": "3",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 43
-  },
-  {
     "position": "T36",
     "score": "E",
     "score_num": 0,
@@ -394,6 +385,15 @@
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 44
+  },
+  {
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 43
   },
   {
     "position": "T44",
@@ -468,7 +468,7 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -477,7 +477,7 @@
     "order": 50
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -597,7 +597,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 67
@@ -669,7 +669,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 75
