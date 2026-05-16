@@ -156,7 +156,7 @@
     "position": "T11",
     "score": "-2",
     "score_num": -2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 19
@@ -174,7 +174,7 @@
     "position": "T11",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 21
@@ -426,22 +426,22 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
     "thru": "16",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 48
   },
   {
-    "position": "T50",
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "F",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
