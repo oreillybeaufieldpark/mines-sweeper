@@ -189,7 +189,16 @@
     "order": 21
   },
   {
-    "position": "T22",
+    "position": "T13",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 30
+  },
+  {
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,22 +261,13 @@
     "order": 28
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 29
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 30
   },
   {
     "position": "T31",
