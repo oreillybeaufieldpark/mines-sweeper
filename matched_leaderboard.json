@@ -279,7 +279,16 @@
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T23",
+    "score": "E",
+    "score_num": 0,
+    "thru": "5",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 52
+  },
+  {
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -288,7 +297,7 @@
     "order": 23
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:00",
@@ -315,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -324,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:30",
@@ -333,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:10",
@@ -342,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "15:50",
@@ -351,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:00",
@@ -360,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:20",
@@ -369,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:30",
@@ -378,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -387,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -396,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -405,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:10",
@@ -414,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:20",
@@ -423,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -432,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,16 +450,7 @@
     "order": 50
   },
   {
-    "position": "T32",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "4",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 52
-  },
-  {
-    "position": "T32",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -480,7 +480,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 53
@@ -594,15 +594,6 @@
     "order": 66
   },
   {
-    "position": "T71",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "3",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 67
-  },
-  {
     "position": "T63",
     "score": "+3",
     "score_num": 3,
@@ -637,6 +628,15 @@
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 72
+  },
+  {
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "4",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 67
   },
   {
     "position": "T71",
