@@ -543,6 +543,15 @@
     "position": "T44",
     "score": "+2",
     "score_num": 2,
+    "thru": "3",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T44",
+    "score": "+2",
+    "score_num": 2,
     "thru": "1",
     "golfer": "Padraig Harrington",
     "owner": "",
@@ -565,15 +574,6 @@
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 63
-  },
-  {
-    "position": "T44",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 64
   },
   {
     "position": "T63",
