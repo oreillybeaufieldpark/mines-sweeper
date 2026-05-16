@@ -156,7 +156,7 @@
     "position": "T18",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 18
@@ -255,7 +255,7 @@
     "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 27
@@ -963,6 +963,15 @@
     "order": 111
   },
   {
+    "position": "79",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 80
+  },
+  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1026,7 +1035,7 @@
     "order": 118
   },
   {
-    "position": "T79",
+    "position": "T80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1035,13 +1044,13 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
-    "golfer": "Elvis Smylie",
+    "golfer": "Luke Donald",
     "owner": "",
-    "order": 80
+    "order": 81
   },
   {
     "position": "-",
@@ -1114,15 +1123,6 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 126
-  },
-  {
-    "position": "81",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
