@@ -516,7 +516,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 57
@@ -570,7 +570,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 63
@@ -597,13 +597,22 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
+    "thru": "16",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
     "thru": "14",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -612,7 +621,7 @@
     "order": 64
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -621,7 +630,7 @@
     "order": 65
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -630,7 +639,7 @@
     "order": 66
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -639,16 +648,7 @@
     "order": 69
   },
   {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "15",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -657,16 +657,16 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 74
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
