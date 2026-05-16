@@ -75,7 +75,7 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 9
@@ -432,7 +432,7 @@
     "order": 50
   },
   {
-    "position": "T34",
+    "position": "T51",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -459,7 +459,7 @@
     "order": 58
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -477,7 +477,7 @@
     "order": 36
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -486,7 +486,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -495,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -504,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -513,7 +513,7 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -522,7 +522,7 @@
     "order": 60
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -531,7 +531,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -540,7 +540,7 @@
     "order": 62
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -549,7 +549,7 @@
     "order": 63
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -558,7 +558,7 @@
     "order": 64
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -567,7 +567,7 @@
     "order": 65
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -576,7 +576,7 @@
     "order": 70
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -625,21 +625,21 @@
     "score": "+3",
     "score_num": 3,
     "thru": "10",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 69
-  },
-  {
-    "position": "T66",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "10",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 73
   },
   {
-    "position": "T72",
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "11",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 69
+  },
+  {
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -657,7 +657,7 @@
     "order": 74
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
