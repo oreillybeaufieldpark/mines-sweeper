@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -234,7 +234,7 @@
     "order": 34
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "11",
@@ -243,7 +243,7 @@
     "order": 36
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "5",
@@ -414,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -432,22 +432,31 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 50
+  },
+  {
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 56
   },
   {
     "position": "T52",
@@ -484,15 +493,6 @@
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 54
-  },
-  {
-    "position": "T47",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 56
   },
   {
     "position": "T52",
