@@ -30,7 +30,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 4
@@ -133,15 +133,6 @@
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 15
-  },
-  {
-    "position": "T27",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "17",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 16
   },
   {
     "position": "T13",
@@ -247,6 +238,15 @@
     "score": "-1",
     "score_num": -1,
     "thru": "F",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 16
+  },
+  {
+    "position": "T27",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 26
@@ -273,7 +273,7 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 29
@@ -504,15 +504,6 @@
     "order": 56
   },
   {
-    "position": "T59",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 57
-  },
-  {
     "position": "T52",
     "score": "+2",
     "score_num": 2,
@@ -529,6 +520,15 @@
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 59
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 57
   },
   {
     "position": "T59",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T60",
+    "position": "T68",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T76",
+    "position": "77",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T68",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
