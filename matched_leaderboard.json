@@ -220,15 +220,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "5",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 26
-  },
-  {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "4",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 27
@@ -252,6 +243,15 @@
     "order": 29
   },
   {
+    "position": "T11",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "5",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 39
+  },
+  {
     "position": "T29",
     "score": "-1",
     "score_num": -1,
@@ -259,6 +259,15 @@
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 19
+  },
+  {
+    "position": "T29",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "6",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 26
   },
   {
     "position": "T29",
@@ -342,15 +351,6 @@
     "order": 38
   },
   {
-    "position": "T29",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "4",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 39
-  },
-  {
     "position": "T40",
     "score": "E",
     "score_num": 0,
@@ -400,15 +400,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "14",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 45
-  },
-  {
-    "position": "T40",
-    "score": "E",
-    "score_num": 0,
-    "thru": "14",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 46
@@ -423,7 +414,16 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 45
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -489,15 +489,6 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
     "thru": "10",
     "golfer": "Andrew Putnam",
     "owner": "",
@@ -513,7 +504,16 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T57",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "17",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
