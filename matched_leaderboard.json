@@ -1,6 +1,6 @@
 [
   {
-    "position": "1",
+    "position": "T1",
     "score": "-5",
     "score_num": -5,
     "thru": "14",
@@ -9,7 +9,25 @@
     "order": 1
   },
   {
-    "position": "T2",
+    "position": "T1",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "16",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 4
+  },
+  {
+    "position": "T1",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "9",
+    "golfer": "Chris Gotterup",
+    "owner": "Michael Murray",
+    "order": 5
+  },
+  {
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -18,31 +36,13 @@
     "order": 2
   },
   {
-    "position": "T2",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 3
-  },
-  {
-    "position": "T2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "15",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 4
-  },
-  {
-    "position": "T2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "8",
-    "golfer": "Chris Gotterup",
-    "owner": "Michael Murray",
-    "order": 5
   },
   {
     "position": "T6",
