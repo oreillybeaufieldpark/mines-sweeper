@@ -588,7 +588,7 @@
     "position": "T65",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 66
@@ -640,9 +640,9 @@
   },
   {
     "position": "T65",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "9",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 72
@@ -693,7 +693,16 @@
     "order": 78
   },
   {
-    "position": "T78",
+    "position": "T73",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "8",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,16 +711,7 @@
     "order": 75
   },
   {
-    "position": "T78",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 79
-  },
-  {
-    "position": "T78",
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T78",
+    "position": "T79",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
