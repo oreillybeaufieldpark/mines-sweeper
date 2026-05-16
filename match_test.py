@@ -51,9 +51,20 @@ def irish_tee_time(status):
     except Exception:
         return ""
 
-def display_thru(status):
+def display_thru(status, score_display):
     typ = status.get("type", {})
     state = typ.get("state")
+
+    try:
+        score_num = (
+            0 if score_display == "E"
+            else int(str(score_display).replace("+", ""))
+        )
+    except:
+        score_num = 999
+
+    if score_num > 4:
+        return "CUT"
 
     if typ.get("completed"):
         return "F"
@@ -77,7 +88,10 @@ def load_one(item):
         "position": status.get(
             "position", {}
         ).get("displayName", ""),
-        "thru": display_thru(status),
+        "thru": display_thru(
+            status,
+            score.get("displayValue", "")
+        ),
         "order": item.get("order", 9999),
     }
 
