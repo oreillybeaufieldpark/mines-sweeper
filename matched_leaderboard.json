@@ -282,15 +282,6 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 32
-  },
-  {
-    "position": "T29",
-    "score": "E",
-    "score_num": 0,
     "thru": "5",
     "golfer": "Bud Cauley",
     "owner": "",
@@ -387,7 +378,16 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T43",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 32
+  },
+  {
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -396,7 +396,7 @@
     "order": 36
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 42
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -414,7 +414,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -579,7 +579,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 64
