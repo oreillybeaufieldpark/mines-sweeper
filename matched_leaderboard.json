@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-5",
     "score_num": -5,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
@@ -84,7 +84,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 10
@@ -441,16 +441,16 @@
     "order": 49
   },
   {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "13",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "14",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 50
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -666,7 +666,16 @@
     "order": 74
   },
   {
-    "position": "T75",
+    "position": "T65",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13",
+    "golfer": "Kurt Kitayama",
+    "owner": "Simon Smyth",
+    "order": 77
+  },
+  {
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -675,22 +684,13 @@
     "order": 75
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 76
-  },
-  {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Kurt Kitayama",
-    "owner": "Simon Smyth",
-    "order": 77
   },
   {
     "position": "-",
