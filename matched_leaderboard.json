@@ -489,7 +489,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 55
@@ -516,7 +516,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 61
@@ -597,15 +597,6 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 67
-  },
-  {
-    "position": "T59",
-    "score": "+3",
-    "score_num": 3,
     "thru": "11",
     "golfer": "Keith Mitchell",
     "owner": "",
@@ -639,7 +630,16 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "17",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 67
+  },
+  {
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -657,7 +657,7 @@
     "order": 74
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
