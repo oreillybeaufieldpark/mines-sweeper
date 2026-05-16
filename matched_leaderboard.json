@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -396,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -457,6 +457,15 @@
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 52
+  },
+  {
+    "position": "T43",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 55
   },
   {
     "position": "T44",
@@ -493,15 +502,6 @@
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 54
-  },
-  {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 55
   },
   {
     "position": "T54",
