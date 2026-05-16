@@ -21,7 +21,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 3
@@ -153,7 +153,16 @@
     "order": 17
   },
   {
-    "position": "T18",
+    "position": "T10",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "7",
+    "golfer": "Xander Schauffele",
+    "owner": "Finbarr Callaly",
+    "order": 20
+  },
+  {
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -162,7 +171,7 @@
     "order": 18
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -171,16 +180,7 @@
     "order": 19
   },
   {
-    "position": "T18",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "6",
-    "golfer": "Xander Schauffele",
-    "owner": "Finbarr Callaly",
-    "order": 20
-  },
-  {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -963,13 +963,22 @@
     "order": 111
   },
   {
-    "position": "79",
+    "position": "T79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 79
+  },
+  {
+    "position": "T79",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 80
   },
   {
     "position": "-",
@@ -1035,16 +1044,7 @@
     "order": 118
   },
   {
-    "position": "T80",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 80
-  },
-  {
-    "position": "T80",
+    "position": "81",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
