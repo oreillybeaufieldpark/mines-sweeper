@@ -84,15 +84,6 @@
     "position": "T8",
     "score": "-3",
     "score_num": -3,
-    "thru": "9",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 10
-  },
-  {
-    "position": "T8",
-    "score": "-3",
-    "score_num": -3,
     "thru": "8",
     "golfer": "Max Greyserman",
     "owner": "",
@@ -108,7 +99,16 @@
     "order": 12
   },
   {
-    "position": "T13",
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "10",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 10
+  },
+  {
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "15",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "14",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -390,7 +390,7 @@
     "position": "T37",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 44
@@ -426,7 +426,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 48
