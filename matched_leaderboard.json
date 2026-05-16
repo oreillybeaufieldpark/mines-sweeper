@@ -462,15 +462,6 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "14:42",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T48",
-    "score": "+2",
-    "score_num": 2,
     "thru": "14:51",
     "golfer": "Tom Hoge",
     "owner": "",
@@ -511,15 +502,6 @@
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 57
-  },
-  {
-    "position": "T64",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 58
   },
   {
     "position": "T48",
@@ -576,6 +558,33 @@
     "order": 64
   },
   {
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 72
+  },
+  {
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 52
+  },
+  {
+    "position": "T64",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 58
+  },
+  {
     "position": "T64",
     "score": "+3",
     "score_num": 3,
@@ -588,7 +597,7 @@
     "position": "T64",
     "score": "+3",
     "score_num": 3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 66
@@ -637,15 +646,6 @@
     "golfer": "Brian Harman",
     "owner": "",
     "order": 71
-  },
-  {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 72
   },
   {
     "position": "T64",
