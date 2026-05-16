@@ -711,13 +711,22 @@
     "order": 79
   },
   {
-    "position": "80",
+    "position": "T80",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 80
+  },
+  {
+    "position": "T80",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
@@ -837,16 +846,7 @@
     "order": 95
   },
   {
-    "position": "T81",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 81
-  },
-  {
-    "position": "T81",
+    "position": "82",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
