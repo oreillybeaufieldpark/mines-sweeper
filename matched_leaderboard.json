@@ -39,7 +39,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 5
@@ -471,15 +471,6 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
     "thru": "16",
     "golfer": "Ryo Hisatsune",
     "owner": "",
@@ -493,6 +484,15 @@
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 55
+  },
+  {
+    "position": "T50",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "F",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 53
   },
   {
     "position": "T56",
