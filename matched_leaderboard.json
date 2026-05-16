@@ -12,7 +12,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 1
@@ -93,7 +93,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 10
@@ -192,7 +192,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 22
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T37",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -387,10 +387,10 @@
     "order": 43
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 47
@@ -426,16 +426,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "14",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 49
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 50
@@ -444,7 +435,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 51
@@ -462,13 +453,22 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
+    "thru": "15",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 49
+  },
+  {
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
     "thru": "F",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
