@@ -228,7 +228,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 27
@@ -336,7 +336,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 37
@@ -405,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -414,7 +423,7 @@
     "order": 44
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,25 +432,16 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 48
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
