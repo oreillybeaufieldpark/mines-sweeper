@@ -379,15 +379,6 @@
   },
   {
     "position": "T43",
-    "score": "E",
-    "score_num": 0,
-    "thru": "9",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 45
-  },
-  {
-    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -412,6 +403,15 @@
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 40
+  },
+  {
+    "position": "T43",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "10",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 45
   },
   {
     "position": "T43",
