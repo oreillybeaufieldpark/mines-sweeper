@@ -597,19 +597,10 @@
     "position": "T64",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 67
-  },
-  {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "6",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 68
   },
   {
     "position": "T64",
@@ -630,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "7",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 68
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -648,16 +648,16 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
-    "thru": "7",
+    "thru": "8",
     "golfer": "John Parry",
     "owner": "",
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
