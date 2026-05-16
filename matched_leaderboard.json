@@ -459,6 +459,15 @@
     "order": 52
   },
   {
+    "position": "T33",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "1",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 56
+  },
+  {
     "position": "T53",
     "score": "+2",
     "score_num": 2,
@@ -480,7 +489,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:00",
+    "thru": "1",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 54
@@ -493,15 +502,6 @@
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 55
-  },
-  {
-    "position": "T33",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15:00",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 56
   },
   {
     "position": "T53",
@@ -579,7 +579,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 65
