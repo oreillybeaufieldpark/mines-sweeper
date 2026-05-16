@@ -162,7 +162,16 @@
     "order": 18
   },
   {
-    "position": "T19",
+    "position": "T10",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 32
+  },
+  {
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -216,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -225,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -234,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -261,7 +270,7 @@
     "order": 35
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 29
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -279,7 +288,7 @@
     "order": 30
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -288,16 +297,7 @@
     "order": 31
   },
   {
-    "position": "T30",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 32
-  },
-  {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -315,16 +315,16 @@
     "order": 34
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 36
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -342,16 +342,16 @@
     "order": 38
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "17:30",
+    "thru": "1",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 39
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T30",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -378,7 +378,16 @@
     "order": 42
   },
   {
-    "position": "T30",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "13",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 45
+  },
+  {
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -387,7 +396,7 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,25 +405,7 @@
     "order": 43
   },
   {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "13",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "12",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 45
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -432,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -441,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -450,7 +441,16 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "14",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -459,7 +459,7 @@
     "order": 49
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,16 +477,16 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
