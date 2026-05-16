@@ -369,7 +369,25 @@
     "order": 41
   },
   {
-    "position": "T43",
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
+    "thru": "9",
+    "golfer": "Martin Kaymer",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
+    "thru": "3",
+    "golfer": "Nick Taylor",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -387,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -396,7 +414,7 @@
     "order": 44
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -405,16 +423,7 @@
     "order": 45
   },
   {
-    "position": "T29",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "8",
-    "golfer": "Martin Kaymer",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -432,22 +441,13 @@
     "order": 48
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 49
-  },
-  {
-    "position": "T43",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "2",
-    "golfer": "Nick Taylor",
-    "owner": "",
-    "order": 50
   },
   {
     "position": "T51",
@@ -471,7 +471,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 53
@@ -531,7 +531,16 @@
     "order": 59
   },
   {
-    "position": "T60",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "9",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 67
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -576,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -594,16 +603,7 @@
     "order": 66
   },
   {
-    "position": "T60",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "8",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 67
-  },
-  {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -651,7 +651,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 73
