@@ -688,15 +688,6 @@
     "score": "+4",
     "score_num": 4,
     "thru": "1",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 76
-  },
-  {
-    "position": "T73",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "1",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 77
@@ -729,7 +720,16 @@
     "order": 81
   },
   {
-    "position": "82",
+    "position": "T81",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 76
+  },
+  {
+    "position": "T81",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
