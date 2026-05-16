@@ -183,15 +183,6 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 21
-  },
-  {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
     "thru": "10",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
@@ -252,7 +243,16 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T15",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "10",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 21
+  },
+  {
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -324,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
