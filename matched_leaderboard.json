@@ -184,15 +184,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "1",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 20
-  },
-  {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "1",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 21
@@ -234,7 +225,16 @@
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "2",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 20
+  },
+  {
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -243,7 +243,7 @@
     "order": 22
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,16 +252,16 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -306,7 +306,7 @@
     "order": 38
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -390,7 +390,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 44
