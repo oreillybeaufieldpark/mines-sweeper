@@ -75,15 +75,6 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 9
-  },
-  {
-    "position": "T9",
-    "score": "-2",
-    "score_num": -2,
     "thru": "18:20",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
@@ -144,7 +135,7 @@
     "order": 16
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -153,7 +144,7 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -162,7 +153,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -171,7 +162,7 @@
     "order": 19
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -180,7 +171,7 @@
     "order": 20
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -189,7 +180,7 @@
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -198,7 +189,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -207,7 +198,7 @@
     "order": 23
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -216,7 +207,16 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "E",
+    "score_num": 0,
+    "thru": "10",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 9
+  },
+  {
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -543,7 +543,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:50",
+    "thru": "1",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 63
