@@ -516,15 +516,6 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "14:51",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 61
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
     "thru": "15:20",
     "golfer": "Sam Stevens",
     "owner": "",
@@ -558,6 +549,15 @@
     "order": 72
   },
   {
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 73
+  },
+  {
     "position": "T63",
     "score": "+3",
     "score_num": 3,
@@ -576,7 +576,16 @@
     "order": 58
   },
   {
-    "position": "T64",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 61
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -603,7 +612,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -633,13 +642,13 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
-    "golfer": "Rasmus H\u00f8jgaard",
+    "thru": "9",
+    "golfer": "William Mouw",
     "owner": "",
-    "order": 73
+    "order": 74
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -648,16 +657,7 @@
     "order": 50
   },
   {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "8",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -666,7 +666,7 @@
     "order": 75
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -675,7 +675,7 @@
     "order": 77
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
