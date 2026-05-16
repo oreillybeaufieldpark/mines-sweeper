@@ -540,7 +540,16 @@
     "order": 60
   },
   {
-    "position": "T62",
+    "position": "T44",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "1",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -549,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T44",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -567,16 +576,7 @@
     "order": 64
   },
   {
-    "position": "T44",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "13:57",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:06",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -603,16 +603,16 @@
     "order": 68
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "13:57",
+    "thru": "1",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 69
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:15",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14:06",
@@ -669,7 +669,7 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 75
