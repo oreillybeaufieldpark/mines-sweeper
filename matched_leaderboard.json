@@ -216,7 +216,16 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "9",
+    "golfer": "Nick Taylor",
+    "owner": "",
+    "order": 31
+  },
+  {
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -225,7 +234,7 @@
     "order": 15
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -234,7 +243,7 @@
     "order": 20
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -243,7 +252,7 @@
     "order": 22
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -270,16 +279,7 @@
     "order": 30
   },
   {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
-    "golfer": "Nick Taylor",
-    "owner": "",
-    "order": 31
-  },
-  {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -306,7 +306,7 @@
     "order": 38
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -405,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T36",
+    "score": "E",
+    "score_num": 0,
+    "thru": "13",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 47
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,16 +423,7 @@
     "order": 45
   },
   {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "12",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 47
-  },
-  {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,16 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "4",
-    "golfer": "Andrew Putnam",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -459,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -468,7 +459,16 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "5",
+    "golfer": "Andrew Putnam",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,16 +477,16 @@
     "order": 52
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -495,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -504,7 +504,7 @@
     "order": 64
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -513,7 +513,7 @@
     "order": 65
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -522,7 +522,7 @@
     "order": 67
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
