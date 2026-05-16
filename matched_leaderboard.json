@@ -183,15 +183,6 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 21
-  },
-  {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
     "thru": "8",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
@@ -243,7 +234,16 @@
     "order": 27
   },
   {
-    "position": "T28",
+    "position": "T27",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "12",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 21
+  },
+  {
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,16 +288,16 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
