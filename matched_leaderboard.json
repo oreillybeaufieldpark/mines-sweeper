@@ -237,6 +237,15 @@
     "position": "T16",
     "score": "-2",
     "score_num": -2,
+    "thru": "16",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T16",
+    "score": "-2",
+    "score_num": -2,
     "thru": "11",
     "golfer": "Cameron Smith",
     "owner": "",
@@ -252,7 +261,7 @@
     "order": 39
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -261,7 +270,7 @@
     "order": 21
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +288,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,16 +297,16 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -306,7 +315,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -315,16 +324,7 @@
     "order": 33
   },
   {
-    "position": "T29",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
