@@ -624,15 +624,6 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "12:45",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 70
-  },
-  {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
     "thru": "13:48",
     "golfer": "John Parry",
     "owner": "",
@@ -705,7 +696,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "12:45",
+    "thru": "1",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 79
@@ -736,6 +727,15 @@
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 82
+  },
+  {
+    "position": "82",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 70
   },
   {
     "position": "-",
