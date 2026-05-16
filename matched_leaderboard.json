@@ -72,25 +72,25 @@
     "order": 8
   },
   {
-    "position": "T9",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "12",
+    "position": "T3",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "13",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 9
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 10
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "18:20",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "18:30",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "18:30",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "18:40",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-2",
     "score_num": -2,
     "thru": "18:40",
@@ -417,15 +417,6 @@
     "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T40",
-    "score": "+1",
-    "score_num": 1,
     "thru": "1",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
@@ -477,7 +468,16 @@
     "order": 61
   },
   {
-    "position": "T54",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -504,16 +504,16 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -606,7 +606,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 68
