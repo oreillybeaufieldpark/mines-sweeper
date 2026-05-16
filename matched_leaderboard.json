@@ -99,7 +99,16 @@
     "order": 12
   },
   {
-    "position": "T12",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "7",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 24
+  },
+  {
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -108,7 +117,7 @@
     "order": 3
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -117,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -162,7 +171,7 @@
     "order": 18
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "14",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -189,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -198,16 +207,7 @@
     "order": 23
   },
   {
-    "position": "T12",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "6",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 24
-  },
-  {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -216,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T12",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "5",
@@ -225,7 +225,16 @@
     "order": 26
   },
   {
-    "position": "T12",
+    "position": "T13",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "13",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 33
+  },
+  {
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -234,7 +243,7 @@
     "order": 35
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -243,7 +252,7 @@
     "order": 21
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -252,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +288,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -297,16 +306,7 @@
     "order": 32
   },
   {
-    "position": "T27",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "12",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 33
-  },
-  {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
