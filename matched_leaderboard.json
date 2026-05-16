@@ -525,7 +525,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 58
@@ -561,7 +561,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 62
@@ -574,15 +574,6 @@
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 63
-  },
-  {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 65
   },
   {
     "position": "T62",
@@ -612,7 +603,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -621,7 +612,16 @@
     "order": 64
   },
   {
-    "position": "T69",
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -630,16 +630,16 @@
     "order": 66
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -972,15 +972,6 @@
     "order": 111
   },
   {
-    "position": "80",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 80
-  },
-  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1044,7 +1035,16 @@
     "order": 118
   },
   {
-    "position": "81",
+    "position": "T80",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 80
+  },
+  {
+    "position": "T80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
