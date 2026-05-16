@@ -21,7 +21,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 3
@@ -54,7 +54,16 @@
     "order": 6
   },
   {
-    "position": "T7",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "14",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 9
+  },
+  {
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -63,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -72,16 +81,7 @@
     "order": 8
   },
   {
-    "position": "T7",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "13",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 9
-  },
-  {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "9",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -318,7 +318,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 36
@@ -417,7 +417,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 47
