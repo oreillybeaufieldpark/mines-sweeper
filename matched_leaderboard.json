@@ -229,15 +229,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "7",
-    "golfer": "Matti Schmid",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "7",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 27
@@ -315,7 +306,16 @@
     "order": 46
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "8",
+    "golfer": "Matti Schmid",
+    "owner": "",
+    "order": 26
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -324,7 +324,7 @@
     "order": 33
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -414,7 +414,7 @@
     "order": 48
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -597,7 +597,7 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 68
