@@ -408,22 +408,22 @@
     "position": "T41",
     "score": "E",
     "score_num": 0,
-    "thru": "9",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T41",
-    "score": "E",
-    "score_num": 0,
     "thru": "6",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "10",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -810,15 +810,6 @@
     "order": 95
   },
   {
-    "position": "78",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 78
-  },
-  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -963,7 +954,16 @@
     "order": 111
   },
   {
-    "position": "79",
+    "position": "T78",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 78
+  },
+  {
+    "position": "T78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
