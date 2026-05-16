@@ -300,16 +300,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T34",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 35
@@ -459,7 +450,16 @@
     "order": 51
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "12",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:20",
@@ -549,16 +549,16 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:20",
+    "thru": "1",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 62
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -597,7 +597,7 @@
     "position": "T66",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "William Mouw",
     "owner": "",
     "order": 66
