@@ -207,6 +207,15 @@
     "order": 24
   },
   {
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "7",
+    "golfer": "Alex Smalley",
+    "owner": "",
+    "order": 37
+  },
+  {
     "position": "T25",
     "score": "-1",
     "score_num": -1,
@@ -304,15 +313,6 @@
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 36
-  },
-  {
-    "position": "T12",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "6",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 37
   },
   {
     "position": "T36",
