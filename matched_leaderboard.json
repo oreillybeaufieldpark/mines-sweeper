@@ -84,7 +84,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 10
@@ -351,16 +351,16 @@
     "order": 39
   },
   {
-    "position": "T30",
-    "score": "E",
-    "score_num": 0,
-    "thru": "12",
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 40
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T41",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -453,7 +453,7 @@
     "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 51
