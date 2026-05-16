@@ -183,7 +183,7 @@
     "position": "T18",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 21
@@ -435,7 +435,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 48
@@ -693,15 +693,6 @@
     "order": 77
   },
   {
-    "position": "78",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 78
-  },
-  {
     "position": "-",
     "score": "+5",
     "score_num": 5,
@@ -817,6 +808,15 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
+  },
+  {
+    "position": "78",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "-",
