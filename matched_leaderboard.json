@@ -36,7 +36,7 @@
     "order": 4
   },
   {
-    "position": "T2",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -63,7 +63,7 @@
     "order": 12
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -72,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -99,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -210,7 +210,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 23
@@ -219,7 +219,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 24
@@ -417,7 +417,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 48
