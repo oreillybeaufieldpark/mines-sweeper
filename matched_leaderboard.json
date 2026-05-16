@@ -504,15 +504,6 @@
     "order": 56
   },
   {
-    "position": "T62",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 57
-  },
-  {
     "position": "T53",
     "score": "+2",
     "score_num": 2,
@@ -556,6 +547,15 @@
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 62
+  },
+  {
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 57
   },
   {
     "position": "T62",
@@ -633,7 +633,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 71
