@@ -516,7 +516,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 58
@@ -615,7 +615,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 69
@@ -651,31 +651,31 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "11",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 72
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "9",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
     "thru": "13",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 75
   },
   {
-    "position": "T76",
+    "position": "T74",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 72
+  },
+  {
+    "position": "T74",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T76",
+    "position": "T74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
