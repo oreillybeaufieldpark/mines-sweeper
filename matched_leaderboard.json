@@ -21,7 +21,7 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 3
@@ -588,19 +588,10 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 65
-  },
-  {
-    "position": "T57",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "12",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 66
   },
   {
     "position": "T57",
@@ -621,7 +612,16 @@
     "order": 69
   },
   {
-    "position": "T70",
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "13",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
