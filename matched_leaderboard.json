@@ -445,15 +445,6 @@
     "score": "+2",
     "score_num": 2,
     "thru": "14",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "14",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 51
@@ -466,15 +457,6 @@
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 52
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "11",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 53
   },
   {
     "position": "T50",
@@ -567,7 +549,16 @@
     "order": 63
   },
   {
-    "position": "T64",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "15",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -576,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -585,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -594,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -603,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -612,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -621,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T64",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -630,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "12",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
