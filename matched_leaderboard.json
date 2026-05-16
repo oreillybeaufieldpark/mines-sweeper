@@ -102,6 +102,15 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
+    "thru": "10",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 19
+  },
+  {
+    "position": "T4",
+    "score": "-3",
+    "score_num": -3,
     "thru": "5",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
@@ -160,15 +169,6 @@
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 18
-  },
-  {
-    "position": "T4",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "9",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 19
   },
   {
     "position": "T14",
@@ -306,7 +306,16 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "14",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 42
+  },
+  {
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -369,16 +378,7 @@
     "order": 41
   },
   {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "13",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 42
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -426,7 +426,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 47
