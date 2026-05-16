@@ -135,7 +135,16 @@
     "order": 15
   },
   {
-    "position": "T16",
+    "position": "T9",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "9",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 17
+  },
+  {
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -144,16 +153,7 @@
     "order": 16
   },
   {
-    "position": "T16",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 17
-  },
-  {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "16:30",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "16:40",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "16:10",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -453,7 +453,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 52
@@ -561,7 +561,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 64
@@ -579,7 +579,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 66
