@@ -202,21 +202,21 @@
     "score": "-2",
     "score_num": -2,
     "thru": "10",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 23
-  },
-  {
-    "position": "T12",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "10",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "11",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 23
+  },
+  {
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -234,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -297,16 +297,16 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 35
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -315,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -435,7 +435,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 49
@@ -576,16 +576,7 @@
     "order": 64
   },
   {
-    "position": "T55",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "11",
-    "golfer": "Kurt Kitayama",
-    "owner": "Simon Smyth",
-    "order": 65
-  },
-  {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -594,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -603,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +639,7 @@
     "order": 72
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +648,7 @@
     "order": 73
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +657,7 @@
     "order": 74
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +666,16 @@
     "order": 75
   },
   {
-    "position": "T76",
+    "position": "T75",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Kurt Kitayama",
+    "owner": "Simon Smyth",
+    "order": 65
+  },
+  {
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
