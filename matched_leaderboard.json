@@ -327,6 +327,15 @@
     "position": "T25",
     "score": "E",
     "score_num": 0,
+    "thru": "12",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 37
+  },
+  {
+    "position": "T25",
+    "score": "E",
+    "score_num": 0,
     "thru": "5",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
@@ -342,16 +351,7 @@
     "order": 45
   },
   {
-    "position": "T39",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "11",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 37
-  },
-  {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -360,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -369,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -378,7 +378,7 @@
     "order": 40
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -387,7 +387,7 @@
     "order": 41
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -396,16 +396,16 @@
     "order": 43
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 44
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "16:50",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
