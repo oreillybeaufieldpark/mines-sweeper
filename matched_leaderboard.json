@@ -246,22 +246,13 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 29
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
     "thru": "16",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 37
   },
   {
-    "position": "T22",
+    "position": "T30",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -279,7 +270,7 @@
     "order": 41
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +279,16 @@
     "order": 28
   },
   {
-    "position": "T32",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "12",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 29
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 30
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +306,7 @@
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 34
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -360,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T32",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -453,7 +453,7 @@
     "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 51
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T52",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
