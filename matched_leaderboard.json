@@ -423,15 +423,6 @@
     "order": 47
   },
   {
-    "position": "T51",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 48
-  },
-  {
     "position": "T47",
     "score": "+1",
     "score_num": 1,
@@ -462,6 +453,15 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
+    "thru": "6",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
     "thru": "16",
     "golfer": "Kazuki Higa",
     "owner": "",
@@ -480,7 +480,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 55
