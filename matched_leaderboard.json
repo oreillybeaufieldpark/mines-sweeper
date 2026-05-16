@@ -606,15 +606,6 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "6",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 67
-  },
-  {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
     "thru": "5",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
@@ -648,7 +639,7 @@
     "order": 74
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -657,7 +648,16 @@
     "order": 50
   },
   {
-    "position": "T73",
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "7",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -666,7 +666,7 @@
     "order": 75
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -675,7 +675,7 @@
     "order": 77
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
