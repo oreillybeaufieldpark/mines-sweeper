@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-5",
     "score_num": -5,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
@@ -216,16 +216,7 @@
     "order": 24
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "7",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -234,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -243,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -297,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -306,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -315,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -324,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -333,7 +324,16 @@
     "order": 37
   },
   {
-    "position": "T38",
+    "position": "T37",
+    "score": "E",
+    "score_num": 0,
+    "thru": "8",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 26
+  },
+  {
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "12",
