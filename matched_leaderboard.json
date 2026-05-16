@@ -309,15 +309,6 @@
     "position": "T33",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 35
-  },
-  {
-    "position": "T33",
-    "score": "+1",
-    "score_num": 1,
     "thru": "16:00",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
@@ -468,7 +459,16 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 35
+  },
+  {
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -477,7 +477,7 @@
     "order": 51
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -495,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:20",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:20",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T53",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
