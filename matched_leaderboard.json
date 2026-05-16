@@ -355,15 +355,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "11",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 38
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "11",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 39
@@ -414,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 38
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -432,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -441,7 +441,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
