@@ -265,15 +265,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "17",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 30
-  },
-  {
-    "position": "T21",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 31
@@ -288,7 +279,16 @@
     "order": 32
   },
   {
-    "position": "T33",
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 30
+  },
+  {
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -378,7 +378,7 @@
     "order": 46
   },
   {
-    "position": "T33",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "16",
