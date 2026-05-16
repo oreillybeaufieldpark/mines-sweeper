@@ -228,7 +228,7 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 25
@@ -306,7 +306,16 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "2",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 45
+  },
+  {
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -315,7 +324,7 @@
     "order": 24
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -333,7 +342,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -351,7 +360,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -360,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -387,16 +396,7 @@
     "order": 43
   },
   {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "1",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 45
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -405,7 +405,7 @@
     "order": 48
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "9",
