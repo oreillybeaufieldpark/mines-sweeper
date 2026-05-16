@@ -624,22 +624,22 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "3",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -648,16 +648,16 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "1",
+    "thru": "2",
     "golfer": "William Mouw",
     "owner": "",
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "1",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "1",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "13:30",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "13:48",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "13:30",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "13:39",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "13:39",
