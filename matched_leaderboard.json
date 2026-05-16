@@ -588,7 +588,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 65
@@ -972,6 +972,15 @@
     "order": 111
   },
   {
+    "position": "80",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 80
+  },
+  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1035,16 +1044,7 @@
     "order": 118
   },
   {
-    "position": "T80",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 80
-  },
-  {
-    "position": "T80",
+    "position": "81",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
