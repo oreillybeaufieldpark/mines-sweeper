@@ -264,7 +264,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 30
@@ -498,13 +498,22 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
+    "thru": "16",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 64
+  },
+  {
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
     "thru": "9",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 68
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -513,7 +522,7 @@
     "order": 55
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +540,7 @@
     "order": 58
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +549,7 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 61
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -567,16 +576,7 @@
     "order": 63
   },
   {
-    "position": "T57",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 64
-  },
-  {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
