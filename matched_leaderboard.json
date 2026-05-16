@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "16",
@@ -18,7 +18,7 @@
     "order": 2
   },
   {
-    "position": "T1",
+    "position": "1",
     "score": "-4",
     "score_num": -4,
     "thru": "10",
@@ -27,16 +27,16 @@
     "order": 3
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 4
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -45,7 +45,7 @@
     "order": 5
   },
   {
-    "position": "T1",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "5",
@@ -54,7 +54,16 @@
     "order": 6
   },
   {
-    "position": "T7",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "6",
+    "golfer": "Chris Gotterup",
+    "owner": "Michael Murray",
+    "order": 12
+  },
+  {
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -63,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -72,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -81,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -90,22 +99,13 @@
     "order": 10
   },
   {
-    "position": "T7",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 11
-  },
-  {
-    "position": "T7",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "5",
-    "golfer": "Chris Gotterup",
-    "owner": "Michael Murray",
-    "order": 12
   },
   {
     "position": "T13",
@@ -318,7 +318,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 36
@@ -387,7 +387,16 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T38",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -414,16 +423,7 @@
     "order": 46
   },
   {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -579,22 +579,22 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T56",
-    "score": "+3",
-    "score_num": 3,
     "thru": "15",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 66
   },
   {
-    "position": "T67",
+    "position": "T66",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "F",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "17",
