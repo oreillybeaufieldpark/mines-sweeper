@@ -174,7 +174,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 20
@@ -219,16 +219,16 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "19:00",
+    "thru": "1",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 25
   },
   {
     "position": "T14",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 26
@@ -453,7 +453,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 51
@@ -468,7 +468,16 @@
     "order": 52
   },
   {
-    "position": "T53",
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -495,16 +504,7 @@
     "order": 55
   },
   {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -579,7 +579,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 65
