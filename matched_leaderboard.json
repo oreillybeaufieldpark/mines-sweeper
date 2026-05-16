@@ -372,7 +372,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 43
@@ -444,7 +444,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 50
@@ -489,7 +489,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 56
@@ -615,7 +615,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 75
@@ -667,15 +667,6 @@
   },
   {
     "position": "T75",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "16",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 78
-  },
-  {
-    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -700,6 +691,15 @@
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 77
+  },
+  {
+    "position": "T75",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "-",
