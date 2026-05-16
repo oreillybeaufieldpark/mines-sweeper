@@ -27,7 +27,7 @@
     "order": 3
   },
   {
-    "position": "T2",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "11",
@@ -72,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -90,7 +90,7 @@
     "order": 11
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -237,15 +237,6 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 27
-  },
-  {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
     "thru": "F",
     "golfer": "Brian Harman",
     "owner": "",
@@ -315,7 +306,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -324,7 +315,16 @@
     "order": 26
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "8",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 27
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -333,7 +333,7 @@
     "order": 33
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -378,16 +378,16 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "13",
