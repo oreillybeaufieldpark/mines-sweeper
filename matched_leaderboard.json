@@ -369,7 +369,16 @@
     "order": 41
   },
   {
-    "position": "T42",
+    "position": "T33",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T42",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T42",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T42",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,16 +414,7 @@
     "order": 45
   },
   {
-    "position": "T42",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T42",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
