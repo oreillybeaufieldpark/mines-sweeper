@@ -108,16 +108,16 @@
     "order": 12
   },
   {
-    "position": "T7",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "7",
+    "position": "T13",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "8",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 13
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "15",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "14",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -216,16 +216,7 @@
     "order": 24
   },
   {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "8",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 25
-  },
-  {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "7",
@@ -234,7 +225,16 @@
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 25
+  },
+  {
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -471,7 +471,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 54
