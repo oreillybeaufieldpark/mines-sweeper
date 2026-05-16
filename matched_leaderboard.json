@@ -207,7 +207,16 @@
     "order": 23
   },
   {
-    "position": "T24",
+    "position": "T17",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "6",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 25
+  },
+  {
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -216,16 +225,7 @@
     "order": 24
   },
   {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 25
-  },
-  {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -576,7 +576,16 @@
     "order": 64
   },
   {
-    "position": "T65",
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 70
+  },
+  {
+    "position": "T66",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T65",
+    "position": "T66",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T66",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -603,25 +612,16 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T66",
     "score": "+3",
     "score_num": 3,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 69
   },
   {
-    "position": "T65",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 70
-  },
-  {
-    "position": "T65",
+    "position": "T66",
     "score": "+3",
     "score_num": 3,
     "thru": "4",
@@ -630,7 +630,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -639,7 +639,7 @@
     "order": 68
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -657,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -666,7 +666,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
