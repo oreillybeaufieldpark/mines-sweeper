@@ -450,16 +450,16 @@
     "order": 50
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "13",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 51
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "3",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 58
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -513,16 +513,7 @@
     "order": 57
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "2",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 58
-  },
-  {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -531,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -540,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:50",
@@ -549,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -558,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -567,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -576,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:30",
@@ -585,7 +576,16 @@
     "order": 65
   },
   {
-    "position": "T66",
+    "position": "T65",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 51
+  },
+  {
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -639,7 +639,16 @@
     "order": 71
   },
   {
-    "position": "T72",
+    "position": "T65",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Daniel Berger",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -648,16 +657,7 @@
     "order": 72
   },
   {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "9",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
