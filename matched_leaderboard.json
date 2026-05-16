@@ -417,7 +417,7 @@
     "position": "T46",
     "score": "+2",
     "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 47
@@ -567,7 +567,16 @@
     "order": 63
   },
   {
-    "position": "T64",
+    "position": "T46",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "2",
+    "golfer": "Chris Kirk",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -576,16 +585,7 @@
     "order": 64
   },
   {
-    "position": "T64",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "1",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "14:24",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T64",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -684,16 +684,16 @@
     "order": 77
   },
   {
-    "position": "T77",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "9",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 78
   },
   {
-    "position": "T77",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,7 +702,7 @@
     "order": 79
   },
   {
-    "position": "T77",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -711,7 +711,7 @@
     "order": 80
   },
   {
-    "position": "T77",
+    "position": "T78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
