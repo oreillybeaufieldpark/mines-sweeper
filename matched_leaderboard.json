@@ -288,15 +288,6 @@
     "order": 32
   },
   {
-    "position": "T34",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "18:00",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 33
-  },
-  {
     "position": "T24",
     "score": "-1",
     "score_num": -1,
@@ -304,6 +295,15 @@
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 34
+  },
+  {
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "1",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 33
   },
   {
     "position": "T34",
@@ -327,7 +327,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 37
@@ -481,15 +481,6 @@
     "score": "+2",
     "score_num": 2,
     "thru": "11",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 54
-  },
-  {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "10",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 55
@@ -504,7 +495,16 @@
     "order": 56
   },
   {
-    "position": "T57",
+    "position": "T56",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "12",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 54
+  },
+  {
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,16 +540,16 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 61
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
