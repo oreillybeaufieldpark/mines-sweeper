@@ -219,13 +219,22 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
+    "thru": "3",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 30
+  },
+  {
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
     "thru": "2",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -234,7 +243,7 @@
     "order": 24
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -243,7 +252,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -252,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -261,16 +270,7 @@
     "order": 28
   },
   {
-    "position": "T26",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "2",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 30
-  },
-  {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -288,7 +288,7 @@
     "order": 36
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -297,7 +297,7 @@
     "order": 41
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -459,7 +459,7 @@
     "order": 48
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T51",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -486,7 +486,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -495,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -666,7 +666,16 @@
     "order": 74
   },
   {
-    "position": "T75",
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "F",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -675,16 +684,7 @@
     "order": 75
   },
   {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 76
-  },
-  {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
