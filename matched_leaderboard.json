@@ -100,9 +100,9 @@
   },
   {
     "position": "T12",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "16",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "17",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 11
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T13",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
