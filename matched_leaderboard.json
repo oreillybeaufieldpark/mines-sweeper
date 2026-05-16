@@ -36,7 +36,7 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -174,7 +174,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 21
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
