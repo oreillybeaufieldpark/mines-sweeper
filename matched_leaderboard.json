@@ -36,15 +36,6 @@
     "order": 4
   },
   {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "6",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 5
-  },
-  {
     "position": "T2",
     "score": "-4",
     "score_num": -4,
@@ -61,6 +52,15 @@
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
+  },
+  {
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "7",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 5
   },
   {
     "position": "T7",
@@ -90,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -108,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T8",
+    "position": "T7",
     "score": "-3",
     "score_num": -3,
     "thru": "9",
@@ -193,15 +193,6 @@
     "score": "-2",
     "score_num": -2,
     "thru": "13",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 21
-  },
-  {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "13",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 22
@@ -252,7 +243,16 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T28",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "14",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 21
+  },
+  {
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -450,7 +450,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -459,7 +459,7 @@
     "order": 46
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,16 @@
     "order": 54
   },
   {
-    "position": "T55",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,22 +576,13 @@
     "order": 63
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 64
-  },
-  {
-    "position": "T55",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 66
   },
   {
     "position": "T66",
@@ -675,16 +675,16 @@
     "order": 75
   },
   {
-    "position": "T66",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "17",
+    "position": "T76",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 76
   },
   {
-    "position": "77",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
