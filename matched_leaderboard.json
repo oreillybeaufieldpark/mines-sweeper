@@ -444,7 +444,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 58
@@ -462,7 +462,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 36
@@ -504,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -522,7 +522,7 @@
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:40",
@@ -531,7 +531,7 @@
     "order": 62
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -540,16 +540,16 @@
     "order": 63
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:40",
+    "thru": "1",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 64
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -558,7 +558,7 @@
     "order": 65
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -567,7 +567,7 @@
     "order": 70
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -691,15 +691,6 @@
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 77
-  },
-  {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 78
   },
   {
     "position": "T75",
@@ -837,7 +828,16 @@
     "order": 95
   },
   {
-    "position": "81",
+    "position": "T80",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 78
+  },
+  {
+    "position": "T80",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
