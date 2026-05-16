@@ -84,7 +84,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 14
@@ -288,15 +288,6 @@
     "order": 29
   },
   {
-    "position": "T40",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 30
-  },
-  {
     "position": "T28",
     "score": "-1",
     "score_num": -1,
@@ -364,6 +355,15 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 30
+  },
+  {
+    "position": "T40",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 39
@@ -417,7 +417,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 44
