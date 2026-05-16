@@ -336,15 +336,6 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "9",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 38
-  },
-  {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
     "thru": "6",
     "golfer": "Martin Kaymer",
     "owner": "",
@@ -354,7 +345,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 41
@@ -372,7 +363,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 43
@@ -477,7 +468,16 @@
     "order": 59
   },
   {
-    "position": "T54",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "10",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 38
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -486,7 +486,7 @@
     "order": 40
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -495,7 +495,7 @@
     "order": 48
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
