@@ -264,7 +264,7 @@
     "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 29
@@ -408,7 +408,7 @@
     "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 47
@@ -498,7 +498,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 60
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T70",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -606,7 +606,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 69
@@ -630,7 +630,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "17",
@@ -639,7 +639,7 @@
     "order": 67
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -657,7 +657,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -666,7 +666,7 @@
     "order": 75
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -675,7 +675,7 @@
     "order": 73
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T75",
+    "position": "T70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
