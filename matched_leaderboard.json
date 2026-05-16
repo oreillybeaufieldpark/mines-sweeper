@@ -66,7 +66,7 @@
     "position": "T6",
     "score": "-3",
     "score_num": -3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 8
@@ -270,7 +270,16 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 46
+  },
+  {
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -342,16 +351,16 @@
     "order": 38
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 39
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -360,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -369,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -378,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -387,22 +396,13 @@
     "order": 44
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "9",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 45
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 46
   },
   {
     "position": "T46",
