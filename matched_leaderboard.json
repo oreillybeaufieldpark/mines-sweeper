@@ -504,15 +504,6 @@
     "order": 57
   },
   {
-    "position": "T65",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Sam Stevens",
-    "owner": "",
-    "order": 59
-  },
-  {
     "position": "T51",
     "score": "+2",
     "score_num": 2,
@@ -601,6 +592,15 @@
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 56
+  },
+  {
+    "position": "T65",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "2",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 59
   },
   {
     "position": "T65",
