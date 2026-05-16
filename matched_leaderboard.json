@@ -144,16 +144,16 @@
     "order": 16
   },
   {
-    "position": "T17",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "6",
+    "position": "T9",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "7",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:10",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "17:50",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:00",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "18:20",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -471,7 +471,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 53
