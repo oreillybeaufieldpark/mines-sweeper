@@ -603,7 +603,16 @@
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 72
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "1",
@@ -612,7 +621,7 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:12",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:30",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:48",
@@ -639,16 +648,7 @@
     "order": 71
   },
   {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "12:54",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 72
-  },
-  {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:03",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:03",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:12",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:21",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:30",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:39",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:39",
@@ -711,7 +711,7 @@
     "order": 79
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "12:54",
@@ -720,7 +720,7 @@
     "order": 80
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "13:21",
