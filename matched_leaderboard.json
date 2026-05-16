@@ -324,7 +324,7 @@
     "order": 41
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,10 +351,10 @@
     "order": 37
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 39
@@ -603,7 +603,16 @@
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T58",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -612,7 +621,7 @@
     "order": 62
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -648,7 +657,7 @@
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,22 +666,13 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 74
-  },
-  {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "13",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 75
   },
   {
     "position": "T76",
