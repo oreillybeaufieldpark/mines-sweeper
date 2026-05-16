@@ -18,16 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "12",
+    "position": "T1",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "13",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -36,7 +36,7 @@
     "order": 5
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -45,7 +45,7 @@
     "order": 6
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:30",
@@ -54,7 +54,7 @@
     "order": 7
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:10",
@@ -63,7 +63,7 @@
     "order": 8
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:10",
@@ -72,7 +72,7 @@
     "order": 9
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -81,7 +81,7 @@
     "order": 10
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "19:20",
@@ -90,7 +90,7 @@
     "order": 11
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "5",
@@ -99,7 +99,7 @@
     "order": 18
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-3",
     "score_num": -3,
     "thru": "3",
@@ -108,16 +108,7 @@
     "order": 19
   },
   {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "16",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 29
-  },
-  {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -126,7 +117,7 @@
     "order": 3
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +126,7 @@
     "order": 12
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +135,7 @@
     "order": 13
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +144,7 @@
     "order": 14
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -162,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -171,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -180,7 +171,7 @@
     "order": 21
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,7 +180,7 @@
     "order": 23
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -198,7 +189,7 @@
     "order": 24
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -207,7 +198,7 @@
     "order": 25
   },
   {
-    "position": "T14",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -216,7 +207,16 @@
     "order": 26
   },
   {
-    "position": "T14",
+    "position": "T13",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "17",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 29
+  },
+  {
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -300,22 +300,13 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 38
-  },
-  {
-    "position": "T26",
-    "score": "-1",
-    "score_num": -1,
     "thru": "9",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -324,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -333,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +342,16 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 38
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -360,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -369,16 +369,7 @@
     "order": 40
   },
   {
-    "position": "T36",
-    "score": "E",
-    "score_num": 0,
-    "thru": "7",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 42
-  },
-  {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -387,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -396,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -405,7 +396,7 @@
     "order": 46
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -414,7 +405,16 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "8",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 42
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 45
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -450,10 +450,10 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 53
