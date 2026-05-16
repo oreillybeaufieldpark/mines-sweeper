@@ -237,7 +237,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 27
@@ -345,7 +345,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 39
@@ -453,7 +453,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 51
@@ -493,6 +493,15 @@
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 56
+  },
+  {
+    "position": "T56",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 68
   },
   {
     "position": "T56",
@@ -601,15 +610,6 @@
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 67
-  },
-  {
-    "position": "T56",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "8",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 68
   },
   {
     "position": "T56",
