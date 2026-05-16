@@ -261,15 +261,6 @@
     "order": 28
   },
   {
-    "position": "T35",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "3",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 29
-  },
-  {
     "position": "T26",
     "score": "-1",
     "score_num": -1,
@@ -313,6 +304,15 @@
     "golfer": "Haotong Li",
     "owner": "",
     "order": 44
+  },
+  {
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "4",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 29
   },
   {
     "position": "T35",
