@@ -165,15 +165,6 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 19
-  },
-  {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
     "thru": "7",
     "golfer": "Haotong Li",
     "owner": "",
@@ -201,7 +192,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 23
@@ -243,7 +234,7 @@
     "order": 34
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -288,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -297,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T33",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -306,7 +297,16 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T14",
+    "score": "E",
+    "score_num": 0,
+    "thru": "10",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 19
+  },
+  {
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -363,13 +363,13 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -378,7 +378,7 @@
     "order": 44
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -387,7 +387,7 @@
     "order": 48
   },
   {
-    "position": "T35",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -498,7 +498,7 @@
     "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 54
@@ -507,7 +507,7 @@
     "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 57
