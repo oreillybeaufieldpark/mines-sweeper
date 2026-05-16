@@ -354,15 +354,6 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 40
-  },
-  {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
     "thru": "2",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
@@ -421,15 +412,6 @@
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 47
-  },
-  {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "16:30",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 48
   },
   {
     "position": "T35",
@@ -495,7 +477,25 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T54",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "4",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 40
+  },
+  {
+    "position": "T54",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "1",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T56",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -678,7 +678,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 76
