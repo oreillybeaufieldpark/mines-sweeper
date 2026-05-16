@@ -238,15 +238,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "16",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 27
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 28
@@ -268,6 +259,24 @@
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 30
+  },
+  {
+    "position": "T22",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "16",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 38
+  },
+  {
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "17",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 27
   },
   {
     "position": "T31",
@@ -331,15 +340,6 @@
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 37
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 38
   },
   {
     "position": "T31",
