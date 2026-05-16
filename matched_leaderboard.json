@@ -372,7 +372,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 42
@@ -399,13 +399,22 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "7",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 49
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -432,25 +441,16 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 49
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -579,7 +579,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 65
