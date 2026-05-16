@@ -327,7 +327,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 37
@@ -345,7 +345,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 39
@@ -525,15 +525,6 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 59
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
     "thru": "2",
     "golfer": "Dustin Johnson",
     "owner": "",
@@ -549,7 +540,16 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "4",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 59
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -612,16 +612,7 @@
     "order": 68
   },
   {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "4",
-    "golfer": "Chandler Blanchet",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -630,7 +621,16 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "5",
+    "golfer": "Chandler Blanchet",
+    "owner": "",
+    "order": 69
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "13",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
