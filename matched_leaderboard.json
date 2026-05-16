@@ -219,7 +219,7 @@
     "position": "T24",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 25
@@ -417,7 +417,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "16:30",
+    "thru": "1",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 47
@@ -471,6 +471,15 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
+    "thru": "16",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
     "thru": "12",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
@@ -486,16 +495,7 @@
     "order": 59
   },
   {
-    "position": "T55",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,16 +540,16 @@
     "order": 60
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 61
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -606,7 +606,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 68
