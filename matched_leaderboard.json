@@ -207,7 +207,7 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -216,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -234,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -279,16 +279,7 @@
     "order": 32
   },
   {
-    "position": "T36",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "14",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 33
-  },
-  {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -297,7 +288,7 @@
     "order": 34
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -306,7 +297,7 @@
     "order": 35
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -315,7 +306,7 @@
     "order": 36
   },
   {
-    "position": "T24",
+    "position": "T12",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -331,6 +322,15 @@
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 26
+  },
+  {
+    "position": "T36",
+    "score": "E",
+    "score_num": 0,
+    "thru": "15",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 33
   },
   {
     "position": "T36",
