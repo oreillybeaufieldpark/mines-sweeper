@@ -90,16 +90,7 @@
     "order": 10
   },
   {
-    "position": "T7",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "8",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 11
-  },
-  {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -108,7 +99,7 @@
     "order": 12
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -117,7 +108,7 @@
     "order": 13
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +117,7 @@
     "order": 14
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +126,7 @@
     "order": 15
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +135,7 @@
     "order": 16
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +144,7 @@
     "order": 17
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +153,7 @@
     "order": 18
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "16",
@@ -171,7 +162,7 @@
     "order": 19
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "15",
@@ -180,7 +171,7 @@
     "order": 20
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "11",
@@ -189,7 +180,7 @@
     "order": 21
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -198,7 +189,7 @@
     "order": 22
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -207,7 +198,7 @@
     "order": 23
   },
   {
-    "position": "T12",
+    "position": "T11",
     "score": "-2",
     "score_num": -2,
     "thru": "7",
@@ -216,7 +207,16 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 11
+  },
+  {
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
