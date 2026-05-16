@@ -954,22 +954,13 @@
     "order": 111
   },
   {
-    "position": "T78",
+    "position": "78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T78",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
@@ -1035,7 +1026,16 @@
     "order": 118
   },
   {
-    "position": "80",
+    "position": "T79",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T79",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
