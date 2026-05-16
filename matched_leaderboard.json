@@ -435,7 +435,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 62
@@ -552,13 +552,22 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
+    "thru": "2",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
     "thru": "14",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 67
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -567,7 +576,7 @@
     "order": 54
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -576,16 +585,7 @@
     "order": 60
   },
   {
-    "position": "T63",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "1",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -594,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T63",
+    "position": "T64",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -657,7 +657,16 @@
     "order": 75
   },
   {
-    "position": "T74",
+    "position": "T72",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "7",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -666,7 +675,7 @@
     "order": 72
   },
   {
-    "position": "T74",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -675,7 +684,7 @@
     "order": 73
   },
   {
-    "position": "T74",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,22 +693,13 @@
     "order": 76
   },
   {
-    "position": "T74",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 77
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
@@ -835,15 +835,6 @@
     "golfer": "Alex Noren",
     "owner": "",
     "order": 80
-  },
-  {
-    "position": "T79",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
@@ -988,6 +979,15 @@
     "golfer": "J.J. Spaun",
     "owner": "Donal Brogan",
     "order": 111
+  },
+  {
+    "position": "81",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
