@@ -444,10 +444,19 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 49
+  },
+  {
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "3",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 58
   },
   {
     "position": "T52",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -511,15 +520,6 @@
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 57
-  },
-  {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "2",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 58
   },
   {
     "position": "T52",
@@ -606,7 +606,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 68
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "78",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
