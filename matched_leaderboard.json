@@ -39,7 +39,7 @@
     "position": "T4",
     "score": "-3",
     "score_num": -3,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 5
@@ -108,7 +108,16 @@
     "order": 12
   },
   {
-    "position": "T13",
+    "position": "T4",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "5",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 20
+  },
+  {
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -117,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -126,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -135,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -144,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -153,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -162,16 +171,7 @@
     "order": 19
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "4",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 20
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -180,16 +180,7 @@
     "order": 21
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "1",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 22
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -198,7 +189,7 @@
     "order": 23
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -207,7 +198,7 @@
     "order": 24
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "19:00",
@@ -216,7 +207,7 @@
     "order": 25
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -225,7 +216,7 @@
     "order": 31
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -241,6 +232,15 @@
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 16
+  },
+  {
+    "position": "T14",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "2",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 22
   },
   {
     "position": "T27",
