@@ -399,15 +399,6 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "17:50",
-    "golfer": "Andrew Putnam",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
     "thru": "14",
     "golfer": "Tom Hoge",
     "owner": "",
@@ -430,6 +421,15 @@
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 44
+  },
+  {
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "1",
+    "golfer": "Andrew Putnam",
+    "owner": "",
+    "order": 46
   },
   {
     "position": "T48",
@@ -660,7 +660,7 @@
     "position": "T70",
     "score": "+4",
     "score_num": 4,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 74
