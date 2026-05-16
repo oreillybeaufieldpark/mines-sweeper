@@ -417,7 +417,7 @@
     "position": "T43",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 47
@@ -489,7 +489,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 54
@@ -507,7 +507,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 56
@@ -612,7 +612,16 @@
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "F",
+    "golfer": "Daniel Berger",
+    "owner": "",
+    "order": 72
+  },
+  {
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -639,16 +648,7 @@
     "order": 71
   },
   {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "17",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 72
-  },
-  {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -657,7 +657,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -666,10 +666,10 @@
     "order": 74
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+4",
     "score_num": 4,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 75
