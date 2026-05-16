@@ -166,27 +166,9 @@
     "score": "-2",
     "score_num": -2,
     "thru": "F",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 19
-  },
-  {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "F",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 20
-  },
-  {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "F",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
-    "order": 21
+    "order": 19
   },
   {
     "position": "T11",
@@ -195,6 +177,24 @@
     "thru": "F",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
+    "order": 20
+  },
+  {
+    "position": "T11",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 21
+  },
+  {
+    "position": "T11",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
     "order": 22
   },
   {
