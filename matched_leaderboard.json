@@ -354,15 +354,6 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 40
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
     "thru": "13",
     "golfer": "Andrew Novak",
     "owner": "",
@@ -390,7 +381,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 44
@@ -414,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 40
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
