@@ -207,7 +207,16 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "3",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 27
+  },
+  {
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -216,7 +225,7 @@
     "order": 18
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -225,16 +234,7 @@
     "order": 25
   },
   {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 27
-  },
-  {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:10",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -252,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -261,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -270,7 +270,7 @@
     "order": 31
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -279,7 +279,7 @@
     "order": 32
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -306,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -315,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -333,7 +333,7 @@
     "order": 40
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -342,7 +342,7 @@
     "order": 42
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -372,7 +372,7 @@
     "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 39
@@ -435,7 +435,7 @@
     "position": "T40",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 50
@@ -448,6 +448,24 @@
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 51
+  },
+  {
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "F",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 54
   },
   {
     "position": "T40",
@@ -468,7 +486,7 @@
     "order": 61
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -477,7 +495,7 @@
     "order": 47
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -486,25 +504,7 @@
     "order": 52
   },
   {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "11",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "17",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -513,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -522,7 +522,7 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -540,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T53",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
