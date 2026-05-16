@@ -247,15 +247,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "14",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T27",
-    "score": "E",
-    "score_num": 0,
-    "thru": "14",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 27
@@ -351,6 +342,24 @@
     "order": 39
   },
   {
+    "position": "T27",
+    "score": "E",
+    "score_num": 0,
+    "thru": "4",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 49
+  },
+  {
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 26
+  },
+  {
     "position": "T40",
     "score": "+1",
     "score_num": 1,
@@ -421,15 +430,6 @@
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 48
-  },
-  {
-    "position": "T40",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "3",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 49
   },
   {
     "position": "T40",
@@ -507,24 +507,6 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 58
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "3",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 59
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
     "thru": "2",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
@@ -540,7 +522,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -549,7 +531,25 @@
     "order": 56
   },
   {
-    "position": "T61",
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "7",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 58
+  },
+  {
+    "position": "T59",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "4",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T61",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
@@ -651,15 +651,6 @@
     "position": "T72",
     "score": "+4",
     "score_num": 4,
-    "thru": "14",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
     "thru": "12",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
@@ -675,7 +666,16 @@
     "order": 75
   },
   {
-    "position": "T76",
+    "position": "T75",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -1296,15 +1296,6 @@
     "order": 145
   },
   {
-    "position": "82",
-    "score": "+15",
-    "score_num": 15,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+15",
     "score_num": 15,
@@ -1339,6 +1330,15 @@
     "golfer": "Ryan Lenahan",
     "owner": "",
     "order": 149
+  },
+  {
+    "position": "82",
+    "score": "+16",
+    "score_num": 16,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
