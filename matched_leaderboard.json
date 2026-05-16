@@ -354,7 +354,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "17:40",
+    "thru": "1",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 38
@@ -480,15 +480,6 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
     "thru": "12",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
@@ -540,7 +531,16 @@
     "order": 68
   },
   {
-    "position": "T61",
+    "position": "T60",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "15",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 52
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 59
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -585,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -594,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -660,19 +660,19 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "14",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
     "thru": "11",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 75
+  },
+  {
+    "position": "T69",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 74
   },
   {
     "position": "T76",
@@ -963,13 +963,22 @@
     "order": 111
   },
   {
-    "position": "79",
+    "position": "T79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 79
+  },
+  {
+    "position": "T79",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
@@ -1035,22 +1044,13 @@
     "order": 118
   },
   {
-    "position": "T80",
+    "position": "81",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 80
-  },
-  {
-    "position": "T80",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
