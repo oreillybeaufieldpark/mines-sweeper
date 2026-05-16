@@ -270,7 +270,25 @@
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "14",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 45
+  },
+  {
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "5",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +297,7 @@
     "order": 29
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -288,7 +306,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -297,7 +315,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -306,16 +324,16 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -324,7 +342,7 @@
     "order": 36
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -333,7 +351,7 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -342,7 +360,7 @@
     "order": 38
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -351,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -360,7 +378,7 @@
     "order": 40
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -369,7 +387,7 @@
     "order": 41
   },
   {
-    "position": "T31",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -378,25 +396,7 @@
     "order": 42
   },
   {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "13",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 45
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "4",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T45",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -441,7 +441,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -498,7 +498,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 55
@@ -531,7 +531,7 @@
     "order": 67
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -549,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -585,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T60",
+    "position": "T51",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -603,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -691,6 +691,15 @@
     "golfer": "John Parry",
     "owner": "",
     "order": 77
+  },
+  {
+    "position": "T76",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "-",
@@ -808,15 +817,6 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
-  },
-  {
-    "position": "T76",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 78
   },
   {
     "position": "-",
