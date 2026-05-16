@@ -192,7 +192,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 23
@@ -390,7 +390,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 44
@@ -453,7 +453,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 51
@@ -471,7 +471,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 54
@@ -588,7 +588,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 66
