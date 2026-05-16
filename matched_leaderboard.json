@@ -1,15 +1,15 @@
 [
   {
-    "position": "1",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "17",
+    "position": "T1",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "F",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -18,7 +18,7 @@
     "order": 2
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -27,7 +27,7 @@
     "order": 3
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -36,7 +36,7 @@
     "order": 4
   },
   {
-    "position": "T2",
+    "position": "T1",
     "score": "-4",
     "score_num": -4,
     "thru": "17",
@@ -345,7 +345,7 @@
     "position": "T30",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 39
