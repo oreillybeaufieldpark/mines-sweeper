@@ -93,7 +93,7 @@
     "position": "T5",
     "score": "-3",
     "score_num": -3,
-    "thru": "19:10",
+    "thru": "1",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 11
@@ -156,7 +156,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 18
@@ -219,7 +219,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 26
@@ -408,7 +408,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 43
@@ -468,16 +468,16 @@
     "order": 56
   },
   {
-    "position": "T45",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 46
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -486,7 +486,7 @@
     "order": 50
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -495,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
