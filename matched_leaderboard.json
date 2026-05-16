@@ -372,7 +372,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 44
@@ -463,12 +463,21 @@
     "score": "+1",
     "score_num": 1,
     "thru": "9",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 59
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -477,7 +486,7 @@
     "order": 38
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -486,7 +495,7 @@
     "order": 40
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "1",
@@ -495,25 +504,16 @@
     "order": 48
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 55
   },
   {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -531,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
