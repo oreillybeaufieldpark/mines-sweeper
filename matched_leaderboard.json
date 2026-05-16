@@ -3,7 +3,7 @@
     "position": "T1",
     "score": "-4",
     "score_num": -4,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 1
@@ -12,7 +12,7 @@
     "position": "T1",
     "score": "-4",
     "score_num": -4,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 3
@@ -66,15 +66,6 @@
     "position": "T3",
     "score": "-3",
     "score_num": -3,
-    "thru": "6",
-    "golfer": "Scottie Scheffler",
-    "owner": "Stephen Walker",
-    "order": 9
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
     "thru": "3",
     "golfer": "Stephan Jaeger",
     "owner": "",
@@ -88,24 +79,6 @@
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "2",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 13
-  },
-  {
-    "position": "T3",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "1",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 14
   },
   {
     "position": "T3",
@@ -126,7 +99,7 @@
     "order": 26
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "7",
@@ -135,7 +108,16 @@
     "order": 8
   },
   {
-    "position": "T15",
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "7",
+    "golfer": "Scottie Scheffler",
+    "owner": "Stephen Walker",
+    "order": 9
+  },
+  {
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "4",
@@ -144,7 +126,25 @@
     "order": 10
   },
   {
-    "position": "T15",
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "3",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 13
+  },
+  {
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "2",
+    "golfer": "Alex Smalley",
+    "owner": "",
+    "order": 14
+  },
+  {
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +153,7 @@
     "order": 15
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -171,7 +171,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 18
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -189,7 +189,7 @@
     "order": 19
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T14",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -216,16 +216,16 @@
     "order": 24
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 25
   },
   {
-    "position": "T15",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "16",
@@ -234,7 +234,7 @@
     "order": 34
   },
   {
-    "position": "T14",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "11",
@@ -243,7 +243,7 @@
     "order": 36
   },
   {
-    "position": "T14",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "5",
@@ -414,6 +414,15 @@
     "order": 45
   },
   {
+    "position": "T40",
+    "score": "E",
+    "score_num": 0,
+    "thru": "13",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 49
+  },
+  {
     "position": "T48",
     "score": "+1",
     "score_num": 1,
@@ -432,15 +441,6 @@
     "order": 48
   },
   {
-    "position": "T40",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "13",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 49
-  },
-  {
     "position": "T48",
     "score": "+1",
     "score_num": 1,
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
