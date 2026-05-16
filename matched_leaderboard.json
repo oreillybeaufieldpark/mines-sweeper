@@ -36,16 +36,16 @@
     "order": 4
   },
   {
-    "position": "T2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "10",
+    "position": "T5",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "11",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 5
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -63,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
