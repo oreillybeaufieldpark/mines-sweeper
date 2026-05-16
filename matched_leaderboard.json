@@ -198,15 +198,6 @@
     "order": 21
   },
   {
-    "position": "T27",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:30",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 22
-  },
-  {
     "position": "T13",
     "score": "-2",
     "score_num": -2,
@@ -241,6 +232,15 @@
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 26
+  },
+  {
+    "position": "T27",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "1",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 22
   },
   {
     "position": "T27",
@@ -498,7 +498,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 56
