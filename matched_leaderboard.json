@@ -453,15 +453,6 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
     "thru": "14:51",
     "golfer": "Tom Hoge",
     "owner": "",
@@ -567,7 +558,7 @@
     "order": 72
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -576,7 +567,7 @@
     "order": 52
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -585,7 +576,7 @@
     "order": 58
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -594,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -603,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -612,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -621,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -630,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -639,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -648,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -657,7 +648,16 @@
     "order": 73
   },
   {
-    "position": "T74",
+    "position": "T73",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "2",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -684,31 +684,22 @@
     "order": 76
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "John Parry",
     "owner": "",
     "order": 77
   },
   {
-    "position": "T74",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 79
-  },
-  {
-    "position": "T79",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 78
   },
   {
     "position": "T79",
@@ -844,6 +835,15 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
+  },
+  {
+    "position": "81",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "-",
