@@ -318,7 +318,7 @@
     "position": "T34",
     "score": "+1",
     "score_num": 1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 36
@@ -669,28 +669,28 @@
     "position": "T71",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
     "thru": "3",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 75
   },
   {
-    "position": "T77",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 77
+  },
+  {
+    "position": "T77",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 74
   },
   {
     "position": "T77",
