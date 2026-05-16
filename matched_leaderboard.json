@@ -75,7 +75,7 @@
     "position": "T9",
     "score": "-2",
     "score_num": -2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 9
@@ -471,7 +471,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 53
@@ -685,9 +685,9 @@
   },
   {
     "position": "T77",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "9",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 77
