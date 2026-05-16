@@ -243,7 +243,16 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "1",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 32
+  },
+  {
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 25
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -261,7 +270,7 @@
     "order": 27
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -270,16 +279,7 @@
     "order": 29
   },
   {
-    "position": "T28",
-    "score": "E",
-    "score_num": 0,
-    "thru": "17:10",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 32
-  },
-  {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -288,7 +288,7 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -306,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:30",
@@ -315,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:50",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:40",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17:20",
@@ -342,16 +342,16 @@
     "order": 39
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 49
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -360,7 +360,7 @@
     "order": 51
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -369,7 +369,7 @@
     "order": 26
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 40
   },
   {
-    "position": "T41",
+    "position": "T29",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -387,7 +387,7 @@
     "order": 41
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -396,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -405,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -441,7 +441,7 @@
     "order": 50
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -450,7 +450,7 @@
     "order": 52
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "17:10",
@@ -588,7 +588,7 @@
     "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 68
