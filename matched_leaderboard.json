@@ -630,7 +630,16 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T63",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "6",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -639,7 +648,7 @@
     "order": 61
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -648,16 +657,7 @@
     "order": 63
   },
   {
-    "position": "T71",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "5",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -666,7 +666,7 @@
     "order": 74
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -675,7 +675,7 @@
     "order": 75
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -684,7 +684,7 @@
     "order": 76
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -693,7 +693,7 @@
     "order": 77
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -702,7 +702,7 @@
     "order": 78
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -844,15 +844,6 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
-  },
-  {
-    "position": "82",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
   },
   {
     "position": "-",
@@ -997,6 +988,15 @@
     "golfer": "J.J. Spaun",
     "owner": "Donal Brogan",
     "order": 111
+  },
+  {
+    "position": "82",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
