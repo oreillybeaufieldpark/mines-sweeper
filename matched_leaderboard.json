@@ -279,7 +279,16 @@
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "3",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 33
+  },
+  {
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -288,16 +297,7 @@
     "order": 32
   },
   {
-    "position": "T32",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 33
-  },
-  {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -306,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -315,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -342,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:15",
@@ -351,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:15",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:05",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:05",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T32",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -507,15 +507,6 @@
     "position": "T57",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 54
-  },
-  {
-    "position": "T57",
-    "score": "+2",
-    "score_num": 2,
     "thru": "8",
     "golfer": "Sahith Theegala",
     "owner": "",
@@ -549,7 +540,16 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "11",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 54
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -558,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
