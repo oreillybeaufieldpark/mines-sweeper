@@ -460,9 +460,9 @@
   },
   {
     "position": "T48",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "1",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "2",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 52
@@ -1143,6 +1143,15 @@
     "order": 129
   },
   {
+    "position": "81",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 81
+  },
+  {
     "position": "-",
     "score": "+10",
     "score_num": 10,
@@ -1177,15 +1186,6 @@
     "golfer": "Sudarshan Yellamaraju",
     "owner": "",
     "order": 133
-  },
-  {
-    "position": "81",
-    "score": "+11",
-    "score_num": 11,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
