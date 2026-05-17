@@ -30,22 +30,22 @@
     "position": "T3",
     "score": "-5",
     "score_num": -5,
-    "thru": "2",
-    "golfer": "Aaron Rai",
-    "owner": "",
-    "order": 3
-  },
-  {
-    "position": "T3",
-    "score": "-5",
-    "score_num": -5,
     "thru": "3",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 4
   },
   {
-    "position": "T6",
+    "position": "T5",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "3",
+    "golfer": "Aaron Rai",
+    "owner": "",
+    "order": 3
+  },
+  {
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "8",
@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -63,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "3",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "2",
@@ -144,7 +144,16 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "13",
+    "golfer": "Scottie Scheffler",
+    "owner": "Stephen Walker",
+    "order": 20
+  },
+  {
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -153,7 +162,7 @@
     "order": 15
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +171,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "12",
@@ -171,16 +180,7 @@
     "order": 19
   },
   {
-    "position": "T17",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "12",
-    "golfer": "Scottie Scheffler",
-    "owner": "Stephen Walker",
-    "order": 20
-  },
-  {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "4",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "4",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -237,7 +237,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 26
@@ -300,7 +300,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 34
@@ -315,7 +315,16 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 45
+  },
+  {
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -394,15 +403,6 @@
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 44
-  },
-  {
-    "position": "T31",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 45
   },
   {
     "position": "T37",
