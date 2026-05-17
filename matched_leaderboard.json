@@ -594,7 +594,16 @@
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T55",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "7",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 69
+  },
+  {
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -603,16 +612,7 @@
     "order": 56
   },
   {
-    "position": "T67",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "6",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,7 +639,7 @@
     "order": 72
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -648,7 +648,7 @@
     "order": 73
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
