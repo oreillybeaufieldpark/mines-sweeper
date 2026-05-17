@@ -415,15 +415,6 @@
   },
   {
     "position": "T47",
-    "score": "E",
-    "score_num": 0,
-    "thru": "4",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -462,7 +453,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 51
@@ -493,6 +484,15 @@
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
+  },
+  {
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "5",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 55
   },
   {
     "position": "T47",
@@ -570,7 +570,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 62
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T67",
+    "position": "T71",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "71",
+    "position": "70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -756,7 +756,7 @@
     "order": 95
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 71
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -954,7 +954,7 @@
     "order": 77
   },
   {
-    "position": "T75",
+    "position": "T78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 118
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1035,7 +1035,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
