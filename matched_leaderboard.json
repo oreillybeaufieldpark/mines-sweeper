@@ -9,6 +9,15 @@
     "order": 1
   },
   {
+    "position": "2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "1",
+    "golfer": "Aaron Rai",
+    "owner": "",
+    "order": 7
+  },
+  {
     "position": "T3",
     "score": "-4",
     "score_num": -4,
@@ -52,15 +61,6 @@
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 6
-  },
-  {
-    "position": "2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "19:15",
-    "golfer": "Aaron Rai",
-    "owner": "",
-    "order": 7
   },
   {
     "position": "T3",
@@ -390,7 +390,7 @@
     "position": "T38",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 45
@@ -471,7 +471,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 52
