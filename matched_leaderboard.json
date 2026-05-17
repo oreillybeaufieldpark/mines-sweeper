@@ -12,7 +12,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 1
@@ -75,22 +75,13 @@
     "position": "T7",
     "score": "-4",
     "score_num": -4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 9
   },
   {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "13",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 12
-  },
-  {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +90,16 @@
     "order": 10
   },
   {
-    "position": "T11",
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "14",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 12
+  },
+  {
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "11",
@@ -108,16 +108,7 @@
     "order": 14
   },
   {
-    "position": "T11",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "7",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 15
-  },
-  {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -126,7 +117,7 @@
     "order": 16
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "5",
@@ -135,7 +126,7 @@
     "order": 17
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "14",
@@ -144,7 +135,7 @@
     "order": 11
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "11",
@@ -153,7 +144,16 @@
     "order": 13
   },
   {
-    "position": "T16",
+    "position": "T15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "8",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 15
+  },
+  {
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -171,7 +171,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -180,7 +180,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -396,7 +396,7 @@
     "order": 42
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -405,7 +405,7 @@
     "order": 43
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -498,7 +498,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 55
