@@ -54,7 +54,16 @@
     "order": 6
   },
   {
-    "position": "T7",
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "5",
+    "golfer": "Nick Taylor",
+    "owner": "",
+    "order": 8
+  },
+  {
+    "position": "T8",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -63,16 +72,7 @@
     "order": 7
   },
   {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "4",
-    "golfer": "Nick Taylor",
-    "owner": "",
-    "order": 8
-  },
-  {
-    "position": "T7",
+    "position": "T8",
     "score": "-4",
     "score_num": -4,
     "thru": "3",
@@ -156,7 +156,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 18
@@ -228,7 +228,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 26
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T30",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
