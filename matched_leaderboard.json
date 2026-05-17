@@ -336,7 +336,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 38
@@ -387,7 +387,16 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "9",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -405,16 +414,7 @@
     "order": 45
   },
   {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "8",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -423,7 +423,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -432,16 +432,16 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 41
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -450,7 +450,7 @@
     "order": 48
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -504,16 +504,7 @@
     "order": 58
   },
   {
-    "position": "T60",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 59
-  },
-  {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -522,7 +513,7 @@
     "order": 61
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -531,7 +522,7 @@
     "order": 62
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -556,6 +547,15 @@
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 57
+  },
+  {
+    "position": "T60",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 59
   },
   {
     "position": "T60",
