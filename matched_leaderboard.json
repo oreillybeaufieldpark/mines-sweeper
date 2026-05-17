@@ -597,7 +597,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 67
@@ -633,6 +633,15 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
+    "thru": "5",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 70
+  },
+  {
+    "position": "T69",
+    "score": "+4",
+    "score_num": 4,
     "thru": "3",
     "golfer": "John Parry",
     "owner": "",
@@ -657,22 +666,13 @@
     "order": 74
   },
   {
-    "position": "T74",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 76
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 70
   },
   {
     "position": "-",
