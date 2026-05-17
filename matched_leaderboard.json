@@ -126,7 +126,16 @@
     "order": 18
   },
   {
-    "position": "T15",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "2",
+    "golfer": "Cameron Smith",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -135,7 +144,7 @@
     "order": 9
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -144,7 +153,7 @@
     "order": 14
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -153,7 +162,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -162,7 +171,7 @@
     "order": 21
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -171,7 +180,7 @@
     "order": 22
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -180,7 +189,7 @@
     "order": 23
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,7 +198,7 @@
     "order": 24
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -198,7 +207,7 @@
     "order": 25
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -207,22 +216,13 @@
     "order": 26
   },
   {
-    "position": "T15",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 27
-  },
-  {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "1",
-    "golfer": "Cameron Smith",
-    "owner": "",
-    "order": 28
   },
   {
     "position": "T26",
