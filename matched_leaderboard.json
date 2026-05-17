@@ -462,7 +462,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Jason Day",
     "owner": "Colm Geary",
     "order": 50
@@ -531,7 +531,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T52",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 58
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -549,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -576,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
