@@ -288,15 +288,6 @@
     "order": 33
   },
   {
-    "position": "T36",
-    "score": "E",
-    "score_num": 0,
-    "thru": "16",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 35
-  },
-  {
     "position": "T31",
     "score": "E",
     "score_num": 0,
@@ -324,7 +315,7 @@
     "order": 38
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -340,6 +331,15 @@
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 34
+  },
+  {
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "17",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 35
   },
   {
     "position": "T36",
@@ -462,7 +462,7 @@
     "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 50
