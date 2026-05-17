@@ -210,7 +210,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 24
@@ -310,15 +310,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "11",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "11",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 35
@@ -394,6 +385,24 @@
     "golfer": "Michael Kim",
     "owner": "",
     "order": 45
+  },
+  {
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "5",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 57
+  },
+  {
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "12",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 34
   },
   {
     "position": "T45",
@@ -480,7 +489,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
@@ -502,15 +511,6 @@
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 56
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "4",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 57
   },
   {
     "position": "T58",
