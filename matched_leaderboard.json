@@ -318,7 +318,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 36
@@ -354,7 +354,7 @@
     "position": "T36",
     "score": "E",
     "score_num": 0,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 42
@@ -372,7 +372,7 @@
     "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 38
@@ -552,7 +552,7 @@
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 63
