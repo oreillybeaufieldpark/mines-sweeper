@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 4
@@ -210,7 +210,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 24
@@ -255,13 +255,31 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 29
   },
   {
-    "position": "T30",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "12",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 36
+  },
+  {
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +288,7 @@
     "order": 30
   },
   {
-    "position": "T30",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -279,7 +297,7 @@
     "order": 31
   },
   {
-    "position": "T30",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -288,7 +306,7 @@
     "order": 32
   },
   {
-    "position": "T30",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -297,16 +315,7 @@
     "order": 33
   },
   {
-    "position": "T30",
-    "score": "E",
-    "score_num": 0,
-    "thru": "11",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T30",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -315,19 +324,10 @@
     "order": 35
   },
   {
-    "position": "T30",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "8",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 36
-  },
-  {
-    "position": "T30",
-    "score": "E",
-    "score_num": 0,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 37
