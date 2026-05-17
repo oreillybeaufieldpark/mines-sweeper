@@ -525,7 +525,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 59
@@ -579,7 +579,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:19",
+    "thru": "1",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 65
@@ -606,7 +606,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:19",
+    "thru": "1",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 68
@@ -792,7 +792,7 @@
     "order": 95
   },
   {
-    "position": "T76",
+    "position": "76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -801,7 +801,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -810,13 +810,22 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 78
+  },
+  {
+    "position": "T77",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 79
   },
   {
     "position": "-",
@@ -961,15 +970,6 @@
     "golfer": "J.J. Spaun",
     "owner": "Donal Brogan",
     "order": 111
-  },
-  {
-    "position": "79",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
