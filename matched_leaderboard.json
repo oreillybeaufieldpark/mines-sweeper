@@ -138,7 +138,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "19:05",
+    "thru": "1",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 16
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T38",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -567,10 +567,10 @@
     "order": 63
   },
   {
-    "position": "64",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
+    "position": "T62",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "14",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 64
