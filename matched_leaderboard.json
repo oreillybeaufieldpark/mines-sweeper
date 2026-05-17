@@ -75,15 +75,6 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "2",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 9
-  },
-  {
-    "position": "T7",
-    "score": "-3",
-    "score_num": -3,
     "thru": "19:05",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
@@ -126,7 +117,16 @@
     "order": 18
   },
   {
-    "position": "T15",
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "3",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 9
+  },
+  {
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "17",
@@ -135,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "10",
@@ -144,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -153,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -162,7 +162,7 @@
     "order": 17
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -171,16 +171,7 @@
     "order": 19
   },
   {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "1",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 20
-  },
-  {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -189,7 +180,7 @@
     "order": 21
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -198,7 +189,7 @@
     "order": 22
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -207,7 +198,7 @@
     "order": 23
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -216,7 +207,7 @@
     "order": 24
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -225,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -234,7 +225,7 @@
     "order": 26
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -243,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T15",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -252,16 +243,16 @@
     "order": 28
   },
   {
-    "position": "T32",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 29
+    "thru": "2",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 20
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -270,7 +261,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -279,13 +270,22 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 32
+  },
+  {
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
+    "thru": "10",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 29
   },
   {
     "position": "T32",
