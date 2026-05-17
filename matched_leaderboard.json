@@ -381,7 +381,7 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "15:55",
+    "thru": "1",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 43
@@ -525,7 +525,7 @@
     "position": "T57",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 59
@@ -534,13 +534,22 @@
     "position": "T57",
     "score": "+2",
     "score_num": 2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T57",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "10",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -567,16 +576,7 @@
     "order": 63
   },
   {
-    "position": "T61",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "9",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -594,7 +594,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
