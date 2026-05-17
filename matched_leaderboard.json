@@ -135,7 +135,16 @@
     "order": 15
   },
   {
-    "position": "T16",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "4",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 18
+  },
+  {
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -144,7 +153,7 @@
     "order": 16
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -153,16 +162,7 @@
     "order": 17
   },
   {
-    "position": "T16",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "3",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 18
-  },
-  {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T16",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -270,6 +270,15 @@
     "order": 30
   },
   {
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "11",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 35
+  },
+  {
     "position": "T32",
     "score": "E",
     "score_num": 0,
@@ -304,15 +313,6 @@
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 34
-  },
-  {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "10",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 35
   },
   {
     "position": "T32",
@@ -435,7 +435,7 @@
     "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 50
@@ -525,7 +525,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 61
@@ -540,7 +540,16 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T55",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T62",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
@@ -549,7 +558,7 @@
     "order": 54
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -558,22 +567,13 @@
     "order": 58
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 63
-  },
-  {
-    "position": "T61",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "12",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 64
   },
   {
     "position": "65",
