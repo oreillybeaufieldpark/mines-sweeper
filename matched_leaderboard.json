@@ -21,22 +21,31 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
+    "thru": "16",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 3
+  },
+  {
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "2",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 7
+  },
+  {
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
     "thru": "1",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 10
   },
   {
-    "position": "T2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "15",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 3
-  },
-  {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "7",
@@ -45,7 +54,7 @@
     "order": 4
   },
   {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "2",
@@ -54,16 +63,7 @@
     "order": 5
   },
   {
-    "position": "T5",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "1",
-    "golfer": "Ludvig \u00c5berg",
-    "owner": "Dave Smyth",
-    "order": 7
-  },
-  {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "1",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "19:35",
@@ -165,7 +165,7 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 18
