@@ -477,7 +477,16 @@
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T44",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 59
+  },
+  {
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,22 +522,13 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 58
-  },
-  {
-    "position": "T54",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 59
   },
   {
     "position": "T60",
