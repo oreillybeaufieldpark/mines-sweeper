@@ -525,7 +525,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 62
@@ -534,7 +534,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 63
@@ -594,7 +594,16 @@
     "order": 69
   },
   {
-    "position": "T67",
+    "position": "T55",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "6",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 73
+  },
+  {
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -603,7 +612,7 @@
     "order": 56
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -612,7 +621,7 @@
     "order": 61
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -621,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -630,28 +639,19 @@
     "order": 71
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "John Parry",
     "owner": "",
     "order": 72
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 73
-  },
-  {
-    "position": "T67",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "4",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 74
