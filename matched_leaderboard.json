@@ -219,7 +219,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 25
@@ -309,7 +309,7 @@
     "position": "T30",
     "score": "E",
     "score_num": 0,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 34
@@ -490,6 +490,15 @@
     "score": "+2",
     "score_num": 2,
     "thru": "16",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 58
+  },
+  {
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 59
@@ -516,19 +525,10 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 57
-  },
-  {
-    "position": "T47",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 58
   },
   {
     "position": "T57",
@@ -543,7 +543,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 61
