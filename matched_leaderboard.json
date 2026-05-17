@@ -63,7 +63,16 @@
     "order": 7
   },
   {
-    "position": "T8",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "2",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 14
+  },
+  {
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -72,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -81,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -90,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "5",
@@ -99,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "3",
@@ -108,7 +117,7 @@
     "order": 12
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "1",
@@ -117,16 +126,7 @@
     "order": 13
   },
   {
-    "position": "T8",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "1",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 14
-  },
-  {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "18:55",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "18:55",
@@ -495,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -522,16 +522,16 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T49",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
