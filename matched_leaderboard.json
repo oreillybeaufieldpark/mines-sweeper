@@ -48,7 +48,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 6
@@ -57,7 +57,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 7
@@ -192,7 +192,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 22
@@ -210,7 +210,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 25
@@ -228,7 +228,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 29
