@@ -288,7 +288,16 @@
     "order": 32
   },
   {
-    "position": "T33",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "2",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 37
+  },
+  {
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -315,16 +324,7 @@
     "order": 36
   },
   {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "1",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 37
-  },
-  {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -342,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -351,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:15",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:15",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -414,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -430,15 +430,6 @@
     "golfer": "Haotong Li",
     "owner": "",
     "order": 35
-  },
-  {
-    "position": "T55",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "9",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 49
   },
   {
     "position": "T48",
@@ -493,6 +484,15 @@
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 55
+  },
+  {
+    "position": "T55",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "10",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 49
   },
   {
     "position": "T55",
