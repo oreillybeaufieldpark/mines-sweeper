@@ -72,16 +72,16 @@
     "order": 8
   },
   {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "9",
+    "position": "T9",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "10",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "17",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "13",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -162,7 +162,16 @@
     "order": 18
   },
   {
-    "position": "T19",
+    "position": "T15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 25
+  },
+  {
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -216,16 +225,7 @@
     "order": 24
   },
   {
-    "position": "T19",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 25
-  },
-  {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
