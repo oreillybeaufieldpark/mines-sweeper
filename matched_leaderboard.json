@@ -216,25 +216,16 @@
     "order": 24
   },
   {
-    "position": "T12",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "2",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 28
-  },
-  {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -243,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -252,7 +243,16 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "3",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:25",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:15",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:25",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:05",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:05",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "17:15",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -405,7 +405,16 @@
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T38",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -414,16 +423,7 @@
     "order": 46
   },
   {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "13",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -459,7 +459,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -468,7 +468,7 @@
     "order": 54
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -534,7 +534,7 @@
     "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 60
@@ -561,7 +561,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 63
