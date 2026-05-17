@@ -201,7 +201,7 @@
     "position": "T19",
     "score": "-2",
     "score_num": -2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 21
@@ -333,15 +333,6 @@
     "order": 37
   },
   {
-    "position": "T39",
-    "score": "E",
-    "score_num": 0,
-    "thru": "6",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 39
-  },
-  {
     "position": "T32",
     "score": "E",
     "score_num": 0,
@@ -358,6 +349,15 @@
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 36
+  },
+  {
+    "position": "T39",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "7",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 39
   },
   {
     "position": "T39",
@@ -399,7 +399,7 @@
     "position": "T39",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 45
