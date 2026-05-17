@@ -237,19 +237,10 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 27
-  },
-  {
-    "position": "T26",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "4",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 28
   },
   {
     "position": "T26",
@@ -279,7 +270,16 @@
     "order": 35
   },
   {
-    "position": "T32",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "5",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,16 +288,16 @@
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -360,7 +360,16 @@
     "order": 40
   },
   {
-    "position": "T41",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "6",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 49
+  },
+  {
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -414,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -423,16 +432,7 @@
     "order": 48
   },
   {
-    "position": "T41",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 49
-  },
-  {
-    "position": "T41",
+    "position": "T42",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -922,24 +922,6 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
-    "golfer": "Daniel Brown",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T71",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 75
-  },
-  {
-    "position": "T71",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
     "golfer": "William Mouw",
     "owner": "",
     "order": 76
@@ -1008,7 +990,25 @@
     "order": 118
   },
   {
-    "position": "T77",
+    "position": "T75",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Daniel Brown",
+    "owner": "",
+    "order": 74
+  },
+  {
+    "position": "T75",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T75",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1017,7 +1017,7 @@
     "order": 77
   },
   {
-    "position": "T77",
+    "position": "T75",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 78
   },
   {
-    "position": "T77",
+    "position": "T75",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
