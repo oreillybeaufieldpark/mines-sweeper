@@ -462,7 +462,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 52
@@ -525,7 +525,7 @@
     "position": "T58",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 60
@@ -597,15 +597,6 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "14",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 67
-  },
-  {
-    "position": "T66",
-    "score": "+4",
-    "score_num": 4,
     "thru": "9",
     "golfer": "Daniel Brown",
     "owner": "",
@@ -619,6 +610,15 @@
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 69
+  },
+  {
+    "position": "69",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 67
   },
   {
     "position": "-",
@@ -1035,15 +1035,6 @@
     "order": 79
   },
   {
-    "position": "T76",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 80
-  },
-  {
     "position": "-",
     "score": "+8",
     "score_num": 8,
@@ -1114,6 +1105,15 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 126
+  },
+  {
+    "position": "80",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "CUT",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 80
   },
   {
     "position": "-",
