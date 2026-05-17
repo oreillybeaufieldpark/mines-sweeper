@@ -66,7 +66,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 8
@@ -336,15 +336,6 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 38
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
     "thru": "10",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
@@ -387,7 +378,16 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T43",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 38
+  },
+  {
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,10 +432,10 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T43",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 49
@@ -480,13 +480,13 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T59",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
