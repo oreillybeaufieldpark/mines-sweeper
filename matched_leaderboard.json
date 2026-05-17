@@ -129,7 +129,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 15
@@ -147,7 +147,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "19:05",
+    "thru": "1",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 17
@@ -408,7 +408,7 @@
     "position": "T38",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 46
