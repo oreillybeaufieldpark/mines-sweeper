@@ -255,7 +255,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 16
@@ -288,15 +288,6 @@
     "order": 32
   },
   {
-    "position": "T35",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "2",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 33
-  },
-  {
     "position": "T29",
     "score": "-1",
     "score_num": -1,
@@ -315,7 +306,16 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "3",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 33
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -345,13 +345,13 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -360,7 +360,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -427,21 +427,21 @@
     "score": "+1",
     "score_num": 1,
     "thru": "9",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T42",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 58
   },
   {
-    "position": "T49",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "16",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -450,7 +450,7 @@
     "order": 48
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,7 +477,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -486,22 +486,22 @@
     "order": 56
   },
   {
-    "position": "T49",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 59
+  },
+  {
+    "position": "T50",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "16",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 46
   },
   {
     "position": "T57",
@@ -525,7 +525,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 55
