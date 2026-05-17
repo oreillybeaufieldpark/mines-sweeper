@@ -507,7 +507,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 57
@@ -624,16 +624,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 70
-  },
-  {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 71
@@ -675,7 +666,16 @@
     "order": 75
   },
   {
-    "position": "76",
+    "position": "T75",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 70
+  },
+  {
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
