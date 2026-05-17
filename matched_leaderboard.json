@@ -462,7 +462,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 54
@@ -525,7 +525,7 @@
     "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 59
@@ -549,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
