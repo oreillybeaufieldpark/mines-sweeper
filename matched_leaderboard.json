@@ -489,13 +489,22 @@
     "position": "T48",
     "score": "+1",
     "score_num": 1,
+    "thru": "9",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 56
+  },
+  {
+    "position": "T48",
+    "score": "+1",
+    "score_num": 1,
     "thru": "5",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -504,16 +513,7 @@
     "order": 54
   },
   {
-    "position": "T56",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 56
-  },
-  {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -522,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "3",
