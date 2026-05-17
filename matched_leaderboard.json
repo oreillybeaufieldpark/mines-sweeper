@@ -396,7 +396,16 @@
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
+    "thru": "4",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -405,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -414,16 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "3",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 48
-  },
-  {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "1",
@@ -432,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "15:45",
@@ -441,7 +441,7 @@
     "order": 50
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "15:35",
@@ -450,16 +450,16 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "15:35",
+    "thru": "1",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -498,7 +498,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 55
@@ -507,7 +507,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 57
