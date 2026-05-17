@@ -318,7 +318,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 37
@@ -471,7 +471,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 52
@@ -540,6 +540,15 @@
     "order": 61
   },
   {
+    "position": "T57",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "11",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 64
+  },
+  {
     "position": "T62",
     "score": "+3",
     "score_num": 3,
@@ -565,15 +574,6 @@
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 63
-  },
-  {
-    "position": "T57",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "10",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 64
   },
   {
     "position": "T62",
