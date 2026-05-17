@@ -435,7 +435,7 @@
     "position": "T48",
     "score": "+1",
     "score_num": 1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 50
@@ -495,7 +495,16 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T48",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -504,16 +513,7 @@
     "order": 49
   },
   {
-    "position": "T56",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -778,15 +778,6 @@
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T72",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 75
@@ -936,7 +927,16 @@
     "order": 111
   },
   {
-    "position": "T76",
+    "position": "T75",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 74
+  },
+  {
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -945,7 +945,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -954,7 +954,7 @@
     "order": 78
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -963,7 +963,7 @@
     "order": 79
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
