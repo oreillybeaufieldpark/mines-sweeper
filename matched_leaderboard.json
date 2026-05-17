@@ -468,7 +468,16 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "2",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 61
+  },
+  {
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -477,7 +486,7 @@
     "order": 45
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -486,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -495,7 +504,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
@@ -531,22 +540,13 @@
     "order": 59
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "2",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 60
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 61
   },
   {
     "position": "T62",
