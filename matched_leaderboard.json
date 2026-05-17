@@ -24,15 +24,6 @@
     "thru": "F",
     "golfer": "Alex Smalley",
     "owner": "",
-    "order": 6
-  },
-  {
-    "position": "T4",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "F",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
     "order": 3
   },
   {
@@ -40,7 +31,7 @@
     "score": "-5",
     "score_num": -5,
     "thru": "F",
-    "golfer": "Ludvig \u00c5berg",
+    "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 4
   },
@@ -52,6 +43,15 @@
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 5
+  },
+  {
+    "position": "T4",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "F",
+    "golfer": "Ludvig \u00c5berg",
+    "owner": "Dave Smyth",
+    "order": 6
   },
   {
     "position": "T7",
