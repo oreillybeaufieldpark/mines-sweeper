@@ -21,19 +21,10 @@
     "position": "T3",
     "score": "-5",
     "score_num": -5,
-    "thru": "17",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 3
-  },
-  {
-    "position": "T3",
-    "score": "-5",
-    "score_num": -5,
     "thru": "F",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
-    "order": 4
+    "order": 3
   },
   {
     "position": "T3",
@@ -42,7 +33,7 @@
     "thru": "F",
     "golfer": "Ludvig \u00c5berg",
     "owner": "Dave Smyth",
-    "order": 5
+    "order": 4
   },
   {
     "position": "T3",
@@ -50,6 +41,15 @@
     "score_num": -5,
     "thru": "17",
     "golfer": "Matti Schmid",
+    "owner": "",
+    "order": 5
+  },
+  {
+    "position": "T3",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "17",
+    "golfer": "Alex Smalley",
     "owner": "",
     "order": 6
   },
@@ -229,7 +229,7 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
-    "golfer": "Nick Taylor",
+    "golfer": "Alex Noren",
     "owner": "",
     "order": 26
   },
@@ -238,7 +238,7 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
-    "golfer": "Alex Noren",
+    "golfer": "Tom Hoge",
     "owner": "",
     "order": 27
   },
@@ -247,7 +247,7 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
-    "golfer": "Tom Hoge",
+    "golfer": "Daniel Hillier",
     "owner": "",
     "order": 28
   },
@@ -256,7 +256,7 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
-    "golfer": "Daniel Hillier",
+    "golfer": "Andrew Novak",
     "owner": "",
     "order": 29
   },
@@ -265,18 +265,9 @@
     "score": "E",
     "score_num": 0,
     "thru": "F",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 30
-  },
-  {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "F",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
-    "order": 31
+    "order": 30
   },
   {
     "position": "T26",
@@ -285,7 +276,7 @@
     "thru": "F",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
-    "order": 32
+    "order": 31
   },
   {
     "position": "T26",
@@ -294,7 +285,7 @@
     "thru": "F",
     "golfer": "Bud Cauley",
     "owner": "",
-    "order": 33
+    "order": 32
   },
   {
     "position": "T26",
@@ -303,6 +294,15 @@
     "thru": "F",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
+    "order": 33
+  },
+  {
+    "position": "T26",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
+    "golfer": "Nick Taylor",
+    "owner": "",
     "order": 34
   },
   {
