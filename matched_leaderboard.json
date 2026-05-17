@@ -417,7 +417,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 47
@@ -471,7 +471,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 54
@@ -1350,15 +1350,6 @@
     "order": 151
   },
   {
-    "position": "82",
-    "score": "+17",
-    "score_num": 17,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+17",
     "score_num": 17,
@@ -1366,6 +1357,15 @@
     "golfer": "Ryan Vermeer",
     "owner": "",
     "order": 152
+  },
+  {
+    "position": "82",
+    "score": "+18",
+    "score_num": 18,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
