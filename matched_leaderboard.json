@@ -534,7 +534,7 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 60
@@ -570,15 +570,6 @@
     "position": "T63",
     "score": "+4",
     "score_num": 4,
-    "thru": "15",
-    "golfer": "Sam Stevens",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T63",
-    "score": "+4",
-    "score_num": 4,
     "thru": "12",
     "golfer": "Kazuki Higa",
     "owner": "",
@@ -594,7 +585,16 @@
     "order": 66
   },
   {
-    "position": "T67",
+    "position": "T66",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
