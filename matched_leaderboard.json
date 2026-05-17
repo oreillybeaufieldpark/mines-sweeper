@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T14",
+    "position": "T20",
     "score": "-2",
     "score_num": -2,
     "thru": "16",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -387,7 +387,16 @@
     "order": 43
   },
   {
-    "position": "T44",
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "16",
+    "golfer": "Chris Kirk",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -405,7 +414,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -414,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,16 +477,7 @@
     "order": 52
   },
   {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T44",
+    "position": "T45",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
