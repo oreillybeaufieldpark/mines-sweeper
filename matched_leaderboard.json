@@ -10,6 +10,15 @@
   },
   {
     "position": "T2",
+    "score": "-6",
+    "score_num": -6,
+    "thru": "13",
+    "golfer": "Matti Schmid",
+    "owner": "",
+    "order": 3
+  },
+  {
+    "position": "T2",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -21,16 +30,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "12",
-    "golfer": "Matti Schmid",
-    "owner": "",
-    "order": 3
-  },
-  {
-    "position": "T2",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 4
@@ -43,15 +43,6 @@
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 5
-  },
-  {
-    "position": "T5",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "16",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 6
   },
   {
     "position": "T5",
@@ -72,7 +63,16 @@
     "order": 10
   },
   {
-    "position": "T9",
+    "position": "T8",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "17",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 6
+  },
+  {
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -81,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T9",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "13",
@@ -90,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T9",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T9",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T9",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
