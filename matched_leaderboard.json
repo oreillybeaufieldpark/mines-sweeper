@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-7",
     "score_num": -7,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 1
@@ -156,7 +156,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 18
@@ -165,7 +165,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 19
@@ -388,8 +388,8 @@
   },
   {
     "position": "T35",
-    "score": "+1",
-    "score_num": 1,
+    "score": "+2",
+    "score_num": 2,
     "thru": "16",
     "golfer": "Chris Kirk",
     "owner": "",
