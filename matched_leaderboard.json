@@ -192,7 +192,7 @@
     "position": "T19",
     "score": "-2",
     "score_num": -2,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 22
@@ -219,7 +219,7 @@
     "position": "T19",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:35",
+    "thru": "1",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 25
@@ -423,7 +423,16 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Nicolai H\u00f8jgaard",
+    "owner": "Simon Smyth",
+    "order": 54
+  },
+  {
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -468,25 +477,16 @@
     "order": 52
   },
   {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 53
   },
   {
-    "position": "T48",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Nicolai H\u00f8jgaard",
-    "owner": "Simon Smyth",
-    "order": 54
-  },
-  {
-    "position": "T48",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -1026,15 +1026,6 @@
     "order": 78
   },
   {
-    "position": "T75",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Johnny Keefer",
-    "owner": "",
-    "order": 79
-  },
-  {
     "position": "-",
     "score": "+8",
     "score_num": 8,
@@ -1107,7 +1098,16 @@
     "order": 126
   },
   {
-    "position": "80",
+    "position": "T79",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "CUT",
+    "golfer": "Johnny Keefer",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T79",
     "score": "+9",
     "score_num": 9,
     "thru": "CUT",
