@@ -507,7 +507,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 57
@@ -549,7 +549,16 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "3",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,22 +576,13 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T65",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 64
-  },
-  {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 65
   },
   {
     "position": "T66",
@@ -597,13 +597,13 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T63",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
