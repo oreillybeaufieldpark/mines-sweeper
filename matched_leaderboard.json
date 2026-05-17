@@ -93,7 +93,7 @@
     "position": "T8",
     "score": "-3",
     "score_num": -3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 11
@@ -162,16 +162,16 @@
     "order": 17
   },
   {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "14",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "15",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 19
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
