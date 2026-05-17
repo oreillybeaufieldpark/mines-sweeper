@@ -216,7 +216,7 @@
     "order": 22
   },
   {
-    "position": "T23",
+    "position": "T31",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -279,7 +279,7 @@
     "order": 37
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +288,7 @@
     "order": 26
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,16 +297,16 @@
     "order": 30
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 31
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -315,7 +315,7 @@
     "order": 32
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -324,7 +324,7 @@
     "order": 33
   },
   {
-    "position": "T32",
+    "position": "T31",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -489,7 +489,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 55
@@ -507,19 +507,19 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "8",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 58
-  },
-  {
-    "position": "T48",
-    "score": "+3",
-    "score_num": 3,
     "thru": "14",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 57
+  },
+  {
+    "position": "T48",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 58
   },
   {
     "position": "T59",
