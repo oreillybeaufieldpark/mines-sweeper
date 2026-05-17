@@ -498,7 +498,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "William Mouw",
     "owner": "",
     "order": 56
@@ -1269,15 +1269,6 @@
     "order": 142
   },
   {
-    "position": "82",
-    "score": "+14",
-    "score_num": 14,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+14",
     "score_num": 14,
@@ -1303,6 +1294,15 @@
     "golfer": "Zach Haynes",
     "owner": "",
     "order": 145
+  },
+  {
+    "position": "82",
+    "score": "+15",
+    "score_num": 15,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
