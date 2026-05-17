@@ -129,7 +129,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 14
@@ -471,15 +471,6 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T49",
-    "score": "+2",
-    "score_num": 2,
     "thru": "12",
     "golfer": "Chandler Blanchet",
     "owner": "",
@@ -513,7 +504,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -522,7 +513,16 @@
     "order": 52
   },
   {
-    "position": "T58",
+    "position": "T57",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -531,7 +531,7 @@
     "order": 55
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
