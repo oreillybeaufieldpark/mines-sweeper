@@ -679,15 +679,6 @@
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 76
-  },
-  {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 77
@@ -810,7 +801,16 @@
     "order": 95
   },
   {
-    "position": "78",
+    "position": "T77",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T77",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
