@@ -93,15 +93,6 @@
     "position": "T11",
     "score": "-3",
     "score_num": -3,
-    "thru": "3",
-    "golfer": "Maverick McNealy",
-    "owner": "Igor Fleming",
-    "order": 6
-  },
-  {
-    "position": "T11",
-    "score": "-3",
-    "score_num": -3,
     "thru": "F",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
@@ -120,7 +111,7 @@
     "position": "T11",
     "score": "-3",
     "score_num": -3,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 13
@@ -129,7 +120,7 @@
     "position": "T11",
     "score": "-3",
     "score_num": -3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 15
@@ -151,6 +142,24 @@
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 21
+  },
+  {
+    "position": "T11",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "12",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 25
+  },
+  {
+    "position": "T18",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "4",
+    "golfer": "Maverick McNealy",
+    "owner": "Igor Fleming",
+    "order": 6
   },
   {
     "position": "T18",
@@ -189,25 +198,16 @@
     "order": 19
   },
   {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "6",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "7",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 22
   },
   {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "11",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 25
-  },
-  {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -225,7 +225,7 @@
     "order": 26
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -234,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -243,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -252,7 +252,16 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "16",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 33
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -261,7 +270,7 @@
     "order": 23
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -279,16 +288,7 @@
     "order": 32
   },
   {
-    "position": "T29",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 33
-  },
-  {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -297,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "5",
