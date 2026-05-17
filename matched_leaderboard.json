@@ -310,15 +310,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "2",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 36
-  },
-  {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 37
@@ -423,6 +414,15 @@
     "order": 34
   },
   {
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "3",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 36
+  },
+  {
     "position": "T47",
     "score": "+1",
     "score_num": 1,
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T33",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -495,7 +495,16 @@
     "order": 54
   },
   {
-    "position": "T56",
+    "position": "T47",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "5",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -513,22 +522,13 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 58
-  },
-  {
-    "position": "T56",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "4",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 59
   },
   {
     "position": "T60",
@@ -615,7 +615,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 69
