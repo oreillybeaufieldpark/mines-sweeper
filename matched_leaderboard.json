@@ -363,7 +363,7 @@
     "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 40
@@ -408,7 +408,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 46
@@ -417,7 +417,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 47
@@ -435,7 +435,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 49
@@ -448,15 +448,6 @@
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 50
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 51
   },
   {
     "position": "T46",
@@ -495,7 +486,16 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T55",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 51
+  },
+  {
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +504,7 @@
     "order": 52
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,16 +513,16 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
