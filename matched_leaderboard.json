@@ -516,6 +516,15 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
+    "thru": "9",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 58
+  },
+  {
+    "position": "T52",
+    "score": "+2",
+    "score_num": 2,
     "thru": "6",
     "golfer": "Alex Noren",
     "owner": "",
@@ -529,15 +538,6 @@
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 62
-  },
-  {
-    "position": "T52",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "8",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 58
   },
   {
     "position": "T61",
@@ -561,7 +561,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 64
@@ -624,7 +624,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 70
@@ -648,16 +648,7 @@
     "order": 72
   },
   {
-    "position": "T73",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 73
-  },
-  {
-    "position": "T73",
+    "position": "73",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -783,7 +774,16 @@
     "order": 95
   },
   {
-    "position": "T75",
+    "position": "T74",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 73
+  },
+  {
+    "position": "T74",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -792,7 +792,7 @@
     "order": 75
   },
   {
-    "position": "T75",
+    "position": "T74",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -801,7 +801,7 @@
     "order": 76
   },
   {
-    "position": "T75",
+    "position": "T74",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -810,7 +810,7 @@
     "order": 77
   },
   {
-    "position": "T75",
+    "position": "T74",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
