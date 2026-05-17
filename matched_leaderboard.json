@@ -48,7 +48,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 6
@@ -291,7 +291,7 @@
     "position": "T30",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 32
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T55",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -495,7 +495,7 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -504,7 +504,7 @@
     "order": 53
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
