@@ -12,7 +12,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 2
@@ -210,15 +210,6 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 23
-  },
-  {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
     "thru": "10",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
@@ -252,7 +243,16 @@
     "order": 28
   },
   {
-    "position": "T29",
+    "position": "T28",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 23
+  },
+  {
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -279,16 +279,16 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -390,7 +390,7 @@
     "position": "T38",
     "score": "+1",
     "score_num": 1,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 44
@@ -480,7 +480,7 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 53
