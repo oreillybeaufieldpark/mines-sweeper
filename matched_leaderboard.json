@@ -408,13 +408,22 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
+    "thru": "9",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 47
+  },
+  {
+    "position": "T33",
+    "score": "E",
+    "score_num": 0,
     "thru": "3",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -423,16 +432,7 @@
     "order": 34
   },
   {
-    "position": "T47",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "8",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 47
-  },
-  {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -486,7 +486,7 @@
     "order": 55
   },
   {
-    "position": "T47",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
