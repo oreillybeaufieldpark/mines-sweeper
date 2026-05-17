@@ -408,7 +408,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 46
@@ -480,15 +480,6 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
     "thru": "7",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
@@ -549,7 +540,16 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "7",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -792,15 +792,6 @@
     "order": 76
   },
   {
-    "position": "T74",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 78
-  },
-  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -945,7 +936,7 @@
     "order": 111
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -954,7 +945,7 @@
     "order": 75
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -963,7 +954,7 @@
     "order": 79
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -1035,13 +1026,22 @@
     "order": 118
   },
   {
-    "position": "80",
+    "position": "T79",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 77
+  },
+  {
+    "position": "T79",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 78
   },
   {
     "position": "-",
