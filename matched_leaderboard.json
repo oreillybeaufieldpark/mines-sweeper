@@ -390,7 +390,7 @@
     "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 44
@@ -453,7 +453,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 53
@@ -471,7 +471,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 56
@@ -597,7 +597,7 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 68
