@@ -516,7 +516,7 @@
     "position": "T57",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 57
@@ -589,15 +589,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "6",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 66
-  },
-  {
-    "position": "T61",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "6",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 67
@@ -612,7 +603,7 @@
     "order": 69
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -621,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -630,7 +621,7 @@
     "order": 71
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,7 +630,7 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -648,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -774,7 +765,16 @@
     "order": 95
   },
   {
-    "position": "T74",
+    "position": "T73",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T73",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -783,7 +783,7 @@
     "order": 74
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
