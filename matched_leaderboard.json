@@ -93,7 +93,7 @@
     "position": "T9",
     "score": "-3",
     "score_num": -3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 11
@@ -156,15 +156,6 @@
     "position": "T16",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 18
-  },
-  {
-    "position": "T16",
-    "score": "-2",
-    "score_num": -2,
     "thru": "F",
     "golfer": "Max Greyserman",
     "owner": "",
@@ -180,7 +171,16 @@
     "order": 20
   },
   {
-    "position": "T21",
+    "position": "T20",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 18
+  },
+  {
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
