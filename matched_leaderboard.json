@@ -93,7 +93,7 @@
     "position": "T11",
     "score": "-2",
     "score_num": -2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 11
@@ -282,6 +282,15 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
+    "thru": "3",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 38
+  },
+  {
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
     "thru": "1",
     "golfer": "Daniel Hillier",
     "owner": "",
@@ -324,19 +333,10 @@
     "order": 37
   },
   {
-    "position": "T24",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 38
-  },
-  {
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 39
@@ -408,6 +408,15 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
+    "thru": "9",
+    "golfer": "Daniel Berger",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T47",
+    "score": "E",
+    "score_num": 0,
     "thru": "4",
     "golfer": "Stephan Jaeger",
     "owner": "",
@@ -453,15 +462,6 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "8",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T47",
-    "score": "+1",
-    "score_num": 1,
     "thru": "7",
     "golfer": "Ryan Fox",
     "owner": "",
@@ -489,7 +489,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
@@ -543,6 +543,15 @@
     "position": "T57",
     "score": "+2",
     "score_num": 2,
+    "thru": "13",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 63
+  },
+  {
+    "position": "T57",
+    "score": "+2",
+    "score_num": 2,
     "thru": "11",
     "golfer": "Corey Conners",
     "owner": "",
@@ -567,15 +576,6 @@
     "order": 62
   },
   {
-    "position": "T57",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "12",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 63
-  },
-  {
     "position": "T63",
     "score": "+3",
     "score_num": 3,
@@ -588,7 +588,7 @@
     "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 66
