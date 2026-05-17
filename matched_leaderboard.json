@@ -615,7 +615,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "1",
+    "thru": "2",
     "golfer": "John Parry",
     "owner": "",
     "order": 68
@@ -819,6 +819,15 @@
     "order": 78
   },
   {
+    "position": "T77",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 80
+  },
+  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -961,15 +970,6 @@
     "golfer": "J.J. Spaun",
     "owner": "Donal Brogan",
     "order": 111
-  },
-  {
-    "position": "79",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 80
   },
   {
     "position": "-",
