@@ -624,7 +624,7 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 70
@@ -781,15 +781,6 @@
     "golfer": "Luke Donald",
     "owner": "",
     "order": 74
-  },
-  {
-    "position": "T74",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 75
   },
   {
     "position": "T74",
@@ -963,7 +954,16 @@
     "order": 111
   },
   {
-    "position": "T79",
+    "position": "T78",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -972,7 +972,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
