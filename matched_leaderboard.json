@@ -1107,7 +1107,16 @@
     "order": 126
   },
   {
-    "position": "80",
+    "position": "T80",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 80
+  },
+  {
+    "position": "T80",
     "score": "+9",
     "score_num": 9,
     "thru": "CUT",
@@ -1141,15 +1150,6 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
-  },
-  {
-    "position": "81",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 80
   },
   {
     "position": "-",
