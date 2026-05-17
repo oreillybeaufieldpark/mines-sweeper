@@ -201,7 +201,7 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 23
@@ -453,7 +453,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "15:25",
+    "thru": "1",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 51
@@ -945,7 +945,7 @@
     "order": 111
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -954,7 +954,7 @@
     "order": 75
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -963,7 +963,7 @@
     "order": 79
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -1035,7 +1035,7 @@
     "order": 118
   },
   {
-    "position": "T74",
+    "position": "80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
