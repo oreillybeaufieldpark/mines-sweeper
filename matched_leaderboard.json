@@ -594,6 +594,15 @@
     "order": 72
   },
   {
+    "position": "T53",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "1",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 74
+  },
+  {
     "position": "T68",
     "score": "+4",
     "score_num": 4,
@@ -655,15 +664,6 @@
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 73
-  },
-  {
-    "position": "T53",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "14:01",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 74
   },
   {
     "position": "T68",
