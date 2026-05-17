@@ -90,19 +90,10 @@
     "order": 10
   },
   {
-    "position": "T17",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "7",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 11
-  },
-  {
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
@@ -156,6 +147,15 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
+    "thru": "8",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 11
+  },
+  {
+    "position": "T17",
+    "score": "-2",
+    "score_num": -2,
     "thru": "F",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
@@ -178,15 +178,6 @@
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 20
-  },
-  {
-    "position": "T17",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "9",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 21
   },
   {
     "position": "T17",
@@ -216,7 +207,16 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "10",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 21
+  },
+  {
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -270,7 +270,7 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
