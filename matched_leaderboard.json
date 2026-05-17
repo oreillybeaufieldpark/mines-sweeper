@@ -477,16 +477,7 @@
     "order": 56
   },
   {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "3",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -495,7 +486,7 @@
     "order": 51
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +495,7 @@
     "order": 52
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,7 +504,16 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T54",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "4",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,10 +540,10 @@
     "order": 60
   },
   {
-    "position": "T55",
+    "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 62
@@ -603,13 +603,22 @@
     "order": 68
   },
   {
-    "position": "68",
+    "position": "T68",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 69
+  },
+  {
+    "position": "T68",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 71
   },
   {
     "position": "-",
@@ -729,7 +738,7 @@
     "order": 95
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -738,7 +747,7 @@
     "order": 66
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -747,16 +756,7 @@
     "order": 70
   },
   {
-    "position": "T69",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T69",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 72
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 73
   },
   {
-    "position": "T69",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
