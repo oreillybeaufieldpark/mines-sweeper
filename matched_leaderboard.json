@@ -111,7 +111,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 13
@@ -120,7 +120,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 14
@@ -306,15 +306,6 @@
     "order": 34
   },
   {
-    "position": "T36",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 35
-  },
-  {
     "position": "T31",
     "score": "E",
     "score_num": 0,
@@ -322,6 +313,15 @@
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 45
+  },
+  {
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "6",
+    "golfer": "Chris Kirk",
+    "owner": "",
+    "order": 35
   },
   {
     "position": "T36",
@@ -408,22 +408,22 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "14",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "15",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
