@@ -363,7 +363,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 42
@@ -927,22 +927,13 @@
     "order": 111
   },
   {
-    "position": "T75",
+    "position": "75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 75
-  },
-  {
-    "position": "T75",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 77
   },
   {
     "position": "-",
@@ -1008,7 +999,7 @@
     "order": 118
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1017,7 +1008,16 @@
     "order": 76
   },
   {
-    "position": "T77",
+    "position": "T76",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 77
+  },
+  {
+    "position": "T76",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 78
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1035,7 +1035,7 @@
     "order": 79
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
