@@ -21,7 +21,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 3
@@ -48,7 +48,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 6
@@ -495,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -522,10 +522,10 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 59
@@ -534,13 +534,13 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
