@@ -597,13 +597,22 @@
     "position": "T53",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:01",
+    "thru": "1",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T53",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "3",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -612,7 +621,7 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -648,16 +657,7 @@
     "order": 72
   },
   {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "2",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "1",
