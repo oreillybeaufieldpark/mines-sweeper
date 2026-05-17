@@ -147,7 +147,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 16
@@ -345,7 +345,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 40
@@ -354,7 +354,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 41
@@ -435,13 +435,22 @@
     "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 49
   },
   {
-    "position": "T50",
+    "position": "T41",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 54
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -477,16 +486,7 @@
     "order": 53
   },
   {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -543,7 +543,7 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 61
@@ -585,22 +585,13 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 64
-  },
-  {
-    "position": "T66",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 67
   },
   {
     "position": "-",
@@ -720,7 +711,16 @@
     "order": 95
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 67
+  },
+  {
+    "position": "T67",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -729,7 +729,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -738,7 +738,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
