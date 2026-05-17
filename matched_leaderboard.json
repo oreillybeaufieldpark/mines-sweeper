@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T37",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T38",
+    "position": "T37",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -471,7 +471,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 53
@@ -909,7 +909,7 @@
     "order": 111
   },
   {
-    "position": "T73",
+    "position": "T74",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -918,7 +918,7 @@
     "order": 73
   },
   {
-    "position": "T73",
+    "position": "T74",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -927,7 +927,7 @@
     "order": 74
   },
   {
-    "position": "T73",
+    "position": "T74",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -936,7 +936,7 @@
     "order": 75
   },
   {
-    "position": "T73",
+    "position": "T71",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
