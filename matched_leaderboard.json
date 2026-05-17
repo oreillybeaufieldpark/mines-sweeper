@@ -147,7 +147,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 17
@@ -297,16 +297,16 @@
     "order": 33
   },
   {
-    "position": "T27",
-    "score": "E",
-    "score_num": 0,
-    "thru": "12",
+    "position": "T34",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "13",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T34",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
