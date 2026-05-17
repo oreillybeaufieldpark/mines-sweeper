@@ -444,7 +444,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 49
@@ -495,16 +495,7 @@
     "order": 56
   },
   {
-    "position": "T47",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 58
-  },
-  {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +504,16 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T56",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "6",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 58
+  },
+  {
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -522,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "4",
@@ -531,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -561,7 +561,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "John Parry",
     "owner": "",
     "order": 62
@@ -579,7 +579,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 65
@@ -615,7 +615,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 71
