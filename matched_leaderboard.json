@@ -471,15 +471,6 @@
     "position": "T53",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 53
-  },
-  {
-    "position": "T53",
-    "score": "+3",
-    "score_num": 3,
     "thru": "14:37",
     "golfer": "Daniel Berger",
     "owner": "",
@@ -585,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -621,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "13:43",
@@ -630,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "13:52",
@@ -639,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "13:52",
@@ -679,12 +670,21 @@
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 53
+  },
+  {
+    "position": "T75",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
