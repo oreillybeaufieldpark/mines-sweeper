@@ -219,7 +219,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 25
@@ -297,7 +297,16 @@
     "order": 33
   },
   {
-    "position": "T34",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "1",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -315,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -324,16 +333,7 @@
     "order": 36
   },
   {
-    "position": "T45",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 37
-  },
-  {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -351,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T34",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -396,13 +396,13 @@
     "order": 45
   },
   {
-    "position": "T34",
-    "score": "E",
-    "score_num": 0,
-    "thru": "16:35",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 46
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "6",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 37
   },
   {
     "position": "T45",
@@ -444,7 +444,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 50
@@ -489,7 +489,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 55
@@ -552,7 +552,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 62
@@ -619,15 +619,6 @@
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 69
-  },
-  {
-    "position": "T70",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 70
   },
   {
     "position": "-",
@@ -747,7 +738,16 @@
     "order": 95
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 70
+  },
+  {
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
