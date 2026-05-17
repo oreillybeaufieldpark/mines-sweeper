@@ -261,10 +261,10 @@
     "order": 29
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 30
@@ -327,7 +327,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 39
@@ -399,7 +399,7 @@
     "position": "T42",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 45
@@ -441,7 +441,16 @@
     "order": 49
   },
   {
-    "position": "T50",
+    "position": "T42",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 58
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -495,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,16 +513,7 @@
     "order": 57
   },
   {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 58
-  },
-  {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
