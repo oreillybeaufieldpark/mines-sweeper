@@ -66,6 +66,15 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
+    "thru": "16",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 12
+  },
+  {
+    "position": "T5",
+    "score": "-4",
+    "score_num": -4,
     "thru": "14",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
@@ -81,7 +90,7 @@
     "order": 14
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -90,7 +99,7 @@
     "order": 8
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,22 +108,13 @@
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "17",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 11
-  },
-  {
-    "position": "T10",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "15",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 12
   },
   {
     "position": "T14",
