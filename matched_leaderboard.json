@@ -201,7 +201,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "17:45",
+    "thru": "1",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 23
@@ -372,7 +372,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 43
@@ -525,7 +525,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 59
@@ -538,15 +538,6 @@
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 60
-  },
-  {
-    "position": "T60",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
-    "golfer": "Sam Stevens",
-    "owner": "",
-    "order": 61
   },
   {
     "position": "T60",
@@ -576,7 +567,16 @@
     "order": 64
   },
   {
-    "position": "T65",
+    "position": "T64",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 61
+  },
+  {
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "T64",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
