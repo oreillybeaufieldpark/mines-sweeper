@@ -400,15 +400,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "7",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 45
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 46
@@ -468,6 +459,24 @@
     "order": 52
   },
   {
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "7",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 56
+  },
+  {
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 45
+  },
+  {
     "position": "T53",
     "score": "+2",
     "score_num": 2,
@@ -493,15 +502,6 @@
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 55
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "6",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 56
   },
   {
     "position": "T53",
@@ -783,22 +783,13 @@
     "order": 95
   },
   {
-    "position": "T75",
+    "position": "75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 75
-  },
-  {
-    "position": "T75",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "-",
@@ -945,7 +936,16 @@
     "order": 111
   },
   {
-    "position": "T77",
+    "position": "T76",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -954,7 +954,7 @@
     "order": 77
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -1116,15 +1116,6 @@
     "order": 126
   },
   {
-    "position": "81",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 81
-  },
-  {
     "position": "-",
     "score": "+9",
     "score_num": 9,
@@ -1150,6 +1141,15 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
+  },
+  {
+    "position": "81",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
