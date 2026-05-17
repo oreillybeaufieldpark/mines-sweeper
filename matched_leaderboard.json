@@ -399,7 +399,7 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 48
@@ -453,7 +453,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 52
@@ -552,7 +552,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "John Parry",
     "owner": "",
     "order": 62
@@ -1116,6 +1116,15 @@
     "order": 126
   },
   {
+    "position": "81",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 81
+  },
+  {
     "position": "-",
     "score": "+9",
     "score_num": 9,
@@ -1141,15 +1150,6 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
-  },
-  {
-    "position": "81",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
