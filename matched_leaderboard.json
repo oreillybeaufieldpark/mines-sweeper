@@ -165,7 +165,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 22
@@ -264,7 +264,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 32
@@ -567,16 +567,16 @@
     "order": 63
   },
   {
-    "position": "T62",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "11",
+    "position": "T64",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 64
   },
   {
-    "position": "65",
+    "position": "T64",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
