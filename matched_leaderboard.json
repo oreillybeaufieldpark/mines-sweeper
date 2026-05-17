@@ -301,15 +301,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "10",
-    "golfer": "Alex Noren",
-    "owner": "",
-    "order": 34
-  },
-  {
-    "position": "T34",
-    "score": "E",
-    "score_num": 0,
-    "thru": "10",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 35
@@ -414,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "11",
+    "golfer": "Alex Noren",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -498,7 +498,7 @@
     "position": "T56",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 56
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "71",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -756,7 +756,7 @@
     "order": 95
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T73",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 73
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
