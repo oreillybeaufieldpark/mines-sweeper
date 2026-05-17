@@ -1035,6 +1035,15 @@
     "order": 118
   },
   {
+    "position": "80",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 80
+  },
+  {
     "position": "-",
     "score": "+8",
     "score_num": 8,
@@ -1105,15 +1114,6 @@
     "golfer": "Bernd Wiesberger",
     "owner": "",
     "order": 126
-  },
-  {
-    "position": "80",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 80
   },
   {
     "position": "-",
