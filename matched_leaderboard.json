@@ -30,7 +30,7 @@
     "position": "T3",
     "score": "-5",
     "score_num": -5,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 4
@@ -48,7 +48,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 6
@@ -153,16 +153,16 @@
     "order": 16
   },
   {
-    "position": "T14",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "17",
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 17
   },
   {
-    "position": "T19",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T19",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T19",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T19",
+    "position": "T18",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
