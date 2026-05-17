@@ -462,15 +462,6 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "7",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
     "thru": "6",
     "golfer": "Taylor Pendrith",
     "owner": "",
@@ -504,7 +495,16 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T56",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 52
+  },
+  {
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
