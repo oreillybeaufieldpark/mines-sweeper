@@ -666,22 +666,22 @@
     "order": 74
   },
   {
-    "position": "T75",
+    "position": "T66",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "3",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 77
+  },
+  {
+    "position": "76",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 75
-  },
-  {
-    "position": "T75",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 77
   },
   {
     "position": "-",
@@ -1269,6 +1269,15 @@
     "order": 142
   },
   {
+    "position": "82",
+    "score": "+14",
+    "score_num": 14,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
+  },
+  {
     "position": "-",
     "score": "+14",
     "score_num": 14,
@@ -1294,15 +1303,6 @@
     "golfer": "Zach Haynes",
     "owner": "",
     "order": 145
-  },
-  {
-    "position": "82",
-    "score": "+15",
-    "score_num": 15,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
   },
   {
     "position": "-",
