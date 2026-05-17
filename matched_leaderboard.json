@@ -450,7 +450,16 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "2",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 54
+  },
+  {
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -459,7 +468,7 @@
     "order": 50
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -468,7 +477,7 @@
     "order": 51
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -477,16 +486,7 @@
     "order": 52
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:15",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:15",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "15:25",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -522,7 +522,7 @@
     "order": 61
   },
   {
-    "position": "T51",
+    "position": "T52",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -588,7 +588,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 67
@@ -633,7 +633,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 71
