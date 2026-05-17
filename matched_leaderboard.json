@@ -81,7 +81,16 @@
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T2",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "1",
+    "golfer": "Maverick McNealy",
+    "owner": "Igor Fleming",
+    "order": 17
+  },
+  {
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -90,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -99,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "6",
@@ -108,7 +117,7 @@
     "order": 12
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "2",
@@ -117,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -126,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -135,22 +144,13 @@
     "order": 15
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "18:55",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 16
-  },
-  {
-    "position": "T10",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "18:55",
-    "golfer": "Maverick McNealy",
-    "owner": "Igor Fleming",
-    "order": 17
   },
   {
     "position": "T18",
@@ -315,7 +315,16 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "11",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -360,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -378,16 +387,7 @@
     "order": 42
   },
   {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "10",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
