@@ -216,6 +216,15 @@
     "order": 24
   },
   {
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "2",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 28
+  },
+  {
     "position": "T26",
     "score": "-1",
     "score_num": -1,
@@ -241,15 +250,6 @@
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 27
-  },
-  {
-    "position": "T12",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "1",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 28
   },
   {
     "position": "T26",
@@ -324,7 +324,16 @@
     "order": 36
   },
   {
-    "position": "T37",
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "3",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 43
+  },
+  {
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -333,16 +342,16 @@
     "order": 37
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 38
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -360,16 +369,16 @@
     "order": 40
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 41
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -378,16 +387,7 @@
     "order": 42
   },
   {
-    "position": "T37",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 43
-  },
-  {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T37",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -444,7 +444,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 50
@@ -480,7 +480,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 54
