@@ -153,7 +153,16 @@
     "order": 22
   },
   {
-    "position": "T18",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "1",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 25
+  },
+  {
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +171,7 @@
     "order": 16
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -171,7 +180,7 @@
     "order": 17
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -180,7 +189,7 @@
     "order": 19
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,7 +198,7 @@
     "order": 20
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -198,7 +207,7 @@
     "order": 21
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -207,22 +216,13 @@
     "order": 23
   },
   {
-    "position": "T18",
+    "position": "T19",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 24
-  },
-  {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:25",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 25
   },
   {
     "position": "T26",
@@ -255,7 +255,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 30
@@ -270,7 +270,7 @@
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -279,7 +279,7 @@
     "order": 28
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -306,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -315,16 +315,7 @@
     "order": 34
   },
   {
-    "position": "T40",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Padraig Harrington",
-    "owner": "",
-    "order": 36
-  },
-  {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -333,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -342,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -351,13 +342,22 @@
     "order": 39
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "6",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 49
+  },
+  {
+    "position": "T40",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 36
   },
   {
     "position": "T40",
