@@ -273,7 +273,7 @@
     "position": "T28",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 30
@@ -318,7 +318,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 36
@@ -372,15 +372,6 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "6",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 42
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
     "thru": "5",
     "golfer": "Michael Kim",
     "owner": "",
@@ -390,13 +381,22 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "7",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 42
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "16",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,7 +441,16 @@
     "order": 49
   },
   {
-    "position": "T50",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -495,16 +504,7 @@
     "order": 55
   },
   {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T50",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -576,16 +576,7 @@
     "order": 64
   },
   {
-    "position": "T60",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "9",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 65
-  },
-  {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -594,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -603,7 +594,16 @@
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 65
+  },
+  {
+    "position": "T67",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
