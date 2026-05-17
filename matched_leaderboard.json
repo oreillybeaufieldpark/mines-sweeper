@@ -309,7 +309,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 35
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T34",
+    "position": "T45",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -340,15 +340,6 @@
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 38
-  },
-  {
-    "position": "T34",
-    "score": "E",
-    "score_num": 0,
-    "thru": "3",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 39
   },
   {
     "position": "T34",
@@ -390,7 +381,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "16:35",
+    "thru": "1",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 44
@@ -414,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 39
+  },
+  {
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T47",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -570,7 +570,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 64
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "70",
+    "position": "T70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -756,7 +756,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -940,15 +940,6 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 76
-  },
-  {
-    "position": "T75",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 77
@@ -1017,7 +1008,16 @@
     "order": 118
   },
   {
-    "position": "T78",
+    "position": "T77",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T77",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 78
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1035,7 +1035,7 @@
     "order": 79
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
