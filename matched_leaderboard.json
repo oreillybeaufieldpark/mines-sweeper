@@ -765,15 +765,6 @@
     "order": 72
   },
   {
-    "position": "T71",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 73
-  },
-  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -918,7 +909,16 @@
     "order": 111
   },
   {
-    "position": "T74",
+    "position": "T73",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -927,7 +927,7 @@
     "order": 74
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -936,7 +936,7 @@
     "order": 75
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
