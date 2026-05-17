@@ -102,7 +102,7 @@
     "position": "T11",
     "score": "-3",
     "score_num": -3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 14
@@ -399,7 +399,7 @@
     "position": "T37",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
@@ -415,9 +415,9 @@
   },
   {
     "position": "T47",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "6",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "7",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 46
