@@ -271,9 +271,9 @@
   },
   {
     "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 31
@@ -495,7 +495,16 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "4",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 61
+  },
+  {
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "4",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "4",
@@ -531,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -540,16 +549,7 @@
     "order": 60
   },
   {
-    "position": "T56",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "3",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 61
-  },
-  {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T56",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T56",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T56",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "14:55",
