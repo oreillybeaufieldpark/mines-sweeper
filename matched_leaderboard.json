@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T12",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -453,7 +453,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 51
