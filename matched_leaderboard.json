@@ -246,7 +246,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 28
@@ -382,15 +382,6 @@
     "score": "E",
     "score_num": 0,
     "thru": "5",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 43
-  },
-  {
-    "position": "T38",
-    "score": "E",
-    "score_num": 0,
-    "thru": "4",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 44
@@ -414,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "6",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 43
+  },
+  {
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T62",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
