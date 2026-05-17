@@ -237,7 +237,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 26
@@ -336,7 +336,7 @@
     "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 37
@@ -489,15 +489,6 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
-    "golfer": "Rico Hoey",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
     "thru": "5",
     "golfer": "Aldrich Potgieter",
     "owner": "",
@@ -513,7 +504,16 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T57",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "7",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -1008,7 +1008,7 @@
     "order": 118
   },
   {
-    "position": "T77",
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1017,7 +1017,7 @@
     "order": 77
   },
   {
-    "position": "T77",
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 78
   },
   {
-    "position": "T77",
+    "position": "T75",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
