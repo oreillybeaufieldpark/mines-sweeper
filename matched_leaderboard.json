@@ -657,16 +657,7 @@
     "order": 73
   },
   {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 74
-  },
-  {
-    "position": "T74",
+    "position": "74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -792,7 +783,16 @@
     "order": 95
   },
   {
-    "position": "T76",
+    "position": "T75",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 74
+  },
+  {
+    "position": "T75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -801,7 +801,7 @@
     "order": 75
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -810,7 +810,7 @@
     "order": 77
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
