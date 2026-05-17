@@ -102,7 +102,7 @@
     "position": "T12",
     "score": "-2",
     "score_num": -2,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 12
@@ -237,7 +237,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 27
@@ -246,7 +246,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 28
@@ -282,7 +282,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "17:15",
+    "thru": "1",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 33
@@ -463,21 +463,21 @@
     "score": "+1",
     "score_num": 1,
     "thru": "7",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 53
   },
   {
-    "position": "T54",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 52
+  },
+  {
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T54",
+    "position": "T53",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -549,7 +549,16 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "13",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -558,7 +567,7 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,16 +576,7 @@
     "order": 63
   },
   {
-    "position": "T62",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "12",
-    "golfer": "Sam Stevens",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -597,7 +597,7 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 67
