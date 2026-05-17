@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T2",
     "score": "-5",
     "score_num": -5,
     "thru": "1",
@@ -18,7 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "19:25",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 10
+  },
+  {
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "15",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -36,7 +45,7 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "2",
@@ -45,7 +54,7 @@
     "order": 5
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "1",
@@ -54,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "19:25",
@@ -63,22 +72,13 @@
     "order": 8
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-4",
     "score_num": -4,
     "thru": "19:35",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 9
-  },
-  {
-    "position": "T3",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "19:25",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 10
   },
   {
     "position": "T10",
@@ -228,7 +228,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 26
