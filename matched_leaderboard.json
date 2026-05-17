@@ -120,7 +120,7 @@
     "position": "T11",
     "score": "-3",
     "score_num": -3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 16
@@ -264,7 +264,7 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 30
@@ -408,13 +408,13 @@
     "position": "T37",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 45
   },
   {
-    "position": "T37",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -423,7 +423,7 @@
     "order": 46
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
