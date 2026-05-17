@@ -495,6 +495,15 @@
     "order": 53
   },
   {
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "14",
+    "golfer": "Taylor Pendrith",
+    "owner": "",
+    "order": 61
+  },
+  {
     "position": "T57",
     "score": "+3",
     "score_num": 3,
@@ -538,15 +547,6 @@
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 60
-  },
-  {
-    "position": "T49",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "13",
-    "golfer": "Taylor Pendrith",
-    "owner": "",
-    "order": 61
   },
   {
     "position": "T62",
