@@ -234,10 +234,10 @@
     "order": 26
   },
   {
-    "position": "T28",
+    "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 28
@@ -252,7 +252,7 @@
     "order": 34
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -261,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "3",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -471,7 +471,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 52
