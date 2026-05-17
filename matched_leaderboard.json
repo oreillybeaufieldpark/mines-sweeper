@@ -387,16 +387,16 @@
     "order": 43
   },
   {
-    "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
+    "position": "T31",
+    "score": "E",
+    "score_num": 0,
+    "thru": "6",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 44
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:45",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:35",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T44",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:25",
@@ -480,7 +480,7 @@
     "position": "T53",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "William Mouw",
     "owner": "",
     "order": 54
@@ -624,19 +624,10 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 69
-  },
-  {
-    "position": "T74",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "3",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 70
   },
   {
     "position": "T69",
@@ -664,6 +655,15 @@
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 74
+  },
+  {
+    "position": "T74",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 70
   },
   {
     "position": "T74",
