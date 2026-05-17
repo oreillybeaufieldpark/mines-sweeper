@@ -3,7 +3,7 @@
     "position": "T1",
     "score": "-6",
     "score_num": -6,
-    "thru": "19:35",
+    "thru": "1",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 1
@@ -48,7 +48,7 @@
     "position": "T6",
     "score": "-4",
     "score_num": -4,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 6
@@ -75,7 +75,7 @@
     "position": "T6",
     "score": "-4",
     "score_num": -4,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 9
@@ -126,15 +126,6 @@
     "order": 14
   },
   {
-    "position": "T17",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "7",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 15
-  },
-  {
     "position": "T10",
     "score": "-3",
     "score_num": -3,
@@ -156,6 +147,15 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
+    "thru": "8",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 15
+  },
+  {
+    "position": "T17",
+    "score": "-2",
+    "score_num": -2,
     "thru": "F",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T18",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "12",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T18",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "4",
@@ -381,7 +381,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 43
