@@ -225,7 +225,16 @@
     "order": 26
   },
   {
-    "position": "T26",
+    "position": "T20",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "14",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 33
+  },
+  {
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -234,7 +243,7 @@
     "order": 24
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -288,16 +297,7 @@
     "order": 32
   },
   {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "13",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 33
-  },
-  {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -561,7 +561,7 @@
     "position": "T60",
     "score": "+4",
     "score_num": 4,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 63
