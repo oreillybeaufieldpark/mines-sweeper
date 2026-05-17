@@ -675,6 +675,15 @@
     "order": 75
   },
   {
+    "position": "76",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 76
+  },
+  {
     "position": "-",
     "score": "+5",
     "score_num": 5,
@@ -790,15 +799,6 @@
     "golfer": "Garrick Higgo",
     "owner": "",
     "order": 95
-  },
-  {
-    "position": "76",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "T77",
@@ -1107,6 +1107,15 @@
     "order": 126
   },
   {
+    "position": "80",
+    "score": "+9",
+    "score_num": 9,
+    "thru": "CUT",
+    "golfer": "Ben Kern",
+    "owner": "",
+    "order": 81
+  },
+  {
     "position": "-",
     "score": "+9",
     "score_num": 9,
@@ -1134,22 +1143,13 @@
     "order": 129
   },
   {
-    "position": "T80",
+    "position": "81",
     "score": "+10",
     "score_num": 10,
     "thru": "CUT",
     "golfer": "Casey Jarvis",
     "owner": "",
     "order": 80
-  },
-  {
-    "position": "T80",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Ben Kern",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
