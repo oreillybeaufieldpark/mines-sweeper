@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 4
@@ -388,9 +388,9 @@
   },
   {
     "position": "T44",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "10",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "11",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 44
