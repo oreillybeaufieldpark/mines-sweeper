@@ -234,6 +234,15 @@
     "order": 26
   },
   {
+    "position": "T12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "1",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 34
+  },
+  {
     "position": "T28",
     "score": "-1",
     "score_num": -1,
@@ -291,19 +300,10 @@
     "position": "T28",
     "score": "-1",
     "score_num": -1,
-    "thru": "17:35",
+    "thru": "1",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 33
-  },
-  {
-    "position": "T12",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17:35",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 34
   },
   {
     "position": "T35",
@@ -363,7 +363,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 41
@@ -480,7 +480,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 54
