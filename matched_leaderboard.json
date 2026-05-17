@@ -1,14 +1,5 @@
 [
   {
-    "position": "1",
-    "score": "-6",
-    "score_num": -6,
-    "thru": "19:35",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 1
-  },
-  {
     "position": "T2",
     "score": "-4",
     "score_num": -4,
@@ -108,7 +99,16 @@
     "order": 14
   },
   {
-    "position": "T13",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "2",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 34
+  },
+  {
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "7",
@@ -117,7 +117,7 @@
     "order": 12
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "4",
@@ -126,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -135,16 +135,7 @@
     "order": 15
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:35",
-    "golfer": "Chris Kirk",
-    "owner": "",
-    "order": 16
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -153,7 +144,7 @@
     "order": 17
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -162,25 +153,7 @@
     "order": 18
   },
   {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:25",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 19
-  },
-  {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:05",
-    "golfer": "Ben Griffin",
-    "owner": "Michael Murray",
-    "order": 20
-  },
-  {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -189,7 +162,7 @@
     "order": 21
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "18:05",
@@ -198,7 +171,7 @@
     "order": 22
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -207,7 +180,7 @@
     "order": 23
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -216,7 +189,7 @@
     "order": 24
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "17:55",
@@ -225,7 +198,7 @@
     "order": 25
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "17:55",
@@ -234,22 +207,13 @@
     "order": 26
   },
   {
-    "position": "T13",
+    "position": "T14",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 28
-  },
-  {
-    "position": "T13",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "1",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 34
   },
   {
     "position": "T29",
@@ -282,7 +246,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 31
@@ -300,7 +264,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 33
@@ -765,15 +729,6 @@
     "order": 72
   },
   {
-    "position": "T70",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 73
-  },
-  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -918,7 +873,16 @@
     "order": 111
   },
   {
-    "position": "T74",
+    "position": "T73",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -927,7 +891,7 @@
     "order": 74
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -936,7 +900,7 @@
     "order": 75
   },
   {
-    "position": "T74",
+    "position": "T73",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -995,7 +959,7 @@
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Austin Smotherman",
-    "owner": "",
+    "owner": "Fergal O'Reilly",
     "order": 117
   },
   {
@@ -1148,7 +1112,7 @@
     "score_num": 10,
     "thru": "CUT",
     "golfer": "Ben Kern",
-    "owner": "",
+    "owner": "Michael Murray",
     "order": 81
   },
   {
