@@ -219,15 +219,6 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 25
-  },
-  {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
     "thru": "17:35",
     "golfer": "Brian Harman",
     "owner": "",
@@ -297,7 +288,16 @@
     "order": 33
   },
   {
-    "position": "T34",
+    "position": "T33",
+    "score": "E",
+    "score_num": 0,
+    "thru": "3",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 25
+  },
+  {
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -306,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -315,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -342,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -351,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -489,7 +489,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
@@ -579,7 +579,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 65
@@ -963,15 +963,6 @@
     "order": 78
   },
   {
-    "position": "T75",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 79
-  },
-  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1035,7 +1026,16 @@
     "order": 118
   },
   {
-    "position": "80",
+    "position": "T79",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T79",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
