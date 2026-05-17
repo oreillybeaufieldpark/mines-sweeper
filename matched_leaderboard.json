@@ -27,7 +27,7 @@
     "order": 10
   },
   {
-    "position": "T4",
+    "position": "T2",
     "score": "-4",
     "score_num": -4,
     "thru": "15",
@@ -36,16 +36,16 @@
     "order": 3
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 4
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "2",
@@ -54,7 +54,7 @@
     "order": 5
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "1",
@@ -63,7 +63,7 @@
     "order": 7
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "1",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T4",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "19:35",
@@ -174,7 +174,7 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 19
