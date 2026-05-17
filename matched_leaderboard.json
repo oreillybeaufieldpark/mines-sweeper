@@ -147,7 +147,7 @@
     "position": "T16",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 17
@@ -162,7 +162,16 @@
     "order": 18
   },
   {
-    "position": "T19",
+    "position": "T16",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "9",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 26
+  },
+  {
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "17",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -207,25 +216,7 @@
     "order": 24
   },
   {
-    "position": "T19",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "12",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 25
-  },
-  {
-    "position": "T19",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 26
-  },
-  {
-    "position": "T19",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -234,7 +225,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -243,7 +234,16 @@
     "order": 23
   },
   {
-    "position": "T27",
+    "position": "T26",
+    "score": "E",
+    "score_num": 0,
+    "thru": "13",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 25
+  },
+  {
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "8",
