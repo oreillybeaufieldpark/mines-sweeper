@@ -468,7 +468,16 @@
     "order": 52
   },
   {
-    "position": "T53",
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "1",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 66
+  },
+  {
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -477,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -486,7 +495,7 @@
     "order": 54
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -495,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:37",
@@ -504,7 +513,7 @@
     "order": 56
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:46",
@@ -513,7 +522,7 @@
     "order": 57
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:46",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:55",
@@ -531,7 +540,7 @@
     "order": 59
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:37",
@@ -540,7 +549,7 @@
     "order": 60
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:19",
@@ -549,7 +558,7 @@
     "order": 61
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:28",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:28",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:10",
@@ -576,7 +585,7 @@
     "order": 64
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "14:19",
@@ -585,16 +594,7 @@
     "order": 65
   },
   {
-    "position": "T53",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14:10",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 66
-  },
-  {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T53",
+    "position": "T54",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -642,7 +642,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 72
