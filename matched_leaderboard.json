@@ -36,16 +36,7 @@
     "order": 4
   },
   {
-    "position": "T2",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "6",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 5
-  },
-  {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -54,7 +45,16 @@
     "order": 1
   },
   {
-    "position": "T6",
+    "position": "T5",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "7",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 5
+  },
+  {
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "7",
@@ -63,7 +63,7 @@
     "order": 6
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "8",
@@ -72,7 +72,7 @@
     "order": 8
   },
   {
-    "position": "T6",
+    "position": "T5",
     "score": "-4",
     "score_num": -4,
     "thru": "7",
@@ -201,7 +201,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 22
@@ -210,7 +210,7 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 24
@@ -225,7 +225,16 @@
     "order": 32
   },
   {
-    "position": "T26",
+    "position": "T20",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Maverick McNealy",
+    "owner": "Igor Fleming",
+    "order": 36
+  },
+  {
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -234,7 +243,7 @@
     "order": 23
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "13",
@@ -243,7 +252,7 @@
     "order": 25
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 27
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +288,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 31
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -297,7 +306,7 @@
     "order": 33
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,22 +315,13 @@
     "order": 34
   },
   {
-    "position": "T26",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "11",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 35
-  },
-  {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Maverick McNealy",
-    "owner": "Igor Fleming",
-    "order": 36
   },
   {
     "position": "T37",
