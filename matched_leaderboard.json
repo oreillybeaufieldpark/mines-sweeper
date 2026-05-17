@@ -198,7 +198,16 @@
     "order": 22
   },
   {
-    "position": "T23",
+    "position": "T16",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "11",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 25
+  },
+  {
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "10",
@@ -216,16 +225,7 @@
     "order": 24
   },
   {
-    "position": "T23",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "10",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 25
-  },
-  {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -234,16 +234,16 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T24",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -381,7 +381,7 @@
     "position": "T38",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 43
