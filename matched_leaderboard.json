@@ -57,15 +57,6 @@
     "position": "T7",
     "score": "-4",
     "score_num": -4,
-    "thru": "10",
-    "golfer": "Xander Schauffele",
-    "owner": "Finbarr Callaly",
-    "order": 7
-  },
-  {
-    "position": "T7",
-    "score": "-4",
-    "score_num": -4,
     "thru": "11",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
@@ -81,7 +72,16 @@
     "order": 14
   },
   {
-    "position": "T10",
+    "position": "T9",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "11",
+    "golfer": "Xander Schauffele",
+    "owner": "Finbarr Callaly",
+    "order": 7
+  },
+  {
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -90,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "17",
@@ -108,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -117,10 +117,10 @@
     "order": 12
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 13
@@ -471,7 +471,7 @@
     "position": "T44",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 53
