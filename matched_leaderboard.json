@@ -9,7 +9,7 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T2",
     "score": "-6",
     "score_num": -6,
     "thru": "F",
@@ -18,7 +18,16 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-6",
+    "score_num": -6,
+    "thru": "F",
+    "golfer": "Alex Smalley",
+    "owner": "",
+    "order": 6
+  },
+  {
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -36,22 +45,13 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "17",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 5
-  },
-  {
-    "position": "T3",
-    "score": "-5",
-    "score_num": -5,
-    "thru": "17",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 6
   },
   {
     "position": "T7",
