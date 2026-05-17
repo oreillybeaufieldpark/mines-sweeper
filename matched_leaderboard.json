@@ -270,7 +270,16 @@
     "order": 36
   },
   {
-    "position": "T31",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "6",
+    "golfer": "Martin Kaymer",
+    "owner": "",
+    "order": 37
+  },
+  {
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -279,7 +288,7 @@
     "order": 26
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +297,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -297,40 +306,31 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "9",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 35
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
-    "golfer": "Martin Kaymer",
-    "owner": "",
-    "order": 37
   },
   {
     "position": "T38",
@@ -480,7 +480,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 53
@@ -498,7 +498,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 56
@@ -513,16 +513,16 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T48",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
