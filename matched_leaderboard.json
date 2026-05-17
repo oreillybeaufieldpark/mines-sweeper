@@ -102,7 +102,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
@@ -138,13 +138,22 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
+    "thru": "9",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 20
+  },
+  {
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
     "thru": "7",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "3",
@@ -153,7 +162,7 @@
     "order": 16
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +171,7 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "12",
@@ -171,7 +180,7 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "12",
@@ -180,16 +189,7 @@
     "order": 19
   },
   {
-    "position": "T17",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "8",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 20
-  },
-  {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "11",
@@ -210,7 +210,7 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 24
@@ -427,12 +427,21 @@
     "score": "+1",
     "score_num": 1,
     "thru": "15",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T37",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "15",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 56
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +450,7 @@
     "order": 48
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +459,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +468,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +477,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,7 +486,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -486,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -495,16 +504,7 @@
     "order": 54
   },
   {
-    "position": "T49",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "14",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T49",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
