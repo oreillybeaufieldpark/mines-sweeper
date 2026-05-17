@@ -66,7 +66,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 8
@@ -273,7 +273,7 @@
     "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 31
@@ -390,7 +390,7 @@
     "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 44
@@ -507,7 +507,7 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 59
