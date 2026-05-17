@@ -478,9 +478,9 @@
   },
   {
     "position": "T50",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "5",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "6",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 55
@@ -552,7 +552,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:37",
+    "thru": "1",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 64
@@ -624,7 +624,7 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 71
@@ -682,6 +682,15 @@
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 76
+  },
+  {
+    "position": "T74",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 78
   },
   {
     "position": "-",
@@ -808,15 +817,6 @@
     "golfer": "Luke Donald",
     "owner": "",
     "order": 77
-  },
-  {
-    "position": "T74",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 78
   },
   {
     "position": "-",
