@@ -21,19 +21,10 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 3
-  },
-  {
-    "position": "T2",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "2",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 4
   },
   {
     "position": "T2",
@@ -90,7 +81,16 @@
     "order": 17
   },
   {
-    "position": "T11",
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "3",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 4
+  },
+  {
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -108,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "6",
@@ -117,7 +117,7 @@
     "order": 12
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "2",
@@ -126,7 +126,7 @@
     "order": 13
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -135,7 +135,7 @@
     "order": 14
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "19:05",
@@ -144,7 +144,7 @@
     "order": 15
   },
   {
-    "position": "T11",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "1",
@@ -192,7 +192,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 22
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -459,16 +459,16 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -486,16 +486,16 @@
     "order": 54
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 55
   },
   {
-    "position": "T46",
+    "position": "T37",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
