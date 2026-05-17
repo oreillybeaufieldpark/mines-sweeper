@@ -264,7 +264,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 31
@@ -552,7 +552,7 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 62
@@ -567,15 +567,6 @@
     "order": 63
   },
   {
-    "position": "T65",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "12",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 65
-  },
-  {
     "position": "T63",
     "score": "+4",
     "score_num": 4,
@@ -585,13 +576,13 @@
     "order": 66
   },
   {
-    "position": "T65",
+    "position": "65",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
-    "golfer": "Sam Stevens",
+    "golfer": "Kazuki Higa",
     "owner": "",
-    "order": 64
+    "order": 65
   },
   {
     "position": "-",
@@ -711,7 +702,16 @@
     "order": 95
   },
   {
-    "position": "T67",
+    "position": "T66",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T66",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -720,7 +720,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -729,7 +729,7 @@
     "order": 70
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -738,7 +738,7 @@
     "order": 71
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
