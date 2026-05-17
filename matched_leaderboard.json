@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T25",
+    "position": "T12",
     "score": "-1",
     "score_num": -1,
     "thru": "1",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:25",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:35",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:15",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:25",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:05",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:05",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T25",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "17:15",
@@ -540,6 +540,15 @@
     "order": 60
   },
   {
+    "position": "T58",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Matt Wallace",
+    "owner": "",
+    "order": 62
+  },
+  {
     "position": "T62",
     "score": "+3",
     "score_num": 3,
@@ -547,15 +556,6 @@
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 61
-  },
-  {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Matt Wallace",
-    "owner": "",
-    "order": 62
   },
   {
     "position": "T62",
@@ -570,7 +570,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 64
