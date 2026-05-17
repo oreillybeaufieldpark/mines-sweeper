@@ -171,7 +171,16 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 26
+  },
+  {
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +189,7 @@
     "order": 18
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +198,7 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +207,7 @@
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,22 +225,13 @@
     "order": 24
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 25
-  },
-  {
-    "position": "T20",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 26
   },
   {
     "position": "T27",
