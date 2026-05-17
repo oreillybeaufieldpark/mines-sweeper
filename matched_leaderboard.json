@@ -255,15 +255,6 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 29
-  },
-  {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
     "thru": "17:35",
     "golfer": "Brian Harman",
     "owner": "",
@@ -327,7 +318,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "17:15",
+    "thru": "1",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 37
@@ -351,7 +342,7 @@
     "order": 42
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -360,25 +351,16 @@
     "order": 38
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 40
   },
   {
-    "position": "T40",
-    "score": "E",
-    "score_num": 0,
-    "thru": "7",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 41
-  },
-  {
-    "position": "T40",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -387,7 +369,7 @@
     "order": 44
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -396,7 +378,7 @@
     "order": 45
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -405,7 +387,25 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 29
+  },
+  {
+    "position": "T44",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "8",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 41
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -414,7 +414,7 @@
     "order": 43
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "13",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -621,6 +621,15 @@
     "order": 69
   },
   {
+    "position": "T68",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 74
+  },
+  {
     "position": "-",
     "score": "+5",
     "score_num": 5,
@@ -738,7 +747,7 @@
     "order": 95
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -747,7 +756,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -756,22 +765,13 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
     "golfer": "John Parry",
     "owner": "",
     "order": 72
-  },
-  {
-    "position": "T70",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 74
   },
   {
     "position": "-",
