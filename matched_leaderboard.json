@@ -162,15 +162,6 @@
     "order": 18
   },
   {
-    "position": "T22",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "9",
-    "golfer": "Max Greyserman",
-    "owner": "",
-    "order": 19
-  },
-  {
     "position": "T17",
     "score": "-2",
     "score_num": -2,
@@ -183,19 +174,28 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 21
   },
   {
-    "position": "T17",
+    "position": "T16",
     "score": "-2",
     "score_num": -2,
     "thru": "6",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 28
+  },
+  {
+    "position": "T22",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "10",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 19
   },
   {
     "position": "T22",
@@ -237,7 +237,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 26
@@ -282,7 +282,7 @@
     "position": "T29",
     "score": "E",
     "score_num": 0,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 32
