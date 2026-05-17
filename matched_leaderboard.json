@@ -228,7 +228,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:05",
+    "thru": "1",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 26
@@ -246,7 +246,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:05",
+    "thru": "1",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 28
@@ -288,16 +288,7 @@
     "order": 32
   },
   {
-    "position": "T29",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "3",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 33
-  },
-  {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,7 +297,7 @@
     "order": 34
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -315,7 +306,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -324,7 +315,7 @@
     "order": 36
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -333,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -342,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -351,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -360,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -369,7 +360,16 @@
     "order": 41
   },
   {
-    "position": "T42",
+    "position": "T41",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "4",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 33
+  },
+  {
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,16 +387,16 @@
     "order": 43
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 44
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -423,19 +423,19 @@
     "order": 47
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 48
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 49
@@ -462,7 +462,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 52
@@ -507,7 +507,7 @@
     "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 57
