@@ -54,7 +54,7 @@
     "order": 6
   },
   {
-    "position": "T5",
+    "position": "T9",
     "score": "-4",
     "score_num": -4,
     "thru": "6",
@@ -66,7 +66,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 8
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "1",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "6",
@@ -135,7 +135,7 @@
     "order": 16
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "4",
@@ -144,7 +144,7 @@
     "order": 17
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "13",
@@ -183,22 +183,13 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "4",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 22
-  },
-  {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
     "thru": "9",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 27
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -207,7 +198,16 @@
     "order": 19
   },
   {
-    "position": "T23",
+    "position": "T22",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "5",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 22
+  },
+  {
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,16 +216,7 @@
     "order": 23
   },
   {
-    "position": "T23",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "16",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 24
-  },
-  {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -234,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -243,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -252,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -261,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T23",
+    "position": "T22",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -270,7 +261,16 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "17",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 24
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -381,7 +381,7 @@
     "position": "T36",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 42
