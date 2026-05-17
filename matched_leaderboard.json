@@ -417,7 +417,7 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 47
@@ -576,10 +576,19 @@
     "order": 63
   },
   {
-    "position": "T65",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "9",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T66",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "4",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 64
@@ -601,15 +610,6 @@
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 67
-  },
-  {
-    "position": "T63",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "8",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 68
   },
   {
     "position": "T66",
