@@ -93,7 +93,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 11
@@ -207,16 +207,16 @@
     "order": 23
   },
   {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "12",
+    "position": "T18",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "13",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -225,16 +225,7 @@
     "order": 25
   },
   {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "9",
-    "golfer": "Michael Kim",
-    "owner": "",
-    "order": 26
-  },
-  {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "8",
@@ -243,7 +234,7 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -252,7 +243,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -261,7 +252,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -270,7 +261,16 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "10",
+    "golfer": "Michael Kim",
+    "owner": "",
+    "order": 26
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -405,16 +405,16 @@
     "order": 45
   },
   {
-    "position": "T36",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "6",
+    "position": "T46",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "7",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -1134,22 +1134,13 @@
     "order": 129
   },
   {
-    "position": "T80",
+    "position": "80",
     "score": "+10",
     "score_num": 10,
     "thru": "CUT",
     "golfer": "Ben Kern",
     "owner": "",
     "order": 80
-  },
-  {
-    "position": "T80",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 81
   },
   {
     "position": "-",
@@ -1186,6 +1177,15 @@
     "golfer": "Sudarshan Yellamaraju",
     "owner": "",
     "order": 133
+  },
+  {
+    "position": "81",
+    "score": "+11",
+    "score_num": 11,
+    "thru": "CUT",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
