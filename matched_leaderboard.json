@@ -273,7 +273,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 31
@@ -282,7 +282,7 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 32
@@ -295,15 +295,6 @@
     "golfer": "Alex Noren",
     "owner": "",
     "order": 33
-  },
-  {
-    "position": "T38",
-    "score": "E",
-    "score_num": 0,
-    "thru": "17",
-    "golfer": "Daniel Berger",
-    "owner": "",
-    "order": 34
   },
   {
     "position": "T33",
@@ -340,6 +331,15 @@
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 38
+  },
+  {
+    "position": "T38",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "F",
+    "golfer": "Daniel Berger",
+    "owner": "",
+    "order": 34
   },
   {
     "position": "T38",
