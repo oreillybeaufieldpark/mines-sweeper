@@ -408,6 +408,15 @@
     "position": "T37",
     "score": "+1",
     "score_num": 1,
+    "thru": "13",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T37",
+    "score": "+1",
+    "score_num": 1,
     "thru": "9",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
@@ -417,7 +426,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 46
@@ -453,7 +462,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 50
@@ -462,7 +471,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 51
@@ -477,19 +486,10 @@
     "order": 52
   },
   {
-    "position": "T37",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 53
-  },
-  {
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 54
