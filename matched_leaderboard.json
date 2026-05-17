@@ -84,7 +84,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 10
@@ -471,7 +471,7 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 53
@@ -486,7 +486,16 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -495,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,16 +513,7 @@
     "order": 57
   },
   {
-    "position": "T55",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 59
-  },
-  {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -522,7 +522,7 @@
     "order": 60
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -531,7 +531,7 @@
     "order": 61
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -540,10 +540,10 @@
     "order": 62
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 64
@@ -552,7 +552,7 @@
     "position": "T62",
     "score": "+4",
     "score_num": 4,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 54
