@@ -504,7 +504,16 @@
     "order": 64
   },
   {
-    "position": "T57",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "9",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 68
+  },
+  {
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -513,7 +522,7 @@
     "order": 50
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -522,7 +531,7 @@
     "order": 56
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -531,7 +540,7 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -540,7 +549,7 @@
     "order": 58
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -549,7 +558,7 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -558,7 +567,7 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,16 +576,16 @@
     "order": 62
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 63
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -585,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -594,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T57",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "14:55",
@@ -603,16 +612,7 @@
     "order": 67
   },
   {
-    "position": "T68",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "8",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 68
-  },
-  {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,19 +639,19 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 73
