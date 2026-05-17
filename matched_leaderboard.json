@@ -658,30 +658,21 @@
   },
   {
     "position": "T74",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "3",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 76
+  },
+  {
+    "position": "T74",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 70
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 75
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "-",
@@ -801,7 +792,16 @@
     "order": 95
   },
   {
-    "position": "T77",
+    "position": "T76",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 75
+  },
+  {
+    "position": "T76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -810,7 +810,7 @@
     "order": 78
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
