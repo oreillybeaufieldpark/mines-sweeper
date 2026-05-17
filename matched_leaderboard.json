@@ -480,7 +480,7 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "14:55",
+    "thru": "1",
     "golfer": "Ryan Fox",
     "owner": "",
     "order": 55
@@ -493,6 +493,15 @@
     "golfer": "Corey Conners",
     "owner": "",
     "order": 61
+  },
+  {
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "4",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 62
   },
   {
     "position": "T50",
@@ -513,7 +522,7 @@
     "order": 68
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -522,7 +531,7 @@
     "order": 50
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -531,7 +540,7 @@
     "order": 56
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -540,7 +549,7 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -549,7 +558,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +567,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,16 +576,7 @@
     "order": 60
   },
   {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "3",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 62
-  },
-  {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -585,7 +585,7 @@
     "order": 63
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -594,7 +594,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -603,10 +603,10 @@
     "order": 66
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
-    "thru": "14:55",
+    "thru": "1",
     "golfer": "Jhonattan Vegas",
     "owner": "",
     "order": 67
@@ -633,15 +633,6 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "5",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
     "thru": "6",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
@@ -657,7 +648,16 @@
     "order": 73
   },
   {
-    "position": "74",
+    "position": "T73",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T73",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
