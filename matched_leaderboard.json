@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-6",
     "score_num": -6,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 2
@@ -48,7 +48,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 7
@@ -306,15 +306,6 @@
     "order": 34
   },
   {
-    "position": "T36",
-    "score": "E",
-    "score_num": 0,
-    "thru": "16",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 44
-  },
-  {
     "position": "T29",
     "score": "E",
     "score_num": 0,
@@ -324,7 +315,7 @@
     "order": 53
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +324,7 @@
     "order": 35
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +333,7 @@
     "order": 36
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +342,7 @@
     "order": 37
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +369,7 @@
     "order": 40
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T37",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -403,6 +394,15 @@
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
+  },
+  {
+    "position": "T36",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "17",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 44
   },
   {
     "position": "T36",
