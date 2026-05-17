@@ -66,7 +66,7 @@
     "position": "T7",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 8
@@ -192,7 +192,7 @@
     "position": "T19",
     "score": "-2",
     "score_num": -2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 20
@@ -270,6 +270,15 @@
     "order": 35
   },
   {
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 38
+  },
+  {
     "position": "T32",
     "score": "E",
     "score_num": 0,
@@ -324,16 +333,7 @@
     "order": 37
   },
   {
-    "position": "T26",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 38
-  },
-  {
-    "position": "T32",
+    "position": "T39",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -351,7 +351,7 @@
     "order": 49
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -360,7 +360,7 @@
     "order": 36
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -405,16 +405,16 @@
     "order": 45
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 47
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -423,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T40",
+    "position": "T39",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
