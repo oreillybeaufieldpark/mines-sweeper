@@ -963,6 +963,15 @@
     "order": 78
   },
   {
+    "position": "T78",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 79
+  },
+  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1024,15 +1033,6 @@
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 118
-  },
-  {
-    "position": "T78",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
