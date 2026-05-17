@@ -48,7 +48,7 @@
     "position": "T3",
     "score": "-5",
     "score_num": -5,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 6
@@ -225,16 +225,16 @@
     "order": 25
   },
   {
-    "position": "T18",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17",
+    "position": "T26",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "E",
     "score_num": 0,
     "thru": "F",
