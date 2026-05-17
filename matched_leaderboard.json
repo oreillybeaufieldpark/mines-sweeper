@@ -156,7 +156,7 @@
     "position": "T16",
     "score": "-2",
     "score_num": -2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 17
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -489,13 +489,22 @@
     "position": "T45",
     "score": "+2",
     "score_num": 2,
+    "thru": "15",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 59
+  },
+  {
+    "position": "T45",
+    "score": "+2",
+    "score_num": 2,
     "thru": "9",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +522,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,22 +531,13 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 58
-  },
-  {
-    "position": "T56",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "14",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 59
   },
   {
     "position": "T61",
@@ -570,7 +570,7 @@
     "position": "T61",
     "score": "+4",
     "score_num": 4,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 64
