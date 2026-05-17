@@ -336,13 +336,22 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
+    "thru": "16",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 44
+  },
+  {
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
     "thru": "6",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 49
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -351,7 +360,7 @@
     "order": 36
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -360,7 +369,7 @@
     "order": 39
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,16 +396,7 @@
     "order": 43
   },
   {
-    "position": "T39",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -414,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -423,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T39",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -534,7 +534,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 62
