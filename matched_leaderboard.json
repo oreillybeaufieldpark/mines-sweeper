@@ -1296,15 +1296,6 @@
     "order": 145
   },
   {
-    "position": "82",
-    "score": "+15",
-    "score_num": 15,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+15",
     "score_num": 15,
@@ -1339,6 +1330,15 @@
     "golfer": "Ryan Lenahan",
     "owner": "",
     "order": 149
+  },
+  {
+    "position": "82",
+    "score": "+16",
+    "score_num": 16,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
