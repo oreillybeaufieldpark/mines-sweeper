@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -144,7 +144,7 @@
     "order": 17
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -189,7 +189,7 @@
     "order": 22
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -207,7 +207,7 @@
     "order": 24
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -216,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
     "thru": "18:05",
@@ -234,10 +234,10 @@
     "order": 27
   },
   {
-    "position": "T14",
+    "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "17:55",
+    "thru": "1",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 28
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T58",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T64",
+    "position": "T63",
     "score": "+4",
     "score_num": 4,
     "thru": "15",
