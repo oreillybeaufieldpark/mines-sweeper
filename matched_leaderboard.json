@@ -1,15 +1,6 @@
 [
   {
-    "position": "T1",
-    "score": "-6",
-    "score_num": -6,
-    "thru": "9",
-    "golfer": "Matti Schmid",
-    "owner": "",
-    "order": 1
-  },
-  {
-    "position": "T1",
+    "position": "1",
     "score": "-6",
     "score_num": -6,
     "thru": "11",
@@ -18,7 +9,16 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "10",
+    "golfer": "Matti Schmid",
+    "owner": "",
+    "order": 1
+  },
+  {
+    "position": "T2",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -27,7 +27,7 @@
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
     "score": "-5",
     "score_num": -5,
     "thru": "16",
@@ -36,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T2",
     "score": "-5",
     "score_num": -5,
     "thru": "10",
@@ -102,7 +102,7 @@
     "position": "T9",
     "score": "-3",
     "score_num": -3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 12
