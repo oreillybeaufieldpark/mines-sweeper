@@ -90,15 +90,6 @@
     "order": 9
   },
   {
-    "position": "T24",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "7",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 10
-  },
-  {
     "position": "T9",
     "score": "-3",
     "score_num": -3,
@@ -174,15 +165,6 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "10",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 20
-  },
-  {
-    "position": "T19",
-    "score": "-2",
-    "score_num": -2,
     "thru": "2",
     "golfer": "Martin Kaymer",
     "owner": "",
@@ -216,6 +198,33 @@
     "order": 25
   },
   {
+    "position": "T18",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "9",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 29
+  },
+  {
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "8",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 10
+  },
+  {
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "11",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 20
+  },
+  {
     "position": "T24",
     "score": "-1",
     "score_num": -1,
@@ -225,7 +234,7 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -247,21 +256,12 @@
     "score": "-1",
     "score_num": -1,
     "thru": "8",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 29
-  },
-  {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 30
   },
   {
-    "position": "T24",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -381,13 +381,13 @@
     "position": "T37",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 43
   },
   {
-    "position": "T37",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -459,7 +459,7 @@
     "order": 49
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -477,7 +477,7 @@
     "order": 51
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -495,7 +495,7 @@
     "order": 53
   },
   {
-    "position": "T48",
+    "position": "T47",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
