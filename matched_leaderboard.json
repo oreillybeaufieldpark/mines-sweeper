@@ -90,16 +90,16 @@
     "order": 10
   },
   {
-    "position": "T11",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "17",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "F",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 11
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -126,7 +126,7 @@
     "order": 14
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -135,7 +135,7 @@
     "order": 15
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -144,7 +144,7 @@
     "order": 16
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:05",
@@ -153,7 +153,7 @@
     "order": 17
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:15",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "18:05",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "17:45",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "17:45",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "17:55",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T11",
+    "position": "T12",
     "score": "-2",
     "score_num": -2,
     "thru": "17:55",
@@ -336,19 +336,10 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 40
-  },
-  {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "2",
-    "golfer": "Andrew Novak",
-    "owner": "",
-    "order": 41
   },
   {
     "position": "T35",
@@ -390,6 +381,15 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
+    "thru": "6",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
     "thru": "5",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
@@ -417,10 +417,19 @@
     "position": "T45",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 39
+  },
+  {
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "3",
+    "golfer": "Andrew Novak",
+    "owner": "",
+    "order": 41
   },
   {
     "position": "T45",
@@ -502,15 +511,6 @@
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 55
-  },
-  {
-    "position": "T45",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "5",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 56
   },
   {
     "position": "T58",
