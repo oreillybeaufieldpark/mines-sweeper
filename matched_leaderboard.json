@@ -243,15 +243,6 @@
     "order": 27
   },
   {
-    "position": "T37",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "6",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 28
-  },
-  {
     "position": "T26",
     "score": "-1",
     "score_num": -1,
@@ -264,7 +255,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 30
@@ -336,6 +327,15 @@
     "position": "T37",
     "score": "E",
     "score_num": 0,
+    "thru": "7",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 28
+  },
+  {
+    "position": "T37",
+    "score": "E",
+    "score_num": 0,
     "thru": "15",
     "golfer": "Alex Noren",
     "owner": "",
@@ -378,7 +378,16 @@
     "order": 42
   },
   {
-    "position": "T43",
+    "position": "T37",
+    "score": "E",
+    "score_num": 0,
+    "thru": "9",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 46
+  },
+  {
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -387,7 +396,7 @@
     "order": 43
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -396,7 +405,7 @@
     "order": 44
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "14",
@@ -405,16 +414,7 @@
     "order": 45
   },
   {
-    "position": "T43",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "8",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 46
-  },
-  {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,16 +441,7 @@
     "order": 49
   },
   {
-    "position": "T43",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "6",
-    "golfer": "Si Woo Kim",
-    "owner": "Fergal O'Reilly",
-    "order": 50
-  },
-  {
-    "position": "T43",
+    "position": "T44",
     "score": "+1",
     "score_num": 1,
     "thru": "4",
@@ -459,7 +450,16 @@
     "order": 51
   },
   {
-    "position": "T52",
+    "position": "T51",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "7",
+    "golfer": "Si Woo Kim",
+    "owner": "Fergal O'Reilly",
+    "order": 50
+  },
+  {
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -504,16 +504,7 @@
     "order": 56
   },
   {
-    "position": "T52",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 57
-  },
-  {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -522,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -531,7 +522,7 @@
     "order": 59
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -540,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -549,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T52",
+    "position": "T51",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -558,7 +549,16 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "10",
+    "golfer": "Denny McCarthy",
+    "owner": "",
+    "order": 57
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -576,10 +576,10 @@
     "order": 64
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 65
@@ -765,6 +765,15 @@
     "order": 72
   },
   {
+    "position": "T71",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 76
+  },
+  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -934,15 +943,6 @@
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 75
-  },
-  {
-    "position": "T71",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 76
   },
   {
     "position": "-",
