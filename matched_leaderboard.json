@@ -615,22 +615,22 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "7",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 69
-  },
-  {
-    "position": "T66",
-    "score": "+4",
-    "score_num": 4,
     "thru": "5",
     "golfer": "Keith Mitchell",
     "owner": "",
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 69
+  },
+  {
+    "position": "T70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
