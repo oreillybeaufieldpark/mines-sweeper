@@ -81,7 +81,16 @@
     "order": 9
   },
   {
-    "position": "T10",
+    "position": "T5",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "13",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 12
+  },
+  {
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -90,25 +99,7 @@
     "order": 10
   },
   {
-    "position": "T10",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "13",
-    "golfer": "Scottie Scheffler",
-    "owner": "Stephen Walker",
-    "order": 11
-  },
-  {
-    "position": "T10",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "12",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 12
-  },
-  {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -117,7 +108,7 @@
     "order": 13
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "10",
@@ -126,7 +117,7 @@
     "order": 14
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -135,7 +126,7 @@
     "order": 15
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "7",
@@ -144,7 +135,7 @@
     "order": 16
   },
   {
-    "position": "T10",
+    "position": "T11",
     "score": "-3",
     "score_num": -3,
     "thru": "4",
@@ -153,7 +144,16 @@
     "order": 17
   },
   {
-    "position": "T18",
+    "position": "T17",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "14",
+    "golfer": "Scottie Scheffler",
+    "owner": "Stephen Walker",
+    "order": 11
+  },
+  {
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -162,7 +162,7 @@
     "order": 18
   },
   {
-    "position": "T18",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -171,7 +171,7 @@
     "order": 19
   },
   {
-    "position": "T18",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "8",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T18",
+    "position": "T17",
     "score": "-2",
     "score_num": -2,
     "thru": "5",
