@@ -489,7 +489,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 57
@@ -520,15 +520,6 @@
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 60
-  },
-  {
-    "position": "T55",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "1",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 61
   },
   {
     "position": "T55",
@@ -603,16 +594,25 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "William Mouw",
     "owner": "",
     "order": 56
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "2",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 61
+  },
+  {
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,7 +639,7 @@
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -648,22 +648,13 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 74
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 54
   },
   {
     "position": "T74",
@@ -810,7 +801,16 @@
     "order": 95
   },
   {
-    "position": "78",
+    "position": "T77",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 54
+  },
+  {
+    "position": "T77",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
