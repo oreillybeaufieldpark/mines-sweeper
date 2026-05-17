@@ -318,7 +318,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
     "order": 36
@@ -471,7 +471,7 @@
     "position": "T48",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
@@ -594,16 +594,16 @@
     "order": 67
   },
   {
-    "position": "T67",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "15",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "16",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -612,10 +612,10 @@
     "order": 69
   },
   {
-    "position": "T67",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 70
