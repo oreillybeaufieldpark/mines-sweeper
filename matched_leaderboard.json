@@ -225,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T38",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -336,22 +336,22 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 38
   },
   {
-    "position": "T33",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
+    "position": "T38",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "6",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 39
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "12",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -396,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -423,7 +423,7 @@
     "order": 54
   },
   {
-    "position": "T40",
+    "position": "T38",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -1107,15 +1107,6 @@
     "order": 79
   },
   {
-    "position": "T80",
-    "score": "+9",
-    "score_num": 9,
-    "thru": "CUT",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 80
-  },
-  {
     "position": "-",
     "score": "+9",
     "score_num": 9,
@@ -1141,6 +1132,15 @@
     "golfer": "Y.E. Yang",
     "owner": "",
     "order": 129
+  },
+  {
+    "position": "T80",
+    "score": "+10",
+    "score_num": 10,
+    "thru": "CUT",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 80
   },
   {
     "position": "T80",
