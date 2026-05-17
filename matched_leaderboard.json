@@ -282,7 +282,7 @@
     "position": "T30",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 31
@@ -471,15 +471,6 @@
     "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "12",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T47",
-    "score": "+2",
-    "score_num": 2,
     "thru": "7",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
@@ -504,7 +495,16 @@
     "order": 59
   },
   {
-    "position": "T57",
+    "position": "T56",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 53
+  },
+  {
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 55
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 56
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
