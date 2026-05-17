@@ -252,15 +252,6 @@
     "order": 27
   },
   {
-    "position": "T36",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "5",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 29
-  },
-  {
     "position": "T27",
     "score": "-1",
     "score_num": -1,
@@ -282,7 +273,7 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 32
@@ -315,16 +306,7 @@
     "order": 36
   },
   {
-    "position": "T27",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "17:25",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 37
-  },
-  {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "7",
@@ -333,7 +315,25 @@
     "order": 28
   },
   {
-    "position": "T36",
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "6",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 29
+  },
+  {
+    "position": "T35",
+    "score": "E",
+    "score_num": 0,
+    "thru": "1",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 37
+  },
+  {
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -342,16 +342,16 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "9",
@@ -414,15 +414,6 @@
     "order": 47
   },
   {
-    "position": "T49",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
-    "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 48
-  },
-  {
     "position": "T44",
     "score": "+1",
     "score_num": 1,
@@ -448,6 +439,15 @@
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 41
+  },
+  {
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Aldrich Potgieter",
+    "owner": "",
+    "order": 48
   },
   {
     "position": "T49",
@@ -597,19 +597,10 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 67
-  },
-  {
-    "position": "T68",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 68
   },
   {
     "position": "T68",
@@ -747,7 +738,16 @@
     "order": 95
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -756,7 +756,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
