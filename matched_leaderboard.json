@@ -9,16 +9,25 @@
     "order": 1
   },
   {
-    "position": "2",
+    "position": "T2",
     "score": "-6",
     "score_num": -6,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 2
   },
   {
-    "position": "T3",
+    "position": "T2",
+    "score": "-6",
+    "score_num": -6,
+    "thru": "16",
+    "golfer": "Alex Smalley",
+    "owner": "",
+    "order": 9
+  },
+  {
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -27,7 +36,7 @@
     "order": 3
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "15",
@@ -36,7 +45,7 @@
     "order": 4
   },
   {
-    "position": "T3",
+    "position": "T4",
     "score": "-5",
     "score_num": -5,
     "thru": "F",
@@ -45,7 +54,7 @@
     "order": 8
   },
   {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -54,7 +63,7 @@
     "order": 5
   },
   {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
@@ -63,22 +72,13 @@
     "order": 6
   },
   {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "F",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 7
-  },
-  {
-    "position": "T6",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "15",
-    "golfer": "Alex Smalley",
-    "owner": "",
-    "order": 9
   },
   {
     "position": "T10",
