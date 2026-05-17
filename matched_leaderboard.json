@@ -498,7 +498,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 56
@@ -540,25 +540,25 @@
     "order": 60
   },
   {
-    "position": "T61",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "5",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "6",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Sam Stevens",
     "owner": "",
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
