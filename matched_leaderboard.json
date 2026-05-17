@@ -516,15 +516,6 @@
     "position": "T58",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 58
-  },
-  {
-    "position": "T58",
-    "score": "+2",
-    "score_num": 2,
     "thru": "13",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
@@ -549,7 +540,7 @@
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -558,7 +549,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -567,7 +558,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -576,7 +567,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -585,7 +576,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -594,7 +585,16 @@
     "order": 66
   },
   {
-    "position": "T67",
+    "position": "T66",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "17",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 58
+  },
+  {
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "14",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
