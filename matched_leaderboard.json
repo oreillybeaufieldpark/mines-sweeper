@@ -111,7 +111,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
     "order": 14
@@ -129,7 +129,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 16
@@ -192,7 +192,7 @@
     "position": "T17",
     "score": "-2",
     "score_num": -2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 24
@@ -214,15 +214,6 @@
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 22
-  },
-  {
-    "position": "T31",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 25
   },
   {
     "position": "T23",
@@ -255,10 +246,19 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 34
+  },
+  {
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "10",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 35
   },
   {
     "position": "T23",
@@ -279,7 +279,16 @@
     "order": 37
   },
   {
-    "position": "T31",
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 25
+  },
+  {
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +297,7 @@
     "order": 26
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +306,7 @@
     "order": 30
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -306,7 +315,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T32",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -322,15 +331,6 @@
     "golfer": "Michael Kim",
     "owner": "",
     "order": 33
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
-    "thru": "9",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 35
   },
   {
     "position": "T38",
@@ -543,7 +543,7 @@
     "position": "T61",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 61
