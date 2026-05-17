@@ -165,7 +165,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 19
@@ -201,7 +201,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 23
@@ -405,7 +405,7 @@
     "order": 46
   },
   {
-    "position": "T38",
+    "position": "T48",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -432,7 +432,7 @@
     "order": 54
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -441,7 +441,7 @@
     "order": 44
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -477,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "17",
@@ -486,7 +486,7 @@
     "order": 53
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "15",
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T49",
+    "position": "T48",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
