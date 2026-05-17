@@ -390,7 +390,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 44
@@ -471,7 +471,7 @@
     "position": "T53",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Ryan Gerard",
     "owner": "",
     "order": 53
@@ -963,7 +963,7 @@
     "order": 111
   },
   {
-    "position": "T79",
+    "position": "80",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -972,7 +972,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
