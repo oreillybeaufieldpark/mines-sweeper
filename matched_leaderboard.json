@@ -201,7 +201,7 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 23
@@ -561,7 +561,7 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 65
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T72",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -648,7 +648,7 @@
     "order": 72
   },
   {
-    "position": "73",
+    "position": "T72",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
