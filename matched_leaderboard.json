@@ -120,7 +120,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 13
@@ -219,15 +219,6 @@
     "position": "T25",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 25
-  },
-  {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
     "thru": "8",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
@@ -270,7 +261,16 @@
     "order": 33
   },
   {
-    "position": "T31",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "12",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 25
+  },
+  {
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -279,7 +279,7 @@
     "order": 26
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -306,16 +306,16 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 35
   },
   {
-    "position": "T31",
+    "position": "T30",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -403,6 +403,15 @@
     "golfer": "Brian Harman",
     "owner": "",
     "order": 45
+  },
+  {
+    "position": "T37",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "9",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 56
   },
   {
     "position": "T47",
@@ -493,15 +502,6 @@
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 55
-  },
-  {
-    "position": "T37",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "8",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 56
   },
   {
     "position": "T47",
