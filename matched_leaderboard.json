@@ -201,10 +201,19 @@
     "position": "T23",
     "score": "-1",
     "score_num": -1,
+    "thru": "10",
+    "golfer": "Kurt Kitayama",
+    "owner": "Simon Smyth",
+    "order": 23
+  },
+  {
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
     "thru": "17:35",
     "golfer": "Brian Harman",
     "owner": "",
-    "order": 23
+    "order": 24
   },
   {
     "position": "T23",
@@ -213,7 +222,7 @@
     "thru": "17:25",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
-    "order": 24
+    "order": 25
   },
   {
     "position": "T23",
@@ -222,7 +231,7 @@
     "thru": "17:35",
     "golfer": "Mikael Lindberg",
     "owner": "",
-    "order": 25
+    "order": 26
   },
   {
     "position": "T23",
@@ -231,7 +240,7 @@
     "thru": "17:15",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
-    "order": 26
+    "order": 27
   },
   {
     "position": "T23",
@@ -240,7 +249,7 @@
     "thru": "17:25",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
-    "order": 27
+    "order": 28
   },
   {
     "position": "T23",
@@ -249,7 +258,7 @@
     "thru": "17:05",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
-    "order": 28
+    "order": 29
   },
   {
     "position": "T23",
@@ -258,7 +267,7 @@
     "thru": "17:05",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
-    "order": 29
+    "order": 30
   },
   {
     "position": "T23",
@@ -267,16 +276,16 @@
     "thru": "17:15",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
-    "order": 30
+    "order": 31
   },
   {
-    "position": "T23",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "9",
-    "golfer": "Kurt Kitayama",
-    "owner": "Simon Smyth",
-    "order": 31
+    "position": "T32",
+    "score": "E",
+    "score_num": 0,
+    "thru": "5",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 32
   },
   {
     "position": "T32",
@@ -285,7 +294,7 @@
     "thru": "16:45",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
-    "order": 32
+    "order": 33
   },
   {
     "position": "T32",
@@ -294,7 +303,7 @@
     "thru": "16:35",
     "golfer": "Padraig Harrington",
     "owner": "",
-    "order": 33
+    "order": 34
   },
   {
     "position": "T32",
@@ -303,7 +312,7 @@
     "thru": "16:45",
     "golfer": "Michael Kim",
     "owner": "",
-    "order": 34
+    "order": 35
   },
   {
     "position": "T32",
@@ -312,7 +321,7 @@
     "thru": "16:25",
     "golfer": "Dustin Johnson",
     "owner": "",
-    "order": 35
+    "order": 36
   },
   {
     "position": "T32",
@@ -321,7 +330,7 @@
     "thru": "16:35",
     "golfer": "Tom Hoge",
     "owner": "",
-    "order": 36
+    "order": 37
   },
   {
     "position": "T32",
@@ -330,7 +339,7 @@
     "thru": "16:15",
     "golfer": "Andrew Putnam",
     "owner": "",
-    "order": 37
+    "order": 38
   },
   {
     "position": "T32",
@@ -339,7 +348,7 @@
     "thru": "16:25",
     "golfer": "Daniel Hillier",
     "owner": "",
-    "order": 38
+    "order": 39
   },
   {
     "position": "T32",
@@ -348,7 +357,7 @@
     "thru": "16:15",
     "golfer": "Andrew Novak",
     "owner": "",
-    "order": 39
+    "order": 40
   },
   {
     "position": "T32",
@@ -357,7 +366,7 @@
     "thru": "15:55",
     "golfer": "Justin Thomas",
     "owner": "Dave Smyth",
-    "order": 40
+    "order": 41
   },
   {
     "position": "T32",
@@ -366,7 +375,7 @@
     "thru": "16:05",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
-    "order": 41
+    "order": 42
   },
   {
     "position": "T32",
@@ -375,7 +384,7 @@
     "thru": "16:05",
     "golfer": "Cameron Young",
     "owner": "Colm Geary",
-    "order": 42
+    "order": 43
   },
   {
     "position": "T32",
@@ -384,7 +393,7 @@
     "thru": "15:45",
     "golfer": "Stephan Jaeger",
     "owner": "",
-    "order": 43
+    "order": 44
   },
   {
     "position": "T32",
@@ -392,15 +401,6 @@
     "score_num": 0,
     "thru": "15:55",
     "golfer": "Aldrich Potgieter",
-    "owner": "",
-    "order": 44
-  },
-  {
-    "position": "T32",
-    "score": "E",
-    "score_num": 0,
-    "thru": "5",
-    "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 45
   },
@@ -444,37 +444,10 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:15",
-    "golfer": "Denny McCarthy",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15:15",
-    "golfer": "Chandler Blanchet",
-    "owner": "",
-    "order": 53
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "15:25",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "1",
-    "golfer": "Ryan Fox",
-    "owner": "",
-    "order": 55
+    "thru": "9",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 50
   },
   {
     "position": "T50",
@@ -483,7 +456,7 @@
     "thru": "5",
     "golfer": "Corey Conners",
     "owner": "",
-    "order": 61
+    "order": 51
   },
   {
     "position": "T50",
@@ -492,7 +465,7 @@
     "thru": "4",
     "golfer": "Sahith Theegala",
     "owner": "",
-    "order": 62
+    "order": 52
   },
   {
     "position": "T50",
@@ -501,34 +474,43 @@
     "thru": "2",
     "golfer": "Daniel Berger",
     "owner": "",
-    "order": 64
+    "order": 53
   },
   {
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 68
+    "thru": "1",
+    "golfer": "Ryan Fox",
+    "owner": "",
+    "order": 54
   },
   {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "7",
-    "golfer": "Rasmus H\u00f8jgaard",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "15:15",
+    "golfer": "Denny McCarthy",
     "owner": "",
-    "order": 50
+    "order": 55
   },
   {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "2",
-    "golfer": "Johnny Keefer",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "15:15",
+    "golfer": "Chandler Blanchet",
     "owner": "",
-    "order": 51
+    "order": 56
+  },
+  {
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "15:25",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 57
   },
   {
     "position": "T58",
@@ -537,7 +519,16 @@
     "thru": "8",
     "golfer": "Matt Wallace",
     "owner": "",
-    "order": 56
+    "order": 58
+  },
+  {
+    "position": "T58",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "7",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 59
   },
   {
     "position": "T58",
@@ -546,7 +537,7 @@
     "thru": "6",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
-    "order": 57
+    "order": 60
   },
   {
     "position": "T58",
@@ -555,7 +546,7 @@
     "thru": "5",
     "golfer": "Alex Noren",
     "owner": "",
-    "order": 58
+    "order": 61
   },
   {
     "position": "T58",
@@ -564,7 +555,7 @@
     "thru": "5",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
-    "order": 59
+    "order": 62
   },
   {
     "position": "T58",
@@ -573,7 +564,7 @@
     "thru": "4",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
-    "order": 60
+    "order": 63
   },
   {
     "position": "T58",
@@ -582,14 +573,14 @@
     "thru": "3",
     "golfer": "Sam Stevens",
     "owner": "",
-    "order": 63
+    "order": 64
   },
   {
     "position": "T58",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
-    "golfer": "Michael Brennan",
+    "thru": "2",
+    "golfer": "Johnny Keefer",
     "owner": "",
     "order": 65
   },
@@ -612,7 +603,16 @@
     "order": 67
   },
   {
-    "position": "T69",
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "7",
+    "golfer": "Sami V\u00e4lim\u00e4ki",
+    "owner": "",
+    "order": 68
+  },
+  {
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -621,30 +621,39 @@
     "order": 69
   },
   {
-    "position": "T69",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
-    "golfer": "Sami V\u00e4lim\u00e4ki",
-    "owner": "",
-    "order": 70
-  },
-  {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
-    "order": 72
+    "order": 70
   },
   {
-    "position": "T69",
+    "position": "T68",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
     "golfer": "Keith Mitchell",
     "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T68",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "2",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 72
+  },
+  {
+    "position": "T73",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
     "order": 73
   },
   {
@@ -654,16 +663,7 @@
     "thru": "CUT",
     "golfer": "William Mouw",
     "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T73",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 76
+    "order": 74
   },
   {
     "position": "-",
@@ -787,9 +787,18 @@
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T75",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
-    "order": 74
+    "order": 76
   },
   {
     "position": "T75",
@@ -798,15 +807,6 @@
     "thru": "CUT",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
-    "order": 75
-  },
-  {
-    "position": "T75",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
     "order": 77
   },
   {
