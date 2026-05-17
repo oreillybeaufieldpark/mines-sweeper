@@ -21,7 +21,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 3
@@ -102,7 +102,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 12
@@ -129,7 +129,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Xander Schauffele",
     "owner": "Finbarr Callaly",
     "order": 15
@@ -156,7 +156,7 @@
     "position": "T16",
     "score": "-2",
     "score_num": -2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 18
@@ -234,7 +234,16 @@
     "order": 26
   },
   {
-    "position": "T27",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "16",
+    "golfer": "Sam Burns",
+    "owner": "Fergal O'Reilly",
+    "order": 32
+  },
+  {
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -243,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,25 +288,16 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "15",
-    "golfer": "Sam Burns",
-    "owner": "Fergal O'Reilly",
-    "order": 32
-  },
-  {
-    "position": "T27",
-    "score": "E",
-    "score_num": 0,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Brooks Koepka",
     "owner": "Simon Smyth",
     "order": 33
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T27",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "8",
