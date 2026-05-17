@@ -1,21 +1,21 @@
 [
   {
-    "position": "T1",
-    "score": "-6",
-    "score_num": -6,
-    "thru": "2",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 1
-  },
-  {
-    "position": "T1",
+    "position": "1",
     "score": "-6",
     "score_num": -6,
     "thru": "2",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 2
+  },
+  {
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "3",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 1
   },
   {
     "position": "T2",
@@ -66,7 +66,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 8
@@ -306,6 +306,15 @@
     "order": 34
   },
   {
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
+    "thru": "16",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 44
+  },
+  {
     "position": "T36",
     "score": "+1",
     "score_num": 1,
@@ -385,15 +394,6 @@
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 43
-  },
-  {
-    "position": "T29",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 44
   },
   {
     "position": "T36",
@@ -486,15 +486,6 @@
     "order": 54
   },
   {
-    "position": "T56",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "12",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 55
-  },
-  {
     "position": "T47",
     "score": "+2",
     "score_num": 2,
@@ -502,6 +493,15 @@
     "golfer": "Brian Harman",
     "owner": "",
     "order": 56
+  },
+  {
+    "position": "T56",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "13",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 55
   },
   {
     "position": "T56",
