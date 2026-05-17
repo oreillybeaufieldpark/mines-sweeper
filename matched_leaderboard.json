@@ -783,15 +783,6 @@
     "order": 74
   },
   {
-    "position": "T73",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Michael Brennan",
-    "owner": "",
-    "order": 75
-  },
-  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -936,7 +927,16 @@
     "order": 111
   },
   {
-    "position": "T76",
+    "position": "T75",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Michael Brennan",
+    "owner": "",
+    "order": 75
+  },
+  {
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -945,7 +945,7 @@
     "order": 76
   },
   {
-    "position": "T76",
+    "position": "T75",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
