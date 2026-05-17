@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T22",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T22",
+    "position": "T17",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -480,7 +480,7 @@
     "position": "T47",
     "score": "+2",
     "score_num": 2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 56
@@ -543,7 +543,7 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 61
