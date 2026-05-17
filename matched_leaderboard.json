@@ -111,7 +111,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 12
@@ -234,6 +234,15 @@
     "order": 26
   },
   {
+    "position": "T28",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "8",
+    "golfer": "Justin Thomas",
+    "owner": "Dave Smyth",
+    "order": 28
+  },
+  {
     "position": "T13",
     "score": "-2",
     "score_num": -2,
@@ -250,15 +259,6 @@
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
     "order": 27
-  },
-  {
-    "position": "T28",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
-    "golfer": "Justin Thomas",
-    "owner": "Dave Smyth",
-    "order": 28
   },
   {
     "position": "T28",
@@ -291,7 +291,7 @@
     "position": "T28",
     "score": "-1",
     "score_num": -1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 32
@@ -408,7 +408,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 46
@@ -561,7 +561,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 63
