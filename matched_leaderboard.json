@@ -21,7 +21,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 3
@@ -237,7 +237,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Max Greyserman",
     "owner": "",
     "order": 27
@@ -297,15 +297,6 @@
     "order": 32
   },
   {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "16",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 33
-  },
-  {
     "position": "T30",
     "score": "E",
     "score_num": 0,
@@ -313,6 +304,15 @@
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 34
+  },
+  {
+    "position": "T35",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "17",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 33
   },
   {
     "position": "T35",
@@ -405,16 +405,16 @@
     "order": 45
   },
   {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
+    "position": "T46",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 46
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "7",
@@ -477,7 +477,7 @@
     "order": 54
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -486,7 +486,7 @@
     "order": 58
   },
   {
-    "position": "T47",
+    "position": "T46",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
