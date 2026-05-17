@@ -201,15 +201,6 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "2",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 23
-  },
-  {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
     "thru": "9",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
@@ -225,7 +216,16 @@
     "order": 28
   },
   {
-    "position": "T26",
+    "position": "T25",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "3",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 23
+  },
+  {
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -234,7 +234,7 @@
     "order": 24
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -243,7 +243,7 @@
     "order": 29
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -252,7 +252,7 @@
     "order": 30
   },
   {
-    "position": "T26",
+    "position": "T25",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
