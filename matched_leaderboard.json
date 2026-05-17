@@ -120,7 +120,7 @@
     "position": "T13",
     "score": "-2",
     "score_num": -2,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 13
@@ -399,7 +399,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 45
@@ -570,7 +570,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 64
