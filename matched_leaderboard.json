@@ -39,7 +39,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 5
@@ -63,7 +63,7 @@
     "order": 8
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -72,7 +72,7 @@
     "order": 6
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -90,7 +90,7 @@
     "order": 10
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "13",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "11",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T8",
+    "position": "T5",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -117,7 +117,7 @@
     "order": 13
   },
   {
-    "position": "T8",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
@@ -156,7 +156,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 19
@@ -489,22 +489,22 @@
     "position": "T45",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 55
-  },
-  {
-    "position": "T45",
-    "score": "+2",
-    "score_num": 2,
     "thru": "10",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 56
   },
   {
-    "position": "T57",
+    "position": "T56",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "17",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T57",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
