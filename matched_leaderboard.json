@@ -210,15 +210,6 @@
     "position": "T24",
     "score": "-1",
     "score_num": -1,
-    "thru": "4",
-    "golfer": "Jordan Spieth",
-    "owner": "Donal Maher",
-    "order": 24
-  },
-  {
-    "position": "T24",
-    "score": "-1",
-    "score_num": -1,
     "thru": "17:35",
     "golfer": "Brian Harman",
     "owner": "",
@@ -297,7 +288,16 @@
     "order": 46
   },
   {
-    "position": "T34",
+    "position": "T33",
+    "score": "E",
+    "score_num": 0,
+    "thru": "5",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 24
+  },
+  {
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -306,7 +306,7 @@
     "order": 25
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -342,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -351,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -405,7 +405,7 @@
     "order": 48
   },
   {
-    "position": "T34",
+    "position": "T33",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -435,7 +435,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 47
