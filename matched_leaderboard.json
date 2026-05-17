@@ -156,15 +156,6 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "3",
-    "golfer": "Mikael Lindberg",
-    "owner": "",
-    "order": 17
-  },
-  {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
     "thru": "18:25",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
@@ -192,7 +183,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "18:15",
+    "thru": "1",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 24
@@ -234,7 +225,16 @@
     "order": 28
   },
   {
-    "position": "T27",
+    "position": "T26",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "4",
+    "golfer": "Mikael Lindberg",
+    "owner": "",
+    "order": 17
+  },
+  {
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -243,7 +243,7 @@
     "order": 19
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -252,16 +252,16 @@
     "order": 20
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 30
   },
   {
-    "position": "T27",
+    "position": "T26",
     "score": "-1",
     "score_num": -1,
     "thru": "6",
@@ -318,7 +318,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 37
@@ -471,7 +471,7 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 52
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -585,7 +585,7 @@
     "order": 66
   },
   {
-    "position": "66",
+    "position": "T65",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
