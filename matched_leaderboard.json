@@ -363,7 +363,7 @@
     "position": "T35",
     "score": "E",
     "score_num": 0,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Michael Kim",
     "owner": "",
     "order": 42
@@ -417,7 +417,7 @@
     "position": "T44",
     "score": "+1",
     "score_num": 1,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Andrew Putnam",
     "owner": "",
     "order": 49
@@ -504,7 +504,7 @@
     "order": 58
   },
   {
-    "position": "T49",
+    "position": "T60",
     "score": "+2",
     "score_num": 2,
     "thru": "9",
@@ -513,19 +513,10 @@
     "order": 59
   },
   {
-    "position": "T60",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "9",
-    "golfer": "Haotong Li",
-    "owner": "",
-    "order": 60
-  },
-  {
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 61
@@ -534,10 +525,19 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 62
+  },
+  {
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "12",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 64
   },
   {
     "position": "T60",
@@ -561,19 +561,19 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "F",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 63
+    "thru": "10",
+    "golfer": "Haotong Li",
+    "owner": "",
+    "order": 60
   },
   {
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "11",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 64
+    "thru": "F",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 63
   },
   {
     "position": "T60",
