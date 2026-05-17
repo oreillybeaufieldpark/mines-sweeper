@@ -513,7 +513,16 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "6",
+    "golfer": "Patrick Cantlay",
+    "owner": "Colm Geary",
+    "order": 62
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -522,7 +531,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -531,16 +540,16 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T50",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -549,16 +558,7 @@
     "order": 61
   },
   {
-    "position": "T58",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "5",
-    "golfer": "Patrick Cantlay",
-    "owner": "Colm Geary",
-    "order": 62
-  },
-  {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "4",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T58",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -1332,15 +1332,6 @@
     "order": 149
   },
   {
-    "position": "82",
-    "score": "+16",
-    "score_num": 16,
-    "thru": "CUT",
-    "golfer": "Brian Campbell",
-    "owner": "",
-    "order": 82
-  },
-  {
     "position": "-",
     "score": "+16",
     "score_num": 16,
@@ -1357,6 +1348,15 @@
     "golfer": "Derek Berg",
     "owner": "",
     "order": 151
+  },
+  {
+    "position": "82",
+    "score": "+17",
+    "score_num": 17,
+    "thru": "CUT",
+    "golfer": "Brian Campbell",
+    "owner": "",
+    "order": 82
   },
   {
     "position": "-",
