@@ -490,15 +490,6 @@
     "score": "+3",
     "score_num": 3,
     "thru": "3",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T54",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "3",
     "golfer": "Alex Noren",
     "owner": "",
     "order": 57
@@ -516,7 +507,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 59
@@ -552,7 +543,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 63
@@ -603,7 +594,16 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T67",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "4",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "6",
@@ -612,7 +612,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -621,7 +621,7 @@
     "order": 70
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -630,7 +630,7 @@
     "order": 71
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -639,7 +639,7 @@
     "order": 72
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -648,7 +648,7 @@
     "order": 73
   },
   {
-    "position": "T68",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "3",
@@ -963,15 +963,6 @@
     "order": 111
   },
   {
-    "position": "79",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 79
-  },
-  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1033,6 +1024,15 @@
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 118
+  },
+  {
+    "position": "79",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 79
   },
   {
     "position": "-",
