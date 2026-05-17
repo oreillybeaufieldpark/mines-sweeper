@@ -39,7 +39,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 5
@@ -228,15 +228,6 @@
     "position": "T20",
     "score": "-1",
     "score_num": -1,
-    "thru": "9",
-    "golfer": "Bud Cauley",
-    "owner": "",
-    "order": 28
-  },
-  {
-    "position": "T20",
-    "score": "-1",
-    "score_num": -1,
     "thru": "7",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
@@ -252,7 +243,7 @@
     "order": 34
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -261,7 +252,7 @@
     "order": 23
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -270,7 +261,16 @@
     "order": 27
   },
   {
-    "position": "T29",
+    "position": "T28",
+    "score": "E",
+    "score_num": 0,
+    "thru": "10",
+    "golfer": "Bud Cauley",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -297,7 +297,7 @@
     "order": 32
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -306,16 +306,16 @@
     "order": 33
   },
   {
-    "position": "T29",
+    "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T37",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T28",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
