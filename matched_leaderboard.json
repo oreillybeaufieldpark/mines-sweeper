@@ -489,7 +489,7 @@
     "position": "T52",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:15",
+    "thru": "1",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 55
@@ -612,15 +612,6 @@
     "order": 68
   },
   {
-    "position": "T72",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "7",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 69
-  },
-  {
     "position": "T66",
     "score": "+4",
     "score_num": 4,
@@ -639,16 +630,25 @@
     "order": 71
   },
   {
-    "position": "T66",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "2",
+    "position": "T71",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 69
+  },
+  {
+    "position": "T71",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 72
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
