@@ -144,7 +144,16 @@
     "order": 18
   },
   {
-    "position": "T17",
+    "position": "T7",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "1",
+    "golfer": "Justin Rose",
+    "owner": "Richard Kendrick",
+    "order": 22
+  },
+  {
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "F",
@@ -153,7 +162,7 @@
     "order": 16
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "9",
@@ -162,7 +171,7 @@
     "order": 17
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "2",
@@ -171,7 +180,7 @@
     "order": 19
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -180,7 +189,7 @@
     "order": 20
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "1",
@@ -189,16 +198,7 @@
     "order": 21
   },
   {
-    "position": "T17",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "18:25",
-    "golfer": "Justin Rose",
-    "owner": "Richard Kendrick",
-    "order": 22
-  },
-  {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "18:35",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T17",
+    "position": "T18",
     "score": "-2",
     "score_num": -2,
     "thru": "18:25",
@@ -228,7 +228,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "7",
+    "thru": "8",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 26
@@ -246,7 +246,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 29
@@ -315,7 +315,7 @@
     "order": 34
   },
   {
-    "position": "T31",
+    "position": "T40",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -354,22 +354,13 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "4",
-    "golfer": "Brian Harman",
-    "owner": "",
-    "order": 40
-  },
-  {
-    "position": "T31",
-    "score": "E",
-    "score_num": 0,
     "thru": "6",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 49
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -396,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "15",
@@ -405,7 +396,7 @@
     "order": 44
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -414,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -423,7 +414,7 @@
     "order": 47
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
@@ -432,7 +423,7 @@
     "order": 48
   },
   {
-    "position": "T42",
+    "position": "T40",
     "score": "+1",
     "score_num": 1,
     "thru": "6",
@@ -441,7 +432,16 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "5",
+    "golfer": "Brian Harman",
+    "owner": "",
+    "order": 40
+  },
+  {
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "11",
@@ -450,7 +450,7 @@
     "order": 46
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "14",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
