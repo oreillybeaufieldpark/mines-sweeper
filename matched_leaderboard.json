@@ -810,6 +810,15 @@
     "order": 95
   },
   {
+    "position": "78",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 79
+  },
+  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -954,22 +963,13 @@
     "order": 111
   },
   {
-    "position": "T78",
+    "position": "79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T78",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
@@ -1143,15 +1143,6 @@
     "order": 129
   },
   {
-    "position": "81",
-    "score": "+10",
-    "score_num": 10,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 81
-  },
-  {
     "position": "-",
     "score": "+10",
     "score_num": 10,
@@ -1186,6 +1177,15 @@
     "golfer": "Sudarshan Yellamaraju",
     "owner": "",
     "order": 133
+  },
+  {
+    "position": "81",
+    "score": "+11",
+    "score_num": 11,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 81
   },
   {
     "position": "-",
