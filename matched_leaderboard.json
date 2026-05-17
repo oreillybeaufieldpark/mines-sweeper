@@ -480,13 +480,22 @@
     "position": "T48",
     "score": "+1",
     "score_num": 1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Stephan Jaeger",
     "owner": "",
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T48",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "11",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "10",
@@ -495,16 +504,7 @@
     "order": 49
   },
   {
-    "position": "T55",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "10",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+2",
     "score_num": 2,
     "thru": "5",
@@ -958,6 +958,15 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 79
+  },
+  {
+    "position": "T76",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
     "golfer": "Alex Fitzpatrick",
     "owner": "Donal Maher",
     "order": 80
@@ -1026,22 +1035,13 @@
     "order": 118
   },
   {
-    "position": "T79",
+    "position": "80",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 76
-  },
-  {
-    "position": "T79",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
