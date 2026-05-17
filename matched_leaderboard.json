@@ -246,7 +246,7 @@
     "position": "T26",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Padraig Harrington",
     "owner": "",
     "order": 27
@@ -345,7 +345,7 @@
     "position": "T38",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Daniel Berger",
     "owner": "",
     "order": 38
@@ -426,7 +426,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 48
@@ -435,7 +435,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Patrick Cantlay",
     "owner": "Colm Geary",
     "order": 49
@@ -588,7 +588,7 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 67
