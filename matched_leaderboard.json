@@ -498,7 +498,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Denny McCarthy",
     "owner": "",
     "order": 58
@@ -507,7 +507,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 59
@@ -570,7 +570,7 @@
     "position": "T62",
     "score": "+3",
     "score_num": 3,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Johnny Keefer",
     "owner": "",
     "order": 63
@@ -585,7 +585,16 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "9",
+    "golfer": "John Parry",
+    "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -594,7 +603,7 @@
     "order": 53
   },
   {
-    "position": "T65",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -612,7 +621,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T67",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -621,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -630,16 +639,7 @@
     "order": 69
   },
   {
-    "position": "T70",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "John Parry",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T70",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -648,13 +648,22 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
     "golfer": "Michael Brennan",
     "owner": "",
     "order": 73
+  },
+  {
+    "position": "T70",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 76
   },
   {
     "position": "-",
@@ -774,7 +783,7 @@
     "order": 95
   },
   {
-    "position": "T74",
+    "position": "T75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -783,16 +792,7 @@
     "order": 74
   },
   {
-    "position": "T74",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 76
-  },
-  {
-    "position": "T74",
+    "position": "T75",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
