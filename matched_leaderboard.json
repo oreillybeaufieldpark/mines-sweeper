@@ -36,7 +36,16 @@
     "order": 4
   },
   {
-    "position": "T5",
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "9",
+    "golfer": "Aaron Rai",
+    "owner": "",
+    "order": 13
+  },
+  {
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "9",
@@ -45,7 +54,7 @@
     "order": 5
   },
   {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "9",
@@ -54,7 +63,7 @@
     "order": 6
   },
   {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "8",
@@ -63,7 +72,7 @@
     "order": 7
   },
   {
-    "position": "T5",
+    "position": "T6",
     "score": "-4",
     "score_num": -4,
     "thru": "7",
@@ -72,7 +81,7 @@
     "order": 8
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -81,7 +90,7 @@
     "order": 9
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "15",
@@ -90,7 +99,7 @@
     "order": 10
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -99,7 +108,7 @@
     "order": 11
   },
   {
-    "position": "T9",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "12",
@@ -108,16 +117,7 @@
     "order": 12
   },
   {
-    "position": "T9",
-    "score": "-3",
-    "score_num": -3,
-    "thru": "8",
-    "golfer": "Aaron Rai",
-    "owner": "",
-    "order": 13
-  },
-  {
-    "position": "T9",
+    "position": "T10",
     "score": "-3",
     "score_num": -3,
     "thru": "8",
