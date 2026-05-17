@@ -54,15 +54,6 @@
     "order": 6
   },
   {
-    "position": "T9",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "6",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 7
-  },
-  {
     "position": "T5",
     "score": "-4",
     "score_num": -4,
@@ -79,6 +70,15 @@
     "golfer": "Nick Taylor",
     "owner": "",
     "order": 9
+  },
+  {
+    "position": "T9",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "7",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 7
   },
   {
     "position": "T9",
@@ -238,15 +238,6 @@
     "score": "-1",
     "score_num": -1,
     "thru": "7",
-    "golfer": "Martin Kaymer",
-    "owner": "",
-    "order": 28
-  },
-  {
-    "position": "T22",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "7",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 29
@@ -261,7 +252,7 @@
     "order": 31
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -270,7 +261,16 @@
     "order": 24
   },
   {
-    "position": "T30",
+    "position": "T29",
+    "score": "E",
+    "score_num": 0,
+    "thru": "8",
+    "golfer": "Martin Kaymer",
+    "owner": "",
+    "order": 28
+  },
+  {
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "15",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "12",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T30",
+    "position": "T29",
     "score": "E",
     "score_num": 0,
     "thru": "16",
