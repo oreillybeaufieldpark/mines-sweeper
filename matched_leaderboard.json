@@ -175,21 +175,21 @@
     "score": "-2",
     "score_num": -2,
     "thru": "6",
-    "golfer": "Patrick Reed",
-    "owner": "Finbarr Callaly",
-    "order": 20
-  },
-  {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "6",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 21
   },
   {
-    "position": "T22",
+    "position": "T21",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "7",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 20
+  },
+  {
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -216,7 +216,7 @@
     "order": 24
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -234,7 +234,7 @@
     "order": 26
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T22",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -468,15 +468,6 @@
     "order": 52
   },
   {
-    "position": "T55",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "7",
-    "golfer": "Kristoffer Reitan",
-    "owner": "Colm Geary",
-    "order": 54
-  },
-  {
     "position": "T46",
     "score": "+2",
     "score_num": 2,
@@ -502,6 +493,15 @@
     "golfer": "Brian Harman",
     "owner": "",
     "order": 53
+  },
+  {
+    "position": "T55",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "8",
+    "golfer": "Kristoffer Reitan",
+    "owner": "Colm Geary",
+    "order": 54
   },
   {
     "position": "T55",
