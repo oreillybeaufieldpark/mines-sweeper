@@ -282,15 +282,6 @@
     "position": "T32",
     "score": "E",
     "score_num": 0,
-    "thru": "5",
-    "golfer": "Ryo Hisatsune",
-    "owner": "",
-    "order": 32
-  },
-  {
-    "position": "T32",
-    "score": "E",
-    "score_num": 0,
     "thru": "16:45",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
@@ -405,7 +396,16 @@
     "order": 45
   },
   {
-    "position": "T46",
+    "position": "T45",
+    "score": "+1",
+    "score_num": 1,
+    "thru": "6",
+    "golfer": "Ryo Hisatsune",
+    "owner": "",
+    "order": 32
+  },
+  {
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:45",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:35",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:25",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "15:35",
@@ -441,7 +441,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -450,7 +450,7 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T45",
     "score": "+1",
     "score_num": 1,
     "thru": "2",
@@ -543,15 +543,6 @@
     "position": "T61",
     "score": "+3",
     "score_num": 3,
-    "thru": "7",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 60
-  },
-  {
-    "position": "T61",
-    "score": "+3",
-    "score_num": 3,
     "thru": "5",
     "golfer": "Matt Fitzpatrick",
     "owner": "Donal Brogan",
@@ -594,7 +585,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -603,7 +594,16 @@
     "order": 59
   },
   {
-    "position": "T67",
+    "position": "T66",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "8",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 60
+  },
+  {
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -621,7 +621,7 @@
     "order": 69
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "7",
@@ -630,7 +630,7 @@
     "order": 70
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -639,7 +639,7 @@
     "order": 71
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "2",
@@ -963,13 +963,22 @@
     "order": 111
   },
   {
-    "position": "79",
+    "position": "T79",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 79
+  },
+  {
+    "position": "T79",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 80
   },
   {
     "position": "-",
@@ -1033,15 +1042,6 @@
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 118
-  },
-  {
-    "position": "80",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 80
   },
   {
     "position": "-",
