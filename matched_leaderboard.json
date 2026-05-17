@@ -40,12 +40,21 @@
     "score": "-5",
     "score_num": -5,
     "thru": "9",
+    "golfer": "Jon Rahm",
+    "owner": "Fergal O'Reilly",
+    "order": 7
+  },
+  {
+    "position": "T2",
+    "score": "-5",
+    "score_num": -5,
+    "thru": "9",
     "golfer": "Aaron Rai",
     "owner": "",
     "order": 13
   },
   {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "10",
@@ -54,7 +63,7 @@
     "order": 5
   },
   {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "10",
@@ -63,16 +72,7 @@
     "order": 6
   },
   {
-    "position": "T6",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "8",
-    "golfer": "Jon Rahm",
-    "owner": "Fergal O'Reilly",
-    "order": 7
-  },
-  {
-    "position": "T6",
+    "position": "T7",
     "score": "-4",
     "score_num": -4,
     "thru": "9",
@@ -300,7 +300,7 @@
     "position": "T28",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 43
