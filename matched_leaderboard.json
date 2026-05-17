@@ -309,7 +309,7 @@
     "position": "T33",
     "score": "E",
     "score_num": 0,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 35
@@ -531,7 +531,16 @@
     "order": 58
   },
   {
-    "position": "T60",
+    "position": "T57",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 61
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -540,16 +549,7 @@
     "order": 60
   },
   {
-    "position": "T60",
-    "score": "+3",
-    "score_num": 3,
-    "thru": "15",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 61
-  },
-  {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T60",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -624,22 +624,13 @@
     "position": "T67",
     "score": "+4",
     "score_num": 4,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 70
   },
   {
-    "position": "T71",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "William Mouw",
-    "owner": "",
-    "order": 71
-  },
-  {
-    "position": "T71",
+    "position": "71",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -765,7 +756,16 @@
     "order": 95
   },
   {
-    "position": "T73",
+    "position": "T72",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "William Mouw",
+    "owner": "",
+    "order": 71
+  },
+  {
+    "position": "T72",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 72
   },
   {
-    "position": "T73",
+    "position": "T72",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
