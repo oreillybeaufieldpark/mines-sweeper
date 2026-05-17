@@ -945,15 +945,6 @@
     "order": 76
   },
   {
-    "position": "T74",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Alex Fitzpatrick",
-    "owner": "Donal Maher",
-    "order": 77
-  },
-  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1017,7 +1008,16 @@
     "order": 118
   },
   {
-    "position": "T78",
+    "position": "T77",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Alex Fitzpatrick",
+    "owner": "Donal Maher",
+    "order": 77
+  },
+  {
+    "position": "T77",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1026,7 +1026,7 @@
     "order": 78
   },
   {
-    "position": "T78",
+    "position": "T77",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
