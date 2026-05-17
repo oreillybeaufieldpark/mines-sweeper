@@ -390,7 +390,7 @@
     "position": "T40",
     "score": "E",
     "score_num": 0,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 45
@@ -417,7 +417,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Christiaan Bezuidenhout",
     "owner": "",
     "order": 47
@@ -435,7 +435,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Ryo Hisatsune",
     "owner": "",
     "order": 49
@@ -444,7 +444,7 @@
     "position": "T46",
     "score": "+1",
     "score_num": 1,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 50
@@ -489,7 +489,7 @@
     "position": "T54",
     "score": "+2",
     "score_num": 2,
-    "thru": "15",
+    "thru": "16",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 55
