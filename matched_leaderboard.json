@@ -129,7 +129,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "7",
+    "thru": "8",
     "golfer": "Daniel Hillier",
     "owner": "",
     "order": 15
@@ -243,22 +243,22 @@
     "order": 28
   },
   {
-    "position": "T28",
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 29
+  },
+  {
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
     "golfer": "Scottie Scheffler",
     "owner": "Stephen Walker",
     "order": 16
-  },
-  {
-    "position": "T28",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 29
   },
   {
     "position": "T29",
@@ -270,7 +270,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "4",
@@ -279,7 +279,7 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -288,7 +288,7 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -297,16 +297,25 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T29",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "Sam Burns",
     "owner": "Fergal O'Reilly",
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T29",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "9",
+    "golfer": "Cameron Young",
+    "owner": "Colm Geary",
+    "order": 41
+  },
+  {
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "17",
@@ -315,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -324,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -333,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -342,16 +351,7 @@
     "order": 40
   },
   {
-    "position": "T35",
-    "score": "E",
-    "score_num": 0,
-    "thru": "8",
-    "golfer": "Cameron Young",
-    "owner": "Colm Geary",
-    "order": 41
-  },
-  {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "6",
@@ -360,7 +360,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -405,16 +405,7 @@
     "order": 45
   },
   {
-    "position": "T42",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "15",
-    "golfer": "Sahith Theegala",
-    "owner": "",
-    "order": 46
-  },
-  {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -441,7 +432,7 @@
     "order": 49
   },
   {
-    "position": "T42",
+    "position": "T41",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -450,7 +441,16 @@
     "order": 58
   },
   {
-    "position": "T51",
+    "position": "T50",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "16",
+    "golfer": "Sahith Theegala",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,16 +468,7 @@
     "order": 51
   },
   {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
-    "thru": "16",
-    "golfer": "Corey Conners",
-    "owner": "",
-    "order": 52
-  },
-  {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -486,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -495,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -513,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T51",
+    "position": "T50",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
@@ -522,7 +513,16 @@
     "order": 59
   },
   {
-    "position": "T59",
+    "position": "T58",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "17",
+    "golfer": "Corey Conners",
+    "owner": "",
+    "order": 52
+  },
+  {
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -531,7 +531,7 @@
     "order": 55
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T59",
+    "position": "T58",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -585,16 +585,16 @@
     "order": 65
   },
   {
-    "position": "T64",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "14",
+    "position": "T66",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 66
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -603,7 +603,7 @@
     "order": 67
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -612,7 +612,7 @@
     "order": 68
   },
   {
-    "position": "T67",
+    "position": "T66",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
