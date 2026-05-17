@@ -165,7 +165,7 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "9",
+    "thru": "10",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 19
@@ -216,25 +216,25 @@
     "order": 24
   },
   {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "8",
+    "position": "T18",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "9",
     "golfer": "Harris English",
     "owner": "Donal Brogan",
     "order": 27
   },
   {
-    "position": "T25",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "5",
+    "position": "T18",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "6",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 28
   },
   {
-    "position": "T25",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "5",
@@ -243,7 +243,7 @@
     "order": 29
   },
   {
-    "position": "T25",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "2",
@@ -252,7 +252,7 @@
     "order": 30
   },
   {
-    "position": "T25",
+    "position": "T27",
     "score": "-1",
     "score_num": -1,
     "thru": "15",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T47",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -540,7 +540,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T59",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -567,16 +567,7 @@
     "order": 63
   },
   {
-    "position": "T64",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Kazuki Higa",
-    "owner": "",
-    "order": 64
-  },
-  {
-    "position": "T64",
+    "position": "64",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -702,7 +693,7 @@
     "order": 95
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -711,7 +702,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -720,7 +711,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -729,7 +720,7 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -738,7 +729,7 @@
     "order": 69
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -891,7 +882,16 @@
     "order": 111
   },
   {
-    "position": "T71",
+    "position": "T70",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Kazuki Higa",
+    "owner": "",
+    "order": 64
+  },
+  {
+    "position": "T70",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -900,7 +900,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -909,7 +909,7 @@
     "order": 72
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -918,7 +918,7 @@
     "order": 73
   },
   {
-    "position": "T71",
+    "position": "T70",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
