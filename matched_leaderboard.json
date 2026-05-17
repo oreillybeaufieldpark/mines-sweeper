@@ -156,10 +156,19 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Patrick Reed",
     "owner": "Finbarr Callaly",
     "order": 18
+  },
+  {
+    "position": "T15",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "16",
+    "golfer": "Min Woo Lee",
+    "owner": "Igor Fleming",
+    "order": 24
   },
   {
     "position": "T15",
@@ -171,7 +180,7 @@
     "order": 25
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +189,7 @@
     "order": 19
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +198,7 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +207,7 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +216,7 @@
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,16 +225,7 @@
     "order": 23
   },
   {
-    "position": "T20",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "15",
-    "golfer": "Min Woo Lee",
-    "owner": "Igor Fleming",
-    "order": 24
-  },
-  {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -234,10 +234,10 @@
     "order": 26
   },
   {
-    "position": "T20",
+    "position": "T21",
     "score": "-1",
     "score_num": -1,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 27
