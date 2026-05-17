@@ -288,7 +288,16 @@
     "order": 33
   },
   {
-    "position": "T33",
+    "position": "T24",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "1",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 46
+  },
+  {
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -297,7 +306,7 @@
     "order": 25
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -306,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -315,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -324,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -333,7 +342,7 @@
     "order": 39
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -342,7 +351,7 @@
     "order": 40
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -351,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -360,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -369,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:25",
@@ -378,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -387,16 +396,16 @@
     "order": 45
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "16:25",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 46
+    "thru": "10",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 48
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -414,7 +423,7 @@
     "order": 34
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
@@ -432,19 +441,10 @@
     "order": 47
   },
   {
-    "position": "T33",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "9",
-    "golfer": "Matt Fitzpatrick",
-    "owner": "Donal Brogan",
-    "order": 48
-  },
-  {
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 49
