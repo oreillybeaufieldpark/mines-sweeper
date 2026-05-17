@@ -174,15 +174,6 @@
     "position": "T18",
     "score": "-2",
     "score_num": -2,
-    "thru": "12",
-    "golfer": "David Puig",
-    "owner": "Finbarr Callaly",
-    "order": 19
-  },
-  {
-    "position": "T18",
-    "score": "-2",
-    "score_num": -2,
     "thru": "4",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
@@ -207,7 +198,16 @@
     "order": 27
   },
   {
-    "position": "T24",
+    "position": "T23",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "13",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 19
+  },
+  {
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -216,7 +216,7 @@
     "order": 23
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "16",
@@ -225,7 +225,7 @@
     "order": 24
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "12",
@@ -234,7 +234,7 @@
     "order": 25
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -243,7 +243,7 @@
     "order": 26
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "7",
@@ -261,7 +261,7 @@
     "order": 29
   },
   {
-    "position": "T24",
+    "position": "T23",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -498,7 +498,7 @@
     "position": "T48",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Brian Harman",
     "owner": "",
     "order": 56
