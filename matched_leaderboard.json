@@ -405,7 +405,16 @@
     "order": 46
   },
   {
-    "position": "T46",
+    "position": "T34",
+    "score": "E",
+    "score_num": 0,
+    "thru": "4",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 55
+  },
+  {
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -414,7 +423,7 @@
     "order": 34
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "11",
@@ -423,7 +432,7 @@
     "order": 47
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -432,7 +441,7 @@
     "order": 48
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "9",
@@ -441,7 +450,7 @@
     "order": 49
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "8",
@@ -450,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "7",
@@ -459,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -468,7 +477,7 @@
     "order": 52
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "5",
@@ -477,22 +486,13 @@
     "order": 53
   },
   {
-    "position": "T46",
+    "position": "T47",
     "score": "+1",
     "score_num": 1,
     "thru": "3",
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 54
-  },
-  {
-    "position": "T46",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "3",
-    "golfer": "Stephan Jaeger",
-    "owner": "",
-    "order": 55
   },
   {
     "position": "T56",
@@ -516,7 +516,7 @@
     "position": "T56",
     "score": "+2",
     "score_num": 2,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Chandler Blanchet",
     "owner": "",
     "order": 58
@@ -534,7 +534,7 @@
     "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 60
@@ -637,6 +637,15 @@
     "golfer": "William Mouw",
     "owner": "",
     "order": 71
+  },
+  {
+    "position": "T71",
+    "score": "+5",
+    "score_num": 5,
+    "thru": "CUT",
+    "golfer": "Keith Mitchell",
+    "owner": "",
+    "order": 74
   },
   {
     "position": "-",
@@ -772,15 +781,6 @@
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 73
-  },
-  {
-    "position": "T71",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Keith Mitchell",
-    "owner": "",
-    "order": 74
   },
   {
     "position": "-",
