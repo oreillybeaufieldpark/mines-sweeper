@@ -147,15 +147,6 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "17",
-    "golfer": "Harris English",
-    "owner": "Donal Brogan",
-    "order": 17
-  },
-  {
-    "position": "T15",
-    "score": "-2",
-    "score_num": -2,
     "thru": "11",
     "golfer": "Joaqu\u00edn Niemann",
     "owner": "Fergal O'Reilly",
@@ -171,7 +162,16 @@
     "order": 19
   },
   {
-    "position": "T20",
+    "position": "T19",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "Harris English",
+    "owner": "Donal Brogan",
+    "order": 17
+  },
+  {
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -180,7 +180,7 @@
     "order": 20
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -189,7 +189,7 @@
     "order": 21
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -198,7 +198,7 @@
     "order": 22
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -207,7 +207,7 @@
     "order": 23
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "13",
@@ -216,7 +216,7 @@
     "order": 25
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -225,7 +225,7 @@
     "order": 26
   },
   {
-    "position": "T20",
+    "position": "T19",
     "score": "-1",
     "score_num": -1,
     "thru": "14",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T27",
+    "position": "T35",
     "score": "E",
     "score_num": 0,
     "thru": "14",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -324,7 +324,7 @@
     "order": 36
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -333,7 +333,7 @@
     "order": 37
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -342,7 +342,7 @@
     "order": 38
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +351,7 @@
     "order": 39
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -360,7 +360,7 @@
     "order": 40
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +369,7 @@
     "order": 41
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +378,7 @@
     "order": 42
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,7 +387,7 @@
     "order": 43
   },
   {
-    "position": "T36",
+    "position": "T35",
     "score": "+1",
     "score_num": 1,
     "thru": "10",
