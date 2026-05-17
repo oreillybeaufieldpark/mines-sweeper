@@ -199,9 +199,9 @@
   },
   {
     "position": "T23",
-    "score": "-1",
-    "score_num": -1,
-    "thru": "12",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "13",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 23
@@ -435,7 +435,7 @@
     "position": "T47",
     "score": "+1",
     "score_num": 1,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Haotong Li",
     "owner": "",
     "order": 49
@@ -603,7 +603,16 @@
     "order": 67
   },
   {
-    "position": "T68",
+    "position": "T62",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "9",
+    "golfer": "Christiaan Bezuidenhout",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "12",
@@ -612,7 +621,7 @@
     "order": 68
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "10",
@@ -621,7 +630,7 @@
     "order": 69
   },
   {
-    "position": "T68",
+    "position": "T69",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -630,7 +639,7 @@
     "order": 70
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -639,7 +648,7 @@
     "order": 71
   },
   {
-    "position": "T71",
+    "position": "T72",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -648,16 +657,7 @@
     "order": 72
   },
   {
-    "position": "T71",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Christiaan Bezuidenhout",
-    "owner": "",
-    "order": 73
-  },
-  {
-    "position": "T71",
+    "position": "T72",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -949,15 +949,6 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
-    "golfer": "Elvis Smylie",
-    "owner": "",
-    "order": 77
-  },
-  {
-    "position": "T76",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 78
@@ -1026,7 +1017,16 @@
     "order": 118
   },
   {
-    "position": "T79",
+    "position": "T78",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Elvis Smylie",
+    "owner": "",
+    "order": 77
+  },
+  {
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
@@ -1035,7 +1035,7 @@
     "order": 79
   },
   {
-    "position": "T79",
+    "position": "T78",
     "score": "+8",
     "score_num": 8,
     "thru": "CUT",
