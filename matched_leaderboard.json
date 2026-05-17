@@ -102,7 +102,7 @@
     "position": "T9",
     "score": "-3",
     "score_num": -3,
-    "thru": "13",
+    "thru": "14",
     "golfer": "Ben Griffin",
     "owner": "Michael Murray",
     "order": 11
@@ -480,22 +480,22 @@
     "position": "T44",
     "score": "+2",
     "score_num": 2,
-    "thru": "17",
-    "golfer": "Brooks Koepka",
-    "owner": "Simon Smyth",
-    "order": 54
-  },
-  {
-    "position": "T44",
-    "score": "+2",
-    "score_num": 2,
     "thru": "11",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T55",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "F",
+    "golfer": "Brooks Koepka",
+    "owner": "Simon Smyth",
+    "order": 54
+  },
+  {
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -504,7 +504,7 @@
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
