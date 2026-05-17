@@ -57,7 +57,7 @@
     "position": "T7",
     "score": "-4",
     "score_num": -4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Rory McIlroy",
     "owner": "Richard Kendrick",
     "order": 7
@@ -246,7 +246,7 @@
     "position": "T22",
     "score": "-1",
     "score_num": -1,
-    "thru": "8",
+    "thru": "9",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 28
@@ -495,7 +495,7 @@
     "order": 55
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +504,7 @@
     "order": 56
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -513,7 +513,7 @@
     "order": 57
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -522,7 +522,7 @@
     "order": 58
   },
   {
-    "position": "T55",
+    "position": "T47",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -531,7 +531,7 @@
     "order": 59
   },
   {
-    "position": "T55",
+    "position": "T56",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
