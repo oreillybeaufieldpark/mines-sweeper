@@ -201,15 +201,6 @@
     "position": "T19",
     "score": "-1",
     "score_num": -1,
-    "thru": "13",
-    "golfer": "Hideki Matsuyama",
-    "owner": "Dave Smyth",
-    "order": 23
-  },
-  {
-    "position": "T19",
-    "score": "-1",
-    "score_num": -1,
     "thru": "12",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
@@ -243,7 +234,16 @@
     "order": 32
   },
   {
-    "position": "T28",
+    "position": "T27",
+    "score": "E",
+    "score_num": 0,
+    "thru": "14",
+    "golfer": "Hideki Matsuyama",
+    "owner": "Dave Smyth",
+    "order": 23
+  },
+  {
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -252,7 +252,7 @@
     "order": 27
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -261,7 +261,7 @@
     "order": 28
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -270,7 +270,7 @@
     "order": 29
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -279,7 +279,7 @@
     "order": 30
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "F",
@@ -288,7 +288,7 @@
     "order": 31
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "16",
@@ -297,7 +297,7 @@
     "order": 33
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -306,7 +306,7 @@
     "order": 34
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T28",
+    "position": "T27",
     "score": "E",
     "score_num": 0,
     "thru": "8",
@@ -561,7 +561,7 @@
     "position": "T60",
     "score": "+4",
     "score_num": 4,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Rickie Fowler",
     "owner": "Stephen Walker",
     "order": 63
