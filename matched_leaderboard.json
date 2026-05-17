@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "10",
+    "thru": "11",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 4
@@ -43,15 +43,6 @@
     "golfer": "Cameron Smith",
     "owner": "",
     "order": 5
-  },
-  {
-    "position": "T8",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "12",
-    "golfer": "Rory McIlroy",
-    "owner": "Richard Kendrick",
-    "order": 6
   },
   {
     "position": "T5",
@@ -72,7 +63,16 @@
     "order": 8
   },
   {
-    "position": "T9",
+    "position": "T8",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "13",
+    "golfer": "Rory McIlroy",
+    "owner": "Richard Kendrick",
+    "order": 6
+  },
+  {
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -81,7 +81,7 @@
     "order": 9
   },
   {
-    "position": "T9",
+    "position": "T8",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -300,7 +300,7 @@
     "position": "T27",
     "score": "E",
     "score_num": 0,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 34
