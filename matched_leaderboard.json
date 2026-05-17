@@ -381,7 +381,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "16:15",
+    "thru": "1",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 45
@@ -390,7 +390,7 @@
     "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Si Woo Kim",
     "owner": "Fergal O'Reilly",
     "order": 46
@@ -516,15 +516,6 @@
     "position": "T56",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
-    "golfer": "Jhonattan Vegas",
-    "owner": "",
-    "order": 58
-  },
-  {
-    "position": "T56",
-    "score": "+2",
-    "score_num": 2,
     "thru": "5",
     "golfer": "Denny McCarthy",
     "owner": "",
@@ -540,7 +531,16 @@
     "order": 60
   },
   {
-    "position": "T61",
+    "position": "T60",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "7",
+    "golfer": "Jhonattan Vegas",
+    "owner": "",
+    "order": 58
+  },
+  {
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -549,7 +549,7 @@
     "order": 61
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -567,16 +567,16 @@
     "order": 64
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
-    "thru": "9",
+    "thru": "10",
     "golfer": "Corey Conners",
     "owner": "",
     "order": 66
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "8",
@@ -585,7 +585,7 @@
     "order": 67
   },
   {
-    "position": "T61",
+    "position": "T60",
     "score": "+3",
     "score_num": 3,
     "thru": "16",
