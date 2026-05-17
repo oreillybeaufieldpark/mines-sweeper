@@ -471,15 +471,6 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "10",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 53
-  },
-  {
-    "position": "T53",
-    "score": "+2",
-    "score_num": 2,
     "thru": "9",
     "golfer": "Matt Wallace",
     "owner": "",
@@ -534,7 +525,7 @@
     "position": "T53",
     "score": "+2",
     "score_num": 2,
-    "thru": "15:25",
+    "thru": "1",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 60
@@ -558,7 +549,7 @@
     "order": 65
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -567,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -576,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T63",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -585,7 +576,16 @@
     "order": 68
   },
   {
-    "position": "T66",
+    "position": "T65",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "11",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 53
+  },
+  {
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "4",
@@ -594,7 +594,7 @@
     "order": 64
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "8",
@@ -603,7 +603,7 @@
     "order": 66
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -612,7 +612,7 @@
     "order": 67
   },
   {
-    "position": "T66",
+    "position": "T65",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -790,15 +790,6 @@
     "golfer": "Collin Morikawa",
     "owner": "Igor Fleming",
     "order": 76
-  },
-  {
-    "position": "T74",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 77
   },
   {
     "position": "T74",
@@ -1042,6 +1033,15 @@
     "golfer": "Harry Hall",
     "owner": "Dave Smyth",
     "order": 118
+  },
+  {
+    "position": "T74",
+    "score": "+8",
+    "score_num": 8,
+    "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 77
   },
   {
     "position": "-",
