@@ -480,22 +480,13 @@
     "position": "T51",
     "score": "+2",
     "score_num": 2,
-    "thru": "9",
-    "golfer": "Andrew Putnam",
-    "owner": "",
-    "order": 54
-  },
-  {
-    "position": "T51",
-    "score": "+2",
-    "score_num": 2,
     "thru": "8",
     "golfer": "Nicolai H\u00f8jgaard",
     "owner": "Simon Smyth",
     "order": 55
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -504,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -513,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -522,7 +513,7 @@
     "order": 58
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "15",
@@ -540,7 +531,7 @@
     "order": 60
   },
   {
-    "position": "T56",
+    "position": "T55",
     "score": "+3",
     "score_num": 3,
     "thru": "13",
@@ -556,6 +547,15 @@
     "golfer": "Taylor Pendrith",
     "owner": "",
     "order": 62
+  },
+  {
+    "position": "T62",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "10",
+    "golfer": "Andrew Putnam",
+    "owner": "",
+    "order": 54
   },
   {
     "position": "T62",
@@ -936,7 +936,7 @@
     "order": 75
   },
   {
-    "position": "T72",
+    "position": "T71",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
