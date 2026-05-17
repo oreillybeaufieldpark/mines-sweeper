@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "12",
+    "thru": "13",
     "golfer": "Jon Rahm",
     "owner": "Fergal O'Reilly",
     "order": 4
@@ -67,21 +67,12 @@
     "score": "-4",
     "score_num": -4,
     "thru": "12",
-    "golfer": "Nick Taylor",
-    "owner": "",
-    "order": 9
-  },
-  {
-    "position": "T5",
-    "score": "-4",
-    "score_num": -4,
-    "thru": "12",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 10
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "14",
@@ -90,7 +81,16 @@
     "order": 8
   },
   {
-    "position": "T10",
+    "position": "T9",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "13",
+    "golfer": "Nick Taylor",
+    "owner": "",
+    "order": 9
+  },
+  {
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -99,7 +99,7 @@
     "order": 11
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "F",
@@ -108,7 +108,7 @@
     "order": 12
   },
   {
-    "position": "T10",
+    "position": "T9",
     "score": "-3",
     "score_num": -3,
     "thru": "17",
@@ -387,16 +387,16 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Chris Kirk",
     "owner": "",
     "order": 44
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -405,7 +405,7 @@
     "order": 45
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -414,7 +414,7 @@
     "order": 46
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -423,7 +423,7 @@
     "order": 47
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -432,7 +432,7 @@
     "order": 48
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -450,7 +450,7 @@
     "order": 50
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 51
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 52
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -477,10 +477,10 @@
     "order": 53
   },
   {
-    "position": "T45",
+    "position": "T44",
     "score": "+2",
     "score_num": 2,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Kristoffer Reitan",
     "owner": "Colm Geary",
     "order": 54
