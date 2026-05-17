@@ -783,6 +783,15 @@
     "order": 74
   },
   {
+    "position": "T73",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Luke Donald",
+    "owner": "",
+    "order": 76
+  },
+  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -927,7 +936,7 @@
     "order": 111
   },
   {
-    "position": "T75",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -936,22 +945,22 @@
     "order": 75
   },
   {
-    "position": "T75",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Luke Donald",
-    "owner": "",
-    "order": 76
-  },
-  {
-    "position": "T75",
+    "position": "T76",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 77
+  },
+  {
+    "position": "T76",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 79
   },
   {
     "position": "-",
@@ -1024,15 +1033,6 @@
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T78",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "T78",
