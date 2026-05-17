@@ -12,7 +12,7 @@
     "position": "T2",
     "score": "-4",
     "score_num": -4,
-    "thru": "5",
+    "thru": "6",
     "golfer": "Hideki Matsuyama",
     "owner": "Dave Smyth",
     "order": 2
@@ -291,7 +291,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Jordan Spieth",
     "owner": "Donal Maher",
     "order": 36
@@ -543,7 +543,7 @@
     "position": "T57",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
+    "thru": "15",
     "golfer": "Rico Hoey",
     "owner": "",
     "order": 60
