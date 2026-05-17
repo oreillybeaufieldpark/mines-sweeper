@@ -288,7 +288,7 @@
     "order": 46
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "5",
@@ -297,7 +297,7 @@
     "order": 24
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -306,7 +306,7 @@
     "order": 25
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "11",
@@ -315,7 +315,7 @@
     "order": 35
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "3",
@@ -324,7 +324,7 @@
     "order": 37
   },
   {
-    "position": "T33",
+    "position": "T24",
     "score": "E",
     "score_num": 0,
     "thru": "2",
@@ -333,7 +333,7 @@
     "order": 38
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -342,16 +342,16 @@
     "order": 39
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Andrew Novak",
     "owner": "",
     "order": 40
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -360,7 +360,7 @@
     "order": 41
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -369,7 +369,7 @@
     "order": 42
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:45",
@@ -378,7 +378,7 @@
     "order": 43
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "1",
@@ -387,7 +387,7 @@
     "order": 44
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "16:35",
@@ -396,7 +396,7 @@
     "order": 45
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "10",
@@ -405,7 +405,7 @@
     "order": 48
   },
   {
-    "position": "T33",
+    "position": "T34",
     "score": "E",
     "score_num": 0,
     "thru": "4",
@@ -549,7 +549,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "17",
@@ -558,7 +558,7 @@
     "order": 60
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "14",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "12",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T62",
+    "position": "T63",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
