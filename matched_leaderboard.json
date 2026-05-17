@@ -102,7 +102,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
@@ -174,7 +174,7 @@
     "position": "T15",
     "score": "-2",
     "score_num": -2,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Maverick McNealy",
     "owner": "Igor Fleming",
     "order": 21
@@ -225,7 +225,7 @@
     "order": 25
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "11",
@@ -243,7 +243,7 @@
     "order": 27
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -252,7 +252,7 @@
     "order": 28
   },
   {
-    "position": "T21",
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "9",
@@ -306,7 +306,16 @@
     "order": 34
   },
   {
-    "position": "T35",
+    "position": "T30",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
+    "golfer": "Daniel Hillier",
+    "owner": "",
+    "order": 45
+  },
+  {
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
@@ -342,7 +351,7 @@
     "order": 38
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -351,7 +360,7 @@
     "order": 39
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -369,7 +378,7 @@
     "order": 41
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -378,7 +387,7 @@
     "order": 42
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "F",
@@ -387,22 +396,13 @@
     "order": 43
   },
   {
-    "position": "T35",
+    "position": "T36",
     "score": "+1",
     "score_num": 1,
     "thru": "17",
     "golfer": "Dustin Johnson",
     "owner": "",
     "order": 44
-  },
-  {
-    "position": "T35",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "17",
-    "golfer": "Daniel Hillier",
-    "owner": "",
-    "order": 45
   },
   {
     "position": "T46",
@@ -534,22 +534,22 @@
     "position": "T55",
     "score": "+3",
     "score_num": 3,
-    "thru": "14",
-    "golfer": "Rickie Fowler",
-    "owner": "Stephen Walker",
-    "order": 60
-  },
-  {
-    "position": "T55",
-    "score": "+3",
-    "score_num": 3,
     "thru": "13",
     "golfer": "Mikael Lindberg",
     "owner": "",
     "order": 61
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "15",
+    "golfer": "Rickie Fowler",
+    "owner": "Stephen Walker",
+    "order": 60
+  },
+  {
+    "position": "T61",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -558,7 +558,7 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+4",
     "score_num": 4,
     "thru": "F",
