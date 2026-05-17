@@ -264,7 +264,7 @@
     "position": "T27",
     "score": "-1",
     "score_num": -1,
-    "thru": "2",
+    "thru": "3",
     "golfer": "David Puig",
     "owner": "Finbarr Callaly",
     "order": 31
@@ -498,15 +498,6 @@
     "position": "T49",
     "score": "+2",
     "score_num": 2,
-    "thru": "13",
-    "golfer": "Sam Stevens",
-    "owner": "",
-    "order": 56
-  },
-  {
-    "position": "T49",
-    "score": "+2",
-    "score_num": 2,
     "thru": "10",
     "golfer": "Chandler Blanchet",
     "owner": "",
@@ -549,7 +540,16 @@
     "order": 62
   },
   {
-    "position": "T62",
+    "position": "T61",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "14",
+    "golfer": "Sam Stevens",
+    "owner": "",
+    "order": 56
+  },
+  {
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "10",
@@ -558,7 +558,7 @@
     "order": 57
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "F",
@@ -567,7 +567,7 @@
     "order": 63
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "11",
@@ -576,7 +576,7 @@
     "order": 64
   },
   {
-    "position": "T62",
+    "position": "T61",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
