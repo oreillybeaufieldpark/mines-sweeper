@@ -3,7 +3,7 @@
     "position": "1",
     "score": "-6",
     "score_num": -6,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 1
@@ -315,6 +315,15 @@
     "order": 35
   },
   {
+    "position": "T28",
+    "score": "E",
+    "score_num": 0,
+    "thru": "F",
+    "golfer": "Tom Hoge",
+    "owner": "",
+    "order": 44
+  },
+  {
     "position": "T37",
     "score": "+1",
     "score_num": 1,
@@ -385,15 +394,6 @@
     "golfer": "Aldrich Potgieter",
     "owner": "",
     "order": 43
-  },
-  {
-    "position": "T28",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "17",
-    "golfer": "Tom Hoge",
-    "owner": "",
-    "order": 44
   },
   {
     "position": "T45",
