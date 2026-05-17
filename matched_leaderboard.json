@@ -273,7 +273,7 @@
     "position": "T31",
     "score": "E",
     "score_num": 0,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Kurt Kitayama",
     "owner": "Simon Smyth",
     "order": 31
@@ -489,7 +489,7 @@
     "position": "T54",
     "score": "+3",
     "score_num": 3,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Rasmus H\u00f8jgaard",
     "owner": "",
     "order": 55
@@ -660,7 +660,7 @@
     "position": "T69",
     "score": "+4",
     "score_num": 4,
-    "thru": "3",
+    "thru": "4",
     "golfer": "Shane Lowry",
     "owner": "Simon Smyth",
     "order": 74
@@ -814,15 +814,6 @@
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
-    "golfer": "Rasmus Neergaard-Petersen",
-    "owner": "",
-    "order": 78
-  },
-  {
-    "position": "T77",
-    "score": "+6",
-    "score_num": 6,
-    "thru": "CUT",
     "golfer": "Luke Donald",
     "owner": "",
     "order": 79
@@ -970,6 +961,15 @@
     "golfer": "J.J. Spaun",
     "owner": "Donal Brogan",
     "order": 111
+  },
+  {
+    "position": "79",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Rasmus Neergaard-Petersen",
+    "owner": "",
+    "order": 78
   },
   {
     "position": "-",
