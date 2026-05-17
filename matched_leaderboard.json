@@ -588,15 +588,6 @@
     "position": "T66",
     "score": "+4",
     "score_num": 4,
-    "thru": "17",
-    "golfer": "Jason Day",
-    "owner": "Colm Geary",
-    "order": 66
-  },
-  {
-    "position": "T66",
-    "score": "+4",
-    "score_num": 4,
     "thru": "10",
     "golfer": "Daniel Brown",
     "owner": "",
@@ -612,7 +603,7 @@
     "order": 68
   },
   {
-    "position": "69",
+    "position": "68",
     "score": "+5",
     "score_num": 5,
     "thru": "CUT",
@@ -738,7 +729,16 @@
     "order": 95
   },
   {
-    "position": "T70",
+    "position": "T69",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Jason Day",
+    "owner": "Colm Geary",
+    "order": 66
+  },
+  {
+    "position": "T69",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -747,7 +747,7 @@
     "order": 70
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -756,7 +756,7 @@
     "order": 71
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -765,7 +765,7 @@
     "order": 72
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -774,7 +774,7 @@
     "order": 73
   },
   {
-    "position": "T70",
+    "position": "T69",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -945,6 +945,15 @@
     "order": 76
   },
   {
+    "position": "T75",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 79
+  },
+  {
     "position": "-",
     "score": "+7",
     "score_num": 7,
@@ -1024,15 +1033,6 @@
     "golfer": "Rasmus Neergaard-Petersen",
     "owner": "",
     "order": 78
-  },
-  {
-    "position": "T75",
-    "score": "+8",
-    "score_num": 8,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 79
   },
   {
     "position": "-",
