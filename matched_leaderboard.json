@@ -147,7 +147,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "1",
+    "thru": "2",
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 18
@@ -228,7 +228,7 @@
     "position": "T14",
     "score": "-2",
     "score_num": -2,
-    "thru": "17:55",
+    "thru": "1",
     "golfer": "Min Woo Lee",
     "owner": "Igor Fleming",
     "order": 27
@@ -418,15 +418,6 @@
     "score": "+1",
     "score_num": 1,
     "thru": "7",
-    "golfer": "Dustin Johnson",
-    "owner": "",
-    "order": 48
-  },
-  {
-    "position": "T41",
-    "score": "+1",
-    "score_num": 1,
-    "thru": "7",
     "golfer": "Tom Hoge",
     "owner": "",
     "order": 49
@@ -441,7 +432,7 @@
     "order": 58
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "16",
@@ -450,7 +441,16 @@
     "order": 46
   },
   {
-    "position": "T50",
+    "position": "T49",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "8",
+    "golfer": "Dustin Johnson",
+    "owner": "",
+    "order": 48
+  },
+  {
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -459,7 +459,7 @@
     "order": 50
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "F",
@@ -468,7 +468,7 @@
     "order": 51
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "13",
@@ -477,7 +477,7 @@
     "order": 53
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "12",
@@ -486,7 +486,7 @@
     "order": 54
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -495,7 +495,7 @@
     "order": 56
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "8",
@@ -504,7 +504,7 @@
     "order": 57
   },
   {
-    "position": "T50",
+    "position": "T49",
     "score": "+2",
     "score_num": 2,
     "thru": "6",
