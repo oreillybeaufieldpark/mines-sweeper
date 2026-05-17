@@ -30,7 +30,7 @@
     "position": "T2",
     "score": "-5",
     "score_num": -5,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Matti Schmid",
     "owner": "",
     "order": 4
@@ -57,7 +57,7 @@
     "position": "T5",
     "score": "-4",
     "score_num": -4,
-    "thru": "11",
+    "thru": "12",
     "golfer": "Alex Smalley",
     "owner": "",
     "order": 7
@@ -102,7 +102,7 @@
     "position": "T10",
     "score": "-3",
     "score_num": -3,
-    "thru": "16",
+    "thru": "17",
     "golfer": "Justin Rose",
     "owner": "Richard Kendrick",
     "order": 11
@@ -153,15 +153,6 @@
     "order": 17
   },
   {
-    "position": "T20",
-    "score": "-2",
-    "score_num": -2,
-    "thru": "16",
-    "golfer": "Joaqu\u00edn Niemann",
-    "owner": "Fergal O'Reilly",
-    "order": 18
-  },
-  {
     "position": "T14",
     "score": "-2",
     "score_num": -2,
@@ -180,7 +171,16 @@
     "order": 20
   },
   {
-    "position": "T21",
+    "position": "T20",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "17",
+    "golfer": "Joaqu\u00edn Niemann",
+    "owner": "Fergal O'Reilly",
+    "order": 18
+  },
+  {
+    "position": "T20",
     "score": "-1",
     "score_num": -1,
     "thru": "F",
@@ -300,7 +300,7 @@
     "position": "T27",
     "score": "E",
     "score_num": 0,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Bud Cauley",
     "owner": "",
     "order": 34
@@ -381,7 +381,7 @@
     "position": "T35",
     "score": "+1",
     "score_num": 1,
-    "thru": "17",
+    "thru": "F",
     "golfer": "Martin Kaymer",
     "owner": "",
     "order": 43
