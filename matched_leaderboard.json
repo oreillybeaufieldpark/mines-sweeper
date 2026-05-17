@@ -444,15 +444,6 @@
     "position": "T50",
     "score": "+2",
     "score_num": 2,
-    "thru": "6",
-    "golfer": "Rasmus H\u00f8jgaard",
-    "owner": "",
-    "order": 50
-  },
-  {
-    "position": "T50",
-    "score": "+2",
-    "score_num": 2,
     "thru": "1",
     "golfer": "Johnny Keefer",
     "owner": "",
@@ -513,16 +504,25 @@
     "order": 64
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
+    "golfer": "Rasmus H\u00f8jgaard",
+    "owner": "",
+    "order": 50
+  },
+  {
+    "position": "T57",
+    "score": "+3",
+    "score_num": 3,
+    "thru": "8",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 56
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "6",
@@ -531,7 +531,7 @@
     "order": 57
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -540,7 +540,7 @@
     "order": 58
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -549,7 +549,7 @@
     "order": 59
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -558,7 +558,7 @@
     "order": 60
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -576,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "1",
@@ -585,7 +585,7 @@
     "order": 65
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "2",
@@ -594,7 +594,7 @@
     "order": 66
   },
   {
-    "position": "T58",
+    "position": "T57",
     "score": "+3",
     "score_num": 3,
     "thru": "14:55",
@@ -624,7 +624,7 @@
     "position": "T68",
     "score": "+4",
     "score_num": 4,
-    "thru": "6",
+    "thru": "7",
     "golfer": "Sami V\u00e4lim\u00e4ki",
     "owner": "",
     "order": 70
@@ -664,15 +664,6 @@
     "golfer": "Elvis Smylie",
     "owner": "",
     "order": 74
-  },
-  {
-    "position": "T74",
-    "score": "+5",
-    "score_num": 5,
-    "thru": "CUT",
-    "golfer": "Collin Morikawa",
-    "owner": "Igor Fleming",
-    "order": 75
   },
   {
     "position": "T74",
@@ -801,7 +792,16 @@
     "order": 95
   },
   {
-    "position": "T77",
+    "position": "T76",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Collin Morikawa",
+    "owner": "Igor Fleming",
+    "order": 75
+  },
+  {
+    "position": "T76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
@@ -810,7 +810,7 @@
     "order": 77
   },
   {
-    "position": "T77",
+    "position": "T76",
     "score": "+6",
     "score_num": 6,
     "thru": "CUT",
