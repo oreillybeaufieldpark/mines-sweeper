@@ -540,7 +540,16 @@
     "order": 65
   },
   {
-    "position": "T61",
+    "position": "T53",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "9",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 66
+  },
+  {
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "7",
@@ -549,7 +558,7 @@
     "order": 55
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "5",
@@ -558,7 +567,7 @@
     "order": 62
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "3",
@@ -567,7 +576,7 @@
     "order": 63
   },
   {
-    "position": "T61",
+    "position": "T62",
     "score": "+3",
     "score_num": 3,
     "thru": "9",
@@ -576,7 +585,7 @@
     "order": 68
   },
   {
-    "position": "T65",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "11",
@@ -588,22 +597,13 @@
     "position": "T65",
     "score": "+4",
     "score_num": 4,
-    "thru": "4",
+    "thru": "5",
     "golfer": "Daniel Brown",
     "owner": "",
     "order": 64
   },
   {
-    "position": "T65",
-    "score": "+4",
-    "score_num": 4,
-    "thru": "8",
-    "golfer": "Shane Lowry",
-    "owner": "Simon Smyth",
-    "order": 66
-  },
-  {
-    "position": "T65",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "9",
@@ -612,7 +612,7 @@
     "order": 67
   },
   {
-    "position": "T65",
+    "position": "T66",
     "score": "+4",
     "score_num": 4,
     "thru": "5",
@@ -792,6 +792,15 @@
     "order": 76
   },
   {
+    "position": "T74",
+    "score": "+6",
+    "score_num": 6,
+    "thru": "CUT",
+    "golfer": "Casey Jarvis",
+    "owner": "",
+    "order": 79
+  },
+  {
     "position": "-",
     "score": "+6",
     "score_num": 6,
@@ -936,7 +945,7 @@
     "order": 111
   },
   {
-    "position": "T76",
+    "position": "T77",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
@@ -945,16 +954,7 @@
     "order": 75
   },
   {
-    "position": "T76",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Casey Jarvis",
-    "owner": "",
-    "order": 79
-  },
-  {
-    "position": "T76",
+    "position": "T77",
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
