@@ -913,6 +913,15 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
+    "golfer": "Ryan Gerard",
+    "owner": "",
+    "order": 73
+  },
+  {
+    "position": "T70",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
     "golfer": "Kazuki Higa",
     "owner": "",
     "order": 74
@@ -961,6 +970,15 @@
     "golfer": "Tom McKibbin",
     "owner": "",
     "order": 116
+  },
+  {
+    "position": "-",
+    "score": "+7",
+    "score_num": 7,
+    "thru": "CUT",
+    "golfer": "Austin Smotherman",
+    "owner": "",
+    "order": 117
   },
   {
     "position": "-",
