@@ -896,7 +896,7 @@
     "score_num": 7,
     "thru": "CUT",
     "golfer": "John Parry",
-    "owner": "Dave Smyth",
+    "owner": "",
     "order": 71
   },
   {
@@ -907,15 +907,6 @@
     "golfer": "William Mouw",
     "owner": "",
     "order": 72
-  },
-  {
-    "position": "T70",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Ryan Gerard",
-    "owner": "",
-    "order": 73
   },
   {
     "position": "T70",
@@ -976,9 +967,9 @@
     "score": "+7",
     "score_num": 7,
     "thru": "CUT",
-    "golfer": "Austin Smotherman",
-    "owner": "",
-    "order": 117
+    "golfer": "Harry Hall",
+    "owner": "Dave Smyth",
+    "order": 118
   },
   {
     "position": "T75",
