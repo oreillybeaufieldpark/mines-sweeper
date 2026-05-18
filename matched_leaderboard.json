@@ -1,5 +1,14 @@
 [
   {
+    "position": "1",
+    "score": "-9",
+    "score_num": -9,
+    "thru": "F",
+    "golfer": "Aaron Rai",
+    "owner": "",
+    "order": 1
+  },
+  {
     "position": "T2",
     "score": "-6",
     "score_num": -6,
@@ -382,6 +391,15 @@
     "score": "+2",
     "score_num": 2,
     "thru": "F",
+    "golfer": "Shane Lowry",
+    "owner": "Simon Smyth",
+    "order": 44
+  },
+  {
+    "position": "T44",
+    "score": "+2",
+    "score_num": 2,
+    "thru": "F",
     "golfer": "Matt Wallace",
     "owner": "",
     "order": 45
@@ -529,6 +547,15 @@
     "golfer": "Sahith Theegala",
     "owner": "",
     "order": 61
+  },
+  {
+    "position": "T60",
+    "score": "+4",
+    "score_num": 4,
+    "thru": "F",
+    "golfer": "Rico Hoey",
+    "owner": "",
+    "order": 62
   },
   {
     "position": "T60",
@@ -833,7 +860,7 @@
     "score_num": 6,
     "thru": "CUT",
     "golfer": "Angel Ayora",
-    "owner": "Simon Smyth",
+    "owner": "",
     "order": 109
   },
   {
