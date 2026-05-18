@@ -1,5 +1,14 @@
 [
   {
+    "position": "1",
+    "score": "-9",
+    "score_num": -9,
+    "thru": "F",
+    "golfer": "Aaron Rai",
+    "owner": "",
+    "order": 1
+  },
+  {
     "position": "T2",
     "score": "-6",
     "score_num": -6,
@@ -63,6 +72,24 @@
     "order": 8
   },
   {
+    "position": "T7",
+    "score": "-4",
+    "score_num": -4,
+    "thru": "F",
+    "golfer": "Rory McIlroy",
+    "owner": "Richard Kendrick",
+    "order": 9
+  },
+  {
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "F",
+    "golfer": "Kurt Kitayama",
+    "owner": "Simon Smyth",
+    "order": 10
+  },
+  {
     "position": "T10",
     "score": "-3",
     "score_num": -3,
@@ -79,6 +106,87 @@
     "golfer": "Chris Gotterup",
     "owner": "Michael Murray",
     "order": 12
+  },
+  {
+    "position": "T10",
+    "score": "-3",
+    "score_num": -3,
+    "thru": "F",
+    "golfer": "Patrick Reed",
+    "owner": "Finbarr Callaly",
+    "order": 13
+  },
+  {
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Matt Fitzpatrick",
+    "owner": "Donal Brogan",
+    "order": 14
+  },
+  {
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Scottie Scheffler",
+    "owner": "Stephen Walker",
+    "order": 15
+  },
+  {
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Ben Griffin",
+    "owner": "Michael Murray",
+    "order": 16
+  },
+  {
+    "position": "T14",
+    "score": "-2",
+    "score_num": -2,
+    "thru": "F",
+    "golfer": "Max Greyserman",
+    "owner": "",
+    "order": 17
+  },
+  {
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "Jordan Spieth",
+    "owner": "Donal Maher",
+    "order": 18
+  },
+  {
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "Padraig Harrington",
+    "owner": "",
+    "order": 19
+  },
+  {
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "Stephan Jaeger",
+    "owner": "",
+    "order": 20
+  },
+  {
+    "position": "T18",
+    "score": "-1",
+    "score_num": -1,
+    "thru": "F",
+    "golfer": "David Puig",
+    "owner": "Finbarr Callaly",
+    "order": 21
   },
   {
     "position": "T18",
@@ -662,7 +770,7 @@
     "score_num": 6,
     "thru": "CUT",
     "golfer": "David Lipsky",
-    "owner": "Finbarr Callaly",
+    "owner": "",
     "order": 99
   },
   {
@@ -815,7 +923,7 @@
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Kazuki Higa",
-    "owner": "Simon Smyth",
+    "owner": "",
     "order": 74
   },
   {
@@ -824,7 +932,7 @@
     "score_num": 7,
     "thru": "CUT",
     "golfer": "Patrick Rodgers",
-    "owner": "Finbarr Callaly",
+    "owner": "",
     "order": 112
   },
   {
@@ -1031,7 +1139,7 @@
     "score_num": 10,
     "thru": "CUT",
     "golfer": "Ben Kern",
-    "owner": "Michael Murray",
+    "owner": "",
     "order": 80
   },
   {
@@ -1130,7 +1238,7 @@
     "score_num": 12,
     "thru": "CUT",
     "golfer": "Jordan Smith",
-    "owner": "Donal Maher",
+    "owner": "",
     "order": 139
   },
   {
