@@ -896,7 +896,7 @@
     "score_num": 7,
     "thru": "CUT",
     "golfer": "John Parry",
-    "owner": "",
+    "owner": "Dave Smyth",
     "order": 71
   },
   {
@@ -979,15 +979,6 @@
     "golfer": "Austin Smotherman",
     "owner": "",
     "order": 117
-  },
-  {
-    "position": "-",
-    "score": "+7",
-    "score_num": 7,
-    "thru": "CUT",
-    "golfer": "Harry Hall",
-    "owner": "Dave Smyth",
-    "order": 118
   },
   {
     "position": "T75",
