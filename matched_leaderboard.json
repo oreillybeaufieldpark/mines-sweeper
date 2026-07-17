@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:22:07.281220+01:00",
+  "generated_at": "2026-07-17T15:23:06.396477+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T6",
       "score": "-4",
       "score_num": -4,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "",
@@ -618,7 +618,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "",
@@ -705,7 +705,17 @@
       "order": 70
     },
     {
-      "position": "T71",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "2",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 79
+    },
+    {
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -755,7 +765,7 @@
       "order": 75
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -765,7 +775,7 @@
       "order": 76
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -775,7 +785,7 @@
       "order": 77
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -785,17 +795,7 @@
       "order": 78
     },
     {
-      "position": "T71",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "1",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 79
-    },
-    {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -805,7 +805,7 @@
       "order": 80
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -815,7 +815,7 @@
       "order": 81
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -825,7 +825,7 @@
       "order": 82
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -988,7 +988,7 @@
       "position": "T84",
       "score": "+2",
       "score_num": 2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Jason Day",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -1155,7 +1155,17 @@
       "order": 115
     },
     {
-      "position": "T116",
+      "position": "T103",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Daniel Hillier",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1165,7 +1175,7 @@
       "order": 116
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1185,7 @@
       "order": 117
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1195,7 @@
       "order": 118
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1205,7 @@
       "order": 119
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1205,7 +1215,7 @@
       "order": 120
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1215,7 +1225,7 @@
       "order": 121
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1225,27 +1235,17 @@
       "order": 122
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Andrew Novak",
       "owner": "",
       "owner_redraw": "",
       "order": 123
     },
     {
-      "position": "T116",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "12",
-      "golfer": "Daniel Hillier",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 124
-    },
-    {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "5",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1275,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T116",
+      "position": "T117",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
