@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:18:06.320511+01:00",
+  "generated_at": "2026-07-17T20:19:07.129891+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1059,23 +1059,23 @@
       "score": "+3",
       "score_num": 3,
       "thru": "13",
-      "golfer": "Maverick McNealy",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 106
-    },
-    {
-      "position": "T98",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "13",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
       "order": 108
     },
     {
-      "position": "T108",
+      "position": "T107",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "16",
+      "golfer": "Maverick McNealy",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 106
+    },
+    {
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "14",
@@ -1085,7 +1085,7 @@
       "order": 107
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1105,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1115,7 +1115,7 @@
       "order": 111
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1125,7 +1125,7 @@
       "order": 112
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1135,7 +1135,7 @@
       "order": 113
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1145,7 +1145,7 @@
       "order": 114
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1155,7 +1155,7 @@
       "order": 115
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1165,7 +1165,7 @@
       "order": 116
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1185,7 @@
       "order": 118
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1215,7 +1215,7 @@
       "order": 121
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1425,17 +1425,7 @@
       "order": 142
     },
     {
-      "position": "T139",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "David Puig",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 143
-    },
-    {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1445,7 +1435,7 @@
       "order": 127
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1455,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1465,7 +1455,7 @@
       "order": 145
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1475,7 +1465,7 @@
       "order": 146
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1485,7 +1475,7 @@
       "order": 147
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1505,7 +1495,7 @@
       "order": 149
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1515,7 +1505,17 @@
       "order": 150
     },
     {
-      "position": "T151",
+      "position": "T139",
+      "score": "+10",
+      "score_num": 10,
+      "thru": "CUT",
+      "golfer": "David Puig",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 143
+    },
+    {
+      "position": "T150",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1525,7 +1525,7 @@
       "order": 151
     },
     {
-      "position": "T151",
+      "position": "T150",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
