@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:33:06.898618+01:00",
+  "generated_at": "2026-07-17T20:34:08.862557+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -158,7 +158,7 @@
       "position": "T8",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -775,7 +775,17 @@
       "order": 77
     },
     {
-      "position": "T78",
+      "position": "T66",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "14",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 97
+    },
+    {
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -785,7 +795,7 @@
       "order": 78
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -795,7 +805,7 @@
       "order": 79
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -805,7 +815,7 @@
       "order": 80
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -815,7 +825,7 @@
       "order": 81
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -825,7 +835,7 @@
       "order": 82
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -835,7 +845,7 @@
       "order": 83
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -845,7 +855,7 @@
       "order": 84
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -855,7 +865,7 @@
       "order": 85
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -865,7 +875,7 @@
       "order": 86
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -875,7 +885,7 @@
       "order": 87
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -885,7 +895,7 @@
       "order": 88
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -895,7 +905,7 @@
       "order": 89
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -905,7 +915,7 @@
       "order": 90
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -915,7 +925,7 @@
       "order": 91
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +935,7 @@
       "order": 92
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -935,7 +945,7 @@
       "order": 93
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,7 +955,7 @@
       "order": 94
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -955,7 +965,7 @@
       "order": 95
     },
     {
-      "position": "T78",
+      "position": "T79",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
@@ -963,16 +973,6 @@
       "owner": "Stephen Walker",
       "owner_redraw": "",
       "order": 96
-    },
-    {
-      "position": "T78",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "13",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 97
     },
     {
       "position": "T98",
