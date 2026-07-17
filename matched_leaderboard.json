@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:45:06.706851+01:00",
+  "generated_at": "2026-07-17T20:46:06.715008+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -68,7 +68,7 @@
       "position": "T6",
       "score": "-5",
       "score_num": -5,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Si Woo Kim",
       "owner": "Donal Maher",
       "owner_redraw": "",
