@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:45:06.898384+01:00",
+  "generated_at": "2026-07-17T17:46:06.863229+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T23",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Jordan Smith",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 44
+    },
+    {
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,17 +445,7 @@
       "order": 43
     },
     {
-      "position": "T37",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
-      "golfer": "Jordan Smith",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 44
-    },
-    {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -1449,23 +1449,23 @@
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
-      "golfer": "Scott Vincent",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 144
-    },
-    {
-      "position": "T143",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
       "golfer": "Kota Kaneko",
       "owner": "",
       "owner_redraw": "",
       "order": 145
     },
     {
-      "position": "T146",
+      "position": "T145",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Scott Vincent",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 144
+    },
+    {
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 146
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1485,7 +1485,7 @@
       "order": 147
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1495,7 +1495,7 @@
       "order": 148
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1505,7 +1505,7 @@
       "order": 150
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
