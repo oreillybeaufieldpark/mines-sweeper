@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:59:07.194781+01:00",
+  "generated_at": "2026-07-17T13:00:07.757690+01:00",
   "has_redraw": false,
   "players": [
     {
       "position": "1",
       "score": "-8",
       "score_num": -8,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
@@ -728,17 +728,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "13",
-      "golfer": "Jayden Schaper",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 73
-    },
-    {
-      "position": "T70",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -925,6 +915,16 @@
       "order": 101
     },
     {
+      "position": "T70",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "13",
+      "golfer": "Jayden Schaper",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 73
+    },
+    {
       "position": "T93",
       "score": "+2",
       "score_num": 2,
@@ -968,7 +968,7 @@
       "position": "T93",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Tom Kim",
       "owner": "Michael Murray",
       "owner_redraw": "",
@@ -1005,7 +1005,7 @@
       "order": 99
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -1015,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -1025,7 +1025,7 @@
       "order": 102
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -1035,7 +1035,7 @@
       "order": 103
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "13:31",
@@ -1045,7 +1045,7 @@
       "order": 104
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "13:53",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "14:31",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -1095,7 +1095,7 @@
       "order": 115
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -1105,7 +1105,7 @@
       "order": 118
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -1128,7 +1128,7 @@
       "position": "T112",
       "score": "+3",
       "score_num": 3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
