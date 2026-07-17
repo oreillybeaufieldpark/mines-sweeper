@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:40:06.889154+01:00",
+  "generated_at": "2026-07-17T12:41:06.801315+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -988,7 +988,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Michael Kim",
       "owner": "",
       "owner_redraw": "",
