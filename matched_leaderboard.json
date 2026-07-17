@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:34:06.485965+01:00",
+  "generated_at": "2026-07-17T19:35:06.718935+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -208,7 +208,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -1215,17 +1215,17 @@
       "order": 121
     },
     {
-      "position": "T112",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "15",
+      "position": "T122",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
       "golfer": "Jason Day",
       "owner": "Stephen Walker",
       "owner_redraw": "",
       "order": 122
     },
     {
-      "position": "T123",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1235,7 @@
       "order": 124
     },
     {
-      "position": "T123",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1245,7 @@
       "order": 125
     },
     {
-      "position": "T123",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1255,7 @@
       "order": 126
     },
     {
-      "position": "T123",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
