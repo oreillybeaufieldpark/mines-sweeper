@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:48:06.804510+01:00",
+  "generated_at": "2026-07-17T15:49:07.981024+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1419,16 +1419,6 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Gary Woodland",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 140
-    },
-    {
-      "position": "T135",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Ren Yonezawa",
       "owner": "",
       "owner_redraw": "",
@@ -1445,7 +1435,7 @@
       "order": 144
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1455,7 +1445,7 @@
       "order": 143
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1465,9 +1455,9 @@
       "order": 145
     },
     {
-      "position": "T146",
-      "score": "+8",
-      "score_num": 8,
+      "position": "T145",
+      "score": "+7",
+      "score_num": 7,
       "thru": "CUT",
       "golfer": "Sam Bairstow",
       "owner": "",
@@ -1475,7 +1465,7 @@
       "order": 146
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1485,7 +1475,7 @@
       "order": 147
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1505,7 +1495,17 @@
       "order": 149
     },
     {
-      "position": "T150",
+      "position": "T135",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Gary Woodland",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 140
+    },
+    {
+      "position": "T149",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1515,7 +1515,7 @@
       "order": 150
     },
     {
-      "position": "T150",
+      "position": "T149",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
