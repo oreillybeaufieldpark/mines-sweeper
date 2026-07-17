@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:25:06.787861+01:00",
+  "generated_at": "2026-07-17T16:26:06.525069+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -948,7 +948,7 @@
       "position": "T81",
       "score": "+2",
       "score_num": 2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "",
