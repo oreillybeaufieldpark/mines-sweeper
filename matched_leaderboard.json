@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:58:07.067803+01:00",
+  "generated_at": "2026-07-17T11:59:06.875243+01:00",
   "has_redraw": false,
   "players": [
     {
       "position": "1",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "10",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "11",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
@@ -518,7 +518,7 @@
       "position": "T46",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Jesper Svensson",
       "owner": "",
       "owner_redraw": "",
@@ -528,7 +528,7 @@
       "position": "T46",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Jayden Schaper",
       "owner": "",
       "owner_redraw": "",
@@ -738,16 +738,6 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
-      "golfer": "Matt Fitzpatrick",
-      "owner": "Michael Murray",
-      "owner_redraw": "",
-      "order": 76
-    },
-    {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
       "thru": "6",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
@@ -905,7 +895,7 @@
       "order": 92
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -915,7 +905,7 @@
       "order": 74
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -925,7 +915,17 @@
       "order": 75
     },
     {
-      "position": "T91",
+      "position": "T90",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "6",
+      "golfer": "Matt Fitzpatrick",
+      "owner": "Michael Murray",
+      "owner_redraw": "",
+      "order": 76
+    },
+    {
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -935,7 +935,7 @@
       "order": 93
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "15",
@@ -945,7 +945,7 @@
       "order": 94
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -955,7 +955,7 @@
       "order": 95
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -965,7 +965,7 @@
       "order": 96
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -975,7 +975,7 @@
       "order": 97
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -985,7 +985,7 @@
       "order": 98
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -995,7 +995,7 @@
       "order": 99
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "11:52",
@@ -1005,7 +1005,7 @@
       "order": 100
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "12:03",
@@ -1015,7 +1015,7 @@
       "order": 101
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "12:14",
@@ -1025,7 +1025,7 @@
       "order": 102
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "13:31",
@@ -1035,7 +1035,7 @@
       "order": 103
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "13:53",
@@ -1045,7 +1045,7 @@
       "order": 104
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "14:31",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T91",
+      "position": "T90",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
