@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:33:06.422314+01:00",
+  "generated_at": "2026-07-17T13:34:08.599585+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1018,16 +1018,6 @@
       "position": "T86",
       "score": "+2",
       "score_num": 2,
-      "thru": "4",
-      "golfer": "Joe Dean",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 102
-    },
-    {
-      "position": "T86",
-      "score": "+2",
-      "score_num": 2,
       "thru": "1",
       "golfer": "Lev Grinberg",
       "owner": "",
@@ -1085,7 +1075,17 @@
       "order": 108
     },
     {
-      "position": "T109",
+      "position": "T108",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "5",
+      "golfer": "Joe Dean",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 102
+    },
+    {
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1105,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
@@ -1115,7 +1115,7 @@
       "order": 111
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1125,7 +1125,7 @@
       "order": 112
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1135,7 +1135,7 @@
       "order": 113
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -1145,7 +1145,7 @@
       "order": 114
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1155,7 +1155,7 @@
       "order": 115
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1165,7 +1165,7 @@
       "order": 116
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T109",
+      "position": "T108",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
