@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:09:06.518134+01:00",
+  "generated_at": "2026-07-17T17:10:06.481871+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -98,16 +98,6 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "15",
-      "golfer": "Sungjae Im",
-      "owner": "Igor Fleming",
-      "owner_redraw": "",
-      "order": 9
-    },
-    {
-      "position": "T7",
-      "score": "-4",
-      "score_num": -4,
       "thru": "14",
       "golfer": "Francesco Molinari",
       "owner": "",
@@ -145,7 +135,17 @@
       "order": 13
     },
     {
-      "position": "T15",
+      "position": "T14",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "16",
+      "golfer": "Sungjae Im",
+      "owner": "Igor Fleming",
+      "owner_redraw": "",
+      "order": 9
+    },
+    {
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -155,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -165,7 +165,7 @@
       "order": 15
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -175,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -185,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -328,7 +328,7 @@
       "position": "T24",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "",
