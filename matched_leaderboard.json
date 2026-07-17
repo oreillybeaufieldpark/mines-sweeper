@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:24:06.749297+01:00",
+  "generated_at": "2026-07-17T20:25:06.783701+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -648,7 +648,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "",
@@ -1048,7 +1048,7 @@
       "position": "T98",
       "score": "+3",
       "score_num": 3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "David Howard",
       "owner": "",
       "owner_redraw": "",
@@ -1536,8 +1536,8 @@
     },
     {
       "position": "153",
-      "score": "+11",
-      "score_num": 11,
+      "score": "+12",
+      "score_num": 12,
       "thru": "CUT",
       "golfer": "Ren Yonezawa",
       "owner": "",
