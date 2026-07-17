@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:09:06.424624+01:00",
+  "generated_at": "2026-07-17T13:10:07.007803+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -1098,6 +1098,16 @@
       "position": "T93",
       "score": "+2",
       "score_num": 2,
+      "thru": "14",
+      "golfer": "J.T. Poston",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 115
+    },
+    {
+      "position": "T93",
+      "score": "+2",
+      "score_num": 2,
       "thru": "11",
       "golfer": "Matt Fitzpatrick",
       "owner": "Michael Murray",
@@ -1105,7 +1115,7 @@
       "order": 116
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -1115,7 +1125,7 @@
       "order": 98
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -1125,7 +1135,7 @@
       "order": 105
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1135,7 +1145,7 @@
       "order": 112
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1145,7 +1155,7 @@
       "order": 113
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1155,17 +1165,7 @@
       "order": 114
     },
     {
-      "position": "T111",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "13",
-      "golfer": "J.T. Poston",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 115
-    },
-    {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "5",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1185,7 +1185,7 @@
       "order": 118
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
@@ -1258,7 +1258,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Nicolai H\u00f8jgaard",
       "owner": "Donal Maher",
       "owner_redraw": "",
