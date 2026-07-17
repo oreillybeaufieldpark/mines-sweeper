@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:49:07.215726+01:00",
+  "generated_at": "2026-07-17T18:50:07.171025+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -658,7 +658,7 @@
       "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "",
@@ -988,16 +988,6 @@
       "position": "T78",
       "score": "+2",
       "score_num": 2,
-      "thru": "8",
-      "golfer": "Frederic LaCroix",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 99
-    },
-    {
-      "position": "T78",
-      "score": "+2",
-      "score_num": 2,
       "thru": "14",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
@@ -1005,7 +995,17 @@
       "order": 105
     },
     {
-      "position": "T101",
+      "position": "T100",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "9",
+      "golfer": "Frederic LaCroix",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 99
+    },
+    {
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 101
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
@@ -1055,7 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1065,17 +1065,17 @@
       "order": 106
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
       "order": 107
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
