@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:48:06.395824+01:00",
+  "generated_at": "2026-07-17T16:49:06.465864+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -758,7 +758,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -818,7 +818,7 @@
       "position": "T81",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "",
@@ -1015,7 +1015,17 @@
       "order": 102
     },
     {
-      "position": "T102",
+      "position": "T81",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "17",
+      "golfer": "Andrew Novak",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 119
+    },
+    {
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "6",
@@ -1025,7 +1035,7 @@
       "order": 99
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1075,7 @@
       "order": 106
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1075,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1085,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1095,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T102",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -1105,7 +1115,7 @@
       "order": 121
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1115,7 +1125,7 @@
       "order": 107
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1125,7 +1135,7 @@
       "order": 112
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1135,7 +1145,7 @@
       "order": 113
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1145,7 +1155,7 @@
       "order": 114
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1155,7 +1165,7 @@
       "order": 115
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1165,7 +1175,7 @@
       "order": 116
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1185,7 @@
       "order": 117
     },
     {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1185,17 +1195,7 @@
       "order": 118
     },
     {
-      "position": "T111",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "16",
-      "golfer": "Andrew Novak",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 119
-    },
-    {
-      "position": "T111",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1379,16 +1379,6 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Matthew Baldwin",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 136
-    },
-    {
-      "position": "T130",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Mateo Pulcini",
       "owner": "",
       "owner_redraw": "",
@@ -1405,7 +1395,17 @@
       "order": 139
     },
     {
-      "position": "T140",
+      "position": "T139",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Matthew Baldwin",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 136
+    },
+    {
+      "position": "T139",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T140",
+      "position": "T139",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 141
     },
     {
-      "position": "T140",
+      "position": "T139",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1435,7 +1435,7 @@
       "order": 142
     },
     {
-      "position": "T140",
+      "position": "T139",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 143
     },
     {
-      "position": "T140",
+      "position": "T139",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
