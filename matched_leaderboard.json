@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:54:07.041547+01:00",
+  "generated_at": "2026-07-17T13:55:06.951231+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1165,7 +1165,17 @@
       "order": 117
     },
     {
-      "position": "T117",
+      "position": "T106",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "15",
+      "golfer": "Nicolai H\u00f8jgaard",
+      "owner": "Donal Maher",
+      "owner_redraw": "",
+      "order": 122
+    },
+    {
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "6",
@@ -1175,7 +1185,7 @@
       "order": 112
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1195,7 @@
       "order": 118
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1205,7 @@
       "order": 119
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1205,7 +1215,7 @@
       "order": 120
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1215,17 +1225,7 @@
       "order": 121
     },
     {
-      "position": "T117",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "14",
-      "golfer": "Nicolai H\u00f8jgaard",
-      "owner": "Donal Maher",
-      "owner_redraw": "",
-      "order": 122
-    },
-    {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1235,7 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1245,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "9",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "9",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "8",
@@ -1275,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1285,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "4",
@@ -1295,7 +1295,7 @@
       "order": 129
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "2",
@@ -1305,7 +1305,7 @@
       "order": 130
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "13:42",
@@ -1315,7 +1315,7 @@
       "order": 131
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1325,7 +1325,7 @@
       "order": 132
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1335,7 +1335,7 @@
       "order": 133
     },
     {
-      "position": "T117",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
