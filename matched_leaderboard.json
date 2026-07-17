@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:26:06.642567+01:00",
+  "generated_at": "2026-07-17T17:27:06.605324+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -438,7 +438,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "",
@@ -488,7 +488,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Antoine Rozner",
       "owner": "",
       "owner_redraw": "",
@@ -758,7 +758,7 @@
       "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Sam Stevens",
       "owner": "",
       "owner_redraw": "",
@@ -995,17 +995,7 @@
       "order": 101
     },
     {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "3",
-      "golfer": "Ryutaro Nagano",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 102
-    },
-    {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -1015,7 +1005,17 @@
       "order": 92
     },
     {
-      "position": "T101",
+      "position": "T100",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "4",
+      "golfer": "Ryutaro Nagano",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 102
+    },
+    {
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 103
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 104
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 105
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 106
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1065,17 +1065,17 @@
       "order": 107
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Harris English",
       "owner": "",
       "owner_redraw": "",
       "order": 108
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1178,7 +1178,7 @@
       "position": "T109",
       "score": "+4",
       "score_num": 4,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Jake Knapp",
       "owner": "",
       "owner_redraw": "",
@@ -1529,20 +1529,20 @@
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
-      "golfer": "Ren Yonezawa",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 152
-    },
-    {
-      "position": "T150",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
       "golfer": "Gary Woodland",
       "owner": "",
       "owner_redraw": "",
       "order": 153
+    },
+    {
+      "position": "153",
+      "score": "+11",
+      "score_num": 11,
+      "thru": "CUT",
+      "golfer": "Ren Yonezawa",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 152
     },
     {
       "position": "154",
