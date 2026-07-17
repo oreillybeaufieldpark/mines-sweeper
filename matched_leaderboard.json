@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:30:06.953658+01:00",
+  "generated_at": "2026-07-17T14:31:07.074021+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -148,7 +148,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "",
@@ -418,7 +418,7 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "",
@@ -1075,7 +1075,7 @@
       "order": 106
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1105,7 +1105,7 @@
       "order": 109
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1125,7 +1125,7 @@
       "order": 111
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1145,7 +1145,7 @@
       "order": 113
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1155,7 +1155,7 @@
       "order": 114
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1165,7 +1165,7 @@
       "order": 115
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1175,7 +1175,7 @@
       "order": 116
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
@@ -1248,7 +1248,7 @@
       "position": "T119",
       "score": "+4",
       "score_num": 4,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Nevill Ruiter",
       "owner": "",
       "owner_redraw": "",
