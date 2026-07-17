@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:50:07.072673+01:00",
+  "generated_at": "2026-07-17T14:51:06.823421+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -158,7 +158,7 @@
       "position": "T10",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
@@ -938,7 +938,7 @@
       "position": "T86",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Nicolai H\u00f8jgaard",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -1108,16 +1108,6 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
-      "thru": "5",
-      "golfer": "Lev Grinberg",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 111
-    },
-    {
-      "position": "T102",
-      "score": "+3",
-      "score_num": 3,
       "thru": "2",
       "golfer": "Kota Kaneko",
       "owner": "",
@@ -1165,7 +1155,17 @@
       "order": 116
     },
     {
-      "position": "T117",
+      "position": "T116",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "6",
+      "golfer": "Lev Grinberg",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 111
+    },
+    {
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1185,7 @@
       "order": 118
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1215,7 +1215,7 @@
       "order": 121
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1225,7 +1225,7 @@
       "order": 122
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "12",
@@ -1235,7 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "11",
@@ -1245,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "11",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "8",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "4",
@@ -1275,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "4",
@@ -1285,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1295,7 +1295,7 @@
       "order": 129
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1305,7 +1305,7 @@
       "order": 130
     },
     {
-      "position": "T117",
+      "position": "T116",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
@@ -1449,23 +1449,23 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Scott Vincent",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 144
-    },
-    {
-      "position": "T140",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Ren Yonezawa",
       "owner": "",
       "owner_redraw": "",
       "order": 145
     },
     {
-      "position": "T146",
+      "position": "T145",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Scott Vincent",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 144
+    },
+    {
+      "position": "T145",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 146
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1485,7 +1485,7 @@
       "order": 147
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1495,7 +1495,7 @@
       "order": 148
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
