@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:55:06.951231+01:00",
+  "generated_at": "2026-07-17T13:56:06.667642+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -315,7 +315,17 @@
       "order": 33
     },
     {
-      "position": "T32",
+      "position": "T21",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "16",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 37
+    },
+    {
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -325,7 +335,7 @@
       "order": 27
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -335,7 +345,7 @@
       "order": 28
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -365,17 +375,7 @@
       "order": 36
     },
     {
-      "position": "T32",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "15",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 37
-    },
-    {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -395,7 +395,7 @@
       "order": 40
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -405,7 +405,7 @@
       "order": 41
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -415,7 +415,7 @@
       "order": 44
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -425,7 +425,7 @@
       "order": 45
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -435,7 +435,7 @@
       "order": 46
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -445,7 +445,7 @@
       "order": 47
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -455,7 +455,7 @@
       "order": 48
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
