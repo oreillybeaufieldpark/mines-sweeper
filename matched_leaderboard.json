@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:19:06.951600+01:00",
+  "generated_at": "2026-07-17T19:20:06.868631+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -365,17 +365,17 @@
       "order": 35
     },
     {
-      "position": "T24",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "12",
+      "position": "T37",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "13",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "",
       "order": 36
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -678,7 +678,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Antoine Rozner",
       "owner": "",
       "owner_redraw": "",
@@ -988,16 +988,6 @@
       "position": "T80",
       "score": "+2",
       "score_num": 2,
-      "thru": "12",
-      "golfer": "Maverick McNealy",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 99
-    },
-    {
-      "position": "T80",
-      "score": "+2",
-      "score_num": 2,
       "thru": "17",
       "golfer": "Harris English",
       "owner": "",
@@ -1005,7 +995,17 @@
       "order": 106
     },
     {
-      "position": "T101",
+      "position": "T100",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Maverick McNealy",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 99
+    },
+    {
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 101
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "12",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T101",
+      "position": "T100",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1419,23 +1419,23 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
-      "golfer": "David Puig",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 141
-    },
-    {
-      "position": "T133",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
       "golfer": "Jeong-Woo Ham",
       "owner": "",
       "owner_redraw": "",
       "order": 144
     },
     {
-      "position": "T143",
+      "position": "T142",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "David Puig",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 141
+    },
+    {
+      "position": "T142",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 142
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
