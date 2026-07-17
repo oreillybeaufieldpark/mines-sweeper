@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:46:06.341520+01:00",
+  "generated_at": "2026-07-17T13:47:06.373738+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1118,7 +1118,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
@@ -1288,7 +1288,7 @@
       "position": "T118",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Andrew Novak",
       "owner": "",
       "owner_redraw": "",
