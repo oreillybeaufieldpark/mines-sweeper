@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:24:06.382172+01:00",
+  "generated_at": "2026-07-17T13:25:06.337657+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -428,7 +428,7 @@
       "position": "T32",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
@@ -758,7 +758,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "David Duval",
       "owner": "",
       "owner_redraw": "",
