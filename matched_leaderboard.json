@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:42:07.530946+01:00",
+  "generated_at": "2026-07-17T11:43:06.702167+01:00",
   "has_redraw": false,
   "players": [
     {
       "position": "1",
       "score": "-6",
       "score_num": -6,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
@@ -338,7 +338,7 @@
       "position": "T31",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "",
