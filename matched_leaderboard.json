@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:47:06.451420+01:00",
+  "generated_at": "2026-07-17T18:48:06.306693+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -198,7 +198,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -1208,6 +1208,16 @@
       "position": "T109",
       "score": "+4",
       "score_num": 4,
+      "thru": "F",
+      "golfer": "Mateo Pulcini",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 125
+    },
+    {
+      "position": "T109",
+      "score": "+4",
+      "score_num": 4,
       "thru": "8",
       "golfer": "Alejandro de Castro Piera",
       "owner": "",
@@ -1215,7 +1225,7 @@
       "order": 128
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 121
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 122
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1255,7 @@
       "order": 123
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,17 +1265,7 @@
       "order": 124
     },
     {
-      "position": "T122",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Mateo Pulcini",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 125
-    },
-    {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
