@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:21:07.329459+01:00",
+  "generated_at": "2026-07-17T15:22:07.281220+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -778,7 +778,7 @@
       "position": "T71",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -1545,9 +1545,9 @@
       "order": 153
     },
     {
-      "position": "154",
-      "score": "+11",
-      "score_num": 11,
+      "position": "T152",
+      "score": "+10",
+      "score_num": 10,
       "thru": "CUT",
       "golfer": "Matthew Jordan",
       "owner": "",
