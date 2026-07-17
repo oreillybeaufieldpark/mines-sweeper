@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:53:07.365317+01:00",
+  "generated_at": "2026-07-17T16:54:07.068426+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -618,7 +618,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -1115,7 +1115,17 @@
       "order": 111
     },
     {
-      "position": "T112",
+      "position": "T103",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "8",
+      "golfer": "Viktor Hovland",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 120
+    },
+    {
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1125,7 +1135,7 @@
       "order": 112
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1135,7 +1145,7 @@
       "order": 113
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1145,7 +1155,7 @@
       "order": 114
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1155,7 +1165,7 @@
       "order": 115
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1165,7 +1175,7 @@
       "order": 116
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1185,7 @@
       "order": 117
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1195,7 @@
       "order": 118
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1195,17 +1205,17 @@
       "order": 119
     },
     {
-      "position": "T112",
+      "position": "T113",
       "score": "+4",
       "score_num": 4,
-      "thru": "7",
-      "golfer": "Viktor Hovland",
-      "owner": "Donal Brogan",
+      "thru": "8",
+      "golfer": "Justin Rose",
+      "owner": "Colm Geary",
       "owner_redraw": "",
-      "order": 120
+      "order": 127
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1215,7 +1225,7 @@
       "order": 121
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 122
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 123
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1255,7 @@
       "order": 124
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1265,7 @@
       "order": 125
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1265,17 +1275,7 @@
       "order": 126
     },
     {
-      "position": "T121",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Justin Rose",
-      "owner": "Colm Geary",
-      "owner_redraw": "",
-      "order": 127
-    },
-    {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1285,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
