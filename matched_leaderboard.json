@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:43:21.397798+01:00",
+  "generated_at": "2026-07-17T17:44:06.919164+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -958,6 +958,16 @@
       "position": "T80",
       "score": "+2",
       "score_num": 2,
+      "thru": "15",
+      "golfer": "Angel Ayora",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 101
+    },
+    {
+      "position": "T80",
+      "score": "+2",
+      "score_num": 2,
       "thru": "12",
       "golfer": "Harris English",
       "owner": "",
@@ -965,7 +975,7 @@
       "order": 103
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -975,7 +985,7 @@
       "order": 96
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -985,7 +995,7 @@
       "order": 97
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -995,7 +1005,7 @@
       "order": 98
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1005,7 +1015,7 @@
       "order": 99
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1015,17 +1025,7 @@
       "order": 100
     },
     {
-      "position": "T97",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "14",
-      "golfer": "Angel Ayora",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 101
-    },
-    {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -1035,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -1045,7 +1045,7 @@
       "order": 104
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "6",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "6",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T97",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "4",
@@ -1499,23 +1499,33 @@
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
-      "golfer": "David Duval",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 149
-    },
-    {
-      "position": "T146",
-      "score": "+9",
-      "score_num": 9,
-      "thru": "CUT",
       "golfer": "Dan Bradbury",
       "owner": "",
       "owner_redraw": "",
       "order": 150
     },
     {
+      "position": "T146",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Gary Woodland",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 152
+    },
+    {
       "position": "T151",
+      "score": "+10",
+      "score_num": 10,
+      "thru": "CUT",
+      "golfer": "David Duval",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 149
+    },
+    {
+      "position": "152",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1523,16 +1533,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 151
-    },
-    {
-      "position": "T151",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Gary Woodland",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 152
     },
     {
       "position": "153",
