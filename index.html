@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PGA 2026 Sweep</title>
+<title>Sweep Tracker</title>
 
 <style>
 body{
@@ -79,7 +79,7 @@ th{
 
 <main>
 
-<h1>PGA Championship Sweep</h1>
+<h1 id="title">Sweep Tracker</h1>
 
 <div id="updated">Loading...</div>
 
@@ -108,14 +108,20 @@ async function loadBoard(){
   );
 
   const data = await res.json();
+  const players = data.players || [];
 
-  const owned = data.filter(r => r.owner);
+  if (data.page_title) {
+    document.title = data.page_title;
+    title.textContent = data.page_title;
+  }
+
+  const owned = players.filter(r => r.owner);
 
   const bestOwnedScore = owned.length
     ? Math.min(...owned.map(r => Number(r.score_num)))
     : null;
 
-  board.innerHTML = data.map(r => {
+  board.innerHTML = players.map(r => {
 
     const isOwned = !!r.owner;
 

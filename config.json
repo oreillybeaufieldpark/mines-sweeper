@@ -1,0 +1,8 @@
+{
+  "event_id": "401811957",
+  "event_name": "The Open Championship",
+  "page_title": "The Open Sweep",
+  "sport_league": "pga",
+  "owners_file": "owners.csv",
+  "output_file": "matched_leaderboard.json"
+}

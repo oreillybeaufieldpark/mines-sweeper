@@ -8,17 +8,34 @@ import pandas as pd
 import requests
 from rapidfuzz import process, fuzz
 
-EVENT_ID = "401811947"
-XLSX = Path("Major Golf Sweepstakes-7.xlsx")
-OUT = Path("matched_leaderboard.json")
+MIN_CONFIDENCE = 95
 
-BASE = f"https://sports.core.api.espn.com/v2/sports/golf/leagues/pga/events/{EVENT_ID}/competitions/{EVENT_ID}"
+CONFIG = json.loads(Path("config.json").read_text(encoding="utf-8"))
+
+EVENT_ID = CONFIG["event_id"]
+LEAGUE = CONFIG.get("sport_league", "pga")
+OWNERS_FILE = Path(CONFIG["owners_file"])
+OUT = Path(CONFIG["output_file"])
+
+BASE = f"https://sports.core.api.espn.com/v2/sports/golf/leagues/{LEAGUE}/events/{EVENT_ID}/competitions/{EVENT_ID}"
 COMPETITORS_URL = f"{BASE}/competitors?limit=200"
 
 session = requests.Session()
 
+# Letters that NFKD won't decompose into ascii + combining mark
+# (they're distinct letters, not accented forms) so map them by hand.
+EXTRA_LETTER_MAP = str.maketrans({
+    "ø": "o", "Ø": "O",
+    "æ": "ae", "Æ": "AE",
+    "œ": "oe", "Œ": "OE",
+    "ł": "l", "Ł": "L",
+    "đ": "d", "Đ": "D",
+    "ß": "ss",
+})
+
 def norm(s):
-    s = unicodedata.normalize("NFKD", str(s or ""))
+    s = str(s or "").translate(EXTRA_LETTER_MAP)
+    s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = s.lower()
     s = re.sub(r"[^a-z ]+", " ", s)
@@ -118,7 +135,7 @@ def load_espn_players():
 def main():
     espn_rows = load_espn_players()
 
-    df = pd.read_excel(XLSX)
+    df = pd.read_csv(OWNERS_FILE)
     df = df.rename(
         columns={c: str(c).strip() for c in df.columns}
     )
@@ -132,6 +149,7 @@ def main():
     keys = list(choices.keys())
 
     owner_map = {}
+    unmatched = []
 
     for _, row in df.iterrows():
         golfer = str(row["Golfer"]).strip()
@@ -143,16 +161,23 @@ def main():
             scorer=fuzz.WRatio
         )
 
-        if not match:
+        if not match or match[1] < MIN_CONFIDENCE:
+            unmatched.append(golfer)
             continue
 
         key, confidence, _ = match
         owner_map[key] = owner
 
-    output = []
+    if unmatched:
+        print("WARNING: could not confidently match these owned golfers to the ESPN field:")
+        for g in unmatched:
+            print(f"  - {g}")
+        print()
+
+    players = []
 
     for key, espn in choices.items():
-        output.append({
+        players.append({
             "position": espn["position"],
             "score": espn["score"],
             "score_num": espn["score_num"],
@@ -162,7 +187,7 @@ def main():
             "order": espn["order"],
         })
 
-    output.sort(
+    players.sort(
         key=lambda r: (
             r["score_num"],
             r["order"]
@@ -172,7 +197,7 @@ def main():
     print(f"{'POS':4} {'SCORE':>6} {'THRU':>6}  {'GOLFER':25} OWNER")
     print("-" * 90)
 
-    for r in output:
+    for r in players:
         print(
             f"{r['position']:4} "
             f"{r['score']:>6} "
@@ -180,6 +205,13 @@ def main():
             f"{r['golfer'][:25]:25} "
             f"{r['owner']}"
         )
+
+    output = {
+        "event_name": CONFIG.get("event_name", ""),
+        "page_title": CONFIG.get("page_title", CONFIG.get("event_name", "")),
+        "generated_at": datetime.now(ZoneInfo("Europe/Dublin")).isoformat(),
+        "players": players,
+    }
 
     OUT.write_text(
         json.dumps(output, indent=2),
