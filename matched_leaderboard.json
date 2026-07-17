@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:18:06.969486+01:00",
+  "generated_at": "2026-07-17T17:19:06.870957+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -745,7 +745,7 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T51",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -928,16 +928,6 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
-      "golfer": "Josele Ballester",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 93
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
       "thru": "12",
       "golfer": "Travis Smyth",
       "owner": "",
@@ -1045,7 +1035,17 @@
       "order": 111
     },
     {
-      "position": "T105",
+      "position": "T104",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "14",
+      "golfer": "Josele Ballester",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 93
+    },
+    {
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1055,7 +1055,7 @@
       "order": 95
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1075,7 +1075,7 @@
       "order": 106
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1085,7 +1085,7 @@
       "order": 107
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
