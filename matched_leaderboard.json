@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:11:07.124665+01:00",
+  "generated_at": "2026-07-17T12:12:07.303825+01:00",
   "has_redraw": false,
   "players": [
     {
       "position": "1",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "11",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "12",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
@@ -1539,20 +1539,20 @@
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
-      "golfer": "Austen Truslow",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 155
-    },
-    {
-      "position": "155",
-      "score": "+9",
-      "score_num": 9,
-      "thru": "CUT",
       "golfer": "Padraig Harrington",
       "owner": "",
       "owner_redraw": "",
       "order": 154
+    },
+    {
+      "position": "T152",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Austen Truslow",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 155
     },
     {
       "position": "156",
