@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:01:06.391072+01:00",
+  "generated_at": "2026-07-17T11:02:07.164813+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -198,16 +198,6 @@
       "position": "T19",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "",
-      "order": 20
-    },
-    {
-      "position": "T19",
-      "score": "-2",
-      "score_num": -2,
       "thru": "4",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
@@ -305,7 +295,17 @@
       "order": 30
     },
     {
-      "position": "T31",
+      "position": "T30",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "6",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 20
+    },
+    {
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -948,7 +948,7 @@
       "position": "T90",
       "score": "+2",
       "score_num": 2,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "",
@@ -1389,16 +1389,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Wyndham Clark",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 139
-    },
-    {
-      "position": "T139",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "James Nicholas",
       "owner": "",
       "owner_redraw": "",
@@ -1445,7 +1435,17 @@
       "order": 144
     },
     {
-      "position": "T145",
+      "position": "T144",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Wyndham Clark",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 139
+    },
+    {
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1455,7 +1455,7 @@
       "order": 145
     },
     {
-      "position": "T145",
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1465,7 +1465,7 @@
       "order": 146
     },
     {
-      "position": "T145",
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
