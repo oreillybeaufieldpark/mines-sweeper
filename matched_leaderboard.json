@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:28:06.551795+01:00",
+  "generated_at": "2026-07-17T17:29:06.581797+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -118,7 +118,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "",
