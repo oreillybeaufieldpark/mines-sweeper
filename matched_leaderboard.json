@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:32:07.071314+01:00",
+  "generated_at": "2026-07-17T14:33:07.164563+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T5",
       "score": "-4",
       "score_num": -4,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "",
@@ -968,7 +968,7 @@
       "position": "T87",
       "score": "+2",
       "score_num": 2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Tom McKibbin",
       "owner": "",
       "owner_redraw": "",
@@ -1138,7 +1138,7 @@
       "position": "T103",
       "score": "+3",
       "score_num": 3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Lev Grinberg",
       "owner": "",
       "owner_redraw": "",
