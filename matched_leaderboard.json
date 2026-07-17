@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:38:07.077778+01:00",
+  "generated_at": "2026-07-17T16:39:06.836647+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -658,7 +658,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "",
@@ -1008,7 +1008,7 @@
       "position": "T82",
       "score": "+2",
       "score_num": 2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Thomas Sloman",
       "owner": "",
       "owner_redraw": "",
