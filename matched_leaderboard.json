@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:30:07.064171+01:00",
+  "generated_at": "2026-07-17T16:31:07.254706+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -468,7 +468,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
@@ -1455,7 +1455,17 @@
       "order": 145
     },
     {
-      "position": "T145",
+      "position": "T140",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Scott Vincent",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 148
+    },
+    {
+      "position": "T146",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1465,7 +1475,7 @@
       "order": 141
     },
     {
-      "position": "T145",
+      "position": "T146",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1473,16 +1483,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 146
-    },
-    {
-      "position": "T145",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "Scott Vincent",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 148
     },
     {
       "position": "T148",
