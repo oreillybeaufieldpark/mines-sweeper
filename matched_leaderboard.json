@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:10:06.989246+01:00",
+  "generated_at": "2026-07-17T11:11:06.731907+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1288,7 +1288,7 @@
       "position": "T127",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Joaqu\u00edn Niemann",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -1489,16 +1489,6 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
-      "golfer": "Adrien Saddier",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 149
-    },
-    {
-      "position": "T148",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
       "golfer": "Matthew Jordan",
       "owner": "",
       "owner_redraw": "",
@@ -1525,7 +1515,17 @@
       "order": 152
     },
     {
-      "position": "153",
+      "position": "T152",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Adrien Saddier",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 149
+    },
+    {
+      "position": "T152",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
