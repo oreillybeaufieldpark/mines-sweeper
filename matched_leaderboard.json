@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:59:06.875243+01:00",
+  "generated_at": "2026-07-17T12:00:06.949798+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T2",
       "score": "-5",
       "score_num": -5,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "",
@@ -455,7 +455,17 @@
       "order": 49
     },
     {
-      "position": "T46",
+      "position": "T31",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "Patrick Cantlay",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 55
+    },
+    {
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -465,7 +475,7 @@
       "order": 45
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -475,7 +485,7 @@
       "order": 46
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -485,7 +495,7 @@
       "order": 47
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -495,7 +505,7 @@
       "order": 48
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -545,17 +555,7 @@
       "order": 54
     },
     {
-      "position": "T46",
-      "score": "E",
-      "score_num": 0,
-      "thru": "4",
-      "golfer": "Patrick Cantlay",
-      "owner": "Donal Brogan",
-      "owner_redraw": "",
-      "order": 55
-    },
-    {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11:52",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -1485,9 +1485,9 @@
       "order": 148
     },
     {
-      "position": "T149",
-      "score": "+7",
-      "score_num": 7,
+      "position": "T144",
+      "score": "+6",
+      "score_num": 6,
       "thru": "CUT",
       "golfer": "Daniel Berger",
       "owner": "",
@@ -1495,7 +1495,7 @@
       "order": 149
     },
     {
-      "position": "T149",
+      "position": "T150",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1505,7 +1505,7 @@
       "order": 150
     },
     {
-      "position": "T149",
+      "position": "T150",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
