@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:07:07.167983+01:00",
+  "generated_at": "2026-07-17T20:08:07.297230+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1048,7 +1048,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
       "owner_redraw": "",
