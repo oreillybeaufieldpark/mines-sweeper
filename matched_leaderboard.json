@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:51:06.512503+01:00",
+  "generated_at": "2026-07-17T19:52:06.440785+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1265,6 +1265,16 @@
       "order": 126
     },
     {
+      "position": "T122",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Jordan Spieth",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 132
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1275,7 +1285,7 @@
       "order": 156
     },
     {
-      "position": "T127",
+      "position": "T128",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1285,7 +1295,7 @@
       "order": 127
     },
     {
-      "position": "T127",
+      "position": "T128",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1295,7 +1305,7 @@
       "order": 128
     },
     {
-      "position": "T127",
+      "position": "T128",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1305,7 +1315,7 @@
       "order": 129
     },
     {
-      "position": "T127",
+      "position": "T128",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1315,7 +1325,7 @@
       "order": 130
     },
     {
-      "position": "T127",
+      "position": "T128",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1323,16 +1333,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 131
-    },
-    {
-      "position": "T127",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Jordan Spieth",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 132
     },
     {
       "position": "T133",
