@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:58:06.980104+01:00",
+  "generated_at": "2026-07-17T18:59:07.027635+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -998,16 +998,6 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "10",
-      "golfer": "Thomas Sloman",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 99
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
       "thru": "11",
       "golfer": "David Howard",
       "owner": "",
@@ -1015,7 +1005,17 @@
       "order": 106
     },
     {
-      "position": "T102",
+      "position": "T101",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "11",
+      "golfer": "Thomas Sloman",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 99
+    },
+    {
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 100
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 101
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 102
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 103
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 104
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
@@ -1075,7 +1075,7 @@
       "order": 105
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1085,7 +1085,7 @@
       "order": 107
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "9",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T102",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "9",
@@ -1218,14 +1218,24 @@
       "position": "T111",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Jordan Spieth",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
       "order": 121
     },
     {
-      "position": "T123",
+      "position": "T111",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "14",
+      "golfer": "Jason Day",
+      "owner": "Stephen Walker",
+      "owner_redraw": "",
+      "order": 127
+    },
+    {
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 123
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1255,7 @@
       "order": 124
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1265,7 @@
       "order": 125
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1263,16 +1273,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 126
-    },
-    {
-      "position": "T123",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Jason Day",
-      "owner": "Stephen Walker",
-      "owner_redraw": "",
-      "order": 127
     },
     {
       "position": "-",
