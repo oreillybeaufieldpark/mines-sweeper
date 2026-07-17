@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:18:06.712718+01:00",
+  "generated_at": "2026-07-17T10:19:06.673527+01:00",
   "players": [
     {
       "position": "T1",
@@ -169,7 +169,7 @@
       "position": "T17",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "order": 19
@@ -1142,15 +1142,6 @@
       "score": "+4",
       "score_num": 4,
       "thru": "14",
-      "golfer": "Tiger Christensen",
-      "owner": "",
-      "order": 127
-    },
-    {
-      "position": "T127",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "13",
       "golfer": "Max Greyserman",
       "owner": "",
       "order": 128
@@ -1159,7 +1150,7 @@
       "position": "T127",
       "score": "+4",
       "score_num": 4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Darren Clarke",
       "owner": "",
       "order": 129
@@ -1237,13 +1228,22 @@
       "order": 137
     },
     {
+      "position": "T127",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "11",
+      "golfer": "Joaqu\u00edn Niemann",
+      "owner": "Igor Fleming",
+      "order": 138
+    },
+    {
       "position": "T138",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Joaqu\u00edn Niemann",
-      "owner": "Igor Fleming",
-      "order": 138
+      "golfer": "Tiger Christensen",
+      "owner": "",
+      "order": 127
     },
     {
       "position": "T138",
