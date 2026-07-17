@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:53:06.527164+01:00",
+  "generated_at": "2026-07-17T15:54:06.312514+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -498,7 +498,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "",
@@ -525,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -615,10 +615,10 @@
       "order": 60
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "",
@@ -1198,7 +1198,7 @@
       "position": "T114",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "15",
       "golfer": "Nevill Ruiter",
       "owner": "",
       "owner_redraw": "",
@@ -1248,16 +1248,6 @@
       "position": "T114",
       "score": "+4",
       "score_num": 4,
-      "thru": "15:37",
-      "golfer": "David Puig",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 124
-    },
-    {
-      "position": "T114",
-      "score": "+4",
-      "score_num": 4,
       "thru": "15:48",
       "golfer": "David Howard",
       "owner": "",
@@ -1265,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1275,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1285,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1295,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1305,7 +1295,7 @@
       "order": 130
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1315,7 +1305,7 @@
       "order": 131
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1325,7 +1315,7 @@
       "order": 132
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1335,7 +1325,7 @@
       "order": 133
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1355,7 +1345,17 @@
       "order": 156
     },
     {
-      "position": "T135",
+      "position": "T134",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "David Puig",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 135
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 136
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 137
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 139
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 141
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
