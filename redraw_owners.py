@@ -16,8 +16,10 @@ STILL_PLAYING = {"STATUS_IN_PROGRESS", "STATUS_SCHEDULED"}
 
 def main():
     owners_df = pd.read_csv(OWNERS_FILE).dropna(subset=["Golfer"])
-    owner_slots = [str(o).strip() for o in owners_df["Owner"]]
-    top_n = len(owner_slots)
+    # Preserve first-seen order rather than sorting, just for stable,
+    # readable tier printouts; the actual pairing is randomized below.
+    owners = list(dict.fromkeys(str(o).strip() for o in owners_df["Owner"]))
+    n_owners = len(owners)
 
     espn_rows = load_espn_players(EVENT_ID, LEAGUE)
 
@@ -32,32 +34,47 @@ def main():
     made_cut = [r for r in espn_rows if r["status_type"] != "STATUS_CUT"]
     made_cut.sort(key=lambda r: (r["score_num"], r["order"]))
 
-    print(f"{len(made_cut)} of {len(espn_rows)} players made the cut (per ESPN's own cut status)\n")
+    print(f"{len(made_cut)} of {len(espn_rows)} players made the cut (per ESPN's own cut status)")
 
-    if len(made_cut) < top_n:
+    per_owner = len(made_cut) // n_owners
+    if per_owner < 1:
         raise SystemExit(
-            f"Only {len(made_cut)} players made the cut, need {top_n}."
+            f"Only {len(made_cut)} players made the cut, not enough for "
+            f"{n_owners} owners to get even one each."
         )
 
-    field = made_cut[:top_n]
-    golfers = [r["espn_name"] for r in field]
+    total_drawn = per_owner * n_owners
+    left_out = len(made_cut) - total_drawn
+    print(
+        f"{n_owners} owners x {per_owner} each = {total_drawn} players drawn "
+        f"({left_out} lowest-ranked left out to divide evenly)\n"
+    )
 
-    random.shuffle(golfers)
-    random.shuffle(owner_slots)
+    field = made_cut[:total_drawn]
 
-    pairs = list(zip(golfers, owner_slots))
-    pairs.sort(key=lambda p: p[0])
+    # Draw in ranked tiers of n_owners (top n_owners, then next n_owners,
+    # ...) so every owner gets exactly one player from each skill tier,
+    # with the pairing within each tier randomized independently.
+    pairs = []
+    for tier_num, start in enumerate(range(0, total_drawn, n_owners), start=1):
+        tier = field[start:start + n_owners]
+        tier_golfers = [r["espn_name"] for r in tier]
+        tier_owners = owners.copy()
+        random.shuffle(tier_golfers)
+        random.shuffle(tier_owners)
+
+        tier_pairs = list(zip(tier_golfers, tier_owners))
+        pairs.extend(tier_pairs)
+
+        print(f"Tier {tier_num} (ranks {start + 1}-{start + len(tier)}):")
+        for golfer, owner in sorted(tier_pairs, key=lambda p: p[1]):
+            print(f"  {golfer[:25]:25} {owner}")
+        print()
 
     out_df = pd.DataFrame(pairs, columns=["Golfer", "Owner"])
     out_df.to_csv(REDRAW_FILE, index=False)
 
-    print(f"Top {top_n} players who made the cut, randomly redrawn to owners:\n")
-    print(f"{'GOLFER':25} OWNER")
-    print("-" * 50)
-    for golfer, owner in sorted(pairs, key=lambda p: p[1]):
-        print(f"{golfer[:25]:25} {owner}")
-
-    print(f"\nWrote {REDRAW_FILE}")
+    print(f"Wrote {REDRAW_FILE}")
 
 if __name__ == "__main__":
     main()
