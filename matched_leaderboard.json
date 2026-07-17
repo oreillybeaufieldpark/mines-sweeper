@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:47:07.096676+01:00",
+  "generated_at": "2026-07-17T11:48:06.988225+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -778,7 +778,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
