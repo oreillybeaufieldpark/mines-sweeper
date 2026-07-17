@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:06:06.878204+01:00",
+  "generated_at": "2026-07-17T19:07:06.533617+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -675,7 +675,17 @@
       "order": 76
     },
     {
-      "position": "T68",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Kazuma Kobori",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 77
+    },
+    {
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -745,7 +755,7 @@
       "order": 73
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -755,7 +765,7 @@
       "order": 74
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -765,17 +775,7 @@
       "order": 75
     },
     {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "11",
-      "golfer": "Kazuma Kobori",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 77
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -988,7 +988,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "David Howard",
       "owner": "",
       "owner_redraw": "",
@@ -1008,7 +1008,7 @@
       "position": "T100",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Thomas Sloman",
       "owner": "",
       "owner_redraw": "",
