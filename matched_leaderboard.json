@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:33:07.363081+01:00",
+  "generated_at": "2026-07-17T12:34:07.297906+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -325,7 +325,17 @@
       "order": 32
     },
     {
-      "position": "T33",
+      "position": "T20",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "12",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 39
+    },
+    {
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -365,17 +375,17 @@
       "order": 36
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "",
       "order": 37
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -385,17 +395,7 @@
       "order": 38
     },
     {
-      "position": "T33",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "11",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "",
-      "order": 39
-    },
-    {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "12:25",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
