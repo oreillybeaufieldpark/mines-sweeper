@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:19:07.155187+01:00",
+  "generated_at": "2026-07-17T16:20:07.295868+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T5",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -355,7 +355,17 @@
       "order": 35
     },
     {
-      "position": "T36",
+      "position": "T22",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "3",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "",
+      "order": 49
+    },
+    {
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -475,20 +485,10 @@
       "order": 48
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
-      "owner_redraw": "",
-      "order": 49
-    },
-    {
-      "position": "T36",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "15:59",
+      "thru": "1",
       "golfer": "Antoine Rozner",
       "owner": "",
       "owner_redraw": "",
@@ -1435,7 +1435,7 @@
       "order": 142
     },
     {
-      "position": "T141",
+      "position": "T142",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 143
     },
     {
-      "position": "T141",
+      "position": "T142",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
