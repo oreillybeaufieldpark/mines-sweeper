@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:53:07.513873+01:00",
+  "generated_at": "2026-07-17T10:54:06.611247+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T3",
       "score": "-4",
       "score_num": -4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "",
@@ -295,7 +295,17 @@
       "order": 29
     },
     {
-      "position": "T30",
+      "position": "T19",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "6",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "",
+      "order": 34
+    },
+    {
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -305,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -335,27 +345,17 @@
       "order": 33
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "",
-      "order": 34
-    },
-    {
-      "position": "T30",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "",
       "order": 35
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -488,7 +488,7 @@
       "position": "T43",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
@@ -698,7 +698,7 @@
       "position": "T64",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "J.T. Poston",
       "owner": "",
       "owner_redraw": "",
@@ -1148,7 +1148,7 @@
       "position": "T109",
       "score": "+3",
       "score_num": 3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Tim Wiedemeyer",
       "owner": "",
       "owner_redraw": "",
