@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:46:06.715008+01:00",
+  "generated_at": "2026-07-17T20:47:06.446683+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -375,17 +375,17 @@
       "order": 37
     },
     {
-      "position": "T25",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "17",
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "F",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "",
       "order": 38
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -758,7 +758,7 @@
       "position": "T66",
       "score": "+1",
       "score_num": 1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
@@ -1208,7 +1208,7 @@
       "position": "T108",
       "score": "+4",
       "score_num": 4,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Frederic LaCroix",
       "owner": "",
       "owner_redraw": "",
@@ -1218,7 +1218,7 @@
       "position": "T108",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Alejandro de Castro Piera",
       "owner": "",
       "owner_redraw": "",
