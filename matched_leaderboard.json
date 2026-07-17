@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:30:06.442277+01:00",
+  "generated_at": "2026-07-17T19:31:06.481809+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,17 +458,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
-      "golfer": "Alex Smalley",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 46
-    },
-    {
-      "position": "T37",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -495,7 +485,17 @@
       "order": 49
     },
     {
-      "position": "T50",
+      "position": "T49",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Alex Smalley",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 46
+    },
+    {
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -655,17 +655,17 @@
       "order": 65
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "",
       "order": 66
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -1108,7 +1108,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
