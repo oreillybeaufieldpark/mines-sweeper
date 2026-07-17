@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:19:06.811589+01:00",
+  "generated_at": "2026-07-17T12:20:06.818621+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -598,7 +598,7 @@
       "position": "T48",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
@@ -1108,7 +1108,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Tim Wiedemeyer",
       "owner": "",
       "owner_redraw": "",
@@ -1208,7 +1208,7 @@
       "position": "T120",
       "score": "+4",
       "score_num": 4,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Darren Clarke",
       "owner": "",
       "owner_redraw": "",
