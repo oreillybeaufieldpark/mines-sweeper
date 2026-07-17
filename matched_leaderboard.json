@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:58:07.301556+01:00",
+  "generated_at": "2026-07-17T20:59:07.389136+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -778,7 +778,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
