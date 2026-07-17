@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:20:06.818621+01:00",
+  "generated_at": "2026-07-17T12:21:08.036044+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T2",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -228,7 +228,7 @@
       "position": "T18",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "",
@@ -1258,7 +1258,7 @@
       "position": "T120",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Nicolai H\u00f8jgaard",
       "owner": "Donal Maher",
       "owner_redraw": "",
