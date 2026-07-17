@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:17:07.233851+01:00",
+  "generated_at": "2026-07-17T15:18:06.170941+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -318,7 +318,7 @@
       "position": "T22",
       "score": "-2",
       "score_num": -2,
-      "thru": "15:04",
+      "thru": "1",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -658,7 +658,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
