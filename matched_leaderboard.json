@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:32:06.713544+01:00",
+  "generated_at": "2026-07-17T19:33:06.629389+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -485,7 +485,17 @@
       "order": 49
     },
     {
-      "position": "T49",
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "17",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "",
+      "order": 64
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +505,7 @@
       "order": 46
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -635,17 +645,7 @@
       "order": 63
     },
     {
-      "position": "T49",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "",
-      "order": 64
-    },
-    {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -968,7 +968,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "",
