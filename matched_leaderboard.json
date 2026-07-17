@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:13:06.562085+01:00",
+  "generated_at": "2026-07-17T10:14:06.476225+01:00",
   "players": [
     {
       "position": "T1",
@@ -364,7 +364,16 @@
       "order": 39
     },
     {
-      "position": "T41",
+      "position": "T29",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "3",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "order": 49
+    },
+    {
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -373,7 +382,7 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -382,7 +391,7 @@
       "order": 42
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -391,7 +400,7 @@
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -400,7 +409,7 @@
       "order": 44
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -409,7 +418,7 @@
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -418,7 +427,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -427,7 +436,7 @@
       "order": 47
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -436,16 +445,7 @@
       "order": 48
     },
     {
-      "position": "T41",
-      "score": "E",
-      "score_num": 0,
-      "thru": "2",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "order": 49
-    },
-    {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "11:52",
@@ -454,7 +454,7 @@
       "order": 50
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -463,7 +463,7 @@
       "order": 51
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -472,7 +472,7 @@
       "order": 52
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -481,7 +481,7 @@
       "order": 53
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -490,7 +490,7 @@
       "order": 54
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -499,7 +499,7 @@
       "order": 55
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -508,7 +508,7 @@
       "order": 56
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -517,7 +517,7 @@
       "order": 57
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -526,7 +526,7 @@
       "order": 58
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -535,7 +535,7 @@
       "order": 59
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "10:20",
@@ -544,7 +544,7 @@
       "order": 60
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "10:53",
@@ -553,7 +553,7 @@
       "order": 61
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "11:04",
@@ -562,7 +562,7 @@
       "order": 62
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -571,7 +571,7 @@
       "order": 64
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "E",
       "score_num": 0,
       "thru": "8",
