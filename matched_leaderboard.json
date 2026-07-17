@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:02:07.272193+01:00",
+  "generated_at": "2026-07-17T19:03:07.127766+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -468,7 +468,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -1198,7 +1198,7 @@
       "position": "T111",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
       "owner_redraw": "",
@@ -1208,7 +1208,7 @@
       "position": "T111",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Viktor Hovland",
       "owner": "Donal Brogan",
       "owner_redraw": "",
