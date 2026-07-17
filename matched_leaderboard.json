@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:40:07.287324+01:00",
+  "generated_at": "2026-07-17T14:41:07.164544+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -378,7 +378,7 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -388,7 +388,7 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
@@ -515,7 +515,7 @@
       "order": 62
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -715,7 +715,17 @@
       "order": 71
     },
     {
-      "position": "T72",
+      "position": "T52",
+      "score": "E",
+      "score_num": 0,
+      "thru": "17",
+      "golfer": "Brooks Koepka",
+      "owner": "Dave Smyth",
+      "owner_redraw": "",
+      "order": 75
+    },
+    {
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,27 +745,17 @@
       "order": 73
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
       "order": 74
     },
     {
-      "position": "T72",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "16",
-      "golfer": "Brooks Koepka",
-      "owner": "Dave Smyth",
-      "owner_redraw": "",
-      "order": 75
-    },
-    {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -765,7 +765,7 @@
       "order": 76
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -775,7 +775,7 @@
       "order": 77
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -785,7 +785,7 @@
       "order": 78
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -795,7 +795,7 @@
       "order": 79
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -805,7 +805,7 @@
       "order": 80
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -815,7 +815,7 @@
       "order": 82
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -825,7 +825,7 @@
       "order": 83
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -835,7 +835,7 @@
       "order": 84
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -845,7 +845,7 @@
       "order": 85
     },
     {
-      "position": "T72",
+      "position": "T73",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -988,7 +988,7 @@
       "position": "T86",
       "score": "+2",
       "score_num": 2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "",
@@ -1228,21 +1228,11 @@
       "position": "T118",
       "score": "+4",
       "score_num": 4,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Matt Fitzpatrick",
       "owner": "Michael Murray",
       "owner_redraw": "",
       "order": 123
-    },
-    {
-      "position": "T118",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "14",
-      "golfer": "Tim Wiedemeyer",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 124
     },
     {
       "position": "T118",
@@ -1315,7 +1305,17 @@
       "order": 131
     },
     {
-      "position": "T132",
+      "position": "T131",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Tim Wiedemeyer",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1325,7 +1325,7 @@
       "order": 132
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1335,7 +1335,7 @@
       "order": 133
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1345,7 +1345,7 @@
       "order": 134
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 135
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 136
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 137
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 138
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 139
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1555,9 +1555,9 @@
       "order": 154
     },
     {
-      "position": "T152",
-      "score": "+10",
-      "score_num": 10,
+      "position": "155",
+      "score": "+11",
+      "score_num": 11,
       "thru": "CUT",
       "golfer": "Fifa Laopakdee",
       "owner": "",
