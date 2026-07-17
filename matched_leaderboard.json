@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:13:06.831232+01:00",
+  "generated_at": "2026-07-17T13:14:06.747402+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -248,7 +248,7 @@
       "position": "T18",
       "score": "-2",
       "score_num": -2,
-      "thru": "12:58",
+      "thru": "1",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "",
@@ -568,7 +568,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "",
@@ -608,7 +608,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "7",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "",
@@ -748,16 +748,6 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 76
-    },
-    {
-      "position": "T70",
-      "score": "+1",
-      "score_num": 1,
       "thru": "5",
       "golfer": "Ryan Fox",
       "owner": "",
@@ -778,7 +768,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "12:58",
+      "thru": "1",
       "golfer": "Jake Knapp",
       "owner": "",
       "owner_redraw": "",
@@ -915,7 +905,7 @@
       "order": 106
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +915,17 @@
       "order": 71
     },
     {
-      "position": "T92",
+      "position": "T91",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "7",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 76
+    },
+    {
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -935,7 +935,7 @@
       "order": 77
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,7 +945,7 @@
       "order": 92
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -955,7 +955,7 @@
       "order": 93
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -965,7 +965,7 @@
       "order": 94
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
@@ -975,7 +975,7 @@
       "order": 96
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -985,7 +985,7 @@
       "order": 97
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -995,7 +995,7 @@
       "order": 99
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -1005,17 +1005,17 @@
       "order": 100
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Bard Bjornevik Skogen",
       "owner": "",
       "owner_redraw": "",
       "order": 101
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "5",
@@ -1025,7 +1025,7 @@
       "order": 102
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "3",
@@ -1035,7 +1035,7 @@
       "order": 104
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "13:31",
@@ -1045,7 +1045,7 @@
       "order": 107
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "13:53",
@@ -1055,7 +1055,7 @@
       "order": 108
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "14:31",
@@ -1065,7 +1065,7 @@
       "order": 109
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1075,7 +1075,7 @@
       "order": 110
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
@@ -1085,7 +1085,7 @@
       "order": 111
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -1095,7 +1095,7 @@
       "order": 115
     },
     {
-      "position": "T92",
+      "position": "T91",
       "score": "+2",
       "score_num": 2,
       "thru": "11",
