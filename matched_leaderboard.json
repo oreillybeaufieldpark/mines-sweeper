@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:58:07.015848+01:00",
+  "generated_at": "2026-07-17T14:59:07.079658+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -215,7 +215,17 @@
       "order": 21
     },
     {
-      "position": "T22",
+      "position": "T10",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Shane Lowry",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 29
+    },
+    {
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -225,7 +235,7 @@
       "order": 22
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 24
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 25
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -265,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -275,7 +285,7 @@
       "order": 27
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -285,17 +295,7 @@
       "order": 28
     },
     {
-      "position": "T22",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "17",
-      "golfer": "Shane Lowry",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 29
-    },
-    {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "11",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -428,7 +428,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
@@ -1088,16 +1088,6 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
-      "thru": "8",
-      "golfer": "David Duval",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 110
-    },
-    {
-      "position": "T102",
-      "score": "+3",
-      "score_num": 3,
       "thru": "2",
       "golfer": "Kota Kaneko",
       "owner": "",
@@ -1148,6 +1138,16 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
+      "thru": "9",
+      "golfer": "Martin Couvra",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 126
+    },
+    {
+      "position": "T102",
+      "score": "+3",
+      "score_num": 3,
       "thru": "5",
       "golfer": "Angel Ayora",
       "owner": "",
@@ -1163,6 +1163,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 106
+    },
+    {
+      "position": "T116",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "9",
+      "golfer": "David Duval",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 110
     },
     {
       "position": "T116",
@@ -1263,16 +1273,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 125
-    },
-    {
-      "position": "T116",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "8",
-      "golfer": "Martin Couvra",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 126
     },
     {
       "position": "T116",
