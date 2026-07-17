@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:56:06.833147+01:00",
+  "generated_at": "2026-07-17T20:57:06.843540+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -655,7 +655,17 @@
       "order": 65
     },
     {
-      "position": "T66",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "16",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 78
+    },
+    {
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -665,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -675,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -755,7 +765,7 @@
       "order": 75
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -765,7 +775,7 @@
       "order": 76
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -773,16 +783,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 77
-    },
-    {
-      "position": "T66",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "14",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 78
     },
     {
       "position": "T79",
