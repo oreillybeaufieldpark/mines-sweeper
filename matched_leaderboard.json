@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:29:06.352237+01:00",
+  "generated_at": "2026-07-17T19:30:06.442277+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T4",
       "score": "-5",
       "score_num": -5,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "",
@@ -118,7 +118,7 @@
       "position": "T6",
       "score": "-4",
       "score_num": -4,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -675,7 +675,17 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 78
+    },
+    {
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -755,17 +765,7 @@
       "order": 75
     },
     {
-      "position": "T79",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "F",
-      "golfer": "Sam Stevens",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 76
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -775,17 +775,7 @@
       "order": 77
     },
     {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "11",
-      "golfer": "Jack McDonald",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 78
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -793,6 +783,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 79
+    },
+    {
+      "position": "T79",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Sam Stevens",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 76
     },
     {
       "position": "T79",
@@ -1088,7 +1088,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Frederic LaCroix",
       "owner": "",
       "owner_redraw": "",
