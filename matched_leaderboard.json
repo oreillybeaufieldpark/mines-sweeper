@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:25:06.571159+01:00",
+  "generated_at": "2026-07-17T17:26:06.642567+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -355,7 +355,17 @@
       "order": 35
     },
     {
-      "position": "T36",
+      "position": "T23",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 43
+    },
+    {
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,17 +435,7 @@
       "order": 42
     },
     {
-      "position": "T36",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 43
-    },
-    {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -948,7 +948,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "",
@@ -1218,7 +1218,17 @@
       "position": "T109",
       "score": "+4",
       "score_num": 4,
-      "thru": "8",
+      "thru": "5",
+      "golfer": "Caleb Surratt",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 127
+    },
+    {
+      "position": "T123",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
       "golfer": "Jason Day",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -1263,16 +1273,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 126
-    },
-    {
-      "position": "T123",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Caleb Surratt",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 127
     },
     {
       "position": "T123",
@@ -1365,9 +1365,9 @@
       "order": 135
     },
     {
-      "position": "T129",
-      "score": "+6",
-      "score_num": 6,
+      "position": "T136",
+      "score": "+7",
+      "score_num": 7,
       "thru": "CUT",
       "golfer": "Brian Harman",
       "owner": "Simon Smyth",
@@ -1375,9 +1375,9 @@
       "order": 136
     },
     {
-      "position": "T129",
-      "score": "+6",
-      "score_num": 6,
+      "position": "T136",
+      "score": "+7",
+      "score_num": 7,
       "thru": "CUT",
       "golfer": "David Puig",
       "owner": "",
@@ -1385,7 +1385,7 @@
       "order": 137
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 139
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 141
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1435,7 +1435,7 @@
       "order": 143
     },
     {
-      "position": "T138",
+      "position": "T136",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1535,9 +1535,9 @@
       "order": 152
     },
     {
-      "position": "153",
-      "score": "+11",
-      "score_num": 11,
+      "position": "T150",
+      "score": "+10",
+      "score_num": 10,
       "thru": "CUT",
       "golfer": "Gary Woodland",
       "owner": "",
