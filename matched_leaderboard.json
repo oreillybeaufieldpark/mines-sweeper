@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:32:06.902563+01:00",
+  "generated_at": "2026-07-17T10:33:07.115227+01:00",
   "players": [
     {
       "position": "1",
@@ -592,7 +592,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Jesper Svensson",
       "owner": "",
       "order": 66
@@ -610,7 +610,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "order": 68
@@ -1087,7 +1087,7 @@
       "position": "T111",
       "score": "+3",
       "score_num": 3,
-      "thru": "10:20",
+      "thru": "1",
       "golfer": "Tim Wiedemeyer",
       "owner": "",
       "order": 121
