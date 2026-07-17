@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:20:07.211422+01:00",
+  "generated_at": "2026-07-17T15:21:07.329459+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "15:04",
+      "thru": "1",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "",
@@ -448,7 +448,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
@@ -648,7 +648,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
@@ -825,7 +825,17 @@
       "order": 82
     },
     {
-      "position": "T83",
+      "position": "T71",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "8",
+      "golfer": "Tom McKibbin",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 95
+    },
+    {
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -835,7 +845,7 @@
       "order": 83
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -845,7 +855,7 @@
       "order": 84
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -855,7 +865,7 @@
       "order": 85
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -865,7 +875,7 @@
       "order": 86
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -875,7 +885,7 @@
       "order": 87
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -885,7 +895,7 @@
       "order": 88
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -895,7 +905,7 @@
       "order": 89
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -905,7 +915,7 @@
       "order": 90
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -915,7 +925,7 @@
       "order": 91
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +935,7 @@
       "order": 92
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -935,7 +945,7 @@
       "order": 93
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -945,17 +955,7 @@
       "order": 94
     },
     {
-      "position": "T83",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "7",
-      "golfer": "Tom McKibbin",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 95
-    },
-    {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "7",
@@ -965,7 +965,7 @@
       "order": 96
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "3",
@@ -975,7 +975,7 @@
       "order": 97
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -985,7 +985,7 @@
       "order": 98
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -995,7 +995,7 @@
       "order": 99
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -1005,7 +1005,7 @@
       "order": 100
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1015,7 +1015,7 @@
       "order": 101
     },
     {
-      "position": "T83",
+      "position": "T84",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
