@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:19:06.870957+01:00",
+  "generated_at": "2026-07-17T17:20:06.654388+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -628,7 +628,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -668,6 +668,16 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
+      "thru": "14",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 74
+    },
+    {
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
       "thru": "8",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
@@ -675,7 +685,7 @@
       "order": 77
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 66
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -745,17 +755,7 @@
       "order": 72
     },
     {
-      "position": "T51",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "13",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 74
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -765,17 +765,17 @@
       "order": 75
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "",
       "order": 76
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
