@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:28:06.807974+01:00",
+  "generated_at": "2026-07-17T14:29:06.805757+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T3",
       "score": "-5",
       "score_num": -5,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "",
@@ -113,16 +113,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 10
-    },
-    {
-      "position": "T11",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "17",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "",
-      "order": 11
     },
     {
       "position": "T11",
@@ -235,7 +225,17 @@
       "order": 31
     },
     {
-      "position": "T24",
+      "position": "T23",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "F",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "",
+      "order": 11
+    },
+    {
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 23
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 24
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 25
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -275,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -285,7 +285,7 @@
       "order": 27
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -295,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -305,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -315,7 +315,7 @@
       "order": 32
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -325,7 +325,7 @@
       "order": 33
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -335,7 +335,7 @@
       "order": 34
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -788,7 +788,7 @@
       "position": "T72",
       "score": "+1",
       "score_num": 1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
@@ -1118,7 +1118,7 @@
       "position": "T105",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Andrew Novak",
       "owner": "",
       "owner_redraw": "",
@@ -1268,7 +1268,7 @@
       "position": "T119",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Daniel Hillier",
       "owner": "",
       "owner_redraw": "",
