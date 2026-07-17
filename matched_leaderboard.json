@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:14:06.442172+01:00",
+  "generated_at": "2026-07-17T19:15:07.005059+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -675,7 +675,17 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T49",
+      "score": "E",
+      "score_num": 0,
+      "thru": "17",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 77
+    },
+    {
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -685,7 +695,7 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -755,7 +765,7 @@
       "order": 75
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -765,17 +775,7 @@
       "order": 76
     },
     {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "16",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 77
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -785,7 +785,17 @@
       "order": 78
     },
     {
-      "position": "T79",
+      "position": "T69",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "17",
+      "golfer": "Sam Stevens",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 95
+    },
+    {
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -795,7 +805,7 @@
       "order": 79
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -805,7 +815,7 @@
       "order": 80
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -815,7 +825,7 @@
       "order": 81
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -825,7 +835,7 @@
       "order": 82
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -835,7 +845,7 @@
       "order": 83
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -845,7 +855,7 @@
       "order": 84
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -855,7 +865,7 @@
       "order": 85
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -865,7 +875,7 @@
       "order": 86
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -875,7 +885,7 @@
       "order": 87
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -885,7 +895,7 @@
       "order": 88
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -895,7 +905,7 @@
       "order": 89
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -905,7 +915,7 @@
       "order": 90
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -915,7 +925,7 @@
       "order": 91
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +935,7 @@
       "order": 92
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -935,7 +945,7 @@
       "order": 93
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,17 +955,7 @@
       "order": 94
     },
     {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "16",
-      "golfer": "Sam Stevens",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 95
-    },
-    {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -965,7 +965,7 @@
       "order": 96
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -975,7 +975,7 @@
       "order": 97
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -985,7 +985,7 @@
       "order": 98
     },
     {
-      "position": "T79",
+      "position": "T80",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
