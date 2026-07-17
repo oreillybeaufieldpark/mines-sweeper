@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T21:51:06.475437+01:00",
+  "generated_at": "2026-07-17T21:52:06.390337+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -995,40 +995,40 @@
       "order": 99
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "15:48",
       "golfer": "David Howard",
       "owner": "",
       "owner_redraw": "",
       "order": 100
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "08:36",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
       "order": 101
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "09:58",
       "golfer": "Wyndham Clark",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
       "order": 102
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "07:08",
       "golfer": "Keith Mitchell",
       "owner": "",
       "owner_redraw": "",
@@ -1045,20 +1045,20 @@
       "order": 104
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "13:53",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
       "order": 105
     },
     {
-      "position": "T98",
+      "position": "-",
       "score": "+3",
       "score_num": 3,
-      "thru": "F",
+      "thru": "15:37",
       "golfer": "Maverick McNealy",
       "owner": "",
       "owner_redraw": "",
@@ -1105,30 +1105,30 @@
       "order": 110
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "13:31",
       "golfer": "Mateo Pulcini",
       "owner": "",
       "owner_redraw": "",
       "order": 111
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "11:04",
       "golfer": "Bard Bjornevik Skogen",
       "owner": "",
       "owner_redraw": "",
       "order": 112
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "14:53",
       "golfer": "Jason Day",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -1145,10 +1145,10 @@
       "order": 114
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "08:14",
       "golfer": "Michael Hollick",
       "owner": "",
       "owner_redraw": "",
@@ -1175,30 +1175,30 @@
       "order": 117
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "16:10",
       "golfer": "Frederic LaCroix",
       "owner": "",
       "owner_redraw": "",
       "order": 118
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "14:20",
       "golfer": "Akshay Bhatia",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
       "order": 119
     },
     {
-      "position": "T108",
+      "position": "-",
       "score": "+4",
       "score_num": 4,
-      "thru": "F",
+      "thru": "15:48",
       "golfer": "Thomas Sloman",
       "owner": "",
       "owner_redraw": "",
@@ -1215,7 +1215,7 @@
       "order": 121
     },
     {
-      "position": "T122",
+      "position": "-",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1225,7 @@
       "order": 122
     },
     {
-      "position": "T122",
+      "position": "-",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T122",
+      "position": "-",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T122",
+      "position": "-",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1275,7 +1275,7 @@
       "order": 126
     },
     {
-      "position": "T126",
+      "position": "-",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1285,7 +1285,7 @@
       "order": 127
     },
     {
-      "position": "T126",
+      "position": "-",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1295,7 +1295,7 @@
       "order": 128
     },
     {
-      "position": "T126",
+      "position": "-",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1305,7 +1305,7 @@
       "order": 129
     },
     {
-      "position": "T126",
+      "position": "-",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1325,7 +1325,7 @@
       "order": 131
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1335,7 +1335,7 @@
       "order": 132
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1345,7 +1345,7 @@
       "order": 133
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 134
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 136
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 137
     },
     {
-      "position": "T132",
+      "position": "-",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T139",
+      "position": "-",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 141
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1435,7 +1435,7 @@
       "order": 142
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 143
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1455,7 +1455,7 @@
       "order": 144
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1465,7 +1465,7 @@
       "order": 145
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 146
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1485,7 +1485,7 @@
       "order": 147
     },
     {
-      "position": "T141",
+      "position": "-",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1505,7 +1505,7 @@
       "order": 149
     },
     {
-      "position": "T149",
+      "position": "-",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1515,7 +1515,7 @@
       "order": 150
     },
     {
-      "position": "T149",
+      "position": "-",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1525,7 +1525,7 @@
       "order": 151
     },
     {
-      "position": "152",
+      "position": "-",
       "score": "+11",
       "score_num": 11,
       "thru": "CUT",
@@ -1535,7 +1535,7 @@
       "order": 152
     },
     {
-      "position": "153",
+      "position": "-",
       "score": "+13",
       "score_num": 13,
       "thru": "CUT",
