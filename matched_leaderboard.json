@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T21:44:06.390926+01:00",
+  "generated_at": "2026-07-17T21:45:06.816201+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1255,16 +1255,6 @@
       "order": 125
     },
     {
-      "position": "T122",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Alejandro de Castro Piera",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 126
-    },
-    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1275,7 +1265,17 @@
       "order": 156
     },
     {
-      "position": "T127",
+      "position": "T126",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Alejandro de Castro Piera",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 126
+    },
+    {
+      "position": "T126",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1285,7 +1285,7 @@
       "order": 127
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1295,7 +1295,7 @@
       "order": 128
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1305,7 +1305,7 @@
       "order": 129
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1315,7 +1315,7 @@
       "order": 130
     },
     {
-      "position": "T127",
+      "position": "T126",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
