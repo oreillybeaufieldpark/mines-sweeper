@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:55:06.980852+01:00",
+  "generated_at": "2026-07-17T16:56:07.219448+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T5",
       "score": "-4",
       "score_num": -4,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -188,16 +188,6 @@
       "position": "T13",
       "score": "-3",
       "score_num": -3,
-      "thru": "14",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 19
-    },
-    {
-      "position": "T13",
-      "score": "-3",
-      "score_num": -3,
       "thru": "13",
       "golfer": "Francesco Molinari",
       "owner": "",
@@ -245,7 +235,17 @@
       "order": 24
     },
     {
-      "position": "T25",
+      "position": "T24",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "15",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 19
+    },
+    {
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -728,7 +728,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "",
