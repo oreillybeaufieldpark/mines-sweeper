@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:57:06.864173+01:00",
+  "generated_at": "2026-07-17T10:58:06.765809+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -625,17 +625,7 @@
       "order": 71
     },
     {
-      "position": "T43",
-      "score": "E",
-      "score_num": 0,
-      "thru": "2",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 96
-    },
-    {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -645,17 +635,17 @@
       "order": 61
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "",
       "order": 64
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -665,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -675,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -685,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -695,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "6",
@@ -705,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -715,7 +705,7 @@
       "order": 72
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -725,7 +715,7 @@
       "order": 73
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "12:14",
@@ -735,7 +725,7 @@
       "order": 74
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "12:25",
@@ -745,7 +735,7 @@
       "order": 75
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "12:58",
@@ -755,7 +745,7 @@
       "order": 76
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -765,7 +755,7 @@
       "order": 77
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -775,7 +765,7 @@
       "order": 78
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "13:20",
@@ -785,7 +775,7 @@
       "order": 79
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "13:53",
@@ -795,7 +785,7 @@
       "order": 80
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "14:09",
@@ -805,7 +795,7 @@
       "order": 81
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -815,7 +805,7 @@
       "order": 82
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -825,7 +815,7 @@
       "order": 83
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -835,7 +825,7 @@
       "order": 84
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -845,7 +835,7 @@
       "order": 85
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -855,7 +845,7 @@
       "order": 86
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -865,7 +855,7 @@
       "order": 87
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -875,7 +865,7 @@
       "order": 88
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -883,6 +873,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 89
+    },
+    {
+      "position": "T63",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "2",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 96
     },
     {
       "position": "T89",
