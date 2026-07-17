@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:21:06.723884+01:00",
+  "generated_at": "2026-07-17T18:22:06.804710+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -918,7 +918,7 @@
       "position": "T77",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Tom McKibbin",
       "owner": "",
       "owner_redraw": "",
@@ -1178,7 +1178,7 @@
       "position": "T109",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
       "owner_redraw": "",
