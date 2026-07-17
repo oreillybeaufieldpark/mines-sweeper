@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:58:06.340618+01:00",
+  "generated_at": "2026-07-17T12:59:07.194781+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T3",
       "score": "-5",
       "score_num": -5,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "",
@@ -45,7 +45,17 @@
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "T3",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "14",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 7
+    },
+    {
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -55,7 +65,7 @@
       "order": 5
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -65,17 +75,7 @@
       "order": 6
     },
     {
-      "position": "T5",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "13",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 7
-    },
-    {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -85,7 +85,7 @@
       "order": 8
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -103,16 +103,6 @@
       "owner": "Igor Fleming",
       "owner_redraw": "",
       "order": 10
-    },
-    {
-      "position": "T11",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "14",
-      "golfer": "Johnny Keefer",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 12
     },
     {
       "position": "T11",
@@ -195,7 +185,7 @@
       "order": 42
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -205,7 +195,17 @@
       "order": 11
     },
     {
-      "position": "T20",
+      "position": "T19",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "15",
+      "golfer": "Johnny Keefer",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 12
+    },
+    {
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -215,7 +215,7 @@
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -225,7 +225,7 @@
       "order": 21
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -245,7 +245,7 @@
       "order": 25
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "12:58",
@@ -255,7 +255,7 @@
       "order": 26
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13:31",
@@ -265,7 +265,7 @@
       "order": 27
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13:42",
@@ -275,7 +275,7 @@
       "order": 28
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "14:09",
@@ -285,7 +285,7 @@
       "order": 29
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -295,7 +295,7 @@
       "order": 30
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -305,7 +305,7 @@
       "order": 31
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -315,7 +315,7 @@
       "order": 32
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -325,7 +325,7 @@
       "order": 37
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -908,6 +908,16 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
+      "thru": "16",
+      "golfer": "Billy Horschel",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 95
+    },
+    {
+      "position": "T70",
+      "score": "+1",
+      "score_num": 1,
       "thru": "4",
       "golfer": "Ryan Fox",
       "owner": "",
@@ -915,7 +925,7 @@
       "order": 101
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +935,7 @@
       "order": 91
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -935,7 +945,7 @@
       "order": 92
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,27 +955,17 @@
       "order": 93
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Mason Howell",
       "owner": "",
       "owner_redraw": "",
       "order": 94
     },
     {
-      "position": "T92",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "15",
-      "golfer": "Billy Horschel",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 95
-    },
-    {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "15",
@@ -975,7 +975,7 @@
       "order": 96
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -985,7 +985,7 @@
       "order": 97
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -995,7 +995,7 @@
       "order": 98
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -1005,7 +1005,7 @@
       "order": 99
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -1015,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -1025,7 +1025,7 @@
       "order": 102
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -1035,7 +1035,7 @@
       "order": 103
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "13:31",
@@ -1045,7 +1045,7 @@
       "order": 104
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "13:53",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "14:31",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -1095,7 +1095,7 @@
       "order": 115
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -1105,7 +1105,7 @@
       "order": 118
     },
     {
-      "position": "T92",
+      "position": "T93",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -1268,7 +1268,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "15",
+      "thru": "17",
       "golfer": "Michael Hollick",
       "owner": "",
       "owner_redraw": "",
@@ -1535,9 +1535,9 @@
       "order": 152
     },
     {
-      "position": "153",
-      "score": "+9",
-      "score_num": 9,
+      "position": "T150",
+      "score": "+8",
+      "score_num": 8,
       "thru": "CUT",
       "golfer": "Padraig Harrington",
       "owner": "",
