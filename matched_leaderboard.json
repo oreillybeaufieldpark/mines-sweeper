@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:07:07.386786+01:00",
+  "generated_at": "2026-07-17T13:08:06.378538+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -388,7 +388,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
@@ -398,7 +398,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -408,7 +408,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "",
@@ -1359,16 +1359,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Daniel Berger",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 136
-    },
-    {
-      "position": "T135",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Francesco Laporta",
       "owner": "",
       "owner_redraw": "",
@@ -1425,7 +1415,17 @@
       "order": 156
     },
     {
-      "position": "T142",
+      "position": "T141",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Daniel Berger",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 136
+    },
+    {
+      "position": "T141",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1435,7 +1435,7 @@
       "order": 138
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1455,7 +1455,7 @@
       "order": 145
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1535,7 +1535,7 @@
       "order": 153
     },
     {
-      "position": "153",
+      "position": "T153",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1545,7 +1545,17 @@
       "order": 140
     },
     {
-      "position": "T154",
+      "position": "T153",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Austen Truslow",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 155
+    },
+    {
+      "position": "155",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1553,16 +1563,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 154
-    },
-    {
-      "position": "T154",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Austen Truslow",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 155
     }
   ]
 }
