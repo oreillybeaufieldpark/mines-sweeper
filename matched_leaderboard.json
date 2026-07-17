@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:22:06.504286+01:00",
+  "generated_at": "2026-07-17T17:23:06.788948+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -448,7 +448,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -908,21 +908,11 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Henrik Stenson",
       "owner": "",
       "owner_redraw": "",
       "order": 91
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "14",
-      "golfer": "Tom McKibbin",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 92
     },
     {
       "position": "T79",
@@ -1025,7 +1015,17 @@
       "order": 102
     },
     {
-      "position": "T103",
+      "position": "T102",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "15",
+      "golfer": "Tom McKibbin",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 92
+    },
+    {
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 103
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 104
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T103",
+      "position": "T102",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1168,7 +1168,7 @@
       "position": "T110",
       "score": "+4",
       "score_num": 4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Joe Dean",
       "owner": "",
       "owner_redraw": "",
@@ -1429,16 +1429,6 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
-      "golfer": "Lev Grinberg",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 142
-    },
-    {
-      "position": "T138",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
       "golfer": "Kota Kaneko",
       "owner": "",
       "owner_redraw": "",
@@ -1455,7 +1445,17 @@
       "order": 144
     },
     {
-      "position": "145",
+      "position": "T144",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Lev Grinberg",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 142
+    },
+    {
+      "position": "T144",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
