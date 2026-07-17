@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:47:06.446683+01:00",
+  "generated_at": "2026-07-17T20:48:07.342528+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -975,7 +975,17 @@
       "order": 97
     },
     {
-      "position": "T98",
+      "position": "T79",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "14",
+      "golfer": "Ryutaro Nagano",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 107
+    },
+    {
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -985,7 +995,7 @@
       "order": 98
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -995,7 +1005,7 @@
       "order": 99
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1005,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1025,7 @@
       "order": 101
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
@@ -1055,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T98",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1063,16 +1073,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 106
-    },
-    {
-      "position": "T98",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "13",
-      "golfer": "Ryutaro Nagano",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 107
     },
     {
       "position": "T108",
@@ -1419,23 +1419,23 @@
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
-      "golfer": "Brian Harman",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 141
-    },
-    {
-      "position": "T139",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
       "golfer": "Jeong-Woo Ham",
       "owner": "",
       "owner_redraw": "",
       "order": 142
     },
     {
-      "position": "T143",
+      "position": "T142",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Brian Harman",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 141
+    },
+    {
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 143
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1455,7 +1455,7 @@
       "order": 144
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1465,7 +1465,7 @@
       "order": 145
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 146
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1485,7 +1485,7 @@
       "order": 147
     },
     {
-      "position": "T143",
+      "position": "T142",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
