@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:30:06.278402+01:00",
+  "generated_at": "2026-07-17T15:31:06.435291+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -158,7 +158,7 @@
       "position": "T12",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "",
@@ -778,7 +778,7 @@
       "position": "T73",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Sam Stevens",
       "owner": "",
       "owner_redraw": "",
@@ -1118,7 +1118,7 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
-      "thru": "15:15",
+      "thru": "1",
       "golfer": "Jordan Spieth",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -1539,20 +1539,20 @@
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
-      "golfer": "Austen Truslow",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 153
-    },
-    {
-      "position": "T152",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
       "golfer": "Matthew Jordan",
       "owner": "",
       "owner_redraw": "",
       "order": 154
+    },
+    {
+      "position": "154",
+      "score": "+11",
+      "score_num": 11,
+      "thru": "CUT",
+      "golfer": "Austen Truslow",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 153
     },
     {
       "position": "155",
