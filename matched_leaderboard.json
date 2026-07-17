@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:42:06.760381+01:00",
+  "generated_at": "2026-07-17T12:43:06.854553+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1268,6 +1268,16 @@
       "position": "T124",
       "score": "+4",
       "score_num": 4,
+      "thru": "17",
+      "golfer": "Haotong Li",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 125
+    },
+    {
+      "position": "T124",
+      "score": "+4",
+      "score_num": 4,
       "thru": "15",
       "golfer": "Michael Hollick",
       "owner": "",
@@ -1355,17 +1365,7 @@
       "order": 137
     },
     {
-      "position": "T136",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Haotong Li",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 125
-    },
-    {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 129
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 136
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 140
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 141
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 142
     },
     {
-      "position": "T136",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
