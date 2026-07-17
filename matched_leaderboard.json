@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:45:07.748663+01:00",
+  "generated_at": "2026-07-17T10:46:06.451395+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -175,7 +175,17 @@
       "order": 17
     },
     {
-      "position": "T18",
+      "position": "T9",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "2",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "",
+      "order": 21
+    },
+    {
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -195,7 +205,7 @@
       "order": 19
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -205,17 +215,7 @@
       "order": 20
     },
     {
-      "position": "T18",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "1",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "",
-      "order": 21
-    },
-    {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "12:14",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "12:58",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13:31",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "13:42",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "14:09",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -968,7 +968,7 @@
       "position": "T90",
       "score": "+2",
       "score_num": 2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "",
@@ -1515,7 +1515,17 @@
       "order": 151
     },
     {
-      "position": "T152",
+      "position": "T148",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Adrien Saddier",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 154
+    },
+    {
+      "position": "T153",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1525,7 +1535,7 @@
       "order": 152
     },
     {
-      "position": "T152",
+      "position": "T153",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1535,17 +1545,7 @@
       "order": 153
     },
     {
-      "position": "T154",
-      "score": "+9",
-      "score_num": 9,
-      "thru": "CUT",
-      "golfer": "Adrien Saddier",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 154
-    },
-    {
-      "position": "T154",
+      "position": "155",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
