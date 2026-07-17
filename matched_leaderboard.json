@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:02:06.716256+01:00",
+  "generated_at": "2026-07-17T14:03:06.352914+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -258,7 +258,7 @@
       "position": "T22",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -1268,16 +1268,6 @@
       "position": "T119",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 126
-    },
-    {
-      "position": "T119",
-      "score": "+4",
-      "score_num": 4,
       "thru": "8",
       "golfer": "Daniel Hillier",
       "owner": "",
@@ -1345,7 +1335,17 @@
       "order": 134
     },
     {
-      "position": "T135",
+      "position": "T134",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 126
+    },
+    {
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 135
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 136
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 137
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 138
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 139
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
