@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:13:07.042054+01:00",
+  "generated_at": "2026-07-17T16:14:06.855242+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
@@ -618,7 +618,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "",
@@ -918,7 +918,7 @@
       "position": "T81",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jake Knapp",
       "owner": "",
       "owner_redraw": "",
