@@ -1,12 +1,12 @@
-import json, re, unicodedata
+import json
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import pandas as pd
-import requests
 from rapidfuzz import process, fuzz
+
+from espn_data import norm, load_espn_players
 
 MIN_CONFIDENCE = 95
 
@@ -15,138 +15,13 @@ CONFIG = json.loads(Path("config.json").read_text(encoding="utf-8"))
 EVENT_ID = CONFIG["event_id"]
 LEAGUE = CONFIG.get("sport_league", "pga")
 OWNERS_FILE = Path(CONFIG["owners_file"])
+REDRAW_FILE = Path(CONFIG.get("redraw_owners_file", "owners_redraw.csv"))
 OUT = Path(CONFIG["output_file"])
 
-BASE = f"https://sports.core.api.espn.com/v2/sports/golf/leagues/{LEAGUE}/events/{EVENT_ID}/competitions/{EVENT_ID}"
-COMPETITORS_URL = f"{BASE}/competitors?limit=200"
-
-session = requests.Session()
-
-# Letters that NFKD won't decompose into ascii + combining mark
-# (they're distinct letters, not accented forms) so map them by hand.
-EXTRA_LETTER_MAP = str.maketrans({
-    "ø": "o", "Ø": "O",
-    "æ": "ae", "Æ": "AE",
-    "œ": "oe", "Œ": "OE",
-    "ł": "l", "Ł": "L",
-    "đ": "d", "Đ": "D",
-    "ß": "ss",
-})
-
-def norm(s):
-    s = str(s or "").translate(EXTRA_LETTER_MAP)
-    s = unicodedata.normalize("NFKD", s)
-    s = "".join(c for c in s if not unicodedata.combining(c))
-    s = s.lower()
-    s = re.sub(r"[^a-z ]+", " ", s)
-    return re.sub(r"\s+", " ", s).strip()
-
-def get_json(url):
-    return session.get(
-        url.replace("http://", "https://"),
-        timeout=10
-    ).json()
-
-def score_to_num(score):
-    if score in (None, "", "E"):
-        return 0
-    return int(str(score).replace("+", ""))
-
-def irish_tee_time(status):
-    tee = status.get("teeTime")
-    if not tee:
-        return ""
-
-    try:
-        dt = datetime.fromisoformat(
-            tee.replace("Z", "+00:00")
-        )
-        ie = dt.astimezone(
-            ZoneInfo("Europe/Dublin")
-        )
-        return ie.strftime("%H:%M")
-    except Exception:
-        return ""
-
-def display_thru(status, score_display):
-    typ = status.get("type", {})
-    state = typ.get("state")
-
-    try:
-        score_num = (
-            0 if score_display == "E"
-            else int(str(score_display).replace("+", ""))
-        )
-    except:
-        score_num = 999
-
-    if score_num > 4:
-        return "CUT"
-
-    if typ.get("completed"):
-        return "F"
-
-    if state == "in" and status.get("thru") not in (None, "", 0):
-        return str(status.get("thru"))
-
-    return irish_tee_time(status)
-
-def load_one(item):
-    athlete = get_json(item["athlete"]["$ref"])
-    score = get_json(item["score"]["$ref"])
-    status = get_json(item["status"]["$ref"])
-
-    return {
-        "espn_name": athlete.get("displayName", ""),
-        "score": score.get("displayValue", ""),
-        "score_num": score_to_num(
-            score.get("displayValue", "")
-        ),
-        "position": status.get(
-            "position", {}
-        ).get("displayName", ""),
-        "thru": display_thru(
-            status,
-            score.get("displayValue", "")
-        ),
-        "order": item.get("order", 9999),
-    }
-
-def load_espn_players():
-    items = get_json(COMPETITORS_URL)["items"]
-    rows = []
-
-    with ThreadPoolExecutor(max_workers=20) as ex:
-        futures = [
-            ex.submit(load_one, item)
-            for item in items
-        ]
-
-        for fut in as_completed(futures):
-            try:
-                row = fut.result()
-                if row["espn_name"]:
-                    rows.append(row)
-            except Exception as e:
-                print("Skipping one player:", e)
-
-    return rows
-
-def main():
-    espn_rows = load_espn_players()
-
-    df = pd.read_csv(OWNERS_FILE)
-    df = df.rename(
-        columns={c: str(c).strip() for c in df.columns}
-    )
+def build_owner_map(owners_file, keys, label):
+    df = pd.read_csv(owners_file)
+    df = df.rename(columns={c: str(c).strip() for c in df.columns})
     df = df.dropna(subset=["Golfer"])
-
-    choices = {
-        norm(r["espn_name"]): r
-        for r in espn_rows
-    }
-
-    keys = list(choices.keys())
 
     owner_map = {}
     unmatched = []
@@ -169,10 +44,29 @@ def main():
         owner_map[key] = owner
 
     if unmatched:
-        print("WARNING: could not confidently match these owned golfers to the ESPN field:")
+        print(f"WARNING: could not confidently match these {label} golfers to the ESPN field:")
         for g in unmatched:
             print(f"  - {g}")
         print()
+
+    return owner_map
+
+def main():
+    espn_rows = load_espn_players(EVENT_ID, LEAGUE)
+
+    choices = {
+        norm(r["espn_name"]): r
+        for r in espn_rows
+    }
+    keys = list(choices.keys())
+
+    owner_map = build_owner_map(OWNERS_FILE, keys, "original")
+
+    has_redraw = REDRAW_FILE.exists()
+    redraw_map = (
+        build_owner_map(REDRAW_FILE, keys, "redraw")
+        if has_redraw else {}
+    )
 
     players = []
 
@@ -184,6 +78,7 @@ def main():
             "thru": espn["thru"],
             "golfer": espn["espn_name"],
             "owner": owner_map.get(key, ""),
+            "owner_redraw": redraw_map.get(key, ""),
             "order": espn["order"],
         })
 
@@ -194,8 +89,8 @@ def main():
         )
     )
 
-    print(f"{'POS':4} {'SCORE':>6} {'THRU':>6}  {'GOLFER':25} OWNER")
-    print("-" * 90)
+    print(f"{'POS':4} {'SCORE':>6} {'THRU':>6}  {'GOLFER':25} {'OWNER':20} REDRAW")
+    print("-" * 110)
 
     for r in players:
         print(
@@ -203,13 +98,15 @@ def main():
             f"{r['score']:>6} "
             f"{r['thru']:>6}  "
             f"{r['golfer'][:25]:25} "
-            f"{r['owner']}"
+            f"{r['owner']:20} "
+            f"{r['owner_redraw']}"
         )
 
     output = {
         "event_name": CONFIG.get("event_name", ""),
         "page_title": CONFIG.get("page_title", CONFIG.get("event_name", "")),
         "generated_at": datetime.now(ZoneInfo("Europe/Dublin")).isoformat(),
+        "has_redraw": has_redraw,
         "players": players,
     }
 

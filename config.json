@@ -4,5 +4,6 @@
   "page_title": "The Open Sweep",
   "sport_league": "pga",
   "owners_file": "owners.csv",
+  "redraw_owners_file": "owners_redraw.csv",
   "output_file": "matched_leaderboard.json"
 }
