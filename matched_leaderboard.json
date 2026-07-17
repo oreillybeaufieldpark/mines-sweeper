@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:21:06.470468+01:00",
+  "generated_at": "2026-07-17T13:22:07.339668+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1228,7 +1228,7 @@
       "position": "T120",
       "score": "+4",
       "score_num": 4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Michael Hollick",
       "owner": "",
       "owner_redraw": "",
@@ -1525,7 +1525,7 @@
       "order": 152
     },
     {
-      "position": "T149",
+      "position": "T152",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1535,7 +1535,7 @@
       "order": 149
     },
     {
-      "position": "T153",
+      "position": "T152",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1545,7 +1545,7 @@
       "order": 153
     },
     {
-      "position": "T153",
+      "position": "T152",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
