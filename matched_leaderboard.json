@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:34:07.297906+01:00",
+  "generated_at": "2026-07-17T12:35:06.225252+01:00",
   "has_redraw": false,
   "players": [
     {
       "position": "1",
       "score": "-8",
       "score_num": -8,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
@@ -68,7 +68,7 @@
       "position": "T4",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "",
@@ -368,16 +368,6 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
-      "golfer": "Marco Penge",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 36
-    },
-    {
-      "position": "T34",
-      "score": "-1",
-      "score_num": -1,
       "thru": "12",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
@@ -388,7 +378,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "",
@@ -505,7 +495,17 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "16",
+      "golfer": "Marco Penge",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 36
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -698,7 +698,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Matt McCarty",
       "owner": "",
       "owner_redraw": "",
@@ -1395,7 +1395,7 @@
       "order": 139
     },
     {
-      "position": "T136",
+      "position": "T135",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 140
     },
     {
-      "position": "T136",
+      "position": "T135",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 141
     },
     {
-      "position": "T136",
+      "position": "T135",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 142
     },
     {
-      "position": "T136",
+      "position": "T135",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1509,16 +1509,6 @@
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
-      "golfer": "Padraig Harrington",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 150
-    },
-    {
-      "position": "T150",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
       "golfer": "Wyndham Clark",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -1553,6 +1543,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 154
+    },
+    {
+      "position": "154",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Padraig Harrington",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 150
     },
     {
       "position": "155",
