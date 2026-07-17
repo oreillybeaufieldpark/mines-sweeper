@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:08:06.378538+01:00",
+  "generated_at": "2026-07-17T13:09:06.424624+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -588,7 +588,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -598,7 +598,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
@@ -708,7 +708,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Billy Horschel",
       "owner": "",
       "owner_redraw": "",
@@ -728,7 +728,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -738,7 +738,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -1095,7 +1095,17 @@
       "order": 111
     },
     {
-      "position": "T110",
+      "position": "T93",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "11",
+      "golfer": "Matt Fitzpatrick",
+      "owner": "Michael Murray",
+      "owner_redraw": "",
+      "order": 116
+    },
+    {
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -1105,7 +1115,7 @@
       "order": 98
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -1115,7 +1125,7 @@
       "order": 105
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1125,17 +1135,17 @@
       "order": 112
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
       "order": 113
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1145,7 +1155,7 @@
       "order": 114
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -1155,17 +1165,7 @@
       "order": 115
     },
     {
-      "position": "T110",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "10",
-      "golfer": "Matt Fitzpatrick",
-      "owner": "Michael Murray",
-      "owner_redraw": "",
-      "order": 116
-    },
-    {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "5",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1185,7 +1185,7 @@
       "order": 118
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T110",
+      "position": "T111",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
@@ -1268,7 +1268,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Tim Wiedemeyer",
       "owner": "",
       "owner_redraw": "",
