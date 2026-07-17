@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:52:07.351007+01:00",
+  "generated_at": "2026-07-17T20:53:06.317526+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1058,7 +1058,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Maverick McNealy",
       "owner": "",
       "owner_redraw": "",
@@ -1525,9 +1525,9 @@
       "order": 151
     },
     {
-      "position": "T149",
-      "score": "+10",
-      "score_num": 10,
+      "position": "152",
+      "score": "+11",
+      "score_num": 11,
       "thru": "CUT",
       "golfer": "David Puig",
       "owner": "",
