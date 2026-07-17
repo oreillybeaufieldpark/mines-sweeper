@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:48:07.078921+01:00",
+  "generated_at": "2026-07-17T12:49:07.045366+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T3",
       "score": "-5",
       "score_num": -5,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -1108,7 +1108,7 @@
       "position": "T109",
       "score": "+3",
       "score_num": 3,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jack Buchanan",
       "owner": "",
       "owner_redraw": "",
