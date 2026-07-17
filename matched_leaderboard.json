@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:37:06.486871+01:00",
+  "generated_at": "2026-07-17T11:38:07.019615+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -98,7 +98,7 @@
       "position": "T9",
       "score": "-3",
       "score_num": -3,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -435,7 +435,17 @@
       "order": 43
     },
     {
-      "position": "T44",
+      "position": "T31",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "4",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 53
+    },
+    {
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -525,17 +535,7 @@
       "order": 52
     },
     {
-      "position": "T44",
-      "score": "E",
-      "score_num": 0,
-      "thru": "3",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 53
-    },
-    {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "11:52",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -655,7 +655,7 @@
       "order": 69
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -718,7 +718,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -948,7 +948,7 @@
       "position": "T93",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Darren Clarke",
       "owner": "",
       "owner_redraw": "",
@@ -958,7 +958,7 @@
       "position": "T93",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Bernd Wiesberger",
       "owner": "",
       "owner_redraw": "",
@@ -1248,7 +1248,7 @@
       "position": "T124",
       "score": "+4",
       "score_num": 4,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Joaqu\u00edn Niemann",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -1475,6 +1475,16 @@
       "order": 148
     },
     {
+      "position": "T144",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Adrien Saddier",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 152
+    },
+    {
       "position": "T148",
       "score": "+7",
       "score_num": 7,
@@ -1515,17 +1525,7 @@
       "order": 151
     },
     {
-      "position": "T152",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "Adrien Saddier",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 152
-    },
-    {
-      "position": "T152",
+      "position": "153",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
