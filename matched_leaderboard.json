@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:38:06.837143+01:00",
+  "generated_at": "2026-07-17T18:39:06.873892+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -938,7 +938,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
@@ -978,7 +978,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Thomas Sloman",
       "owner": "",
       "owner_redraw": "",
@@ -1058,7 +1058,7 @@
       "position": "T100",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "David Howard",
       "owner": "",
       "owner_redraw": "",
@@ -1205,7 +1205,17 @@
       "order": 120
     },
     {
-      "position": "T121",
+      "position": "T109",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "8",
+      "golfer": "Alejandro de Castro Piera",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 128
+    },
+    {
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1215,7 +1225,7 @@
       "order": 121
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 122
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 123
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1255,7 @@
       "order": 124
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1265,7 @@
       "order": 125
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1265,7 +1275,7 @@
       "order": 126
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1273,16 +1283,6 @@
       "owner": "Stephen Walker",
       "owner_redraw": "",
       "order": 127
-    },
-    {
-      "position": "T121",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Alejandro de Castro Piera",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 128
     },
     {
       "position": "-",
