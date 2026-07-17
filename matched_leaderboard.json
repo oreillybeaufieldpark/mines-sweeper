@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:05:06.965470+01:00",
+  "generated_at": "2026-07-17T14:06:06.959516+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -118,7 +118,7 @@
       "position": "T10",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "",
