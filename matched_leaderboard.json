@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:28:07.197068+01:00",
+  "generated_at": "2026-07-17T11:29:07.341752+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -208,7 +208,7 @@
       "position": "T19",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -628,7 +628,7 @@
       "position": "T44",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "",
@@ -708,7 +708,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -1099,16 +1099,6 @@
       "score": "+3",
       "score_num": 3,
       "thru": "10",
-      "golfer": "Michael Hollick",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 110
-    },
-    {
-      "position": "T107",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "10",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
@@ -1255,7 +1245,17 @@
       "order": 126
     },
     {
-      "position": "T126",
+      "position": "T125",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "12",
+      "golfer": "Michael Hollick",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 110
+    },
+    {
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1265,7 +1265,7 @@
       "order": 113
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "15",
@@ -1275,7 +1275,7 @@
       "order": 128
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "12",
@@ -1285,7 +1285,7 @@
       "order": 129
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "11",
@@ -1295,7 +1295,7 @@
       "order": 130
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "2",
@@ -1305,7 +1305,7 @@
       "order": 131
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "2",
@@ -1315,7 +1315,7 @@
       "order": 132
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "12:36",
@@ -1325,7 +1325,7 @@
       "order": 133
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "13:20",
@@ -1335,7 +1335,7 @@
       "order": 134
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "13:42",
@@ -1345,7 +1345,7 @@
       "order": 135
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1355,7 +1355,7 @@
       "order": 136
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1365,7 +1365,7 @@
       "order": 137
     },
     {
-      "position": "T126",
+      "position": "T125",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
@@ -1535,17 +1535,7 @@
       "order": 153
     },
     {
-      "position": "T152",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "Padraig Harrington",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 156
-    },
-    {
-      "position": "155",
+      "position": "154",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1555,7 +1545,7 @@
       "order": 154
     },
     {
-      "position": "156",
+      "position": "T155",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1563,6 +1553,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 155
+    },
+    {
+      "position": "T155",
+      "score": "+10",
+      "score_num": 10,
+      "thru": "CUT",
+      "golfer": "Padraig Harrington",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 156
     }
   ]
 }
