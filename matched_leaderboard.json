@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:38:06.717983+01:00",
+  "generated_at": "2026-07-17T13:39:06.950114+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -638,7 +638,7 @@
       "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "13:20",
+      "thru": "1",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "",
@@ -1248,7 +1248,7 @@
       "position": "T119",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Matt Fitzpatrick",
       "owner": "Michael Murray",
       "owner_redraw": "",
