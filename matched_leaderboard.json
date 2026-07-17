@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:14:06.168787+01:00",
+  "generated_at": "2026-07-17T15:15:07.360894+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T4",
       "score": "-5",
       "score_num": -5,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -148,7 +148,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "",
@@ -178,7 +178,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "",
@@ -215,17 +215,17 @@
       "order": 22
     },
     {
-      "position": "T11",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
       "order": 19
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "11",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -758,7 +758,7 @@
       "position": "T71",
       "score": "+1",
       "score_num": 1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Jake Knapp",
       "owner": "",
       "owner_redraw": "",
@@ -968,7 +968,7 @@
       "position": "T83",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "",
@@ -1459,15 +1459,25 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
+      "golfer": "Jeong-Woo Ham",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 148
+    },
+    {
+      "position": "T146",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
       "golfer": "Sam Bairstow",
       "owner": "",
       "owner_redraw": "",
       "order": 145
     },
     {
-      "position": "T144",
-      "score": "+7",
-      "score_num": 7,
+      "position": "T146",
+      "score": "+8",
+      "score_num": 8,
       "thru": "CUT",
       "golfer": "Dan Bradbury",
       "owner": "",
@@ -1475,9 +1485,9 @@
       "order": 146
     },
     {
-      "position": "T144",
-      "score": "+7",
-      "score_num": 7,
+      "position": "T146",
+      "score": "+8",
+      "score_num": 8,
       "thru": "CUT",
       "golfer": "Scott Vincent",
       "owner": "",
@@ -1485,17 +1495,7 @@
       "order": 147
     },
     {
-      "position": "T144",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
-      "golfer": "Jeong-Woo Ham",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 148
-    },
-    {
-      "position": "149",
+      "position": "T146",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
