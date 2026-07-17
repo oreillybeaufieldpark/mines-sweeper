@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:32:07.155117+01:00",
+  "generated_at": "2026-07-17T16:33:06.898033+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -608,7 +608,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "",
@@ -928,7 +928,7 @@
       "position": "T82",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -958,7 +958,7 @@
       "position": "T82",
       "score": "+2",
       "score_num": 2,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Jake Knapp",
       "owner": "",
       "owner_redraw": "",
@@ -1068,16 +1068,6 @@
       "position": "T103",
       "score": "+3",
       "score_num": 3,
-      "thru": "17",
-      "golfer": "Bard Bjornevik Skogen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 108
-    },
-    {
-      "position": "T103",
-      "score": "+3",
-      "score_num": 3,
       "thru": "16",
       "golfer": "Nevill Ruiter",
       "owner": "",
@@ -1125,7 +1115,17 @@
       "order": 114
     },
     {
-      "position": "T113",
+      "position": "T112",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "F",
+      "golfer": "Bard Bjornevik Skogen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 108
+    },
+    {
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "6",
@@ -1135,7 +1135,7 @@
       "order": 113
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1145,7 +1145,7 @@
       "order": 115
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1155,7 +1155,7 @@
       "order": 116
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1165,7 +1165,7 @@
       "order": 117
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1175,7 +1175,7 @@
       "order": 118
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1185,7 +1185,7 @@
       "order": 119
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1195,7 +1195,7 @@
       "order": 120
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1205,7 +1205,7 @@
       "order": 121
     },
     {
-      "position": "T113",
+      "position": "T112",
       "score": "+4",
       "score_num": 4,
       "thru": "2",
