@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:16:07.160055+01:00",
+  "generated_at": "2026-07-17T17:17:07.084687+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -758,7 +758,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Sam Stevens",
       "owner": "",
       "owner_redraw": "",
@@ -1028,7 +1028,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
