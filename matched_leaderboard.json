@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:17:06.917661+01:00",
+  "generated_at": "2026-07-17T12:18:06.922016+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -345,7 +345,17 @@
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T19",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "5",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 40
+    },
+    {
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -395,17 +405,7 @@
       "order": 39
     },
     {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "4",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 40
-    },
-    {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "12:25",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -1278,7 +1278,7 @@
       "position": "T120",
       "score": "+4",
       "score_num": 4,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Sam Bairstow",
       "owner": "",
       "owner_redraw": "",
