@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:21:06.318801+01:00",
+  "generated_at": "2026-07-17T11:22:07.239112+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -198,7 +198,7 @@
       "position": "T20",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "",
@@ -319,16 +319,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "17",
-      "golfer": "Eugenio Chacarra",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 32
-    },
-    {
-      "position": "T30",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "",
@@ -338,7 +328,7 @@
       "position": "T30",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -445,7 +435,17 @@
       "order": 44
     },
     {
-      "position": "T45",
+      "position": "T44",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Eugenio Chacarra",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 32
+    },
+    {
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "11:52",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T45",
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "11:04",
@@ -615,7 +615,17 @@
       "order": 61
     },
     {
-      "position": "T45",
+      "position": "T44",
+      "score": "E",
+      "score_num": 0,
+      "thru": "17",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 62
+    },
+    {
+      "position": "T44",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -625,27 +635,17 @@
       "order": 67
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 62
-    },
-    {
-      "position": "T63",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "",
       "order": 63
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -655,7 +655,7 @@
       "order": 64
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -665,7 +665,7 @@
       "order": 65
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -675,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -695,7 +695,7 @@
       "order": 70
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -705,7 +705,7 @@
       "order": 71
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -715,7 +715,7 @@
       "order": 72
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -725,7 +725,7 @@
       "order": 73
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -735,7 +735,7 @@
       "order": 74
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -745,7 +745,7 @@
       "order": 75
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -755,7 +755,7 @@
       "order": 76
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "12:14",
@@ -765,7 +765,7 @@
       "order": 77
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "12:25",
@@ -775,7 +775,7 @@
       "order": 78
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "12:58",
@@ -785,7 +785,7 @@
       "order": 79
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -795,7 +795,7 @@
       "order": 80
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -805,7 +805,7 @@
       "order": 81
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13:20",
@@ -815,7 +815,7 @@
       "order": 82
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "13:53",
@@ -825,7 +825,7 @@
       "order": 83
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "14:09",
@@ -835,7 +835,7 @@
       "order": 84
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -845,7 +845,7 @@
       "order": 85
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -855,7 +855,7 @@
       "order": 86
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -865,7 +865,7 @@
       "order": 87
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -875,7 +875,7 @@
       "order": 88
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -885,7 +885,7 @@
       "order": 89
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -895,7 +895,7 @@
       "order": 90
     },
     {
-      "position": "T63",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -918,7 +918,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Cameron Smith",
       "owner": "",
       "owner_redraw": "",
@@ -1108,7 +1108,7 @@
       "position": "T109",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
