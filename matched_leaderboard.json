@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:27:06.616452+01:00",
+  "generated_at": "2026-07-17T16:28:06.319530+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -208,7 +208,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "16:10",
+      "thru": "1",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "",
@@ -448,7 +448,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
@@ -665,17 +665,17 @@
       "order": 66
     },
     {
-      "position": "T50",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16:10",
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "1",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -725,7 +725,7 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -735,17 +735,17 @@
       "order": 73
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
       "order": 74
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -755,7 +755,7 @@
       "order": 75
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -765,7 +765,7 @@
       "order": 76
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -775,7 +775,7 @@
       "order": 78
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -785,7 +785,7 @@
       "order": 79
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -795,7 +795,7 @@
       "order": 80
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -1018,7 +1018,7 @@
       "position": "T81",
       "score": "+2",
       "score_num": 2,
-      "thru": "16:10",
+      "thru": "1",
       "golfer": "Frederic LaCroix",
       "owner": "",
       "owner_redraw": "",
@@ -1279,16 +1279,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Kota Kaneko",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 128
-    },
-    {
-      "position": "T122",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
       "owner_redraw": "",
@@ -1325,7 +1315,17 @@
       "order": 156
     },
     {
-      "position": "T132",
+      "position": "T131",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Kota Kaneko",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 128
+    },
+    {
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1335,7 +1335,7 @@
       "order": 132
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1345,7 +1345,7 @@
       "order": 133
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 134
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 135
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 136
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 137
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 139
     },
     {
-      "position": "T132",
+      "position": "T131",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1415,17 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T132",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Ren Yonezawa",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 141
-    },
-    {
-      "position": "T142",
+      "position": "T141",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1435,7 +1425,7 @@
       "order": 142
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1445,7 +1435,7 @@
       "order": 143
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1455,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T142",
+      "position": "T141",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1465,7 +1455,17 @@
       "order": 145
     },
     {
-      "position": "T146",
+      "position": "T145",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Ren Yonezawa",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 141
+    },
+    {
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 146
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1485,7 +1485,7 @@
       "order": 147
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
