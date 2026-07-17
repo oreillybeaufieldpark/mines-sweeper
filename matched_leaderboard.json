@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:01:06.912475+01:00",
+  "generated_at": "2026-07-17T20:02:06.802633+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1078,7 +1078,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
