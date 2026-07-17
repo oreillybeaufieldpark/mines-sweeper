@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:54:06.900638+01:00",
+  "generated_at": "2026-07-17T14:55:07.945421+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -345,7 +345,17 @@
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T22",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "5",
+      "golfer": "Victor Perez",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 44
+    },
+    {
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T35",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -435,17 +445,7 @@
       "order": 43
     },
     {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "4",
-      "golfer": "Victor Perez",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 44
-    },
-    {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -605,17 +605,17 @@
       "order": 60
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "",
       "order": 61
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -705,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -725,7 +725,7 @@
       "order": 72
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -1058,16 +1058,6 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
-      "thru": "13",
-      "golfer": "Alistair Docherty",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 106
-    },
-    {
-      "position": "T102",
-      "score": "+3",
-      "score_num": 3,
       "thru": "11",
       "golfer": "Andrew Novak",
       "owner": "",
@@ -1153,6 +1143,26 @@
       "owner": "",
       "owner_redraw": "",
       "order": 116
+    },
+    {
+      "position": "T102",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "5",
+      "golfer": "Angel Ayora",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 128
+    },
+    {
+      "position": "T116",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "14",
+      "golfer": "Alistair Docherty",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 106
     },
     {
       "position": "T116",
@@ -1273,16 +1283,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 127
-    },
-    {
-      "position": "T116",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "4",
-      "golfer": "Angel Ayora",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 128
     },
     {
       "position": "T116",
