@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:05:06.343303+01:00",
+  "generated_at": "2026-07-17T13:06:06.267257+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T3",
       "score": "-5",
       "score_num": -5,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -358,7 +358,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Jesper Svensson",
       "owner": "",
       "owner_redraw": "",
@@ -438,7 +438,7 @@
       "position": "T34",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
@@ -708,16 +708,6 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
-      "golfer": "Matt McCarty",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 71
-    },
-    {
-      "position": "T70",
-      "score": "+1",
-      "score_num": 1,
       "thru": "16",
       "golfer": "Billy Horschel",
       "owner": "",
@@ -915,6 +905,26 @@
       "order": 91
     },
     {
+      "position": "T70",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "2",
+      "golfer": "David Duval",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 106
+    },
+    {
+      "position": "T92",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Matt McCarty",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 71
+    },
+    {
       "position": "T92",
       "score": "+2",
       "score_num": 2,
@@ -978,16 +988,6 @@
       "position": "T92",
       "score": "+2",
       "score_num": 2,
-      "thru": "14",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 98
-    },
-    {
-      "position": "T92",
-      "score": "+2",
-      "score_num": 2,
       "thru": "8",
       "golfer": "Peter Uihlein",
       "owner": "",
@@ -1038,31 +1038,11 @@
       "position": "T92",
       "score": "+2",
       "score_num": 2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Joe Dean",
       "owner": "",
       "owner_redraw": "",
       "order": 104
-    },
-    {
-      "position": "T92",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "2",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "",
-      "order": 105
-    },
-    {
-      "position": "T92",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "1",
-      "golfer": "David Duval",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 106
     },
     {
       "position": "T92",
@@ -1115,7 +1095,27 @@
       "order": 111
     },
     {
-      "position": "T112",
+      "position": "T110",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "15",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 98
+    },
+    {
+      "position": "T110",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "3",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "",
+      "order": 105
+    },
+    {
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1125,7 +1125,7 @@
       "order": 112
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -1135,7 +1135,7 @@
       "order": 113
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1145,7 +1145,7 @@
       "order": 114
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -1155,7 +1155,7 @@
       "order": 115
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1165,7 +1165,7 @@
       "order": 116
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "5",
@@ -1175,7 +1175,7 @@
       "order": 117
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1185,7 +1185,7 @@
       "order": 118
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T112",
+      "position": "T110",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
@@ -1288,7 +1288,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Martin Couvra",
       "owner": "",
       "owner_redraw": "",
