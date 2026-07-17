@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:14:06.842111+01:00",
+  "generated_at": "2026-07-17T11:15:07.059060+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T45",
       "score": "E",
       "score_num": 0,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "",
@@ -588,6 +588,16 @@
       "position": "T45",
       "score": "E",
       "score_num": 0,
+      "thru": "10",
+      "golfer": "Tom Kim",
+      "owner": "Michael Murray",
+      "owner_redraw": "",
+      "order": 66
+    },
+    {
+      "position": "T45",
+      "score": "E",
+      "score_num": 0,
       "thru": "2",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
@@ -605,7 +615,7 @@
       "order": 75
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -615,7 +625,7 @@
       "order": 46
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -625,7 +635,7 @@
       "order": 49
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -635,7 +645,7 @@
       "order": 50
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -645,7 +655,7 @@
       "order": 61
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -655,7 +665,7 @@
       "order": 63
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -665,17 +675,7 @@
       "order": 65
     },
     {
-      "position": "T61",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "9",
-      "golfer": "Tom Kim",
-      "owner": "Michael Murray",
-      "owner_redraw": "",
-      "order": 66
-    },
-    {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "6",
@@ -705,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -725,7 +725,7 @@
       "order": 72
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12:14",
@@ -745,7 +745,7 @@
       "order": 76
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12:25",
@@ -755,7 +755,7 @@
       "order": 77
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12:58",
@@ -765,7 +765,7 @@
       "order": 78
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -775,7 +775,7 @@
       "order": 79
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -785,7 +785,7 @@
       "order": 80
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13:20",
@@ -795,7 +795,7 @@
       "order": 81
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13:53",
@@ -805,7 +805,7 @@
       "order": 82
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "14:09",
@@ -815,7 +815,7 @@
       "order": 83
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -825,7 +825,7 @@
       "order": 84
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -835,7 +835,7 @@
       "order": 85
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -845,7 +845,7 @@
       "order": 86
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -855,7 +855,7 @@
       "order": 87
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -865,7 +865,7 @@
       "order": 88
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -875,7 +875,7 @@
       "order": 89
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -885,7 +885,7 @@
       "order": 90
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -895,7 +895,7 @@
       "order": 93
     },
     {
-      "position": "T61",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -1268,7 +1268,7 @@
       "position": "T127",
       "score": "+4",
       "score_num": 4,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "",
@@ -1378,7 +1378,7 @@
       "position": "T127",
       "score": "+4",
       "score_num": 4,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Francesco Laporta",
       "owner": "",
       "owner_redraw": "",
