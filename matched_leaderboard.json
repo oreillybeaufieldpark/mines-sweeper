@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:45:06.644582+01:00",
+  "generated_at": "2026-07-17T12:46:06.487253+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -398,7 +398,7 @@
       "position": "T33",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "",
@@ -418,7 +418,7 @@
       "position": "T33",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Henrik Stenson",
       "owner": "",
       "owner_redraw": "",
@@ -1008,7 +1008,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Joe Dean",
       "owner": "",
       "owner_redraw": "",
@@ -1018,7 +1018,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -1425,6 +1425,16 @@
       "order": 143
     },
     {
+      "position": "T136",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Daniel Berger",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 146
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1435,7 +1445,7 @@
       "order": 156
     },
     {
-      "position": "T143",
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1445,7 +1455,7 @@
       "order": 144
     },
     {
-      "position": "T143",
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1455,17 +1465,7 @@
       "order": 145
     },
     {
-      "position": "T143",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Daniel Berger",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 146
-    },
-    {
-      "position": "T143",
+      "position": "T144",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
