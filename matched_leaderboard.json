@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:10:06.481871+01:00",
+  "generated_at": "2026-07-17T17:11:06.230152+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -665,7 +665,17 @@
       "order": 73
     },
     {
-      "position": "T67",
+      "position": "T49",
+      "score": "E",
+      "score_num": 0,
+      "thru": "8",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "",
+      "order": 77
+    },
+    {
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -675,7 +685,7 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 70
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 71
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,7 +745,7 @@
       "order": 72
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -755,7 +765,7 @@
       "order": 75
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -765,17 +775,7 @@
       "order": 76
     },
     {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "7",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "",
-      "order": 77
-    },
-    {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -948,17 +948,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
-      "golfer": "Harris English",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 95
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Rasmus H\u00f8jgaard",
       "owner": "",
       "owner_redraw": "",
@@ -968,7 +958,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Akshay Bhatia",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -1045,7 +1035,17 @@
       "order": 104
     },
     {
-      "position": "T105",
+      "position": "T104",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "10",
+      "golfer": "Harris English",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 95
+    },
+    {
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 105
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1105,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T105",
+      "position": "T104",
       "score": "+3",
       "score_num": 3,
       "thru": "4",
@@ -1529,20 +1529,20 @@
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
-      "golfer": "Gary Woodland",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 152
-    },
-    {
-      "position": "T151",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
       "golfer": "Dan Bradbury",
       "owner": "",
       "owner_redraw": "",
       "order": 153
+    },
+    {
+      "position": "153",
+      "score": "+11",
+      "score_num": 11,
+      "thru": "CUT",
+      "golfer": "Gary Woodland",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 152
     },
     {
       "position": "154",
