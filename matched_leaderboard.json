@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:13:06.333701+01:00",
+  "generated_at": "2026-07-17T19:14:06.442172+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -198,16 +198,6 @@
       "position": "T13",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
-      "golfer": "Michael Thorbjornsen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 20
-    },
-    {
-      "position": "T13",
-      "score": "-3",
-      "score_num": -3,
       "thru": "14",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
@@ -235,7 +225,17 @@
       "order": 23
     },
     {
-      "position": "T24",
+      "position": "T23",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "F",
+      "golfer": "Michael Thorbjornsen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 20
+    },
+    {
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -468,7 +468,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -628,7 +628,7 @@
       "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -968,7 +968,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "",
