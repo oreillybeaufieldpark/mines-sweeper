@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:30:06.529274+01:00",
+  "generated_at": "2026-07-17T20:31:06.924245+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -65,7 +65,17 @@
       "order": 6
     },
     {
-      "position": "T7",
+      "position": "T5",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "17",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "",
+      "order": 14
+    },
+    {
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -75,7 +85,7 @@
       "order": 7
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -85,7 +95,7 @@
       "order": 8
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -95,7 +105,7 @@
       "order": 9
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -115,7 +125,7 @@
       "order": 11
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -125,7 +135,7 @@
       "order": 12
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,17 +145,17 @@
       "order": 13
     },
     {
-      "position": "T7",
+      "position": "T8",
       "score": "-4",
       "score_num": -4,
-      "thru": "16",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
+      "thru": "17",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
       "owner_redraw": "",
-      "order": 14
+      "order": 23
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -155,7 +165,7 @@
       "order": 15
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -165,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +205,7 @@
       "order": 19
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +215,7 @@
       "order": 20
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,27 +225,17 @@
       "order": 21
     },
     {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
       "order": 22
     },
     {
-      "position": "T15",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "16",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 23
-    },
-    {
-      "position": "T15",
+      "position": "T16",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
