@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:21:06.284473+01:00",
+  "generated_at": "2026-07-17T14:22:07.050719+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -178,7 +178,7 @@
       "position": "T10",
       "score": "-3",
       "score_num": -3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
@@ -1385,6 +1385,16 @@
       "order": 138
     },
     {
+      "position": "T134",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Stewart Cink",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 144
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1395,7 +1405,7 @@
       "order": 156
     },
     {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1405,7 +1415,7 @@
       "order": 139
     },
     {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1415,7 +1425,7 @@
       "order": 140
     },
     {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1425,7 +1435,7 @@
       "order": 141
     },
     {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1435,7 +1445,7 @@
       "order": 142
     },
     {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1445,17 +1455,7 @@
       "order": 143
     },
     {
-      "position": "T139",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Stewart Cink",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 144
-    },
-    {
-      "position": "T139",
+      "position": "T140",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
