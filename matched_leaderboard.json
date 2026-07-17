@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:34:07.413580+01:00",
+  "generated_at": "2026-07-17T14:35:06.391013+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -45,7 +45,17 @@
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "T3",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 7
+    },
+    {
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -55,7 +65,7 @@
       "order": 5
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -65,17 +75,7 @@
       "order": 6
     },
     {
-      "position": "T5",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "17",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 7
-    },
-    {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -85,7 +85,7 @@
       "order": 8
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "16",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -1128,16 +1128,6 @@
       "position": "T103",
       "score": "+3",
       "score_num": 3,
-      "thru": "3",
-      "golfer": "Angel Ayora",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 113
-    },
-    {
-      "position": "T103",
-      "score": "+3",
-      "score_num": 3,
       "thru": "2",
       "golfer": "Kota Kaneko",
       "owner": "",
@@ -1185,7 +1175,17 @@
       "order": 118
     },
     {
-      "position": "T119",
+      "position": "T118",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "4",
+      "golfer": "Angel Ayora",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 113
+    },
+    {
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1195,7 @@
       "order": 119
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1205,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1215,7 +1215,7 @@
       "order": 121
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1225,7 +1225,7 @@
       "order": 122
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15",
@@ -1235,7 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "14",
@@ -1245,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "12",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "10",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1275,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "3",
@@ -1285,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1295,7 +1295,7 @@
       "order": 129
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1305,7 +1305,7 @@
       "order": 130
     },
     {
-      "position": "T119",
+      "position": "T118",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
