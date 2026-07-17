@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:10:06.909345+01:00",
+  "generated_at": "2026-07-17T19:11:06.724649+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -988,7 +988,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Maverick McNealy",
       "owner": "",
       "owner_redraw": "",
@@ -1098,7 +1098,7 @@
       "position": "T100",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
@@ -1339,20 +1339,20 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Brian Harman",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 133
-    },
-    {
-      "position": "T128",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Caleb Surratt",
       "owner": "",
       "owner_redraw": "",
       "order": 134
+    },
+    {
+      "position": "T128",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Brian Harman",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 133
     },
     {
       "position": "T135",
