@@ -1,41 +1,41 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:38:07.172726+01:00",
+  "generated_at": "2026-07-17T10:39:07.128867+01:00",
   "has_redraw": false,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
       "score": "-5",
       "score_num": -5,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "",
       "order": 1
     },
     {
-      "position": "T2",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "15",
-      "golfer": "Matt Wallace",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 2
-    },
-    {
-      "position": "T2",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "11",
+      "position": "T1",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "12",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "",
       "order": 3
     },
     {
-      "position": "T2",
+      "position": "T3",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "16",
+      "golfer": "Matt Wallace",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 2
+    },
+    {
+      "position": "T3",
       "score": "-4",
       "score_num": -4,
       "thru": "7",
@@ -45,7 +45,7 @@
       "order": 4
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -55,7 +55,7 @@
       "order": 5
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -65,7 +65,7 @@
       "order": 6
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -78,7 +78,7 @@
       "position": "T8",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "",
@@ -178,7 +178,7 @@
       "position": "T18",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -698,7 +698,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
