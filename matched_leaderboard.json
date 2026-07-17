@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:57:07.216577+01:00",
+  "generated_at": "2026-07-17T12:58:06.340618+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -325,7 +325,17 @@
       "order": 37
     },
     {
-      "position": "T33",
+      "position": "T20",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "2",
+      "golfer": "Henrik Stenson",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 44
+    },
+    {
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -335,7 +345,7 @@
       "order": 22
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -345,7 +355,7 @@
       "order": 24
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 33
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,17 +375,7 @@
       "order": 34
     },
     {
-      "position": "T33",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "17",
-      "golfer": "Casey Jarvis",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 35
-    },
-    {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -385,7 +385,7 @@
       "order": 36
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -395,7 +395,7 @@
       "order": 40
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -405,7 +405,7 @@
       "order": 41
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -415,17 +415,7 @@
       "order": 43
     },
     {
-      "position": "T33",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "2",
-      "golfer": "Henrik Stenson",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 44
-    },
-    {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -435,7 +425,7 @@
       "order": 45
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -445,7 +435,7 @@
       "order": 46
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -455,7 +445,7 @@
       "order": 47
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -465,7 +455,7 @@
       "order": 48
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -475,7 +465,7 @@
       "order": 49
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -485,7 +475,7 @@
       "order": 50
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -495,7 +485,7 @@
       "order": 51
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -505,7 +495,17 @@
       "order": 61
     },
     {
-      "position": "T51",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 35
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -515,7 +515,7 @@
       "order": 38
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -525,7 +525,7 @@
       "order": 39
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -615,7 +615,7 @@
       "order": 62
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -625,7 +625,7 @@
       "order": 64
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -635,7 +635,7 @@
       "order": 65
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -645,7 +645,7 @@
       "order": 66
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -655,7 +655,7 @@
       "order": 67
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -665,7 +665,7 @@
       "order": 68
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -675,7 +675,7 @@
       "order": 69
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -685,7 +685,7 @@
       "order": 70
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
