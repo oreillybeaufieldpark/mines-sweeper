@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:17:06.591348+01:00",
+  "generated_at": "2026-07-17T10:18:06.712718+01:00",
   "players": [
     {
       "position": "T1",
@@ -628,7 +628,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "order": 70
@@ -794,15 +794,6 @@
       "golfer": "Kurt Kitayama",
       "owner": "",
       "order": 90
-    },
-    {
-      "position": "T89",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "12",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "order": 88
     },
     {
       "position": "T89",
@@ -985,13 +976,22 @@
       "order": 109
     },
     {
-      "position": "T110",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "8",
+      "position": "T89",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "9",
       "golfer": "Bernd Wiesberger",
       "owner": "",
       "order": 110
+    },
+    {
+      "position": "T110",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "order": 88
     },
     {
       "position": "T110",
