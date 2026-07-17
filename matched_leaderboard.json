@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:34:08.862557+01:00",
+  "generated_at": "2026-07-17T20:35:06.781159+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -148,7 +148,7 @@
       "position": "T8",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -768,7 +768,7 @@
       "position": "T66",
       "score": "+1",
       "score_num": 1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
@@ -1218,7 +1218,7 @@
       "position": "T107",
       "score": "+4",
       "score_num": 4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Frederic LaCroix",
       "owner": "",
       "owner_redraw": "",
