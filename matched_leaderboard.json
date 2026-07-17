@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:56:06.267398+01:00",
+  "generated_at": "2026-07-17T15:57:06.300077+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -355,16 +355,6 @@
       "order": 35
     },
     {
-      "position": "T37",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "2",
-      "golfer": "Nick Taylor",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 36
-    },
-    {
       "position": "T22",
       "score": "-2",
       "score_num": -2,
@@ -375,7 +365,17 @@
       "order": 37
     },
     {
-      "position": "T38",
+      "position": "T37",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "2",
+      "golfer": "Nick Taylor",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 36
+    },
+    {
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
