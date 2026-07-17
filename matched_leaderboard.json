@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:45:06.989064+01:00",
+  "generated_at": "2026-07-17T16:46:06.901185+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1455,9 +1455,9 @@
       "order": 144
     },
     {
-      "position": "T140",
-      "score": "+7",
-      "score_num": 7,
+      "position": "T145",
+      "score": "+8",
+      "score_num": 8,
       "thru": "CUT",
       "golfer": "Jeong-Woo Ham",
       "owner": "",
@@ -1465,7 +1465,7 @@
       "order": 145
     },
     {
-      "position": "146",
+      "position": "T145",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
