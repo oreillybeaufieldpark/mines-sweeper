@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:23:06.378541+01:00",
+  "generated_at": "2026-07-17T13:24:06.382172+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -485,7 +485,17 @@
       "order": 49
     },
     {
-      "position": "T49",
+      "position": "T32",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "14",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 58
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -495,7 +505,7 @@
       "order": 35
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,17 +585,7 @@
       "order": 57
     },
     {
-      "position": "T49",
-      "score": "E",
-      "score_num": 0,
-      "thru": "13",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 58
-    },
-    {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -1185,7 +1185,17 @@
       "order": 119
     },
     {
-      "position": "T119",
+      "position": "T112",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "3",
+      "golfer": "Martin Couvra",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 130
+    },
+    {
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1195,7 +1205,7 @@
       "order": 120
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1205,7 +1215,7 @@
       "order": 121
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1215,7 +1225,7 @@
       "order": 122
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1225,7 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1235,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "10",
@@ -1245,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1255,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "7",
@@ -1265,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "5",
@@ -1275,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "5",
@@ -1285,17 +1295,7 @@
       "order": 129
     },
     {
-      "position": "T119",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "2",
-      "golfer": "Martin Couvra",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 130
-    },
-    {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "13:20",
@@ -1305,7 +1305,7 @@
       "order": 131
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "13:42",
@@ -1315,7 +1315,7 @@
       "order": 132
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1325,7 +1325,7 @@
       "order": 133
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1335,7 +1335,7 @@
       "order": 134
     },
     {
-      "position": "T119",
+      "position": "T120",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
