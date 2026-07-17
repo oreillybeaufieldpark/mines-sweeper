@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:27:07.347017+01:00",
+  "generated_at": "2026-07-17T11:28:07.197068+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T3",
       "score": "-4",
       "score_num": -4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "",
@@ -48,7 +48,7 @@
       "position": "T3",
       "score": "-4",
       "score_num": -4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "",
@@ -78,7 +78,7 @@
       "position": "T3",
       "score": "-4",
       "score_num": -4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -368,7 +368,7 @@
       "position": "T31",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "",
@@ -508,7 +508,7 @@
       "position": "T44",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
@@ -748,7 +748,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
@@ -1128,7 +1128,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Tim Wiedemeyer",
       "owner": "",
       "owner_redraw": "",
@@ -1258,7 +1258,7 @@
       "position": "T126",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Nicolai H\u00f8jgaard",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -1535,7 +1535,17 @@
       "order": 153
     },
     {
-      "position": "154",
+      "position": "T152",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Padraig Harrington",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 156
+    },
+    {
+      "position": "155",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1545,7 +1555,7 @@
       "order": 154
     },
     {
-      "position": "T155",
+      "position": "156",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1553,16 +1563,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 155
-    },
-    {
-      "position": "T155",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Padraig Harrington",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 156
     }
   ]
 }
