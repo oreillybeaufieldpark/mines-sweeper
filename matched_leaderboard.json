@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:35:07.547345+01:00",
+  "generated_at": "2026-07-17T10:36:07.191059+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T43",
       "score": "E",
       "score_num": 0,
-      "thru": "10:20",
+      "thru": "1",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
@@ -1078,7 +1078,7 @@
       "position": "T89",
       "score": "+2",
       "score_num": 2,
-      "thru": "10:20",
+      "thru": "1",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "",
