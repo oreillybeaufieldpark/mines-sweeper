@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:13:07.177805+01:00",
+  "generated_at": "2026-07-17T18:14:07.123013+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -658,7 +658,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Antoine Rozner",
       "owner": "",
       "owner_redraw": "",
@@ -1435,7 +1435,7 @@
       "order": 142
     },
     {
-      "position": "143",
+      "position": "T143",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1445,7 +1445,17 @@
       "order": 143
     },
     {
-      "position": "T144",
+      "position": "T143",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Scott Vincent",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 148
+    },
+    {
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1455,7 +1465,7 @@
       "order": 144
     },
     {
-      "position": "T144",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1465,7 +1475,7 @@
       "order": 145
     },
     {
-      "position": "T144",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1475,7 +1485,7 @@
       "order": 146
     },
     {
-      "position": "T144",
+      "position": "T145",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1483,16 +1493,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 147
-    },
-    {
-      "position": "T144",
-      "score": "+9",
-      "score_num": 9,
-      "thru": "CUT",
-      "golfer": "Scott Vincent",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 148
     },
     {
       "position": "T149",
@@ -1536,8 +1536,8 @@
     },
     {
       "position": "153",
-      "score": "+12",
-      "score_num": 12,
+      "score": "+11",
+      "score_num": 11,
       "thru": "CUT",
       "golfer": "Ren Yonezawa",
       "owner": "",
