@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:38:06.887227+01:00",
+  "generated_at": "2026-07-17T15:39:06.986138+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T4",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -778,7 +778,7 @@
       "position": "T73",
       "score": "+1",
       "score_num": 1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Tom McKibbin",
       "owner": "",
       "owner_redraw": "",
@@ -1289,16 +1289,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Tim Wiedemeyer",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 129
-    },
-    {
-      "position": "T126",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Alistair Docherty",
       "owner": "",
       "owner_redraw": "",
@@ -1355,6 +1345,16 @@
       "order": 136
     },
     {
+      "position": "T126",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Lev Grinberg",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 141
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1363,6 +1363,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 156
+    },
+    {
+      "position": "T136",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Tim Wiedemeyer",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 129
     },
     {
       "position": "T136",
@@ -1413,16 +1423,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 140
-    },
-    {
-      "position": "T136",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Lev Grinberg",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 141
     },
     {
       "position": "T136",
