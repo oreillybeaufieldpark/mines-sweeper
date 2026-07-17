@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:58:07.169975+01:00",
+  "generated_at": "2026-07-17T17:59:07.103830+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -948,7 +948,7 @@
       "position": "T78",
       "score": "+2",
       "score_num": 2,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Akshay Bhatia",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
