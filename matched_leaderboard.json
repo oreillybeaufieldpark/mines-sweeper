@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:25:06.612864+01:00",
+  "generated_at": "2026-07-17T11:26:06.259727+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -635,7 +635,17 @@
       "order": 67
     },
     {
-      "position": "T64",
+      "position": "T44",
+      "score": "E",
+      "score_num": 0,
+      "thru": "2",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 76
+    },
+    {
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -645,7 +655,7 @@
       "order": 63
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -655,7 +665,7 @@
       "order": 64
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -665,7 +675,7 @@
       "order": 65
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -675,7 +685,7 @@
       "order": 66
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -695,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -705,17 +715,17 @@
       "order": 71
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "",
       "order": 72
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -725,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -735,7 +745,7 @@
       "order": 74
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -745,17 +755,7 @@
       "order": 75
     },
     {
-      "position": "T64",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "1",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 76
-    },
-    {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "12:14",
@@ -765,7 +765,7 @@
       "order": 77
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "12:25",
@@ -775,7 +775,7 @@
       "order": 78
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "12:58",
@@ -785,7 +785,7 @@
       "order": 79
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -795,7 +795,7 @@
       "order": 80
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -805,7 +805,7 @@
       "order": 81
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13:20",
@@ -815,7 +815,7 @@
       "order": 82
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "13:53",
@@ -825,7 +825,7 @@
       "order": 83
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14:09",
@@ -835,7 +835,7 @@
       "order": 84
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -845,7 +845,7 @@
       "order": 85
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -855,7 +855,7 @@
       "order": 86
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -865,7 +865,7 @@
       "order": 87
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -875,7 +875,7 @@
       "order": 88
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -885,7 +885,7 @@
       "order": 89
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -895,7 +895,7 @@
       "order": 90
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -1148,7 +1148,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Sam Bairstow",
       "owner": "",
       "owner_redraw": "",
