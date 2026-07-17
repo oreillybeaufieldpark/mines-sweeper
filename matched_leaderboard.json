@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:44:06.439410+01:00",
+  "generated_at": "2026-07-17T13:45:06.332785+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "",
@@ -928,7 +928,7 @@
       "position": "T84",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Aaron Rai",
       "owner": "Simon Smyth",
       "owner_redraw": "",
