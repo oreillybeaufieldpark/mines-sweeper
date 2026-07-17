@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:22:06.808694+01:00",
+  "generated_at": "2026-07-17T19:23:06.823352+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -498,7 +498,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -959,16 +959,6 @@
       "score": "+2",
       "score_num": 2,
       "thru": "16",
-      "golfer": "Akshay Bhatia",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "",
-      "order": 96
-    },
-    {
-      "position": "T80",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "16",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "",
@@ -995,7 +985,17 @@
       "order": 106
     },
     {
-      "position": "T100",
+      "position": "T99",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "17",
+      "golfer": "Akshay Bhatia",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "",
+      "order": 96
+    },
+    {
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -1005,7 +1005,7 @@
       "order": 99
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 101
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "12",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -1085,7 +1085,7 @@
       "order": 108
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T100",
+      "position": "T99",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1218,6 +1218,16 @@
       "position": "T111",
       "score": "+4",
       "score_num": 4,
+      "thru": "16",
+      "golfer": "Viktor Hovland",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 122
+    },
+    {
+      "position": "T111",
+      "score": "+4",
+      "score_num": 4,
       "thru": "13",
       "golfer": "Jordan Spieth",
       "owner": "Richard Kendrick",
@@ -1225,17 +1235,7 @@
       "order": 123
     },
     {
-      "position": "T123",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Viktor Hovland",
-      "owner": "Donal Brogan",
-      "owner_redraw": "",
-      "order": 122
-    },
-    {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1245,7 @@
       "order": 124
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T123",
+      "position": "T124",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
