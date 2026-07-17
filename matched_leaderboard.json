@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:22:07.618860+01:00",
+  "generated_at": "2026-07-17T10:23:06.507560+01:00",
   "players": [
     {
       "position": "T1",
@@ -49,7 +49,16 @@
       "order": 5
     },
     {
-      "position": "T6",
+      "position": "T1",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "5",
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "order": 7
+    },
+    {
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -58,16 +67,7 @@
       "order": 6
     },
     {
-      "position": "T6",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "3",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "order": 7
-    },
-    {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -76,7 +76,7 @@
       "order": 8
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -85,7 +85,7 @@
       "order": 9
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "11:41",
@@ -94,7 +94,7 @@
       "order": 10
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "12:25",
@@ -103,7 +103,7 @@
       "order": 11
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "13:09",
@@ -112,7 +112,7 @@
       "order": 12
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "14:09",
@@ -121,7 +121,7 @@
       "order": 13
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "15:04",
@@ -130,7 +130,7 @@
       "order": 14
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "15:37",
@@ -139,7 +139,7 @@
       "order": 15
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-3",
       "score_num": -3,
       "thru": "16:10",
@@ -295,7 +295,7 @@
       "position": "T29",
       "score": "-1",
       "score_num": -1,
-      "thru": "12:25",
+      "thru": "1",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "order": 35
@@ -943,7 +943,7 @@
       "position": "T89",
       "score": "+2",
       "score_num": 2,
-      "thru": "10:09",
+      "thru": "1",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "order": 106
