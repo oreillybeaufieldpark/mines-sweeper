@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:25:06.518992+01:00",
+  "generated_at": "2026-07-17T12:26:06.293289+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -98,7 +98,7 @@
       "position": "T10",
       "score": "-3",
       "score_num": -3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -1489,20 +1489,20 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
-      "golfer": "Matthew Jordan",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 149
-    },
-    {
-      "position": "T149",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
       "golfer": "Jeong-Woo Ham",
       "owner": "",
       "owner_redraw": "",
       "order": 150
+    },
+    {
+      "position": "T149",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Matthew Jordan",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 149
     },
     {
       "position": "T151",
