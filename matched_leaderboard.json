@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:23:06.806950+01:00",
+  "generated_at": "2026-07-17T12:24:06.505819+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T4",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "",
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -388,7 +388,7 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -479,13 +479,23 @@
       "score": "-1",
       "score_num": -1,
       "thru": "11",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 58
+    },
+    {
+      "position": "T35",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "11",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "",
       "order": 59
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +505,7 @@
       "order": 48
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 49
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 50
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 51
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 52
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 53
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -555,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -565,27 +575,17 @@
       "order": 55
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "13",
       "golfer": "Jesper Svensson",
       "owner": "",
       "owner_redraw": "",
       "order": 56
     },
     {
-      "position": "T49",
-      "score": "E",
-      "score_num": 0,
-      "thru": "10",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 58
-    },
-    {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -595,7 +595,7 @@
       "order": 60
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -605,7 +605,7 @@
       "order": 61
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -615,7 +615,7 @@
       "order": 62
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -625,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -635,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -645,7 +645,7 @@
       "order": 65
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -655,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -665,7 +665,7 @@
       "order": 67
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -675,7 +675,7 @@
       "order": 68
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -685,7 +685,7 @@
       "order": 69
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
