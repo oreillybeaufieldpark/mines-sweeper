@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:00:07.047414+01:00",
+  "generated_at": "2026-07-17T17:01:06.327692+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -368,16 +368,6 @@
       "position": "T24",
       "score": "-2",
       "score_num": -2,
-      "thru": "4",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
-      "owner_redraw": "",
-      "order": 37
-    },
-    {
-      "position": "T24",
-      "score": "-2",
-      "score_num": -2,
       "thru": "3",
       "golfer": "Antoine Rozner",
       "owner": "",
@@ -385,7 +375,17 @@
       "order": 38
     },
     {
-      "position": "T39",
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "",
+      "order": 37
+    },
+    {
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,10 +485,10 @@
       "order": 48
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "",
@@ -608,7 +608,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -1198,6 +1198,16 @@
       "position": "T112",
       "score": "+4",
       "score_num": 4,
+      "thru": "17",
+      "golfer": "Joe Dean",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T112",
+      "score": "+4",
+      "score_num": 4,
       "thru": "8",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
@@ -1205,7 +1215,7 @@
       "order": 127
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1215,7 +1225,7 @@
       "order": 119
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 121
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 122
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,17 +1255,7 @@
       "order": 123
     },
     {
-      "position": "T121",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Joe Dean",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 124
-    },
-    {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1265,7 +1265,7 @@
       "order": 126
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1275,7 +1275,7 @@
       "order": 128
     },
     {
-      "position": "T121",
+      "position": "T122",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
