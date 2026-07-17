@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:12:07.131902+01:00",
+  "generated_at": "2026-07-17T17:13:07.002127+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -338,7 +338,7 @@
       "position": "T24",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
@@ -648,7 +648,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "",
