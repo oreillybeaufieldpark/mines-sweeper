@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T20:05:07.550444+01:00",
+  "generated_at": "2026-07-17T20:06:06.520049+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1198,7 +1198,7 @@
       "position": "T109",
       "score": "+4",
       "score_num": 4,
-      "thru": "16",
+      "thru": "F",
       "golfer": "Viktor Hovland",
       "owner": "Donal Brogan",
       "owner_redraw": "",
