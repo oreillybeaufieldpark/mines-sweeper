@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:06:06.959516+01:00",
+  "generated_at": "2026-07-17T14:07:06.772556+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -68,16 +68,6 @@
       "position": "T5",
       "score": "-4",
       "score_num": -4,
-      "thru": "15",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "",
-      "order": 7
-    },
-    {
-      "position": "T5",
-      "score": "-4",
-      "score_num": -4,
       "thru": "4",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
@@ -95,7 +85,17 @@
       "order": 9
     },
     {
-      "position": "T10",
+      "position": "T9",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "16",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "",
+      "order": 7
+    },
+    {
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "11",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "6",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "14:09",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "15:04",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "15:37",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "16:10",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T10",
+      "position": "T9",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -268,7 +268,7 @@
       "position": "T23",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "",
@@ -465,7 +465,17 @@
       "order": 46
     },
     {
-      "position": "T47",
+      "position": "T33",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "17",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 55
+    },
+    {
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,17 +555,7 @@
       "order": 54
     },
     {
-      "position": "T47",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 55
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
