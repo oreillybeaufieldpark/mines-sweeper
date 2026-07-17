@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:39:07.183675+01:00",
+  "generated_at": "2026-07-17T14:40:07.287324+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -398,21 +398,11 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "",
       "order": 40
-    },
-    {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 41
     },
     {
       "position": "T35",
@@ -515,6 +505,26 @@
       "order": 51
     },
     {
+      "position": "T35",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "15",
+      "golfer": "Jacob Bridgeman",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 62
+    },
+    {
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "14",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 41
+    },
+    {
       "position": "T52",
       "score": "E",
       "score_num": 0,
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -613,16 +623,6 @@
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
       "order": 61
-    },
-    {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "14",
-      "golfer": "Jacob Bridgeman",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 62
     },
     {
       "position": "T52",
