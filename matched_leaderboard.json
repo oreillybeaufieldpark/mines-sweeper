@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:15:07.360894+01:00",
+  "generated_at": "2026-07-17T15:16:07.419164+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -495,7 +495,17 @@
       "order": 60
     },
     {
-      "position": "T50",
+      "position": "T35",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "7",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 65
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -505,7 +515,7 @@
       "order": 41
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +585,7 @@
       "order": 56
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +595,7 @@
       "order": 57
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +605,7 @@
       "order": 58
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -605,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -615,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -625,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -635,17 +645,7 @@
       "order": 64
     },
     {
-      "position": "T50",
-      "score": "E",
-      "score_num": 0,
-      "thru": "6",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 65
-    },
-    {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -655,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -665,7 +665,7 @@
       "order": 67
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -675,7 +675,7 @@
       "order": 68
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -685,7 +685,7 @@
       "order": 70
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -695,7 +695,7 @@
       "order": 71
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -748,7 +748,7 @@
       "position": "T71",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "",
@@ -1505,7 +1505,7 @@
       "order": 149
     },
     {
-      "position": "150",
+      "position": "T150",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1515,7 +1515,17 @@
       "order": 150
     },
     {
-      "position": "T151",
+      "position": "T150",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Francesco Laporta",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 153
+    },
+    {
+      "position": "T152",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1525,7 +1535,7 @@
       "order": 151
     },
     {
-      "position": "T151",
+      "position": "T152",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1533,16 +1543,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 152
-    },
-    {
-      "position": "T151",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Francesco Laporta",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 153
     },
     {
       "position": "154",
