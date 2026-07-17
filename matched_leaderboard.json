@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:31:06.357865+01:00",
+  "generated_at": "2026-07-17T17:32:06.440064+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -328,7 +328,7 @@
       "position": "T23",
       "score": "-2",
       "score_num": -2,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
@@ -918,16 +918,6 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "12",
-      "golfer": "Travis Smyth",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 93
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
       "thru": "11",
       "golfer": "Akshay Bhatia",
       "owner": "Fergal O'Reilly",
@@ -985,7 +975,7 @@
       "order": 101
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -995,7 +985,17 @@
       "order": 92
     },
     {
-      "position": "T99",
+      "position": "T98",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Travis Smyth",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 93
+    },
+    {
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "4",
@@ -1005,7 +1005,7 @@
       "order": 102
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1015,7 @@
       "order": 103
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1025,7 @@
       "order": 104
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1035,7 @@
       "order": 105
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 106
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1055,7 +1055,7 @@
       "order": 107
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -1065,7 +1065,7 @@
       "order": 108
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1075,7 +1075,7 @@
       "order": 109
     },
     {
-      "position": "T99",
+      "position": "T98",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
