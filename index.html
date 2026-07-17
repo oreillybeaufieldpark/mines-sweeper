@@ -96,8 +96,8 @@ table.has-redraw .player{width:90px}
   <th class="scr">Scr</th>
   <th class="thru">Thru</th>
   <th class="player">Player</th>
-  <th class="owner">Owner</th>
   <th class="redraw redrawCol">Redraw</th>
+  <th class="owner">Owner</th>
 </tr>
 </thead>
 
@@ -157,9 +157,9 @@ async function loadBoard(){
 
         <td class="player">${r.golfer || ''}</td>
 
-        <td class="owner">${r.owner || ''}</td>
-
         <td class="redraw redrawCol">${r.owner_redraw || ''}</td>
+
+        <td class="owner">${r.owner || ''}</td>
 
       </tr>
     `;
