@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:42:06.567488+01:00",
+  "generated_at": "2026-07-17T19:43:06.379842+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -118,7 +118,7 @@
       "position": "T6",
       "score": "-4",
       "score_num": -4,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -1098,7 +1098,7 @@
       "position": "T99",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Alejandro de Castro Piera",
       "owner": "",
       "owner_redraw": "",
