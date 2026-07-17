@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:27:06.350715+01:00",
+  "generated_at": "2026-07-17T14:28:06.807974+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -938,7 +938,7 @@
       "position": "T87",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "J.T. Poston",
       "owner": "",
       "owner_redraw": "",
@@ -968,7 +968,7 @@
       "position": "T87",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "David Duval",
       "owner": "",
       "owner_redraw": "",
@@ -1278,7 +1278,7 @@
       "position": "T119",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Martin Couvra",
       "owner": "",
       "owner_redraw": "",
