@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:22:07.050719+01:00",
+  "generated_at": "2026-07-17T14:23:06.788279+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -345,7 +345,17 @@
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T23",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "5",
+      "golfer": "Jordan Smith",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 44
+    },
+    {
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -438,16 +448,6 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
-      "golfer": "Jordan Smith",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 44
-    },
-    {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
       "thru": "2",
       "golfer": "Victor Perez",
       "owner": "",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -598,7 +598,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
