@@ -12,6 +12,8 @@ LEAGUE = CONFIG.get("sport_league", "pga")
 OWNERS_FILE = Path(CONFIG["owners_file"])
 REDRAW_FILE = Path(CONFIG.get("redraw_owners_file", "owners_redraw.csv"))
 
+STILL_PLAYING = {"STATUS_IN_PROGRESS", "STATUS_SCHEDULED"}
+
 def main():
     owners_df = pd.read_csv(OWNERS_FILE).dropna(subset=["Golfer"])
     owner_slots = [str(o).strip() for o in owners_df["Owner"]]
@@ -19,13 +21,22 @@ def main():
 
     espn_rows = load_espn_players(EVENT_ID, LEAGUE)
 
-    made_cut = [r for r in espn_rows if r["thru"] != "CUT"]
+    unfinished = [r["espn_name"] for r in espn_rows if r["status_type"] in STILL_PLAYING]
+    if unfinished:
+        raise SystemExit(
+            "The cut isn't official yet - these players are still playing "
+            f"or haven't teed off: {', '.join(unfinished[:10])}"
+            + (f" (+{len(unfinished) - 10} more)" if len(unfinished) > 10 else "")
+        )
+
+    made_cut = [r for r in espn_rows if r["status_type"] != "STATUS_CUT"]
     made_cut.sort(key=lambda r: (r["score_num"], r["order"]))
+
+    print(f"{len(made_cut)} of {len(espn_rows)} players made the cut (per ESPN's own cut status)\n")
 
     if len(made_cut) < top_n:
         raise SystemExit(
-            f"Only {len(made_cut)} players have made the cut so far, "
-            f"need {top_n}. Wait until the cut is final before running this."
+            f"Only {len(made_cut)} players made the cut, need {top_n}."
         )
 
     field = made_cut[:top_n]

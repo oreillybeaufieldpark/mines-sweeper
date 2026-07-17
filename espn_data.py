@@ -53,6 +53,15 @@ def irish_tee_time(status):
     except Exception:
         return ""
 
+# ESPN's API never exposes an actual "missed cut" flag - a golfer who
+# missed by 20 shots gets the identical STATUS_FINISH as the winner,
+# even after the event is fully over. This guess is only for the
+# cosmetic "CUT" tag on the live, still-in-progress board. It must
+# NOT be trusted for anything that affects real outcomes - use the
+# real cut rule (see redraw_owners.py) plus each player's genuine
+# "completed" flag for that.
+COSMETIC_CUT_GUESS = 4
+
 def display_thru(status, score_display):
     typ = status.get("type", {})
     state = typ.get("state")
@@ -65,7 +74,7 @@ def display_thru(status, score_display):
     except:
         score_num = 999
 
-    if score_num > 4:
+    if score_num > COSMETIC_CUT_GUESS:
         return "CUT"
 
     if typ.get("completed"):
@@ -94,6 +103,12 @@ def load_one(item):
             status,
             score.get("displayValue", "")
         ),
+        # Genuine signal (unlike the CUT guess above): ESPN applies
+        # this once the actual cut is official - STATUS_CUT for
+        # eliminated players, STATUS_FINISH for anyone still in it
+        # (whether their round is done or the whole event is over),
+        # STATUS_IN_PROGRESS / STATUS_SCHEDULED while still playing.
+        "status_type": status.get("type", {}).get("name", ""),
         "order": item.get("order", 9999),
     }
 
