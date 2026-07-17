@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:08:06.513570+01:00",
+  "generated_at": "2026-07-17T17:09:06.518134+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -118,7 +118,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "",
@@ -918,7 +918,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Tom McKibbin",
       "owner": "",
       "owner_redraw": "",
@@ -1215,7 +1215,17 @@
       "order": 121
     },
     {
-      "position": "T122",
+      "position": "T112",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "13",
+      "golfer": "Angel Ayora",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 126
+    },
+    {
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 122
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,7 +1245,7 @@
       "order": 123
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1255,7 @@
       "order": 124
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,17 +1265,7 @@
       "order": 125
     },
     {
-      "position": "T122",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Angel Ayora",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 126
-    },
-    {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1275,7 +1275,7 @@
       "order": 127
     },
     {
-      "position": "T122",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1505,7 +1505,17 @@
       "order": 149
     },
     {
-      "position": "T150",
+      "position": "T146",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Matthew Jordan",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 151
+    },
+    {
+      "position": "T151",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1515,17 +1525,7 @@
       "order": 150
     },
     {
-      "position": "T150",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Matthew Jordan",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 151
-    },
-    {
-      "position": "T150",
+      "position": "T151",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1535,7 +1535,7 @@
       "order": 152
     },
     {
-      "position": "T150",
+      "position": "T151",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
