@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:47:06.910974+01:00",
+  "generated_at": "2026-07-17T15:48:06.804510+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -148,7 +148,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "",
@@ -298,7 +298,7 @@
       "position": "T22",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "",
