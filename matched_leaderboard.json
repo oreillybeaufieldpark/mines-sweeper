@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:20:06.690699+01:00",
+  "generated_at": "2026-07-17T18:21:06.723884+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -665,7 +665,17 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "13",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "",
+      "order": 75
+    },
+    {
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -675,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -735,17 +745,7 @@
       "order": 73
     },
     {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "12",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "",
-      "order": 75
-    },
-    {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -755,7 +755,7 @@
       "order": 76
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -1195,7 +1195,17 @@
       "order": 119
     },
     {
-      "position": "T120",
+      "position": "T109",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "13",
+      "golfer": "Viktor Hovland",
+      "owner": "Donal Brogan",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1205,7 +1215,7 @@
       "order": 120
     },
     {
-      "position": "T120",
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1215,7 +1225,7 @@
       "order": 121
     },
     {
-      "position": "T120",
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1225,7 +1235,7 @@
       "order": 122
     },
     {
-      "position": "T120",
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1235,17 +1245,7 @@
       "order": 123
     },
     {
-      "position": "T120",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Viktor Hovland",
-      "owner": "Donal Brogan",
-      "owner_redraw": "",
-      "order": 124
-    },
-    {
-      "position": "T120",
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1255,7 @@
       "order": 125
     },
     {
-      "position": "T120",
+      "position": "T121",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1319,16 +1319,6 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Lev Grinberg",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 131
-    },
-    {
-      "position": "T127",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Mateo Pulcini",
       "owner": "",
       "owner_redraw": "",
@@ -1355,7 +1345,17 @@
       "order": 134
     },
     {
-      "position": "T135",
+      "position": "T134",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Lev Grinberg",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 131
+    },
+    {
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 135
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 136
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 137
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1395,7 +1395,7 @@
       "order": 138
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1405,7 +1405,7 @@
       "order": 139
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1415,7 +1415,7 @@
       "order": 140
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1425,7 +1425,7 @@
       "order": 141
     },
     {
-      "position": "T135",
+      "position": "T134",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
