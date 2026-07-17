@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:37:07.008071+01:00",
+  "generated_at": "2026-07-17T15:38:06.887227+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T11",
       "score": "-3",
       "score_num": -3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "",
@@ -328,7 +328,7 @@
       "position": "T22",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "",
@@ -408,7 +408,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
@@ -1556,8 +1556,8 @@
     },
     {
       "position": "155",
-      "score": "+12",
-      "score_num": 12,
+      "score": "+13",
+      "score_num": 13,
       "thru": "CUT",
       "golfer": "Fifa Laopakdee",
       "owner": "",
