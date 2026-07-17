@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:34:06.511705+01:00",
+  "generated_at": "2026-07-17T11:35:06.235437+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -348,7 +348,7 @@
       "position": "T31",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -1098,7 +1098,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "8",
+      "thru": "10",
       "golfer": "Jack Buchanan",
       "owner": "",
       "owner_redraw": "",
