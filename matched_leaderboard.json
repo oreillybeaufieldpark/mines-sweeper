@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:51:07.128245+01:00",
+  "generated_at": "2026-07-17T11:52:07.331115+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -348,7 +348,7 @@
       "position": "T31",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -1288,16 +1288,6 @@
       "position": "T124",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
-      "golfer": "Wyndham Clark",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 129
-    },
-    {
-      "position": "T124",
-      "score": "+4",
-      "score_num": 4,
       "thru": "3",
       "golfer": "Peter Uihlein",
       "owner": "",
@@ -1375,7 +1365,7 @@
       "order": 137
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1385,7 +1375,7 @@
       "order": 138
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1395,7 +1385,7 @@
       "order": 139
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1405,7 +1395,7 @@
       "order": 140
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1415,7 +1405,7 @@
       "order": 141
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1425,7 +1415,7 @@
       "order": 142
     },
     {
-      "position": "T138",
+      "position": "T137",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1435,7 +1425,17 @@
       "order": 143
     },
     {
-      "position": "T144",
+      "position": "T143",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Wyndham Clark",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 129
+    },
+    {
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1445,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1455,7 +1455,7 @@
       "order": 145
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1465,7 +1465,7 @@
       "order": 146
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1475,7 +1475,7 @@
       "order": 147
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
