@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:37:06.999987+01:00",
+  "generated_at": "2026-07-17T10:38:07.172726+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -275,7 +275,17 @@
       "order": 27
     },
     {
-      "position": "T28",
+      "position": "T18",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "2",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "",
+      "order": 36
+    },
+    {
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -285,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -295,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -305,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -355,17 +365,7 @@
       "order": 35
     },
     {
-      "position": "T28",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "1",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "",
-      "order": 36
-    },
-    {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -718,7 +718,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
