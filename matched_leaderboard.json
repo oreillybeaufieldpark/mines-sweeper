@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:13:07.002127+01:00",
+  "generated_at": "2026-07-17T17:14:07.026817+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -128,7 +128,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "",
@@ -348,24 +348,24 @@
       "position": "T24",
       "score": "-2",
       "score_num": -2,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
       "order": 35
     },
     {
-      "position": "T24",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "5",
+      "position": "T36",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "7",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "",
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -495,7 +495,7 @@
       "order": 61
     },
     {
-      "position": "T37",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -638,7 +638,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -938,7 +938,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
@@ -1018,7 +1018,7 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "",
@@ -1198,7 +1198,7 @@
       "position": "T110",
       "score": "+4",
       "score_num": 4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Justin Rose",
       "owner": "Colm Geary",
       "owner_redraw": "",
