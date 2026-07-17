@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:16:07.419164+01:00",
+  "generated_at": "2026-07-17T15:17:07.233851+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -345,7 +345,17 @@
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T22",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 39
+    },
+    {
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -385,27 +395,17 @@
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 39
-    },
-    {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "",
       "order": 40
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -415,7 +415,7 @@
       "order": 42
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -425,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -435,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -445,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -455,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -495,7 +495,7 @@
       "order": 60
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -1118,7 +1118,7 @@
       "position": "T103",
       "score": "+3",
       "score_num": 3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Kota Kaneko",
       "owner": "",
       "owner_redraw": "",
