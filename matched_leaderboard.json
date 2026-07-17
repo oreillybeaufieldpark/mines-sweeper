@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:46:07.006808+01:00",
+  "generated_at": "2026-07-17T15:47:06.910974+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -408,7 +408,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -438,7 +438,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
