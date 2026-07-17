@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:57:06.873810+01:00",
+  "generated_at": "2026-07-17T14:58:07.015848+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -758,16 +758,6 @@
       "position": "T73",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
-      "golfer": "Aaron Rai",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 75
-    },
-    {
-      "position": "T73",
-      "score": "+1",
-      "score_num": 1,
       "thru": "10",
       "golfer": "Henrik Stenson",
       "owner": "",
@@ -855,7 +845,17 @@
       "order": 85
     },
     {
-      "position": "T86",
+      "position": "T85",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Aaron Rai",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 75
+    },
+    {
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -865,7 +865,7 @@
       "order": 86
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -875,7 +875,7 @@
       "order": 87
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -885,7 +885,7 @@
       "order": 88
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -895,7 +895,7 @@
       "order": 89
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -905,7 +905,7 @@
       "order": 90
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -915,7 +915,7 @@
       "order": 91
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -925,7 +925,7 @@
       "order": 92
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -935,7 +935,7 @@
       "order": 93
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,7 +945,7 @@
       "order": 94
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -955,7 +955,7 @@
       "order": 95
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -965,7 +965,7 @@
       "order": 96
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "5",
@@ -975,7 +975,7 @@
       "order": 97
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -985,7 +985,7 @@
       "order": 98
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -995,7 +995,7 @@
       "order": 99
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1005,7 +1005,7 @@
       "order": 100
     },
     {
-      "position": "T86",
+      "position": "T85",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
