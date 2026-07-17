@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:39:06.986138+01:00",
+  "generated_at": "2026-07-17T15:40:07.094209+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T6",
       "score": "-4",
       "score_num": -4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "",
@@ -448,7 +448,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Joakim Lagergren",
       "owner": "",
       "owner_redraw": "",
@@ -758,7 +758,7 @@
       "position": "T73",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "",
