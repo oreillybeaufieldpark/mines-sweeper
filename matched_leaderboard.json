@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:07:06.328024+01:00",
+  "generated_at": "2026-07-17T15:08:06.190742+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -78,16 +78,6 @@
       "position": "T6",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "",
-      "order": 8
-    },
-    {
-      "position": "T6",
-      "score": "-4",
-      "score_num": -4,
       "thru": "7",
       "golfer": "Francesco Molinari",
       "owner": "",
@@ -115,7 +105,17 @@
       "order": 11
     },
     {
-      "position": "T12",
+      "position": "T11",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "",
+      "order": 8
+    },
+    {
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "15:04",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "15:37",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-3",
       "score_num": -3,
       "thru": "16:10",
@@ -428,7 +428,7 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
