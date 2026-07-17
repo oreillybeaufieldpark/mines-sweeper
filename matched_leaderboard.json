@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T15:18:06.170941+01:00",
+  "generated_at": "2026-07-17T15:19:07.298961+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -418,7 +418,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "",
@@ -438,7 +438,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -668,7 +668,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Viktor Hovland",
       "owner": "Donal Brogan",
       "owner_redraw": "",
@@ -1238,16 +1238,6 @@
       "position": "T116",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
-      "golfer": "David Duval",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 124
-    },
-    {
-      "position": "T116",
-      "score": "+4",
-      "score_num": 4,
       "thru": "5",
       "golfer": "Mateo Pulcini",
       "owner": "",
@@ -1295,7 +1285,17 @@
       "order": 134
     },
     {
-      "position": "T130",
+      "position": "T129",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "David Duval",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 124
+    },
+    {
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1305,7 +1305,7 @@
       "order": 129
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1315,7 +1315,7 @@
       "order": 130
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1325,7 +1325,7 @@
       "order": 131
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1335,7 +1335,7 @@
       "order": 132
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1345,7 +1345,7 @@
       "order": 133
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 135
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 136
     },
     {
-      "position": "T130",
+      "position": "T129",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
