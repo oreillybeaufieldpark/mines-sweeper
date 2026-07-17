@@ -89,7 +89,7 @@ table.has-redraw .player{width:90px}
 
 <div id="updated">Loading...</div>
 
-<table>
+<table id="table">
 <thead>
 <tr>
   <th class="pos">Pos</th>
@@ -97,6 +97,7 @@ table.has-redraw .player{width:90px}
   <th class="thru">Thru</th>
   <th class="player">Player</th>
   <th class="owner">Owner</th>
+  <th class="redraw redrawCol">Redraw</th>
 </tr>
 </thead>
 
@@ -115,13 +116,20 @@ async function loadBoard(){
 
   const data = await res.json();
   const players = data.players || [];
+  const hasRedraw = !!data.has_redraw;
 
   if (data.page_title) {
     document.title = data.page_title;
     title.textContent = data.page_title;
   }
 
-  const owned = players.filter(r => r.owner);
+  table.classList.toggle('has-redraw', hasRedraw);
+
+  // Once a redraw exists it's the authoritative list, so the leader
+  // flash follows it; only the original list matters before that.
+  const leaderField = hasRedraw ? 'owner_redraw' : 'owner';
+
+  const owned = players.filter(r => r[leaderField]);
 
   const bestOwnedScore = owned.length
     ? Math.min(...owned.map(r => Number(r.score_num)))
@@ -129,7 +137,7 @@ async function loadBoard(){
 
   board.innerHTML = players.map(r => {
 
-    const isOwned = !!r.owner;
+    const isOwned = !!r[leaderField];
 
     const isLeader =
       isOwned &&
@@ -150,6 +158,8 @@ async function loadBoard(){
         <td class="player">${r.golfer || ''}</td>
 
         <td class="owner">${r.owner || ''}</td>
+
+        <td class="redraw redrawCol">${r.owner_redraw || ''}</td>
 
       </tr>
     `;

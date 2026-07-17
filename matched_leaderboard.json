@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T10:34:07.162973+01:00",
+  "generated_at": "2026-07-17T10:35:07.547345+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -318,7 +318,7 @@
       "position": "T28",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -338,7 +338,7 @@
       "position": "T28",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "",
@@ -668,16 +668,6 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
-      "golfer": "Billy Horschel",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 67
-    },
-    {
-      "position": "T61",
-      "score": "+1",
-      "score_num": 1,
       "thru": "6",
       "golfer": "Aldrich Potgieter",
       "owner": "",
@@ -698,7 +688,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "J.T. Poston",
       "owner": "",
       "owner_redraw": "",
@@ -895,7 +885,17 @@
       "order": 89
     },
     {
-      "position": "T90",
+      "position": "T89",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "7",
+      "golfer": "Billy Horschel",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 67
+    },
+    {
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -905,7 +905,7 @@
       "order": 90
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
@@ -915,7 +915,7 @@
       "order": 91
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -925,17 +925,17 @@
       "order": 92
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Keita Nakajima",
       "owner": "",
       "owner_redraw": "",
       "order": 93
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -945,7 +945,7 @@
       "order": 95
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -955,7 +955,7 @@
       "order": 96
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -965,7 +965,7 @@
       "order": 97
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -975,7 +975,7 @@
       "order": 98
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "11:41",
@@ -985,7 +985,7 @@
       "order": 99
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "11:52",
@@ -995,7 +995,7 @@
       "order": 100
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "12:03",
@@ -1005,7 +1005,7 @@
       "order": 101
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "12:14",
@@ -1015,7 +1015,7 @@
       "order": 102
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "13:31",
@@ -1025,7 +1025,7 @@
       "order": 103
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "13:53",
@@ -1035,7 +1035,7 @@
       "order": 104
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "14:31",
@@ -1045,7 +1045,7 @@
       "order": 105
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "15:59",
@@ -1055,7 +1055,7 @@
       "order": 106
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "16:10",
@@ -1065,7 +1065,7 @@
       "order": 107
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "10:09",
@@ -1075,7 +1075,7 @@
       "order": 108
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "10:20",
@@ -1085,7 +1085,7 @@
       "order": 109
     },
     {
-      "position": "T90",
+      "position": "T89",
       "score": "+2",
       "score_num": 2,
       "thru": "10:53",
@@ -1389,16 +1389,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Tiger Christensen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 139
-    },
-    {
-      "position": "T139",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Harry Hall",
       "owner": "",
       "owner_redraw": "",
@@ -1455,7 +1445,7 @@
       "order": 145
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1465,7 +1455,7 @@
       "order": 146
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1475,7 +1465,7 @@
       "order": 147
     },
     {
-      "position": "T146",
+      "position": "T145",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1485,7 +1475,7 @@
       "order": 148
     },
     {
-      "position": "T149",
+      "position": "T148",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1495,7 +1485,7 @@
       "order": 149
     },
     {
-      "position": "T149",
+      "position": "T148",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1505,7 +1495,7 @@
       "order": 150
     },
     {
-      "position": "T149",
+      "position": "T148",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1515,7 +1505,17 @@
       "order": 151
     },
     {
-      "position": "T152",
+      "position": "T151",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Tiger Christensen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 139
+    },
+    {
+      "position": "T151",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1525,7 +1525,7 @@
       "order": 152
     },
     {
-      "position": "T152",
+      "position": "T151",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
