@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:16:07.073282+01:00",
+  "generated_at": "2026-07-17T19:17:07.058022+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -198,7 +198,7 @@
       "position": "T13",
       "score": "-3",
       "score_num": -3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "",
@@ -638,7 +638,7 @@
       "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "",
