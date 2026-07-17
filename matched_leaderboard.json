@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T17:20:06.654388+01:00",
+  "generated_at": "2026-07-17T17:21:06.459786+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,16 +458,6 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
-      "golfer": "Joakim Lagergren",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 47
-    },
-    {
-      "position": "T36",
-      "score": "-1",
-      "score_num": -1,
       "thru": "5",
       "golfer": "Nick Taylor",
       "owner": "",
@@ -505,7 +495,7 @@
       "order": 64
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +505,17 @@
       "order": 46
     },
     {
-      "position": "T51",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "13",
+      "golfer": "Joakim Lagergren",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 47
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 57
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 58
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 59
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -625,7 +625,7 @@
       "order": 60
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -635,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -645,7 +645,7 @@
       "order": 63
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -665,7 +665,7 @@
       "order": 73
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -675,7 +675,7 @@
       "order": 74
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -958,16 +958,6 @@
       "position": "T79",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "",
-      "order": 98
-    },
-    {
-      "position": "T79",
-      "score": "+2",
-      "score_num": 2,
       "thru": "8",
       "golfer": "Alex Noren",
       "owner": "",
@@ -1035,7 +1025,7 @@
       "order": 111
     },
     {
-      "position": "T104",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -1045,7 +1035,7 @@
       "order": 93
     },
     {
-      "position": "T104",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1055,7 +1045,17 @@
       "order": 95
     },
     {
-      "position": "T104",
+      "position": "T103",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "10",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "",
+      "order": 98
+    },
+    {
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1065,7 @@
       "order": 105
     },
     {
-      "position": "T104",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1075,7 +1075,7 @@
       "order": 106
     },
     {
-      "position": "T104",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1085,7 +1085,7 @@
       "order": 107
     },
     {
-      "position": "T104",
+      "position": "T103",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1359,16 +1359,6 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Scott Vincent",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 135
-    },
-    {
-      "position": "T129",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Stewart Cink",
       "owner": "",
       "owner_redraw": "",
@@ -1395,7 +1385,7 @@
       "order": 139
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1405,7 +1395,7 @@
       "order": 137
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1415,7 +1405,7 @@
       "order": 140
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1425,7 +1415,7 @@
       "order": 141
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1435,7 +1425,7 @@
       "order": 142
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1445,7 +1435,7 @@
       "order": 143
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1455,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T139",
+      "position": "T138",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1463,6 +1453,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 145
+    },
+    {
+      "position": "145",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Scott Vincent",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 135
     },
     {
       "position": "T146",
