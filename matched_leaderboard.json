@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:13:06.679844+01:00",
+  "generated_at": "2026-07-17T11:14:06.842111+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -295,7 +295,17 @@
       "order": 30
     },
     {
-      "position": "T30",
+      "position": "T20",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "9",
+      "golfer": "Johnny Keefer",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 34
+    },
+    {
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -305,7 +315,7 @@
       "order": 20
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -335,17 +345,7 @@
       "order": 33
     },
     {
-      "position": "T30",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
-      "golfer": "Johnny Keefer",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 34
-    },
-    {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "12:36",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "14:31",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:04",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:15",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "15:59",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -435,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -958,7 +958,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Billy Horschel",
       "owner": "",
       "owner_redraw": "",
@@ -1098,7 +1098,7 @@
       "position": "T109",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Mason Howell",
       "owner": "",
       "owner_redraw": "",
@@ -1108,7 +1108,7 @@
       "position": "T109",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Michael Hollick",
       "owner": "",
       "owner_redraw": "",
