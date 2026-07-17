@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:04:06.977063+01:00",
+  "generated_at": "2026-07-17T11:05:07.183208+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T4",
       "score": "-4",
       "score_num": -4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "",
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "",
@@ -188,14 +188,14 @@
       "position": "T9",
       "score": "-3",
       "score_num": -3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "",
       "order": 19
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -205,7 +205,7 @@
       "order": 21
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -215,7 +215,7 @@
       "order": 22
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "12:14",
@@ -225,7 +225,7 @@
       "order": 23
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "12:58",
@@ -235,7 +235,7 @@
       "order": 24
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "13:31",
@@ -245,7 +245,7 @@
       "order": 25
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "13:42",
@@ -255,7 +255,7 @@
       "order": 26
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "14:09",
@@ -265,7 +265,7 @@
       "order": 27
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -275,7 +275,7 @@
       "order": 28
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -285,7 +285,7 @@
       "order": 29
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -478,7 +478,7 @@
       "position": "T44",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "",
@@ -708,7 +708,7 @@
       "position": "T64",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -938,7 +938,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Keegan Bradley",
       "owner": "",
       "owner_redraw": "",
@@ -1128,7 +1128,7 @@
       "position": "T108",
       "score": "+3",
       "score_num": 3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Jack Buchanan",
       "owner": "",
       "owner_redraw": "",
@@ -1228,7 +1228,7 @@
       "position": "T108",
       "score": "+3",
       "score_num": 3,
-      "thru": "10:42",
+      "thru": "1",
       "golfer": "Alistair Docherty",
       "owner": "",
       "owner_redraw": "",
@@ -1378,7 +1378,7 @@
       "position": "T127",
       "score": "+4",
       "score_num": 4,
-      "thru": "10:42",
+      "thru": "1",
       "golfer": "Francesco Laporta",
       "owner": "",
       "owner_redraw": "",
