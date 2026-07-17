@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:52:07.213218+01:00",
+  "generated_at": "2026-07-17T16:53:07.365317+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -378,7 +378,7 @@
       "position": "T25",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Antoine Rozner",
       "owner": "",
       "owner_redraw": "",
