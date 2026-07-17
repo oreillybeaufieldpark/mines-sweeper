@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:06:06.584337+01:00",
+  "generated_at": "2026-07-17T16:07:06.758367+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T36",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "",
@@ -758,7 +758,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Travis Smyth",
       "owner": "",
       "owner_redraw": "",
@@ -1218,7 +1218,7 @@
       "position": "T115",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Kota Kaneko",
       "owner": "",
       "owner_redraw": "",
@@ -1325,6 +1325,16 @@
       "order": 132
     },
     {
+      "position": "T124",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "David Puig",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 140
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1335,7 +1345,7 @@
       "order": 156
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1345,7 +1355,7 @@
       "order": 133
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1355,7 +1365,7 @@
       "order": 134
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1365,7 +1375,7 @@
       "order": 135
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1375,7 +1385,7 @@
       "order": 136
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1385,7 +1395,7 @@
       "order": 137
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1395,7 +1405,7 @@
       "order": 138
     },
     {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1405,17 +1415,7 @@
       "order": 139
     },
     {
-      "position": "T133",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "David Puig",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 140
-    },
-    {
-      "position": "T133",
+      "position": "T134",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
