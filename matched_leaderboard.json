@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:39:07.167212+01:00",
+  "generated_at": "2026-07-17T11:40:07.303478+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T18",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "",
