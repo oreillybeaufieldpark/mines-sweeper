@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T16:57:07.273628+01:00",
+  "generated_at": "2026-07-17T16:58:06.688391+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -108,7 +108,7 @@
       "position": "T5",
       "score": "-4",
       "score_num": -4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "",
@@ -1028,6 +1028,16 @@
       "position": "T81",
       "score": "+2",
       "score_num": 2,
+      "thru": "F",
+      "golfer": "Daniel Hillier",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 107
+    },
+    {
+      "position": "T81",
+      "score": "+2",
+      "score_num": 2,
       "thru": "9",
       "golfer": "Harris English",
       "owner": "",
@@ -1045,7 +1055,7 @@
       "order": 109
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1055,7 +1065,7 @@
       "order": 103
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1065,7 +1075,7 @@
       "order": 104
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1075,7 +1085,7 @@
       "order": 105
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1085,17 +1095,7 @@
       "order": 106
     },
     {
-      "position": "T105",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "16",
-      "golfer": "Daniel Hillier",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 107
-    },
-    {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "6",
@@ -1105,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "4",
@@ -1115,7 +1115,7 @@
       "order": 111
     },
     {
-      "position": "T105",
+      "position": "T106",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1455,7 +1455,17 @@
       "order": 144
     },
     {
-      "position": "T145",
+      "position": "T139",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Jeong-Woo Ham",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 146
+    },
+    {
+      "position": "146",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1463,16 +1473,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 145
-    },
-    {
-      "position": "T145",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "Jeong-Woo Ham",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 146
     },
     {
       "position": "T147",
