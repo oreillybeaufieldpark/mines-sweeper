@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T19:31:06.481809+01:00",
+  "generated_at": "2026-07-17T19:32:06.713544+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T14",
       "score": "-3",
       "score_num": -3,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T24",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "14",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "",
+      "order": 48
+    },
+    {
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -465,17 +475,7 @@
       "order": 47
     },
     {
-      "position": "T37",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "",
-      "order": 48
-    },
-    {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -1225,17 +1225,7 @@
       "order": 122
     },
     {
-      "position": "T112",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "13",
-      "golfer": "Jordan Spieth",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 123
-    },
-    {
-      "position": "T124",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1245,7 +1235,7 @@
       "order": 124
     },
     {
-      "position": "T124",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1255,7 +1245,7 @@
       "order": 125
     },
     {
-      "position": "T124",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1265,7 +1255,7 @@
       "order": 126
     },
     {
-      "position": "T124",
+      "position": "T123",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1285,7 +1275,17 @@
       "order": 156
     },
     {
-      "position": "T128",
+      "position": "T127",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Jordan Spieth",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 123
+    },
+    {
+      "position": "T127",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1295,7 +1295,7 @@
       "order": 128
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1305,7 +1305,7 @@
       "order": 129
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1315,7 +1315,7 @@
       "order": 130
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1325,7 +1325,7 @@
       "order": 131
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
