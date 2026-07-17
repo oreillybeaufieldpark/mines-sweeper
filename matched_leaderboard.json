@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:03:07.006504+01:00",
+  "generated_at": "2026-07-17T11:04:06.977063+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -185,9 +185,9 @@
       "order": 18
     },
     {
-      "position": "T19",
-      "score": "-2",
-      "score_num": -2,
+      "position": "T9",
+      "score": "-3",
+      "score_num": -3,
       "thru": "6",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
@@ -308,7 +308,7 @@
       "position": "T30",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "",
@@ -438,7 +438,7 @@
       "position": "T44",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "",
@@ -1229,16 +1229,6 @@
       "score": "+3",
       "score_num": 3,
       "thru": "10:42",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 123
-    },
-    {
-      "position": "T108",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "10:42",
       "golfer": "Alistair Docherty",
       "owner": "",
       "owner_redraw": "",
@@ -1275,7 +1265,17 @@
       "order": 127
     },
     {
-      "position": "T128",
+      "position": "T127",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "1",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 123
+    },
+    {
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -1285,7 +1285,7 @@
       "order": 128
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1295,7 +1295,7 @@
       "order": 129
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "10",
@@ -1305,7 +1305,7 @@
       "order": 130
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "10",
@@ -1315,7 +1315,7 @@
       "order": 131
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "12:36",
@@ -1325,7 +1325,7 @@
       "order": 132
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "13:20",
@@ -1335,7 +1335,7 @@
       "order": 133
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "13:42",
@@ -1345,7 +1345,7 @@
       "order": 134
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "15:26",
@@ -1355,7 +1355,7 @@
       "order": 135
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "15:37",
@@ -1365,7 +1365,7 @@
       "order": 136
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "15:48",
@@ -1375,7 +1375,7 @@
       "order": 137
     },
     {
-      "position": "T128",
+      "position": "T127",
       "score": "+4",
       "score_num": 4,
       "thru": "10:42",
@@ -1525,17 +1525,7 @@
       "order": 152
     },
     {
-      "position": "T153",
-      "score": "+8",
-      "score_num": 8,
-      "thru": "CUT",
-      "golfer": "Tiger Christensen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 153
-    },
-    {
-      "position": "T153",
+      "position": "153",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1545,7 +1535,7 @@
       "order": 154
     },
     {
-      "position": "155",
+      "position": "154",
       "score": "+9",
       "score_num": 9,
       "thru": "CUT",
@@ -1555,7 +1545,17 @@
       "order": 155
     },
     {
-      "position": "156",
+      "position": "T155",
+      "score": "+10",
+      "score_num": 10,
+      "thru": "CUT",
+      "golfer": "Tiger Christensen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 153
+    },
+    {
+      "position": "T155",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
