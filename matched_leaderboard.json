@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T21:27:07.156646+01:00",
+  "generated_at": "2026-07-17T21:28:07.239526+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -978,7 +978,7 @@
       "position": "T78",
       "score": "+2",
       "score_num": 2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Ryutaro Nagano",
       "owner": "",
       "owner_redraw": "",
@@ -1485,7 +1485,17 @@
       "order": 147
     },
     {
-      "position": "T148",
+      "position": "T141",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Jeong-Woo Ham",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 151
+    },
+    {
+      "position": "T149",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1495,7 +1505,7 @@
       "order": 148
     },
     {
-      "position": "T148",
+      "position": "T149",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1505,7 +1515,7 @@
       "order": 149
     },
     {
-      "position": "T148",
+      "position": "T149",
       "score": "+10",
       "score_num": 10,
       "thru": "CUT",
@@ -1513,16 +1523,6 @@
       "owner": "Richard Kendrick",
       "owner_redraw": "",
       "order": 150
-    },
-    {
-      "position": "T148",
-      "score": "+10",
-      "score_num": 10,
-      "thru": "CUT",
-      "golfer": "Jeong-Woo Ham",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 151
     },
     {
       "position": "152",
