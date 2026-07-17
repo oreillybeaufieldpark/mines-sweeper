@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:00:07.433515+01:00",
+  "generated_at": "2026-07-17T18:01:06.586077+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -748,7 +748,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -1419,16 +1419,6 @@
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
-      "golfer": "Stewart Cink",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 140
-    },
-    {
-      "position": "T136",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
       "golfer": "David Puig",
       "owner": "",
       "owner_redraw": "",
@@ -1443,6 +1433,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 142
+    },
+    {
+      "position": "143",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Stewart Cink",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 140
     },
     {
       "position": "T144",
