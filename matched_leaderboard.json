@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:04:07.158291+01:00",
+  "generated_at": "2026-07-17T14:05:06.965470+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -215,7 +215,17 @@
       "order": 21
     },
     {
-      "position": "T22",
+      "position": "T10",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "1",
+      "golfer": "Joakim Lagergren",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 28
+    },
+    {
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -225,7 +235,7 @@
       "order": 22
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 24
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -255,7 +265,7 @@
       "order": 25
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -265,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -275,17 +285,7 @@
       "order": 27
     },
     {
-      "position": "T22",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "13:42",
-      "golfer": "Joakim Lagergren",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 28
-    },
-    {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "14:09",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:04",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-2",
       "score_num": -2,
       "thru": "15:26",
