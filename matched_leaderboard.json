@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:02:06.476644+01:00",
+  "generated_at": "2026-07-17T18:03:06.456831+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T22",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "11",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "",
+      "order": 47
+    },
+    {
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -465,17 +475,7 @@
       "order": 46
     },
     {
-      "position": "T37",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "10",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "",
-      "order": 47
-    },
-    {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -758,7 +758,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "",
@@ -918,7 +918,7 @@
       "position": "T78",
       "score": "+2",
       "score_num": 2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Angel Ayora",
       "owner": "",
       "owner_redraw": "",
