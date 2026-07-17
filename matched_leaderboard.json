@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:04:06.317247+01:00",
+  "generated_at": "2026-07-17T13:05:06.343303+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "12:47",
+      "thru": "1",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "",
@@ -98,7 +98,7 @@
       "position": "T7",
       "score": "-4",
       "score_num": -4,
-      "thru": "12:47",
+      "thru": "1",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "",
@@ -258,7 +258,7 @@
       "position": "T19",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Henrik Stenson",
       "owner": "",
       "owner_redraw": "",
@@ -1238,7 +1238,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Haotong Li",
       "owner": "",
       "owner_redraw": "",
@@ -1399,16 +1399,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Fifa Laopakdee",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 140
-    },
-    {
-      "position": "T135",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Mateo Pulcini",
       "owner": "",
       "owner_redraw": "",
@@ -1445,7 +1435,7 @@
       "order": 156
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1455,7 +1445,7 @@
       "order": 144
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1465,7 +1455,7 @@
       "order": 145
     },
     {
-      "position": "T144",
+      "position": "T143",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1475,7 +1465,7 @@
       "order": 146
     },
     {
-      "position": "T147",
+      "position": "T146",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1485,7 +1475,7 @@
       "order": 147
     },
     {
-      "position": "T147",
+      "position": "T146",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1495,7 +1485,7 @@
       "order": 148
     },
     {
-      "position": "T147",
+      "position": "T146",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1505,7 +1495,7 @@
       "order": 149
     },
     {
-      "position": "T150",
+      "position": "T149",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1515,7 +1505,7 @@
       "order": 150
     },
     {
-      "position": "T150",
+      "position": "T149",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1525,7 +1515,7 @@
       "order": 151
     },
     {
-      "position": "T150",
+      "position": "T149",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1535,7 +1525,7 @@
       "order": 152
     },
     {
-      "position": "T150",
+      "position": "T149",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
@@ -1543,6 +1533,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 153
+    },
+    {
+      "position": "153",
+      "score": "+9",
+      "score_num": 9,
+      "thru": "CUT",
+      "golfer": "Fifa Laopakdee",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 140
     },
     {
       "position": "T154",
