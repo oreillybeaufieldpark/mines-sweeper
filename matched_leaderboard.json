@@ -1,21 +1,21 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T11:23:06.973394+01:00",
+  "generated_at": "2026-07-17T11:24:06.489739+01:00",
   "has_redraw": false,
   "players": [
     {
-      "position": "T1",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "8",
+      "position": "1",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "9",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "",
       "order": 1
     },
     {
-      "position": "T1",
+      "position": "2",
       "score": "-5",
       "score_num": -5,
       "thru": "14",
@@ -968,16 +968,6 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "7",
-      "golfer": "J.T. Poston",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 97
-    },
-    {
-      "position": "T91",
-      "score": "+2",
-      "score_num": 2,
       "thru": "11:41",
       "golfer": "Matthew Baldwin",
       "owner": "",
@@ -1075,7 +1065,7 @@
       "order": 108
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -1085,7 +1075,17 @@
       "order": 92
     },
     {
-      "position": "T108",
+      "position": "T107",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "8",
+      "golfer": "J.T. Poston",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 97
+    },
+    {
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1095,7 +1095,7 @@
       "order": 109
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1105,7 +1105,7 @@
       "order": 110
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1115,7 +1115,7 @@
       "order": 111
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1125,7 +1125,7 @@
       "order": 112
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -1135,7 +1135,7 @@
       "order": 114
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "2",
@@ -1145,7 +1145,7 @@
       "order": 115
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "1",
@@ -1155,7 +1155,7 @@
       "order": 116
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "11:52",
@@ -1165,7 +1165,7 @@
       "order": 117
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "12:03",
@@ -1175,7 +1175,7 @@
       "order": 118
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "12:36",
@@ -1185,7 +1185,7 @@
       "order": 119
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "14:20",
@@ -1195,7 +1195,7 @@
       "order": 120
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "14:53",
@@ -1205,7 +1205,7 @@
       "order": 121
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "15:15",
@@ -1215,7 +1215,7 @@
       "order": 122
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "16:21",
@@ -1225,7 +1225,7 @@
       "order": 123
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "11:04",
@@ -1235,7 +1235,7 @@
       "order": 124
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "11:04",
@@ -1245,7 +1245,7 @@
       "order": 125
     },
     {
-      "position": "T108",
+      "position": "T107",
       "score": "+3",
       "score_num": 3,
       "thru": "11:15",
@@ -1475,9 +1475,9 @@
       "order": 147
     },
     {
-      "position": "T148",
-      "score": "+7",
-      "score_num": 7,
+      "position": "T144",
+      "score": "+6",
+      "score_num": 6,
       "thru": "CUT",
       "golfer": "Stuart Grehan",
       "owner": "",
@@ -1485,7 +1485,7 @@
       "order": 148
     },
     {
-      "position": "T148",
+      "position": "T149",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1495,7 +1495,7 @@
       "order": 149
     },
     {
-      "position": "T148",
+      "position": "T149",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1505,7 +1505,7 @@
       "order": 150
     },
     {
-      "position": "T148",
+      "position": "T149",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
