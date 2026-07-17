@@ -5,5 +5,9 @@
   "sport_league": "pga",
   "owners_file": "owners.csv",
   "redraw_owners_file": "owners_redraw.csv",
-  "output_file": "matched_leaderboard.json"
+  "output_file": "matched_leaderboard.json",
+  "cut_rule": {
+    "count": 70,
+    "within_shots_of_lead": null
+  }
 }
