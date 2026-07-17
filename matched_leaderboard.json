@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T14:44:07.276535+01:00",
+  "generated_at": "2026-07-17T14:45:06.947047+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -138,7 +138,7 @@
       "position": "T10",
       "score": "-3",
       "score_num": -3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "",
@@ -418,16 +418,6 @@
       "position": "T35",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 42
-    },
-    {
-      "position": "T35",
-      "score": "-1",
-      "score_num": -1,
       "thru": "8",
       "golfer": "Matthew Southgate",
       "owner": "",
@@ -515,7 +505,7 @@
       "order": 62
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -525,7 +515,17 @@
       "order": 41
     },
     {
-      "position": "T52",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 42
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -625,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -705,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -725,7 +725,7 @@
       "order": 75
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -1068,16 +1068,6 @@
       "position": "T102",
       "score": "+3",
       "score_num": 3,
-      "thru": "12",
-      "golfer": "Bard Bjornevik Skogen",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 107
-    },
-    {
-      "position": "T102",
-      "score": "+3",
-      "score_num": 3,
       "thru": "11",
       "golfer": "Andrew Novak",
       "owner": "",
@@ -1163,6 +1153,26 @@
       "owner": "",
       "owner_redraw": "",
       "order": 118
+    },
+    {
+      "position": "T102",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "17",
+      "golfer": "Wyndham Clark",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "",
+      "order": 134
+    },
+    {
+      "position": "T117",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "13",
+      "golfer": "Bard Bjornevik Skogen",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 107
     },
     {
       "position": "T117",
@@ -1305,7 +1315,7 @@
       "order": 131
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1315,7 +1325,7 @@
       "order": 124
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1325,7 +1335,7 @@
       "order": 132
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1335,17 +1345,7 @@
       "order": 133
     },
     {
-      "position": "T131",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Wyndham Clark",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "",
-      "order": 134
-    },
-    {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1355,7 +1355,7 @@
       "order": 135
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1365,7 +1365,7 @@
       "order": 136
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1375,7 +1375,7 @@
       "order": 137
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1385,7 +1385,7 @@
       "order": 139
     },
     {
-      "position": "T131",
+      "position": "T132",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
