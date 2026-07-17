@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:41:06.778519+01:00",
+  "generated_at": "2026-07-17T18:42:06.683843+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -468,7 +468,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
+      "thru": "14",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
@@ -995,7 +995,17 @@
       "order": 99
     },
     {
-      "position": "T100",
+      "position": "T79",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "14",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "",
+      "order": 105
+    },
+    {
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1005,7 +1015,7 @@
       "order": 100
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1015,7 +1025,7 @@
       "order": 101
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,7 +1035,7 @@
       "order": 102
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1035,7 +1045,7 @@
       "order": 103
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
@@ -1045,17 +1055,7 @@
       "order": 104
     },
     {
-      "position": "T100",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "13",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "",
-      "order": 105
-    },
-    {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "10",
@@ -1065,7 +1065,7 @@
       "order": 106
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
@@ -1075,7 +1075,7 @@
       "order": 107
     },
     {
-      "position": "T100",
+      "position": "T101",
       "score": "+3",
       "score_num": 3,
       "thru": "8",
