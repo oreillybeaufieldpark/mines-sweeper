@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T21:26:07.106997+01:00",
+  "generated_at": "2026-07-17T21:27:07.156646+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -1545,9 +1545,9 @@
       "order": 153
     },
     {
-      "position": "154",
-      "score": "+14",
-      "score_num": 14,
+      "position": "T154",
+      "score": "+15",
+      "score_num": 15,
       "thru": "CUT",
       "golfer": "Ren Yonezawa",
       "owner": "",
@@ -1555,7 +1555,7 @@
       "order": 154
     },
     {
-      "position": "155",
+      "position": "T154",
       "score": "+15",
       "score_num": 15,
       "thru": "CUT",
