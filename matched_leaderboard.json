@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:12:07.303825+01:00",
+  "generated_at": "2026-07-17T12:13:07.899596+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -28,16 +28,6 @@
       "position": "T2",
       "score": "-5",
       "score_num": -5,
-      "thru": "11",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 3
-    },
-    {
-      "position": "T2",
-      "score": "-5",
-      "score_num": -5,
       "thru": "9",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
@@ -45,7 +35,17 @@
       "order": 6
     },
     {
-      "position": "T5",
+      "position": "T4",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "12",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 3
+    },
+    {
+      "position": "T4",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -55,7 +55,7 @@
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "T4",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -65,7 +65,7 @@
       "order": 5
     },
     {
-      "position": "T5",
+      "position": "T4",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -75,7 +75,7 @@
       "order": 7
     },
     {
-      "position": "T5",
+      "position": "T4",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -578,16 +578,6 @@
       "position": "T47",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 58
-    },
-    {
-      "position": "T47",
-      "score": "E",
-      "score_num": 0,
       "thru": "11:52",
       "golfer": "Andy Sullivan",
       "owner": "",
@@ -715,7 +705,17 @@
       "order": 75
     },
     {
-      "position": "T72",
+      "position": "T71",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "4",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 58
+    },
+    {
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -725,7 +725,7 @@
       "order": 70
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -735,7 +735,7 @@
       "order": 71
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -745,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -755,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "12:14",
@@ -765,7 +765,7 @@
       "order": 76
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "12:25",
@@ -775,7 +775,7 @@
       "order": 77
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "12:58",
@@ -785,7 +785,7 @@
       "order": 78
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -795,7 +795,7 @@
       "order": 79
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "13:09",
@@ -805,7 +805,7 @@
       "order": 80
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "13:20",
@@ -815,7 +815,7 @@
       "order": 81
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "13:53",
@@ -825,7 +825,7 @@
       "order": 82
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "14:09",
@@ -835,7 +835,7 @@
       "order": 83
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -845,7 +845,7 @@
       "order": 84
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "14:20",
@@ -855,7 +855,7 @@
       "order": 85
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "14:53",
@@ -865,7 +865,7 @@
       "order": 86
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "15:37",
@@ -875,7 +875,7 @@
       "order": 87
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "15:48",
@@ -885,7 +885,7 @@
       "order": 88
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "16:21",
@@ -895,7 +895,7 @@
       "order": 89
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -1058,7 +1058,7 @@
       "position": "T91",
       "score": "+2",
       "score_num": 2,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Bard Bjornevik Skogen",
       "owner": "",
       "owner_redraw": "",
@@ -1108,7 +1108,7 @@
       "position": "T107",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jack Buchanan",
       "owner": "",
       "owner_redraw": "",
