@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T18:04:06.357959+01:00",
+  "generated_at": "2026-07-17T18:05:07.266285+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -338,7 +338,7 @@
       "position": "T23",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "",
@@ -358,7 +358,7 @@
       "position": "T23",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "",
@@ -1178,7 +1178,7 @@
       "position": "T108",
       "score": "+4",
       "score_num": 4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Jordan Spieth",
       "owner": "Richard Kendrick",
       "owner_redraw": "",
