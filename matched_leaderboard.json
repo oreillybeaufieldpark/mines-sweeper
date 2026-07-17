@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T13:00:07.757690+01:00",
+  "generated_at": "2026-07-17T13:01:06.663168+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -55,6 +55,16 @@
       "order": 7
     },
     {
+      "position": "T3",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "11",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "",
+      "order": 8
+    },
+    {
       "position": "T6",
       "score": "-4",
       "score_num": -4,
@@ -65,7 +75,7 @@
       "order": 5
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -75,17 +85,7 @@
       "order": 6
     },
     {
-      "position": "T6",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "10",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "",
-      "order": 8
-    },
-    {
-      "position": "T6",
+      "position": "T7",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T6",
+      "position": "T7",
       "score": "-4",
       "score_num": -4,
       "thru": "12:47",
@@ -588,7 +588,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "",
@@ -915,17 +915,17 @@
       "order": 101
     },
     {
-      "position": "T70",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jayden Schaper",
       "owner": "",
       "owner_redraw": "",
       "order": 73
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -935,7 +935,7 @@
       "order": 91
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -945,7 +945,7 @@
       "order": 92
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -955,7 +955,7 @@
       "order": 93
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -965,7 +965,7 @@
       "order": 94
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -975,7 +975,7 @@
       "order": 96
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -985,7 +985,7 @@
       "order": 97
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -995,7 +995,7 @@
       "order": 98
     },
     {
-      "position": "T93",
+      "position": "T92",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -1248,7 +1248,7 @@
       "position": "T122",
       "score": "+4",
       "score_num": 4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Harry Hall",
       "owner": "",
       "owner_redraw": "",
