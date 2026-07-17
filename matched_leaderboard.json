@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-17T12:04:06.559161+01:00",
+  "generated_at": "2026-07-17T12:05:06.529641+01:00",
   "has_redraw": false,
   "players": [
     {
@@ -178,7 +178,7 @@
       "position": "T18",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "",
@@ -329,16 +329,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "17",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 33
-    },
-    {
-      "position": "T32",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "17",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "",
@@ -475,7 +465,17 @@
       "order": 47
     },
     {
-      "position": "T48",
+      "position": "T47",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 33
+    },
+    {
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "11:52",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13:20",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13:53",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:31",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:42",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14:53",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15:48",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "16:10",
