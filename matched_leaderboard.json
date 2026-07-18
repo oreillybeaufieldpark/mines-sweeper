@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:52:07.328973+01:00",
+  "generated_at": "2026-07-18T13:53:07.183621+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -428,7 +428,7 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -558,7 +558,7 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "3",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
