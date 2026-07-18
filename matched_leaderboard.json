@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:07:06.892624+01:00",
+  "generated_at": "2026-07-18T14:08:06.805565+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -248,16 +248,6 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "14",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 25
-    },
-    {
-      "position": "T23",
-      "score": "-3",
-      "score_num": -3,
       "thru": "5",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
@@ -349,6 +339,16 @@
       "score": "-3",
       "score_num": -3,
       "thru": "17",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 35
+    },
+    {
+      "position": "T23",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "17",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -378,11 +378,11 @@
       "position": "T38",
       "score": "-2",
       "score_num": -2,
-      "thru": "16",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 35
+      "thru": "15",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 25
     },
     {
       "position": "T38",
@@ -478,6 +478,16 @@
       "position": "T38",
       "score": "-2",
       "score_num": -2,
+      "thru": "8",
+      "golfer": "Shaun Norris",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 53
+    },
+    {
+      "position": "T38",
+      "score": "-2",
+      "score_num": -2,
       "thru": "2",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
@@ -495,7 +505,7 @@
       "order": 63
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 48
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -515,7 +525,7 @@
       "order": 49
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -525,7 +535,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -535,7 +545,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -545,17 +555,7 @@
       "order": 52
     },
     {
-      "position": "T50",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "6",
-      "golfer": "Shaun Norris",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 53
-    },
-    {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -565,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -575,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -635,17 +635,7 @@
       "order": 62
     },
     {
-      "position": "T60",
-      "score": "E",
-      "score_num": 0,
-      "thru": "17",
-      "golfer": "Rickie Fowler",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 66
-    },
-    {
-      "position": "T65",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -655,7 +645,17 @@
       "order": 64
     },
     {
-      "position": "T65",
+      "position": "T64",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "17",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 66
+    },
+    {
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -665,7 +665,7 @@
       "order": 67
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
