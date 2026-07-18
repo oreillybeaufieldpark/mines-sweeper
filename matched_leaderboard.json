@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:49:07.257431+01:00",
+  "generated_at": "2026-07-18T11:50:07.492159+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -678,7 +678,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -688,11 +688,21 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 69
+    },
+    {
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "13",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 70
     },
     {
       "position": "T67",
@@ -705,17 +715,7 @@
       "order": 74
     },
     {
-      "position": "T71",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "12",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 70
-    },
-    {
-      "position": "T71",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -725,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
@@ -735,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "7",
