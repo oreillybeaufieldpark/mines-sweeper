@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:10:07.127992+01:00",
+  "generated_at": "2026-07-18T14:11:07.120323+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -428,21 +428,11 @@
       "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 44
-    },
-    {
-      "position": "T37",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "3",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 45
     },
     {
       "position": "T37",
@@ -495,7 +485,17 @@
       "order": 63
     },
     {
-      "position": "T50",
+      "position": "T49",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "4",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 45
+    },
+    {
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 48
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -515,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -535,17 +535,17 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -555,7 +555,7 @@
       "order": 58
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -565,7 +565,7 @@
       "order": 60
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -608,7 +608,7 @@
       "position": "T58",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
