@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:06:06.897404+01:00",
+  "generated_at": "2026-07-18T14:07:06.892624+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -365,7 +365,17 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T23",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "10",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 40
+    },
+    {
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -375,7 +385,7 @@
       "order": 35
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -385,7 +395,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -395,17 +405,7 @@
       "order": 38
     },
     {
-      "position": "T37",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "8",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 40
-    },
-    {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -485,7 +485,7 @@
       "order": 57
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -658,16 +658,6 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 65
-    },
-    {
-      "position": "T65",
-      "score": "+1",
-      "score_num": 1,
       "thru": "9",
       "golfer": "Eric Cole",
       "owner": "",
@@ -685,7 +675,17 @@
       "order": 68
     },
     {
-      "position": "T69",
+      "position": "T68",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 65
+    },
+    {
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
@@ -725,7 +725,7 @@
       "order": 73
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
