@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:13:06.571858+01:00",
+  "generated_at": "2026-07-18T16:14:06.587663+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -268,7 +268,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
