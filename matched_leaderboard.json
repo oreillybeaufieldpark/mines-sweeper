@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:31:06.583145+01:00",
+  "generated_at": "2026-07-18T10:32:06.662215+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -515,7 +515,17 @@
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 66
+    },
+    {
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -575,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "11:25",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:55",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "11:15",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:45",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:30",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "11:05",
@@ -635,7 +645,7 @@
       "order": 63
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:30",
@@ -645,27 +655,17 @@
       "order": 64
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "10:20",
+      "thru": "1",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
       "order": 65
     },
     {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "10:20",
-      "golfer": "Rickie Fowler",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 66
-    },
-    {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "11:15",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "11:05",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:55",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:45",
