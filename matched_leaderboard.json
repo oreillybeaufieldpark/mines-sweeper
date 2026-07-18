@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:29:06.522067+01:00",
+  "generated_at": "2026-07-18T13:30:06.727901+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -83,16 +83,6 @@
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
       "order": 8
-    },
-    {
-      "position": "T9",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "6",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Richard Kendrick",
-      "order": 9
     },
     {
       "position": "T9",
@@ -185,7 +175,17 @@
       "order": 18
     },
     {
-      "position": "T19",
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "8",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Richard Kendrick",
+      "order": 9
+    },
+    {
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -205,17 +205,7 @@
       "order": 20
     },
     {
-      "position": "T19",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "9",
-      "golfer": "Eugenio Chacarra",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 21
-    },
-    {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "6",
@@ -225,7 +215,7 @@
       "order": 22
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -235,7 +225,7 @@
       "order": 23
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -245,7 +235,7 @@
       "order": 24
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -255,7 +245,7 @@
       "order": 25
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -265,7 +255,7 @@
       "order": 26
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -275,7 +265,7 @@
       "order": 27
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
@@ -285,7 +275,7 @@
       "order": 28
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -295,7 +285,7 @@
       "order": 29
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "13:55",
@@ -305,7 +295,7 @@
       "order": 30
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "13:55",
@@ -315,7 +305,7 @@
       "order": 31
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -325,7 +315,7 @@
       "order": 32
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
@@ -335,7 +325,17 @@
       "order": 33
     },
     {
-      "position": "T34",
+      "position": "T33",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "11",
+      "golfer": "Eugenio Chacarra",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 21
+    },
+    {
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -345,17 +345,17 @@
       "order": 34
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
+      "thru": "9",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 35
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -385,17 +385,17 @@
       "order": 38
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 39
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T34",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -455,7 +455,17 @@
       "order": 45
     },
     {
-      "position": "T46",
+      "position": "T33",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "8",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 53
+    },
+    {
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -515,27 +525,17 @@
       "order": 51
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 52
     },
     {
-      "position": "T46",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "6",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 53
-    },
-    {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -545,17 +545,17 @@
       "order": 54
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 55
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -728,7 +728,7 @@
       "position": "T71",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
