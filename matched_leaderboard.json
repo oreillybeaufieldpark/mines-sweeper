@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:22:07.152184+01:00",
+  "generated_at": "2026-07-18T17:23:07.323014+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -285,7 +285,17 @@
       "order": 38
     },
     {
-      "position": "T29",
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 52
+    },
+    {
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -295,7 +305,7 @@
       "order": 28
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +315,7 @@
       "order": 29
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +325,7 @@
       "order": 30
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +335,7 @@
       "order": 31
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 32
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 33
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 34
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -365,7 +375,7 @@
       "order": 35
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -375,7 +385,7 @@
       "order": 36
     },
     {
-      "position": "T29",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -383,16 +393,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 37
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "F",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 52
     },
     {
       "position": "T40",
