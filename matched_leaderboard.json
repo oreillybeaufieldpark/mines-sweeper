@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:05:06.800824+01:00",
+  "generated_at": "2026-07-18T11:06:06.682270+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -715,17 +715,7 @@
       "order": 72
     },
     {
-      "position": "T69",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "Brooks Koepka",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 73
-    },
-    {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -735,7 +725,7 @@
       "order": 56
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -745,7 +735,7 @@
       "order": 70
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
@@ -755,7 +745,7 @@
       "order": 75
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -765,7 +755,7 @@
       "order": 76
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "7",
@@ -965,7 +955,17 @@
       "order": 97
     },
     {
-      "position": "78",
+      "position": "T77",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "6",
+      "golfer": "Brooks Koepka",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 73
+    },
+    {
+      "position": "T77",
       "score": "+3",
       "score_num": 3,
       "thru": "5",
