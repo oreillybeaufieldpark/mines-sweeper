@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T09:22:06.374936+01:00",
+  "generated_at": "2026-07-18T09:23:07.454317+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -668,11 +668,21 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
+      "thru": "1",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 67
+    },
+    {
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
       "thru": "09:50",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
-      "order": 67
+      "order": 68
     },
     {
       "position": "T67",
@@ -682,7 +692,7 @@
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
-      "order": 68
+      "order": 69
     },
     {
       "position": "T67",
@@ -692,7 +702,7 @@
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
-      "order": 69
+      "order": 70
     },
     {
       "position": "T67",
@@ -702,7 +712,7 @@
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
-      "order": 70
+      "order": 71
     },
     {
       "position": "T67",
@@ -712,7 +722,7 @@
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
-      "order": 71
+      "order": 72
     },
     {
       "position": "T67",
@@ -722,7 +732,7 @@
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
-      "order": 72
+      "order": 73
     },
     {
       "position": "T67",
@@ -732,16 +742,6 @@
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
-      "order": 73
-    },
-    {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "09:10",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
       "order": 74
     },
     {
