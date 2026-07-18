@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:00:07.359681+01:00",
+  "generated_at": "2026-07-18T11:01:06.647572+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,16 +558,6 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 54
-    },
-    {
-      "position": "T56",
-      "score": "E",
-      "score_num": 0,
       "thru": "6",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
@@ -588,7 +578,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -598,7 +588,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -695,6 +685,26 @@
       "order": 69
     },
     {
+      "position": "T56",
+      "score": "E",
+      "score_num": 0,
+      "thru": "5",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 74
+    },
+    {
+      "position": "T70",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "9",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 54
+    },
+    {
       "position": "T70",
       "score": "+1",
       "score_num": 1,
@@ -708,7 +718,7 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -733,16 +743,6 @@
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 73
-    },
-    {
-      "position": "T70",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 74
     },
     {
       "position": "T75",
