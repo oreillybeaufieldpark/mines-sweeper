@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T19:00:07.170485+01:00",
+  "generated_at": "2026-07-18T19:01:07.156558+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -65,7 +65,7 @@
       "order": 8
     },
     {
-      "position": "7",
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "F",
@@ -75,7 +75,17 @@
       "order": 6
     },
     {
-      "position": "T8",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "15",
+      "golfer": "Bryson DeChambeau",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Maher",
+      "order": 10
+    },
+    {
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -85,7 +95,7 @@
       "order": 7
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -95,17 +105,7 @@
       "order": 9
     },
     {
-      "position": "T8",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "14",
-      "golfer": "Bryson DeChambeau",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Maher",
-      "order": 10
-    },
-    {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "13",
@@ -298,7 +298,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
