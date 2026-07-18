@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:08:06.596065+01:00",
+  "generated_at": "2026-07-18T12:09:06.702119+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,16 +558,6 @@
       "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "11:55",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 56
-    },
-    {
-      "position": "T39",
-      "score": "-1",
-      "score_num": -1,
       "thru": "11:35",
       "golfer": "Nick Taylor",
       "owner": "",
@@ -575,7 +565,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "1",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 56
+    },
+    {
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "2",
