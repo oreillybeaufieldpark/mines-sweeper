@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:17:07.341279+01:00",
+  "generated_at": "2026-07-18T14:18:07.272831+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -388,7 +388,7 @@
       "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Michael Murray",
@@ -458,7 +458,7 @@
       "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
