@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:31:06.959091+01:00",
+  "generated_at": "2026-07-18T14:32:07.082624+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -368,6 +368,16 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
+      "thru": "16",
+      "golfer": "Sahith Theegala",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Michael Murray",
+      "order": 39
+    },
+    {
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
       "thru": "4",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
@@ -375,7 +385,7 @@
       "order": 47
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -385,7 +395,7 @@
       "order": 34
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -395,17 +405,7 @@
       "order": 38
     },
     {
-      "position": "T38",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "15",
-      "golfer": "Sahith Theegala",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Michael Murray",
-      "order": 39
-    },
-    {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -415,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -425,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -435,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -445,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -455,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -465,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -948,7 +948,7 @@
       "position": "T74",
       "score": "+3",
       "score_num": 3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
