@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:24:07.224686+01:00",
+  "generated_at": "2026-07-18T15:25:07.111634+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -415,16 +415,6 @@
       "order": 42
     },
     {
-      "position": "T35",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "5",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 43
-    },
-    {
       "position": "T43",
       "score": "-1",
       "score_num": -1,
@@ -435,7 +425,17 @@
       "order": 40
     },
     {
-      "position": "T43",
+      "position": "T42",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "6",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 43
+    },
+    {
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -525,7 +525,7 @@
       "order": 54
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
