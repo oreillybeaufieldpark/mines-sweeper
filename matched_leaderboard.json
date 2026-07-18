@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:43:06.637700+01:00",
+  "generated_at": "2026-07-18T13:44:06.690438+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -658,21 +658,11 @@
       "position": "T66",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 66
-    },
-    {
-      "position": "T66",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "17",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 67
     },
     {
       "position": "T66",
@@ -705,7 +695,17 @@
       "order": 70
     },
     {
-      "position": "T71",
+      "position": "T70",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 67
+    },
+    {
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -725,7 +725,7 @@
       "order": 72
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -745,7 +745,7 @@
       "order": 74
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
