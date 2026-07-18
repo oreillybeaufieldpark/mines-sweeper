@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:43:06.592702+01:00",
+  "generated_at": "2026-07-18T12:44:06.596595+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -485,7 +485,17 @@
       "order": 48
     },
     {
-      "position": "T49",
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "9",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 53
+    },
+    {
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -525,17 +535,7 @@
       "order": 52
     },
     {
-      "position": "T49",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
-      "golfer": "Casey Jarvis",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 53
-    },
-    {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "12:30",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "12:40",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T49",
+      "position": "T50",
       "score": "-1",
       "score_num": -1,
       "thru": "12:30",
