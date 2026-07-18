@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:36:06.921700+01:00",
+  "generated_at": "2026-07-18T10:37:06.948784+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -538,17 +538,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 53
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -705,7 +695,17 @@
       "order": 70
     },
     {
-      "position": "T71",
+      "position": "T70",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "6",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 53
+    },
+    {
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -715,37 +715,27 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 72
-    },
-    {
-      "position": "T71",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 73
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 74
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -755,7 +745,7 @@
       "order": 75
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -765,7 +755,7 @@
       "order": 76
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -775,7 +765,17 @@
       "order": 77
     },
     {
-      "position": "78",
+      "position": "T77",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "6",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 72
+    },
+    {
+      "position": "T77",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
