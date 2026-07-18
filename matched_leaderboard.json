@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:13:06.963924+01:00",
+  "generated_at": "2026-07-18T12:14:06.997404+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T59",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -655,7 +655,17 @@
       "order": 65
     },
     {
-      "position": "T66",
+      "position": "T58",
+      "score": "E",
+      "score_num": 0,
+      "thru": "4",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 72
+    },
+    {
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -665,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -675,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -685,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -695,7 +705,7 @@
       "order": 70
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -703,16 +713,6 @@
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 71
-    },
-    {
-      "position": "T66",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "1",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 72
     },
     {
       "position": "T72",
