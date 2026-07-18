@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:35:07.005274+01:00",
+  "generated_at": "2026-07-18T10:36:06.921700+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -528,7 +528,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "7",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
@@ -558,7 +558,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
