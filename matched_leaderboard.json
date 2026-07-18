@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:27:06.664472+01:00",
+  "generated_at": "2026-07-18T14:28:07.057569+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "3",
+      "golfer": "Corey Conners",
+      "owner": "Colm Geary",
+      "owner_redraw": "Michael Murray",
+      "order": 48
+    },
+    {
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -435,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -445,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -455,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -463,16 +473,6 @@
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
       "order": 47
-    },
-    {
-      "position": "T37",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "2",
-      "golfer": "Corey Conners",
-      "owner": "Colm Geary",
-      "owner_redraw": "Michael Murray",
-      "order": 48
     },
     {
       "position": "T48",
