@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:53:06.379199+01:00",
+  "generated_at": "2026-07-18T14:54:06.360547+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -268,16 +268,6 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 28
-    },
-    {
-      "position": "T21",
-      "score": "-3",
-      "score_num": -3,
       "thru": "13",
       "golfer": "Kazuma Kobori",
       "owner": "",
@@ -385,7 +375,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -395,7 +385,17 @@
       "order": 17
     },
     {
-      "position": "T39",
+      "position": "T38",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "13",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 28
+    },
+    {
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -405,7 +405,7 @@
       "order": 30
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -415,7 +415,7 @@
       "order": 32
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -435,10 +435,10 @@
       "order": 48
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
