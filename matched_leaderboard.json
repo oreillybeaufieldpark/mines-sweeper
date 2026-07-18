@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:36:06.744529+01:00",
+  "generated_at": "2026-07-18T18:37:06.603403+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "Finbarr Callaly",
