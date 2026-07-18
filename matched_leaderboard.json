@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:16:06.865990+01:00",
+  "generated_at": "2026-07-18T16:17:06.807208+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -169,16 +169,6 @@
       "score": "-4",
       "score_num": -4,
       "thru": "9",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 17
-    },
-    {
-      "position": "T11",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "9",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "Finbarr Callaly",
@@ -225,7 +215,17 @@
       "order": 22
     },
     {
-      "position": "T23",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "10",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 17
+    },
+    {
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -378,7 +378,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -498,7 +498,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
@@ -538,7 +538,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
