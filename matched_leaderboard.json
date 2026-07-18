@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:40:06.765439+01:00",
+  "generated_at": "2026-07-18T11:41:06.971434+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -255,17 +255,17 @@
       "order": 25
     },
     {
-      "position": "T26",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "5",
+      "position": "T17",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "6",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 26
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "12:40",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -428,7 +428,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
