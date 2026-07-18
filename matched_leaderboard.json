@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:08:07.387616+01:00",
+  "generated_at": "2026-07-18T18:09:06.669161+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -368,7 +368,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
