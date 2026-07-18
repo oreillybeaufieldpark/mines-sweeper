@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:07:07.063031+01:00",
+  "generated_at": "2026-07-18T16:08:09.077063+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -208,6 +208,16 @@
       "position": "T12",
       "score": "-4",
       "score_num": -4,
+      "thru": "5",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 28
+    },
+    {
+      "position": "T12",
+      "score": "-4",
+      "score_num": -4,
       "thru": "9",
       "golfer": "Cameron John",
       "owner": "",
@@ -215,7 +225,7 @@
       "order": 38
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +235,7 @@
       "order": 21
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 22
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,17 +265,7 @@
       "order": 24
     },
     {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "4",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Igor Fleming",
-      "order": 26
-    },
-    {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -275,27 +275,7 @@
       "order": 27
     },
     {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "4",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 28
-    },
-    {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "3",
-      "golfer": "Matt Wallace",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 29
-    },
-    {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -305,7 +285,7 @@
       "order": 49
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -315,7 +295,27 @@
       "order": 25
     },
     {
-      "position": "T31",
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "5",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Igor Fleming",
+      "order": 26
+    },
+    {
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "4",
+      "golfer": "Matt Wallace",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 29
+    },
+    {
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 30
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 31
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 32
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -355,7 +355,7 @@
       "order": 33
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -365,7 +365,7 @@
       "order": 34
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -375,7 +375,7 @@
       "order": 35
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "11",
@@ -385,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T31",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -498,16 +498,6 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 50
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
       "thru": "15",
       "golfer": "John Parry",
       "owner": "",
@@ -515,7 +505,17 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "8",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 50
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "11",
