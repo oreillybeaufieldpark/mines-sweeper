@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:23:06.379235+01:00",
+  "generated_at": "2026-07-18T15:24:07.224686+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -258,7 +258,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -528,7 +528,7 @@
       "position": "T43",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
@@ -703,16 +703,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 71
-    },
-    {
-      "position": "T66",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "13",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 72
     },
     {
       "position": "T66",
@@ -915,7 +905,7 @@
       "order": 97
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -925,7 +915,17 @@
       "order": 65
     },
     {
-      "position": "T73",
+      "position": "T72",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "15",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 72
+    },
+    {
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -935,7 +935,7 @@
       "order": 74
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
