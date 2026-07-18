@@ -1,21 +1,31 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:48:07.411897+01:00",
+  "generated_at": "2026-07-18T18:49:06.401560+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
       "score": "-9",
       "score_num": -9,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 1
     },
     {
-      "position": "T2",
+      "position": "T1",
+      "score": "-9",
+      "score_num": -9,
+      "thru": "14",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Donal Brogan",
+      "order": 3
+    },
+    {
+      "position": "T3",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -25,17 +35,7 @@
       "order": 2
     },
     {
-      "position": "T2",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "13",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Donal Brogan",
-      "order": 3
-    },
-    {
-      "position": "T2",
+      "position": "T3",
       "score": "-8",
       "score_num": -8,
       "thru": "12",
