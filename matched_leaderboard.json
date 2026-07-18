@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:26:06.668270+01:00",
+  "generated_at": "2026-07-18T13:27:06.588031+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -488,16 +488,6 @@
       "position": "T46",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 48
-    },
-    {
-      "position": "T46",
-      "score": "-1",
-      "score_num": -1,
       "thru": "12",
       "golfer": "Kristoffer Reitan",
       "owner": "",
@@ -558,11 +548,31 @@
       "position": "T46",
       "score": "-1",
       "score_num": -1,
+      "thru": "14",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 58
+    },
+    {
+      "position": "T46",
+      "score": "-1",
+      "score_num": -1,
       "thru": "6",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
       "order": 61
+    },
+    {
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "15",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 48
     },
     {
       "position": "T57",
@@ -583,16 +593,6 @@
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 57
-    },
-    {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
-      "thru": "13",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 58
     },
     {
       "position": "T57",
@@ -668,7 +668,7 @@
       "position": "T64",
       "score": "+1",
       "score_num": 1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
