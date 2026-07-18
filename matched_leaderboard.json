@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:54:07.238302+01:00",
+  "generated_at": "2026-07-18T15:55:06.600285+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -338,7 +338,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -935,16 +935,6 @@
       "order": 74
     },
     {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "13",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 75
-    },
-    {
       "position": "-",
       "score": "+3",
       "score_num": 3,
@@ -1045,7 +1035,17 @@
       "order": 107
     },
     {
-      "position": "T76",
+      "position": "T75",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "15",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 75
+    },
+    {
+      "position": "T75",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1055,7 +1055,7 @@
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
