@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:38:06.546116+01:00",
+  "generated_at": "2026-07-18T14:39:06.443617+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -85,7 +85,17 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T6",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "6",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 12
+    },
+    {
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "8",
@@ -95,7 +105,7 @@
       "order": 6
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "8",
@@ -115,17 +125,7 @@
       "order": 11
     },
     {
-      "position": "T9",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "4",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 12
-    },
-    {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:20",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:00",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:35",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:35",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:10",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:45",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:10",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:00",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:45",
@@ -348,7 +348,7 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "14:25",
+      "thru": "1",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
