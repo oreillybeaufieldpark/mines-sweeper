@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:30:06.960593+01:00",
+  "generated_at": "2026-07-18T12:31:07.032657+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -598,7 +598,7 @@
       "position": "T60",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -665,17 +665,27 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T60",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 69
+    },
+    {
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "13",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -685,20 +695,10 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 69
-    },
-    {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "9",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
