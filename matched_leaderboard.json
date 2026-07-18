@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:39:06.927019+01:00",
+  "generated_at": "2026-07-18T18:40:07.089033+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
