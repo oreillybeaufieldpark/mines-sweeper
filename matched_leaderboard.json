@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:29:06.888735+01:00",
+  "generated_at": "2026-07-18T18:30:06.947625+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,16 +378,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "13",
-      "golfer": "Thomas Detry",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 38
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "12",
       "golfer": "Matt Wallace",
       "owner": "",
@@ -395,7 +385,17 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "14",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 38
+    },
+    {
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -568,7 +568,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
