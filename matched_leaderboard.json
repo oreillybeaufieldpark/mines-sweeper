@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:51:06.248489+01:00",
+  "generated_at": "2026-07-18T11:52:07.136279+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -738,7 +738,7 @@
       "position": "T72",
       "score": "+2",
       "score_num": 2,
-      "thru": "7",
+      "thru": "9",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -753,6 +753,16 @@
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 77
+    },
+    {
+      "position": "T72",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "9",
+      "golfer": "Keegan Bradley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 78
     },
     {
       "position": "-",
@@ -945,17 +955,17 @@
       "order": 97
     },
     {
-      "position": "T76",
+      "position": "T77",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 75
     },
     {
-      "position": "T76",
+      "position": "T77",
       "score": "+3",
       "score_num": 3,
       "thru": "9",
@@ -963,16 +973,6 @@
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 76
-    },
-    {
-      "position": "T76",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "7",
-      "golfer": "Keegan Bradley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 78
     },
     {
       "position": "-",
