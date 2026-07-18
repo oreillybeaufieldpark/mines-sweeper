@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:07:06.731355+01:00",
+  "generated_at": "2026-07-18T13:08:06.599999+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -738,7 +738,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -935,17 +935,17 @@
       "order": 97
     },
     {
-      "position": "T70",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Keegan Bradley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 74
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
@@ -955,7 +955,7 @@
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
       "thru": "17",
