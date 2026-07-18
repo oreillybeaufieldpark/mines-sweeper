@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:20:07.365255+01:00",
+  "generated_at": "2026-07-18T12:21:06.738043+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T43",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Michael Murray",
@@ -705,17 +705,7 @@
       "order": 70
     },
     {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "5",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
-    },
-    {
-      "position": "T72",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -725,7 +715,17 @@
       "order": 66
     },
     {
-      "position": "T72",
+      "position": "T71",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "6",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 71
+    },
+    {
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "11",
@@ -745,7 +745,7 @@
       "order": 75
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
