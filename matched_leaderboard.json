@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:48:06.401355+01:00",
+  "generated_at": "2026-07-18T10:49:06.519157+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -538,7 +538,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
@@ -548,7 +548,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -558,7 +558,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -568,7 +568,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -685,27 +685,37 @@
       "order": 68
     },
     {
-      "position": "T69",
+      "position": "T54",
+      "score": "E",
+      "score_num": 0,
+      "thru": "3",
+      "golfer": "Alex Smalley",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 75
+    },
+    {
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 69
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 70
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -715,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -725,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -743,16 +753,6 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 74
-    },
-    {
-      "position": "T69",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "2",
-      "golfer": "Alex Smalley",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 75
     },
     {
       "position": "T76",
