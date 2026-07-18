@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:07:06.382423+01:00",
+  "generated_at": "2026-07-18T18:08:07.387616+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -368,26 +368,6 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
-      "golfer": "Victor Perez",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 37
-    },
-    {
-      "position": "T30",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "15",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 38
-    },
-    {
-      "position": "T30",
-      "score": "-2",
-      "score_num": -2,
       "thru": "13",
       "golfer": "Francesco Molinari",
       "owner": "",
@@ -415,7 +395,17 @@
       "order": 41
     },
     {
-      "position": "T42",
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "16",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 38
+    },
+    {
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +415,7 @@
       "order": 42
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -495,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T42",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,17 +495,27 @@
       "order": 50
     },
     {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "15",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Victor Perez",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 37
+    },
+    {
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "16",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
