@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:12:07.044126+01:00",
+  "generated_at": "2026-07-18T15:13:06.853412+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -278,7 +278,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "13",
+      "thru": "16",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -308,7 +308,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
@@ -478,7 +478,7 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -548,16 +548,6 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
-      "golfer": "Sepp Straka",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 56
-    },
-    {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
       "thru": "5",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
@@ -575,7 +565,7 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -585,7 +575,17 @@
       "order": 55
     },
     {
-      "position": "T58",
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Sepp Straka",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 56
+    },
+    {
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -615,17 +615,17 @@
       "order": 60
     },
     {
-      "position": "T58",
-      "score": "E",
-      "score_num": 0,
-      "thru": "13",
+      "position": "T62",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "F",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 61
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -635,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
