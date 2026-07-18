@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:03:07.045073+01:00",
+  "generated_at": "2026-07-18T13:04:07.077279+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -468,7 +468,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "12:50",
+      "thru": "1",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -478,7 +478,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "12:50",
+      "thru": "1",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -548,7 +548,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "12:40",
+      "thru": "1",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
