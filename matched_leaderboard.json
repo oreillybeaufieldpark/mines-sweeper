@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T09:56:06.417934+01:00",
+  "generated_at": "2026-07-18T09:57:06.441724+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -678,17 +678,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
-      "golfer": "Jack McDonald",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 68
-    },
-    {
-      "position": "T67",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
@@ -718,7 +708,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "09:40",
+      "thru": "1",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -758,7 +748,7 @@
       "position": "T67",
       "score": "+1",
       "score_num": 1,
-      "thru": "09:40",
+      "thru": "1",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -783,6 +773,16 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 78
+    },
+    {
+      "position": "78",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "4",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 68
     },
     {
       "position": "-",
