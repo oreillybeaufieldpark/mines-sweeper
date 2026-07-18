@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:24:06.552471+01:00",
+  "generated_at": "2026-07-18T17:25:06.496220+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -618,7 +618,7 @@
       "position": "T56",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
