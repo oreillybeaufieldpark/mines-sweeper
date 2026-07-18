@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:18:07.030539+01:00",
+  "generated_at": "2026-07-18T15:19:07.129781+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -408,7 +408,7 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
