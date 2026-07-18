@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:43:07.052399+01:00",
+  "generated_at": "2026-07-18T16:44:07.284305+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -448,16 +448,6 @@
       "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 47
-    },
-    {
-      "position": "T39",
-      "score": "-1",
-      "score_num": -1,
       "thru": "13",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
@@ -475,7 +465,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -485,7 +475,17 @@
       "order": 36
     },
     {
-      "position": "T48",
+      "position": "T47",
+      "score": "E",
+      "score_num": 0,
+      "thru": "15",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 47
+    },
+    {
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -495,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 53
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 54
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -545,7 +545,7 @@
       "order": 55
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -555,7 +555,7 @@
       "order": 56
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -565,7 +565,7 @@
       "order": 57
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -635,17 +635,17 @@
       "order": 63
     },
     {
-      "position": "T58",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "14",
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "15",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 64
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
