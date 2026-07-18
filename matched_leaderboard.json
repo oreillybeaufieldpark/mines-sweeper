@@ -1,11 +1,11 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:40:06.307807+01:00",
+  "generated_at": "2026-07-18T14:41:06.460131+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
       "score": "-8",
       "score_num": -8,
       "thru": "15:50",
@@ -15,10 +15,10 @@
       "order": 1
     },
     {
-      "position": "2",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "16",
+      "position": "T1",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "F",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
