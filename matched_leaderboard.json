@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:02:06.709802+01:00",
+  "generated_at": "2026-07-18T17:03:06.728438+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -65,7 +65,7 @@
       "order": 6
     },
     {
-      "position": "7",
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "10",
@@ -75,7 +75,17 @@
       "order": 7
     },
     {
-      "position": "T8",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "17",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 15
+    },
+    {
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "10",
@@ -85,7 +95,7 @@
       "order": 8
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "6",
@@ -95,7 +105,7 @@
       "order": 9
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "5",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -115,7 +125,7 @@
       "order": 11
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -125,7 +135,7 @@
       "order": 12
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,17 +155,7 @@
       "order": 14
     },
     {
-      "position": "T11",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "16",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 15
-    },
-    {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "8",
@@ -428,7 +428,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -548,7 +548,7 @@
       "position": "T46",
       "score": "E",
       "score_num": 0,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
