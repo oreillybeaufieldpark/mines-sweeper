@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:25:06.767830+01:00",
+  "generated_at": "2026-07-18T13:26:06.668270+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -318,6 +318,16 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
+      "thru": "1",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 39
+    },
+    {
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
       "thru": "6",
       "golfer": "Hennie Du Plessis",
       "owner": "",
@@ -325,7 +335,7 @@
       "order": 55
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -335,7 +345,7 @@
       "order": 31
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -345,7 +355,7 @@
       "order": 32
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -355,7 +365,7 @@
       "order": 33
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -365,7 +375,7 @@
       "order": 34
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -375,7 +385,7 @@
       "order": 35
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -385,7 +395,7 @@
       "order": 37
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -395,17 +405,7 @@
       "order": 38
     },
     {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "13:10",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 39
-    },
-    {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -415,17 +415,17 @@
       "order": 40
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:00",
+      "thru": "1",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 41
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -435,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -445,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -648,7 +648,7 @@
       "position": "T64",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -688,6 +688,16 @@
       "position": "T64",
       "score": "+1",
       "score_num": 1,
+      "thru": "17",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 71
+    },
+    {
+      "position": "T64",
+      "score": "+1",
+      "score_num": 1,
       "thru": "15",
       "golfer": "Aldrich Potgieter",
       "owner": "",
@@ -695,7 +705,7 @@
       "order": 72
     },
     {
-      "position": "T70",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 69
     },
     {
-      "position": "T70",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -715,17 +725,7 @@
       "order": 70
     },
     {
-      "position": "T70",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "16",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 71
-    },
-    {
-      "position": "T70",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "11",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T70",
+      "position": "T71",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
