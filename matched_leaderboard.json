@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T19:34:07.024926+01:00",
+  "generated_at": "2026-07-18T19:35:07.071230+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -18,21 +18,11 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "15",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 2
-    },
-    {
-      "position": "T2",
-      "score": "-8",
-      "score_num": -8,
       "thru": "F",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
-      "order": 3
+      "order": 2
     },
     {
       "position": "T2",
@@ -42,16 +32,26 @@
       "golfer": "Si Woo Kim",
       "owner": "Donal Maher",
       "owner_redraw": "Dave Smyth",
+      "order": 3
+    },
+    {
+      "position": "T2",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "15",
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
       "order": 4
     },
     {
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "15",
-      "golfer": "Jackson Suber",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
+      "thru": "17",
+      "golfer": "Bryson DeChambeau",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Maher",
       "order": 5
     },
     {
@@ -68,11 +68,11 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "17",
-      "golfer": "Bryson DeChambeau",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Maher",
-      "order": 8
+      "thru": "15",
+      "golfer": "Jackson Suber",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 7
     },
     {
       "position": "8",
@@ -82,7 +82,7 @@
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Brogan",
-      "order": 7
+      "order": 8
     },
     {
       "position": "T9",
