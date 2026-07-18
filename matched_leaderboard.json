@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:43:07.180060+01:00",
+  "generated_at": "2026-07-18T18:44:06.795015+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -478,7 +478,7 @@
       "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
