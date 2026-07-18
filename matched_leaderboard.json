@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:19:07.129781+01:00",
+  "generated_at": "2026-07-18T15:20:07.150199+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -148,7 +148,7 @@
       "position": "T9",
       "score": "-4",
       "score_num": -4,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "Finbarr Callaly",
@@ -508,16 +508,6 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 51
-    },
-    {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
       "thru": "9",
       "golfer": "Adam Scott",
       "owner": "",
@@ -555,7 +545,17 @@
       "order": 55
     },
     {
-      "position": "T56",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "John Parry",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 51
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "7",
