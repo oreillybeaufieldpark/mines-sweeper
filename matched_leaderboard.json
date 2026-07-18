@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:00:06.615086+01:00",
+  "generated_at": "2026-07-18T17:01:06.635439+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -548,7 +548,7 @@
       "position": "T46",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
