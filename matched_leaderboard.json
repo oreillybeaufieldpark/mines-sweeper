@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:09:06.489692+01:00",
+  "generated_at": "2026-07-18T10:10:06.537153+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -685,7 +685,17 @@
       "order": 68
     },
     {
-      "position": "T69",
+      "position": "T52",
+      "score": "E",
+      "score_num": 0,
+      "thru": "5",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 70
+    },
+    {
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -695,17 +705,7 @@
       "order": 69
     },
     {
-      "position": "T69",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 70
-    },
-    {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -715,7 +715,7 @@
       "order": 71
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -725,7 +725,7 @@
       "order": 72
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -745,7 +745,7 @@
       "order": 74
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -755,7 +755,7 @@
       "order": 75
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "10:00",
@@ -765,7 +765,7 @@
       "order": 76
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+1",
       "score_num": 1,
       "thru": "10:00",
