@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:04:06.849255+01:00",
+  "generated_at": "2026-07-18T17:05:06.904710+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -25,7 +25,17 @@
       "order": 3
     },
     {
-      "position": "T3",
+      "position": "T1",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "5",
+      "golfer": "Jackson Suber",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 5
+    },
+    {
+      "position": "T4",
       "score": "-7",
       "score_num": -7,
       "thru": "8",
@@ -35,30 +45,20 @@
       "order": 2
     },
     {
-      "position": "T3",
+      "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
       "order": 4
     },
     {
-      "position": "T3",
+      "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "4",
-      "golfer": "Jackson Suber",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 5
-    },
-    {
-      "position": "T3",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
