@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:47:07.240074+01:00",
+  "generated_at": "2026-07-18T16:48:07.212825+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T2",
       "score": "-7",
       "score_num": -7,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -38,14 +38,24 @@
       "position": "T2",
       "score": "-7",
       "score_num": -7,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "T2",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "5",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Stephen Walker",
+      "order": 7
+    },
+    {
+      "position": "T6",
       "score": "-6",
       "score_num": -6,
       "thru": "9",
@@ -55,7 +65,7 @@
       "order": 5
     },
     {
-      "position": "T5",
+      "position": "T6",
       "score": "-6",
       "score_num": -6,
       "thru": "6",
@@ -63,16 +73,6 @@
       "owner": "Donal Maher",
       "owner_redraw": "Dave Smyth",
       "order": 6
-    },
-    {
-      "position": "T5",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "4",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Stephen Walker",
-      "order": 7
     },
     {
       "position": "T8",
