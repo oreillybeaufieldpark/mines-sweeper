@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:41:06.971434+01:00",
+  "generated_at": "2026-07-18T11:42:07.263663+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -448,7 +448,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -588,7 +588,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "11:25",
+      "thru": "1",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
