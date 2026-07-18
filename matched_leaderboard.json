@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:24:06.323575+01:00",
+  "generated_at": "2026-07-18T14:25:06.478535+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -238,7 +238,7 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
