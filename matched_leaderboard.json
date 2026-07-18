@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:40:06.741706+01:00",
+  "generated_at": "2026-07-18T15:41:06.780469+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -178,16 +178,6 @@
       "position": "T11",
       "score": "-4",
       "score_num": -4,
-      "thru": "2",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Igor Fleming",
-      "order": 20
-    },
-    {
-      "position": "T11",
-      "score": "-4",
-      "score_num": -4,
       "thru": "1",
       "golfer": "Thomas Detry",
       "owner": "",
@@ -225,7 +215,7 @@
       "order": 34
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -235,7 +225,7 @@
       "order": 13
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -245,7 +235,17 @@
       "order": 14
     },
     {
-      "position": "T23",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "3",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Igor Fleming",
+      "order": 20
+    },
+    {
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 23
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -285,7 +285,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -295,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -305,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -325,7 +325,7 @@
       "order": 33
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
