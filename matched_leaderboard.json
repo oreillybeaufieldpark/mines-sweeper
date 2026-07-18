@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:19:06.899590+01:00",
+  "generated_at": "2026-07-18T16:20:06.815849+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -25,7 +25,17 @@
       "order": 2
     },
     {
-      "position": "3",
+      "position": "T3",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "4",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Donal Brogan",
+      "order": 5
+    },
+    {
+      "position": "T3",
       "score": "-7",
       "score_num": -7,
       "thru": "2",
@@ -35,7 +45,7 @@
       "order": 8
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-6",
       "score_num": -6,
       "thru": "8",
@@ -45,7 +55,7 @@
       "order": 3
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-6",
       "score_num": -6,
       "thru": "4",
@@ -55,37 +65,27 @@
       "order": 4
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-6",
       "score_num": -6,
       "thru": "3",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Donal Brogan",
-      "order": 5
-    },
-    {
-      "position": "T4",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "2",
-      "golfer": "Ryan Gerard",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 6
-    },
-    {
-      "position": "T4",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "2",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
       "order": 7
     },
     {
-      "position": "T9",
+      "position": "T8",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "3",
+      "golfer": "Ryan Gerard",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 6
+    },
+    {
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "13",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "6",
@@ -198,7 +198,7 @@
       "position": "T11",
       "score": "-4",
       "score_num": -4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
