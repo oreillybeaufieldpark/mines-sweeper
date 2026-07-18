@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:04:07.818332+01:00",
+  "generated_at": "2026-07-18T18:05:06.743618+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -199,23 +199,23 @@
       "score": "-4",
       "score_num": -4,
       "thru": "12",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 20
-    },
-    {
-      "position": "T14",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "12",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
       "order": 21
     },
     {
-      "position": "T22",
+      "position": "T21",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "13",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 20
+    },
+    {
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -285,10 +285,10 @@
       "order": 28
     },
     {
-      "position": "T22",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "13",
+      "thru": "15",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
