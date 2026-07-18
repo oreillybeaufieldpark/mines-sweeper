@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:36:07.107882+01:00",
+  "generated_at": "2026-07-18T16:37:07.017835+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -88,16 +88,6 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "6",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 9
-    },
-    {
-      "position": "T8",
-      "score": "-5",
-      "score_num": -5,
       "thru": "4",
       "golfer": "Ryan Gerard",
       "owner": "",
@@ -105,7 +95,17 @@
       "order": 10
     },
     {
-      "position": "T11",
+      "position": "T10",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "7",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 9
+    },
+    {
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "4",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -298,7 +298,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "5",
+      "thru": "7",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -578,7 +578,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
