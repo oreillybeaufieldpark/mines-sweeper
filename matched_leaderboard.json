@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:16:06.912074+01:00",
+  "generated_at": "2026-07-18T18:17:06.969375+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T6",
       "score": "-6",
       "score_num": -6,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
