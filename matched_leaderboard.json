@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:03:06.965834+01:00",
+  "generated_at": "2026-07-18T18:04:07.818332+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,16 +38,6 @@
       "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "14",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 4
-    },
-    {
-      "position": "T4",
-      "score": "-7",
-      "score_num": -7,
       "thru": "12",
       "golfer": "Si Woo Kim",
       "owner": "Donal Maher",
@@ -73,6 +63,16 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 7
+    },
+    {
+      "position": "7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "15",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 4
     },
     {
       "position": "T8",
@@ -108,7 +108,7 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
