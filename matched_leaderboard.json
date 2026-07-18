@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:35:07.307950+01:00",
+  "generated_at": "2026-07-18T17:36:07.198552+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,7 +558,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
+      "thru": "12",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
