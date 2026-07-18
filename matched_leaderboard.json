@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:01:07.213907+01:00",
+  "generated_at": "2026-07-18T15:02:07.269348+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T6",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -308,7 +308,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -538,7 +538,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -665,7 +665,17 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T64",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "9",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 72
+    },
+    {
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T67",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -715,17 +725,7 @@
       "order": 71
     },
     {
-      "position": "T67",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "8",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 72
-    },
-    {
-      "position": "T67",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "7",
