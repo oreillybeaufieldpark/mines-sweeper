@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:59:06.608169+01:00",
+  "generated_at": "2026-07-18T17:00:06.615086+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
@@ -258,7 +258,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -438,7 +438,7 @@
       "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
