@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:06:07.246094+01:00",
+  "generated_at": "2026-07-18T16:07:07.063031+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -75,7 +75,17 @@
       "order": 7
     },
     {
-      "position": "T8",
+      "position": "T3",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "7",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 9
+    },
+    {
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "13",
@@ -85,17 +95,7 @@
       "order": 8
     },
     {
-      "position": "T8",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "6",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 9
-    },
-    {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "6",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-5",
       "score_num": -5,
       "thru": "4",
@@ -188,7 +188,7 @@
       "position": "T12",
       "score": "-4",
       "score_num": -4,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
@@ -388,7 +388,7 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
