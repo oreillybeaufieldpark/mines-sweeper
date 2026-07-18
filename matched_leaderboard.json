@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:47:06.832118+01:00",
+  "generated_at": "2026-07-18T13:48:06.887972+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -328,7 +328,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
@@ -598,16 +598,6 @@
       "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 60
-    },
-    {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
       "thru": "6",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
@@ -655,7 +645,17 @@
       "order": 65
     },
     {
-      "position": "T66",
+      "position": "T65",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "8",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 60
+    },
+    {
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -675,17 +675,17 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 69
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
