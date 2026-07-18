@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:45:06.809092+01:00",
+  "generated_at": "2026-07-18T18:46:06.817651+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,16 +98,6 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "15",
-      "golfer": "Scottie Scheffler",
-      "owner": "Donal Maher",
-      "owner_redraw": "Richard Kendrick",
-      "order": 9
-    },
-    {
-      "position": "T9",
-      "score": "-5",
-      "score_num": -5,
       "thru": "13",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
@@ -125,7 +115,17 @@
       "order": 12
     },
     {
-      "position": "T13",
+      "position": "T12",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "17",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 9
+    },
+    {
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T13",
+      "position": "T12",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -558,7 +558,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
