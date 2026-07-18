@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:19:06.366382+01:00",
+  "generated_at": "2026-07-18T12:20:07.365255+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -278,7 +278,7 @@
       "position": "T27",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
