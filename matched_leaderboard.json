@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:35:06.448342+01:00",
+  "generated_at": "2026-07-18T12:36:07.302486+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -288,7 +288,7 @@
       "position": "T27",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "Fergal O'Reilly",
@@ -478,7 +478,7 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "8",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -498,7 +498,7 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -585,7 +585,17 @@
       "order": 60
     },
     {
-      "position": "T59",
+      "position": "T47",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "9",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 62
+    },
+    {
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -595,7 +605,7 @@
       "order": 56
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -605,7 +615,7 @@
       "order": 59
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -615,17 +625,7 @@
       "order": 61
     },
     {
-      "position": "T59",
-      "score": "E",
-      "score_num": 0,
-      "thru": "7",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 62
-    },
-    {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -688,7 +688,7 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
