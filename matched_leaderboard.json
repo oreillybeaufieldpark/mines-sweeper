@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:37:06.948784+01:00",
+  "generated_at": "2026-07-18T10:38:07.449052+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -568,16 +568,6 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
-      "golfer": "Alex Smalley",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 57
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
       "thru": "11:25",
       "golfer": "Eric Cole",
       "owner": "",
@@ -695,7 +685,7 @@
       "order": 70
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "6",
@@ -705,17 +695,17 @@
       "order": 53
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
-      "golfer": "Jack McDonald",
+      "thru": "2",
+      "golfer": "Alex Smalley",
       "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 71
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 57
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -725,7 +715,7 @@
       "order": 73
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -735,37 +725,47 @@
       "order": 74
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 75
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 76
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 77
     },
     {
-      "position": "T77",
+      "position": "T76",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "7",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 71
+    },
+    {
+      "position": "T76",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -773,16 +773,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 72
-    },
-    {
-      "position": "T77",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "1",
-      "golfer": "Keegan Bradley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 78
     },
     {
       "position": "-",
@@ -1073,6 +1063,16 @@
       "owner": "Michael Murray",
       "owner_redraw": "",
       "order": 107
+    },
+    {
+      "position": "78",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "3",
+      "golfer": "Keegan Bradley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 78
     },
     {
       "position": "-",
