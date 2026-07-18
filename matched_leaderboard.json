@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:08:07.097967+01:00",
+  "generated_at": "2026-07-18T17:09:07.151720+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -65,17 +65,17 @@
       "order": 6
     },
     {
-      "position": "T7",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "10",
+      "position": "T4",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "11",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
       "order": 7
     },
     {
-      "position": "T7",
+      "position": "8",
       "score": "-6",
       "score_num": -6,
       "thru": "17",
@@ -238,7 +238,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -248,7 +248,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
@@ -338,7 +338,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
