@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:06:06.781375+01:00",
+  "generated_at": "2026-07-18T10:07:06.671528+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -669,13 +669,23 @@
       "score": "E",
       "score_num": 0,
       "thru": "2",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 72
+    },
+    {
+      "position": "T52",
+      "score": "E",
+      "score_num": 0,
+      "thru": "2",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 76
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -685,17 +695,27 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
+      "thru": "5",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 68
+    },
+    {
+      "position": "T69",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "4",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -705,7 +725,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -715,17 +735,7 @@
       "order": 71
     },
     {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "1",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 72
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -735,7 +745,7 @@
       "order": 73
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "2",
@@ -745,7 +755,7 @@
       "order": 74
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "1",
@@ -755,7 +765,7 @@
       "order": 75
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "10:00",
@@ -765,7 +775,7 @@
       "order": 77
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+1",
       "score_num": 1,
       "thru": "10:00",
@@ -773,16 +783,6 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 78
-    },
-    {
-      "position": "78",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "4",
-      "golfer": "Jack McDonald",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 68
     },
     {
       "position": "-",
