@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:07:06.671528+01:00",
+  "generated_at": "2026-07-18T10:08:06.465549+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -718,16 +718,6 @@
       "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 70
-    },
-    {
-      "position": "T69",
-      "score": "+1",
-      "score_num": 1,
       "thru": "1",
       "golfer": "Peter Uihlein",
       "owner": "",
@@ -783,6 +773,16 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 78
+    },
+    {
+      "position": "78",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "4",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 70
     },
     {
       "position": "-",
