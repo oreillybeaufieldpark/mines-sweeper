@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:43:06.718181+01:00",
+  "generated_at": "2026-07-18T14:44:06.661309+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -215,7 +215,17 @@
       "order": 25
     },
     {
-      "position": "T22",
+      "position": "T10",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "5",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 47
+    },
+    {
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -225,7 +235,7 @@
       "order": 10
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 22
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 24
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "11",
@@ -265,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -275,7 +285,7 @@
       "order": 27
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -285,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -295,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -305,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -315,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -325,7 +335,17 @@
       "order": 33
     },
     {
-      "position": "T22",
+      "position": "T23",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "2",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 34
+    },
+    {
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -335,17 +355,17 @@
       "order": 35
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "Finbarr Callaly",
       "order": 36
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -355,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -365,7 +385,7 @@
       "order": 39
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -375,7 +395,7 @@
       "order": 42
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -385,7 +405,7 @@
       "order": 45
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -395,17 +415,7 @@
       "order": 46
     },
     {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "4",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 47
-    },
-    {
-      "position": "T41",
+      "position": "T42",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -415,17 +425,7 @@
       "order": 30
     },
     {
-      "position": "T41",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "1",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 34
-    },
-    {
-      "position": "T41",
+      "position": "T42",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -435,7 +435,7 @@
       "order": 38
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -445,7 +445,7 @@
       "order": 40
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -548,7 +548,7 @@
       "position": "T46",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
