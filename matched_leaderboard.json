@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:35:06.636753+01:00",
+  "generated_at": "2026-07-18T13:36:06.687539+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -628,7 +628,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -688,7 +688,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -743,6 +743,16 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 74
+    },
+    {
+      "position": "T71",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "17",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 76
     },
     {
       "position": "-",
@@ -935,7 +945,7 @@
       "order": 97
     },
     {
-      "position": "T75",
+      "position": "76",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -943,16 +953,6 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 75
-    },
-    {
-      "position": "T75",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "16",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 76
     },
     {
       "position": "-",
