@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:01:06.753663+01:00",
+  "generated_at": "2026-07-18T14:02:06.808490+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:45",
+      "thru": "1",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
@@ -468,7 +468,7 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:45",
+      "thru": "1",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -645,7 +645,7 @@
       "order": 66
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 64
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -665,7 +665,7 @@
       "order": 65
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
