@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:12:07.044436+01:00",
+  "generated_at": "2026-07-18T12:13:06.963924+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -468,26 +468,6 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 47
-    },
-    {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "4",
-      "golfer": "Kurt Kitayama",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 48
-    },
-    {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
       "thru": "3",
       "golfer": "MJ Daffue",
       "owner": "",
@@ -595,7 +575,27 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T58",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 47
+    },
+    {
+      "position": "T58",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Kurt Kitayama",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 48
+    },
+    {
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -625,17 +625,17 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "7",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "Donal Brogan",
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -738,16 +738,6 @@
       "position": "T72",
       "score": "+2",
       "score_num": 2,
-      "thru": "12",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 74
-    },
-    {
-      "position": "T72",
-      "score": "+2",
-      "score_num": 2,
       "thru": "11",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
@@ -758,7 +748,7 @@
       "position": "T72",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Keegan Bradley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -955,20 +945,30 @@
       "order": 97
     },
     {
-      "position": "T77",
+      "position": "T76",
       "score": "+3",
       "score_num": 3,
-      "thru": "12",
+      "thru": "13",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 74
+    },
+    {
+      "position": "T76",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 77
     },
     {
-      "position": "T77",
+      "position": "T76",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "12",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
