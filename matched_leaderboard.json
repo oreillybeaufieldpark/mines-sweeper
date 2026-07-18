@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:46:06.953568+01:00",
+  "generated_at": "2026-07-18T14:47:07.307291+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -428,7 +428,7 @@
       "position": "T42",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "F",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -455,7 +455,27 @@
       "order": 45
     },
     {
-      "position": "T46",
+      "position": "T42",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "16",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 48
+    },
+    {
+      "position": "T42",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 58
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +485,7 @@
       "order": 46
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,17 +495,7 @@
       "order": 47
     },
     {
-      "position": "T46",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 48
-    },
-    {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T46",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,17 +585,7 @@
       "order": 57
     },
     {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
-      "thru": "15",
-      "golfer": "Casey Jarvis",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 58
-    },
-    {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -658,7 +658,7 @@
       "position": "T63",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -948,7 +948,7 @@
       "position": "T74",
       "score": "+3",
       "score_num": 3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
