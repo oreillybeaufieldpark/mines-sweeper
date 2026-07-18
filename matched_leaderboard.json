@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:12:06.704268+01:00",
+  "generated_at": "2026-07-18T16:13:06.571858+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -105,17 +105,17 @@
       "order": 10
     },
     {
-      "position": "T9",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "4",
+      "position": "T11",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "5",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 11
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +135,7 @@
       "order": 13
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "14",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "9",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "9",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "7",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "3",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -215,7 +215,7 @@
       "order": 28
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "9",
@@ -348,7 +348,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -1055,16 +1055,6 @@
       "order": 76
     },
     {
-      "position": "T75",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "15",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 77
-    },
-    {
       "position": "-",
       "score": "+4",
       "score_num": 4,
@@ -1205,7 +1195,17 @@
       "order": 121
     },
     {
-      "position": "78",
+      "position": "T77",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 77
+    },
+    {
+      "position": "T77",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
