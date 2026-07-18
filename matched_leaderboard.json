@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:43:07.387243+01:00",
+  "generated_at": "2026-07-18T11:44:06.321475+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -648,16 +648,6 @@
       "position": "T59",
       "score": "E",
       "score_num": 0,
-      "thru": "11:25",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 65
-    },
-    {
-      "position": "T59",
-      "score": "E",
-      "score_num": 0,
       "thru": "2",
       "golfer": "Michael Brennan",
       "owner": "",
@@ -668,14 +658,24 @@
       "position": "T59",
       "score": "E",
       "score_num": 0,
-      "thru": "11:15",
+      "thru": "2",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "1",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 65
+    },
+    {
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -693,6 +693,16 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 69
+    },
+    {
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "3",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 74
     },
     {
       "position": "T70",
@@ -733,16 +743,6 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 73
-    },
-    {
-      "position": "T70",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "2",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 74
     },
     {
       "position": "-",
