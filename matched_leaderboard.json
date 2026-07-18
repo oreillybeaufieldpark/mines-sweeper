@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:45:06.554132+01:00",
+  "generated_at": "2026-07-18T13:46:06.809857+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -438,17 +438,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 44
-    },
-    {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
@@ -495,7 +485,17 @@
       "order": 49
     },
     {
-      "position": "T50",
+      "position": "T49",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "2",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 44
+    },
+    {
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -668,7 +668,7 @@
       "position": "T66",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
