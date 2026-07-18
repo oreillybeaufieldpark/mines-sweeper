@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:02:06.949709+01:00",
+  "generated_at": "2026-07-18T13:03:07.045073+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -305,7 +305,17 @@
       "order": 30
     },
     {
-      "position": "T31",
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "3",
+      "golfer": "Jacob Bridgeman",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 35
+    },
+    {
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -335,27 +345,17 @@
       "order": 33
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
       "order": 34
     },
     {
-      "position": "T31",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "2",
-      "golfer": "Jacob Bridgeman",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 35
-    },
-    {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -539,16 +539,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "2",
-      "golfer": "Rory McIlroy",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 54
-    },
-    {
-      "position": "T49",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "1",
       "golfer": "Jesper Svensson",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -575,7 +565,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "3",
+      "golfer": "Rory McIlroy",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 54
+    },
+    {
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -625,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -635,10 +635,10 @@
       "order": 64
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -728,7 +728,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -948,7 +948,7 @@
       "position": "76",
       "score": "+3",
       "score_num": 3,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
