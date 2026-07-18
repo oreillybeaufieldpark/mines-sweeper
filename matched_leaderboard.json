@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:04:06.577034+01:00",
+  "generated_at": "2026-07-18T11:05:06.800824+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -708,7 +708,7 @@
       "position": "T69",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
