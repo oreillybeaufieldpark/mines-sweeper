@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:53:07.335837+01:00",
+  "generated_at": "2026-07-18T15:54:07.238302+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T3",
       "score": "-6",
       "score_num": -6,
-      "thru": "15:40",
+      "thru": "1",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
@@ -38,7 +38,7 @@
       "position": "T3",
       "score": "-6",
       "score_num": -6,
-      "thru": "15:40",
+      "thru": "1",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -388,7 +388,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -498,7 +498,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -568,7 +568,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -648,7 +648,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -693,16 +693,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 69
-    },
-    {
-      "position": "T66",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "12",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 70
     },
     {
       "position": "T66",
@@ -905,7 +895,17 @@
       "order": 97
     },
     {
-      "position": "T72",
+      "position": "T71",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 70
+    },
+    {
+      "position": "T71",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -915,7 +915,7 @@
       "order": 72
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -925,17 +925,17 @@
       "order": 73
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
       "order": 74
     },
     {
-      "position": "T72",
+      "position": "T71",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
