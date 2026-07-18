@@ -1,11 +1,11 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:03:06.728438+01:00",
+  "generated_at": "2026-07-18T17:04:06.849255+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -15,27 +15,27 @@
       "order": 1
     },
     {
-      "position": "T2",
-      "score": "-7",
-      "score_num": -7,
+      "position": "T1",
+      "score": "-8",
+      "score_num": -8,
       "thru": "7",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
-      "owner_redraw": "Dave Smyth",
-      "order": 2
-    },
-    {
-      "position": "T2",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "6",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
       "order": 3
     },
     {
-      "position": "T2",
+      "position": "T3",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "8",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "Dave Smyth",
+      "order": 2
+    },
+    {
+      "position": "T3",
       "score": "-7",
       "score_num": -7,
       "thru": "5",
@@ -45,7 +45,7 @@
       "order": 4
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-7",
       "score_num": -7,
       "thru": "4",
@@ -55,7 +55,7 @@
       "order": 5
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-7",
       "score_num": -7,
       "thru": "4",
@@ -98,7 +98,7 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T28",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Igor Fleming",
+      "order": 52
+    },
+    {
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -445,17 +455,17 @@
       "order": 44
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 45
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -515,17 +525,7 @@
       "order": 51
     },
     {
-      "position": "T46",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Igor Fleming",
-      "order": 52
-    },
-    {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "14",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "8",
