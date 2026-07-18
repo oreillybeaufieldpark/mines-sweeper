@@ -1,11 +1,11 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:28:07.351674+01:00",
+  "generated_at": "2026-07-18T16:29:07.194493+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "T1",
+      "position": "1",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -15,17 +15,17 @@
       "order": 1
     },
     {
-      "position": "T1",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "2",
+      "position": "T2",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "3",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 2
     },
     {
-      "position": "T3",
+      "position": "T2",
       "score": "-7",
       "score_num": -7,
       "thru": "4",
@@ -35,7 +35,7 @@
       "order": 5
     },
     {
-      "position": "T3",
+      "position": "T2",
       "score": "-7",
       "score_num": -7,
       "thru": "3",
@@ -348,7 +348,7 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
