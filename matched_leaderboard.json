@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:48:06.887972+01:00",
+  "generated_at": "2026-07-18T13:49:07.009086+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -388,7 +388,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
@@ -468,16 +468,6 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:35",
-      "golfer": "Johnny Keefer",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 48
-    },
-    {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
       "thru": "13:45",
       "golfer": "Sepp Straka",
       "owner": "",
@@ -485,7 +475,7 @@
       "order": 49
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -495,7 +485,17 @@
       "order": 44
     },
     {
-      "position": "T49",
+      "position": "T48",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "Johnny Keefer",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 48
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T49",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -608,7 +608,7 @@
       "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
+      "thru": "8",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
