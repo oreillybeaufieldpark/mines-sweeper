@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:15:07.223933+01:00",
+  "generated_at": "2026-07-18T14:16:07.457913+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -103,16 +103,6 @@
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
       "order": 10
-    },
-    {
-      "position": "T10",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "7",
-      "golfer": "Jacob Bridgeman",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 11
     },
     {
       "position": "T10",
@@ -225,7 +215,17 @@
       "order": 22
     },
     {
-      "position": "T23",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "9",
+      "golfer": "Jacob Bridgeman",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 11
+    },
+    {
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
@@ -245,17 +245,17 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "11",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
@@ -498,7 +498,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
