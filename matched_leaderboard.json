@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:42:06.334790+01:00",
+  "generated_at": "2026-07-18T12:43:06.592702+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -265,7 +265,27 @@
       "order": 26
     },
     {
-      "position": "T27",
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "7",
+      "golfer": "Eugenio Chacarra",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 29
+    },
+    {
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "5",
+      "golfer": "Kazuma Kobori",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 31
+    },
+    {
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -275,7 +295,7 @@
       "order": 27
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -285,17 +305,7 @@
       "order": 28
     },
     {
-      "position": "T27",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "6",
-      "golfer": "Eugenio Chacarra",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 29
-    },
-    {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -305,17 +315,7 @@
       "order": 30
     },
     {
-      "position": "T27",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "4",
-      "golfer": "Kazuma Kobori",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 31
-    },
-    {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "12:40",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T27",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
