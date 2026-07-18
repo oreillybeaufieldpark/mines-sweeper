@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:25:06.496220+01:00",
+  "generated_at": "2026-07-18T17:26:06.617900+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -75,17 +75,17 @@
       "order": 7
     },
     {
-      "position": "8",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "17",
+      "position": "T8",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 8
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "13",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "10",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "7",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "6",
@@ -378,7 +378,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -538,7 +538,7 @@
       "position": "T49",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
