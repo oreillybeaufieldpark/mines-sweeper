@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:36:07.555677+01:00",
+  "generated_at": "2026-07-18T15:37:06.679611+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -498,16 +498,6 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "9",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Igor Fleming",
-      "order": 50
-    },
-    {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
       "thru": "7",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
@@ -518,7 +508,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -528,14 +518,24 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 53
     },
     {
-      "position": "T54",
+      "position": "T53",
+      "score": "E",
+      "score_num": 0,
+      "thru": "11",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Igor Fleming",
+      "order": 50
+    },
+    {
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -638,21 +638,11 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 64
-    },
-    {
-      "position": "T60",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "10",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 65
     },
     {
       "position": "T60",
@@ -665,7 +655,17 @@
       "order": 70
     },
     {
-      "position": "T67",
+      "position": "T66",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "12",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 65
+    },
+    {
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
