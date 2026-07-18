@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:22:06.520004+01:00",
+  "generated_at": "2026-07-18T15:23:06.379235+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -398,16 +398,6 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "13",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 40
-    },
-    {
-      "position": "T35",
-      "score": "-2",
-      "score_num": -2,
       "thru": "12",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
@@ -435,7 +425,17 @@
       "order": 43
     },
     {
-      "position": "T44",
+      "position": "T43",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "15",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 40
+    },
+    {
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -505,7 +505,7 @@
       "order": 52
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -515,7 +515,7 @@
       "order": 53
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -525,7 +525,7 @@
       "order": 54
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -535,7 +535,7 @@
       "order": 55
     },
     {
-      "position": "T44",
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T55",
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -628,7 +628,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -638,7 +638,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
