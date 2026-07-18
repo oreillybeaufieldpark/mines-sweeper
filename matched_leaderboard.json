@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:56:06.729475+01:00",
+  "generated_at": "2026-07-18T16:57:06.811454+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,16 +558,6 @@
       "position": "T46",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 56
-    },
-    {
-      "position": "T46",
-      "score": "E",
-      "score_num": 0,
       "thru": "8",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
@@ -575,7 +565,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T57",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "11",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 56
+    },
+    {
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -625,17 +625,7 @@
       "order": 62
     },
     {
-      "position": "T58",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "17",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 63
-    },
-    {
-      "position": "T58",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -645,7 +635,17 @@
       "order": 70
     },
     {
-      "position": "T65",
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "John Parry",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 63
+    },
+    {
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 64
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -665,7 +665,7 @@
       "order": 65
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
