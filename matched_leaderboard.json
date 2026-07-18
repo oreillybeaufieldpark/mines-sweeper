@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:33:07.331061+01:00",
+  "generated_at": "2026-07-18T17:34:06.562013+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -295,7 +295,17 @@
       "order": 29
     },
     {
-      "position": "T30",
+      "position": "T20",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "11",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 41
+    },
+    {
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -405,17 +415,17 @@
       "order": 40
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
-      "golfer": "Thomas Detry",
+      "golfer": "Matt Wallace",
       "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 41
+      "owner_redraw": "Colm Geary",
+      "order": 49
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T42",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -483,16 +493,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 48
-    },
-    {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
-      "golfer": "Matt Wallace",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 49
     },
     {
       "position": "T50",
