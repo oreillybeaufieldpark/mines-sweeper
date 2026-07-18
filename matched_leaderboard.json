@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:21:09.670826+01:00",
+  "generated_at": "2026-07-18T13:22:06.685722+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -518,7 +518,7 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Michael Murray",
@@ -575,7 +575,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T47",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "6",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 61
+    },
+    {
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -605,17 +615,7 @@
       "order": 60
     },
     {
-      "position": "T58",
-      "score": "E",
-      "score_num": 0,
-      "thru": "5",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 61
-    },
-    {
-      "position": "T58",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -728,7 +728,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
