@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:36:06.687539+01:00",
+  "generated_at": "2026-07-18T13:37:06.558147+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T18",
       "score": "-3",
       "score_num": -3,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -368,7 +368,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -378,7 +378,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -458,6 +458,16 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
+      "thru": "15",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 47
+    },
+    {
+      "position": "T32",
+      "score": "-2",
+      "score_num": -2,
       "thru": "8",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
@@ -465,7 +475,7 @@
       "order": 53
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,17 +485,7 @@
       "order": 46
     },
     {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "14",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 47
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -505,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -515,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -535,7 +535,7 @@
       "order": 55
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -545,7 +545,7 @@
       "order": 56
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -638,6 +638,16 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
+      "thru": "17",
+      "golfer": "Brooks Koepka",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 66
+    },
+    {
+      "position": "T56",
+      "score": "E",
+      "score_num": 0,
       "thru": "6",
       "golfer": "Andy Sullivan",
       "owner": "",
@@ -645,7 +655,7 @@
       "order": 70
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -655,7 +665,7 @@
       "order": 64
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -665,17 +675,7 @@
       "order": 65
     },
     {
-      "position": "T65",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "16",
-      "golfer": "Brooks Koepka",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 66
-    },
-    {
-      "position": "T65",
+      "position": "T66",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
