@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:22:06.581170+01:00",
+  "generated_at": "2026-07-18T16:23:06.542214+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -348,7 +348,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -418,7 +418,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -448,7 +448,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -458,7 +458,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -468,7 +468,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -575,7 +575,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "14",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Igor Fleming",
+      "order": 64
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -633,16 +643,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 63
-    },
-    {
-      "position": "T58",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "13",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Igor Fleming",
-      "order": 64
     },
     {
       "position": "T65",
