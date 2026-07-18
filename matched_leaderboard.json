@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:42:07.097168+01:00",
+  "generated_at": "2026-07-18T16:43:07.052399+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T10",
       "score": "-4",
       "score_num": -4,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -258,16 +258,6 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "11",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 27
-    },
-    {
-      "position": "T20",
-      "score": "-3",
-      "score_num": -3,
       "thru": "10",
       "golfer": "Pierceson Coody",
       "owner": "",
@@ -305,7 +295,7 @@
       "order": 38
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -315,7 +305,17 @@
       "order": 24
     },
     {
-      "position": "T31",
+      "position": "T30",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "12",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 27
+    },
+    {
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T31",
+      "position": "T30",
       "score": "-2",
       "score_num": -2,
       "thru": "17",
