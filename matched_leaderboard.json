@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:09:06.927848+01:00",
+  "generated_at": "2026-07-18T16:10:06.845608+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,16 +378,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 37
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "8",
       "golfer": "Pierceson Coody",
       "owner": "",
@@ -395,7 +385,7 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -405,7 +395,17 @@
       "order": 36
     },
     {
-      "position": "T40",
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "12",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 37
+    },
+    {
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -445,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -455,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -465,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -475,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -485,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -495,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -558,7 +558,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -569,23 +569,23 @@
       "score": "E",
       "score_num": 0,
       "thru": "12",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Igor Fleming",
-      "order": 57
-    },
-    {
-      "position": "T51",
-      "score": "E",
-      "score_num": 0,
-      "thru": "11",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 58
     },
     {
-      "position": "T59",
+      "position": "T58",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "13",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Igor Fleming",
+      "order": 57
+    },
+    {
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T59",
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T59",
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T59",
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T59",
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -635,17 +635,7 @@
       "order": 63
     },
     {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "10",
-      "golfer": "Sepp Straka",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 65
-    },
-    {
-      "position": "T59",
+      "position": "T58",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -655,7 +645,7 @@
       "order": 70
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
@@ -665,7 +655,17 @@
       "order": 64
     },
     {
-      "position": "T66",
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "11",
+      "golfer": "Sepp Straka",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 65
+    },
+    {
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -918,7 +918,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
