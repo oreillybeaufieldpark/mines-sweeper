@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:21:07.124697+01:00",
+  "generated_at": "2026-07-18T10:22:07.014283+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -678,7 +678,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "10:10",
+      "thru": "1",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
