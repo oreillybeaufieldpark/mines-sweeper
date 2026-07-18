@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:57:06.502664+01:00",
+  "generated_at": "2026-07-18T12:58:06.538720+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -598,7 +598,7 @@
       "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "10",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -608,21 +608,11 @@
       "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 61
-    },
-    {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
-      "thru": "5",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 62
     },
     {
       "position": "T57",
@@ -655,7 +645,17 @@
       "order": 65
     },
     {
-      "position": "T66",
+      "position": "T65",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "8",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 62
+    },
+    {
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -695,10 +695,10 @@
       "order": 69
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
+      "thru": "8",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
