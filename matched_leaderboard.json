@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:51:06.495170+01:00",
+  "generated_at": "2026-07-18T14:52:07.348603+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -58,16 +58,6 @@
       "position": "T6",
       "score": "-5",
       "score_num": -5,
-      "thru": "6",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 6
-    },
-    {
-      "position": "T6",
-      "score": "-5",
-      "score_num": -5,
       "thru": "15:30",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
@@ -105,7 +95,17 @@
       "order": 12
     },
     {
-      "position": "T11",
+      "position": "T10",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "7",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 6
+    },
+    {
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -115,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -125,7 +125,7 @@
       "order": 13
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:20",
@@ -135,7 +135,7 @@
       "order": 14
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:00",
@@ -145,7 +145,7 @@
       "order": 15
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "1",
@@ -155,7 +155,7 @@
       "order": 16
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:10",
@@ -165,7 +165,7 @@
       "order": 18
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:45",
@@ -175,7 +175,7 @@
       "order": 19
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:10",
@@ -185,7 +185,7 @@
       "order": 20
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "15:00",
@@ -195,7 +195,7 @@
       "order": 21
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-4",
       "score_num": -4,
       "thru": "14:45",
