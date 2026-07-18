@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:59:06.622841+01:00",
+  "generated_at": "2026-07-18T14:00:06.660894+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -345,7 +345,17 @@
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T24",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "17",
+      "golfer": "Alex Smalley",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 36
+    },
+    {
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -355,17 +365,7 @@
       "order": 35
     },
     {
-      "position": "T35",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "16",
-      "golfer": "Alex Smalley",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 36
-    },
-    {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T35",
+      "position": "T36",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -585,7 +585,17 @@
       "order": 58
     },
     {
-      "position": "T59",
+      "position": "T48",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "17",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 60
+    },
+    {
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -595,17 +605,7 @@
       "order": 59
     },
     {
-      "position": "T59",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 60
-    },
-    {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "7",
