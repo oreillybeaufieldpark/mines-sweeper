@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:25:06.752783+01:00",
+  "generated_at": "2026-07-18T18:26:06.837067+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -75,17 +75,17 @@
       "order": 7
     },
     {
-      "position": "T6",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "11",
+      "position": "T8",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "12",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
       "order": 8
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "17",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "15",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
       "thru": "12",
@@ -125,10 +125,10 @@
       "order": 12
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
