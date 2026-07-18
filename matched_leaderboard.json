@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:55:06.761389+01:00",
+  "generated_at": "2026-07-18T10:56:06.837366+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -535,7 +535,27 @@
       "order": 53
     },
     {
-      "position": "T54",
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "2",
+      "golfer": "Ryan Fox",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 60
+    },
+    {
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "Marco Penge",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 64
+    },
+    {
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -545,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -555,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -565,7 +585,7 @@
       "order": 56
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -575,7 +595,7 @@
       "order": 57
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -585,7 +605,7 @@
       "order": 58
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -595,17 +615,7 @@
       "order": 59
     },
     {
-      "position": "T54",
-      "score": "E",
-      "score_num": 0,
-      "thru": "1",
-      "golfer": "Ryan Fox",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 60
-    },
-    {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "11:25",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "10:55",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "11:15",
@@ -635,17 +645,7 @@
       "order": 63
     },
     {
-      "position": "T54",
-      "score": "E",
-      "score_num": 0,
-      "thru": "10:45",
-      "golfer": "Marco Penge",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 64
-    },
-    {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "11:05",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "11:15",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "11:05",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "10:55",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T54",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "10:45",
