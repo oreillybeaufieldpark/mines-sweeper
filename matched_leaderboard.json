@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:57:06.811454+01:00",
+  "generated_at": "2026-07-18T16:58:06.733439+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -18,7 +18,7 @@
       "position": "T2",
       "score": "-7",
       "score_num": -7,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -95,7 +95,17 @@
       "order": 9
     },
     {
-      "position": "T10",
+      "position": "T8",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "6",
+      "golfer": "Bryson DeChambeau",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Maher",
+      "order": 19
+    },
+    {
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -115,7 +125,7 @@
       "order": 11
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -125,7 +135,7 @@
       "order": 12
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "16",
@@ -145,17 +155,17 @@
       "order": 14
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 15
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -165,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "8",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-4",
       "score_num": -4,
       "thru": "7",
@@ -183,16 +193,6 @@
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 18
-    },
-    {
-      "position": "T10",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "5",
-      "golfer": "Bryson DeChambeau",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Maher",
-      "order": 19
     },
     {
       "position": "T20",
@@ -358,16 +358,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "12",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 38
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "17",
       "golfer": "Jordan Smith",
       "owner": "",
@@ -375,7 +365,7 @@
       "order": 43
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -385,7 +375,7 @@
       "order": 35
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -395,7 +385,17 @@
       "order": 37
     },
     {
-      "position": "T38",
+      "position": "T37",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "13",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 38
+    },
+    {
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,17 +425,17 @@
       "order": 41
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 42
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T38",
+      "position": "T37",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
