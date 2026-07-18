@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T20:18:06.389554+01:00",
+  "generated_at": "2026-07-18T20:19:07.391600+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
