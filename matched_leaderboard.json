@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:53:07.141100+01:00",
+  "generated_at": "2026-07-18T18:54:07.054735+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -295,17 +295,17 @@
       "order": 37
     },
     {
-      "position": "T30",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "15",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 28
+      "position": "T21",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "16",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 38
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T30",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -375,17 +375,17 @@
       "order": 36
     },
     {
-      "position": "T30",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "15",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 38
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "16",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 28
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
