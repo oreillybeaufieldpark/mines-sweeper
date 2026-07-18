@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:35:06.552796+01:00",
+  "generated_at": "2026-07-18T11:36:06.965691+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -678,16 +678,6 @@
       "position": "T68",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 68
-    },
-    {
-      "position": "T68",
-      "score": "+1",
-      "score_num": 1,
       "thru": "10",
       "golfer": "Kazuki Higa",
       "owner": "",
@@ -705,7 +695,7 @@
       "order": 70
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "7",
@@ -715,7 +705,17 @@
       "order": 58
     },
     {
-      "position": "T71",
+      "position": "T70",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "12",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 68
+    },
+    {
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "2",
@@ -725,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -735,7 +735,7 @@
       "order": 72
     },
     {
-      "position": "T71",
+      "position": "T70",
       "score": "+2",
       "score_num": 2,
       "thru": "10",
@@ -743,16 +743,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 74
-    },
-    {
-      "position": "T71",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "6",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 76
     },
     {
       "position": "-",
@@ -945,7 +935,7 @@
       "order": 97
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -955,20 +945,30 @@
       "order": 73
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
-      "thru": "6",
+      "thru": "9",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 76
+    },
+    {
+      "position": "T75",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "8",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 77
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+3",
       "score_num": 3,
-      "thru": "5",
+      "thru": "7",
       "golfer": "Keegan Bradley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
