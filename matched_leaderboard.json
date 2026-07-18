@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:56:06.982656+01:00",
+  "generated_at": "2026-07-18T18:57:07.105135+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T12",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
