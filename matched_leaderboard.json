@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T19:58:07.409180+01:00",
+  "generated_at": "2026-07-18T19:59:06.912010+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -195,17 +195,17 @@
       "order": 19
     },
     {
-      "position": "T11",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "17",
+      "position": "T20",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
       "order": 20
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T21",
+      "position": "T20",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
