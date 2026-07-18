@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:34:06.646210+01:00",
+  "generated_at": "2026-07-18T13:35:06.636753+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T33",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -598,7 +598,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
@@ -618,7 +618,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
