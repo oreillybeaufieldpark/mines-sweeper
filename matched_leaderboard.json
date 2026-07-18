@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:24:06.811593+01:00",
+  "generated_at": "2026-07-18T13:25:06.767830+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -308,6 +308,16 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
+      "thru": "2",
+      "golfer": "Sungjae Im",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Donal Brogan",
+      "order": 36
+    },
+    {
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
       "thru": "6",
       "golfer": "Hennie Du Plessis",
       "owner": "",
@@ -315,7 +325,7 @@
       "order": 55
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -325,7 +335,7 @@
       "order": 31
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -335,7 +345,7 @@
       "order": 32
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -345,37 +355,27 @@
       "order": 33
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "3",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 34
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 35
     },
     {
-      "position": "T32",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "1",
-      "golfer": "Sungjae Im",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Donal Brogan",
-      "order": 36
-    },
-    {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -385,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -395,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -405,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -415,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -425,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -435,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -445,17 +445,7 @@
       "order": 43
     },
     {
-      "position": "T32",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "13:00",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 44
-    },
-    {
-      "position": "T32",
+      "position": "T33",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -465,17 +455,27 @@
       "order": 45
     },
     {
-      "position": "T32",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "13:10",
+      "position": "T46",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 44
+    },
+    {
+      "position": "T46",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
       "order": 46
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -495,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -505,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -515,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -525,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T48",
+      "position": "T46",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
