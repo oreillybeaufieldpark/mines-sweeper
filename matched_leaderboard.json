@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:55:06.766995+01:00",
+  "generated_at": "2026-07-18T12:56:06.569676+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -299,23 +299,13 @@
       "score": "-3",
       "score_num": -3,
       "thru": "5",
-      "golfer": "Kazuma Kobori",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 31
-    },
-    {
-      "position": "T18",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "5",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
       "order": 32
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -325,17 +315,27 @@
       "order": 28
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "6",
+      "golfer": "Kazuma Kobori",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 31
+    },
+    {
+      "position": "T31",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "3",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
       "order": 34
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -345,7 +345,7 @@
       "order": 35
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -355,7 +355,7 @@
       "order": 36
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -365,7 +365,7 @@
       "order": 37
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -375,7 +375,7 @@
       "order": 38
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -385,7 +385,7 @@
       "order": 39
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -395,7 +395,7 @@
       "order": 40
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:35",
@@ -405,7 +405,7 @@
       "order": 41
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:20",
@@ -415,7 +415,7 @@
       "order": 42
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -425,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:00",
@@ -435,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:45",
@@ -445,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "13:10",
@@ -455,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "12:50",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -485,7 +485,7 @@
       "order": 51
     },
     {
-      "position": "T32",
+      "position": "T31",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
