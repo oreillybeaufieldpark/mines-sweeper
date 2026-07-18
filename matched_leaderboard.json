@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:11:06.939395+01:00",
+  "generated_at": "2026-07-18T12:12:07.044436+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -568,7 +568,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "11:45",
+      "thru": "2",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
@@ -588,7 +588,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "11:35",
+      "thru": "2",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -659,16 +659,6 @@
       "score": "+1",
       "score_num": 1,
       "thru": "11",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 66
-    },
-    {
-      "position": "T66",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "11",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -725,7 +715,17 @@
       "order": 72
     },
     {
-      "position": "T73",
+      "position": "T72",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "13",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 66
+    },
+    {
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "14",
@@ -735,7 +735,7 @@
       "order": 73
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "12",
@@ -745,17 +745,17 @@
       "order": 74
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "11",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 75
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
