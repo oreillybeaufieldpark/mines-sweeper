@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:49:06.519157+01:00",
+  "generated_at": "2026-07-18T10:50:06.691938+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -719,16 +719,6 @@
       "score": "+1",
       "score_num": 1,
       "thru": "5",
-      "golfer": "Josele Ballester",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 71
-    },
-    {
-      "position": "T70",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -748,27 +738,37 @@
       "position": "T70",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 74
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+2",
       "score_num": 2,
-      "thru": "7",
+      "thru": "6",
+      "golfer": "Josele Ballester",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 71
+    },
+    {
+      "position": "T75",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "8",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
