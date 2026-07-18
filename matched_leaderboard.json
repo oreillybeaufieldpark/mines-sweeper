@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:03:06.780373+01:00",
+  "generated_at": "2026-07-18T14:04:06.899875+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -15,17 +15,17 @@
       "order": 1
     },
     {
-      "position": "T2",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "14",
+      "position": "2",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "16",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 2
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-6",
       "score_num": -6,
       "thru": "15:40",
@@ -35,7 +35,7 @@
       "order": 3
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-6",
       "score_num": -6,
       "thru": "15:40",
@@ -45,7 +45,7 @@
       "order": 4
     },
     {
-      "position": "T2",
+      "position": "T3",
       "score": "-6",
       "score_num": -6,
       "thru": "15:50",
@@ -98,7 +98,7 @@
       "position": "T9",
       "score": "-4",
       "score_num": -4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
@@ -568,7 +568,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -618,7 +618,7 @@
       "position": "T59",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -678,7 +678,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
