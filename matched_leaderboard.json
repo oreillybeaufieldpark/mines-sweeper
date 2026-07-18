@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:15:06.574614+01:00",
+  "generated_at": "2026-07-18T17:16:06.459630+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -358,6 +358,16 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
+      "thru": "14",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 44
+    },
+    {
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
       "thru": "17",
       "golfer": "Adam Scott",
       "owner": "",
@@ -375,7 +385,7 @@
       "order": 52
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -385,7 +395,7 @@
       "order": 35
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 37
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 38
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 39
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 41
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -445,7 +455,7 @@
       "order": 42
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -455,17 +465,7 @@
       "order": 43
     },
     {
-      "position": "T38",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 44
-    },
-    {
-      "position": "T38",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
