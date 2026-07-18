@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:20:07.150199+01:00",
+  "generated_at": "2026-07-18T15:21:07.517228+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -138,16 +138,6 @@
       "position": "T9",
       "score": "-4",
       "score_num": -4,
-      "thru": "7",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 14
-    },
-    {
-      "position": "T9",
-      "score": "-4",
-      "score_num": -4,
       "thru": "5",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
@@ -235,7 +225,17 @@
       "order": 24
     },
     {
-      "position": "T24",
+      "position": "T23",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "8",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 14
+    },
+    {
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "6",
@@ -245,7 +245,7 @@
       "order": 15
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T24",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -578,7 +578,7 @@
       "position": "T55",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
