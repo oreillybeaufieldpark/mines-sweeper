@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:51:06.577203+01:00",
+  "generated_at": "2026-07-18T16:52:06.926675+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -48,6 +48,16 @@
       "position": "T2",
       "score": "-7",
       "score_num": -7,
+      "thru": "7",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "Dave Smyth",
+      "order": 6
+    },
+    {
+      "position": "T2",
+      "score": "-7",
+      "score_num": -7,
       "thru": "5",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
@@ -55,7 +65,7 @@
       "order": 7
     },
     {
-      "position": "T6",
+      "position": "7",
       "score": "-6",
       "score_num": -6,
       "thru": "10",
@@ -63,16 +73,6 @@
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
       "order": 5
-    },
-    {
-      "position": "T6",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "6",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
-      "owner_redraw": "Dave Smyth",
-      "order": 6
     },
     {
       "position": "T8",
@@ -448,7 +448,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
