@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:59:06.259949+01:00",
+  "generated_at": "2026-07-18T11:00:07.359681+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -248,7 +248,7 @@
       "position": "T25",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -388,7 +388,7 @@
       "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
@@ -568,7 +568,7 @@
       "position": "T56",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
