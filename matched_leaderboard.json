@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:25:07.111634+01:00",
+  "generated_at": "2026-07-18T15:26:07.120844+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -178,7 +178,7 @@
       "position": "T9",
       "score": "-4",
       "score_num": -4,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
@@ -218,7 +218,7 @@
       "position": "T9",
       "score": "-4",
       "score_num": -4,
-      "thru": "15:10",
+      "thru": "1",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -415,7 +415,7 @@
       "order": 42
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 52
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -515,10 +515,10 @@
       "order": 53
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
