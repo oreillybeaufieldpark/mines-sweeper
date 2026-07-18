@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:26:06.837067+01:00",
+  "generated_at": "2026-07-18T18:27:06.884484+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,16 +98,6 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "17",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 10
-    },
-    {
-      "position": "T8",
-      "score": "-5",
-      "score_num": -5,
       "thru": "15",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
@@ -135,7 +125,17 @@
       "order": 13
     },
     {
-      "position": "T14",
+      "position": "T13",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "F",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 10
+    },
+    {
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -165,7 +165,7 @@
       "order": 16
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -175,7 +175,7 @@
       "order": 17
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
