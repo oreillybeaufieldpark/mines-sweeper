@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:09:06.415588+01:00",
+  "generated_at": "2026-07-18T13:10:06.534284+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -338,7 +338,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -498,7 +498,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -508,7 +508,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -518,7 +518,7 @@
       "position": "T49",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -565,7 +565,17 @@
       "order": 57
     },
     {
-      "position": "T57",
+      "position": "T49",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "11",
+      "golfer": "Kurt Kitayama",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 60
+    },
+    {
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -575,7 +585,7 @@
       "order": 54
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -595,17 +605,7 @@
       "order": 59
     },
     {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
-      "thru": "10",
-      "golfer": "Kurt Kitayama",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 60
-    },
-    {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -625,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -635,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T57",
+      "position": "T58",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -698,7 +698,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -708,7 +708,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
@@ -718,7 +718,7 @@
       "position": "T70",
       "score": "+2",
       "score_num": 2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
