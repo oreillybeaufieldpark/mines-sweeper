@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:50:07.294929+01:00",
+  "generated_at": "2026-07-18T13:51:07.408993+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -448,16 +448,6 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:35",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 46
-    },
-    {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
       "thru": "13:45",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
@@ -475,6 +465,16 @@
       "order": 49
     },
     {
+      "position": "T33",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "7",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 64
+    },
+    {
       "position": "T48",
       "score": "-1",
       "score_num": -1,
@@ -483,6 +483,16 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 44
+    },
+    {
+      "position": "T48",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 46
     },
     {
       "position": "T48",
@@ -575,7 +585,17 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T48",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "John Parry",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 65
+    },
+    {
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -585,7 +605,7 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -595,7 +615,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -605,7 +625,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -615,7 +635,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T60",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -623,26 +643,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 62
-    },
-    {
-      "position": "T58",
-      "score": "E",
-      "score_num": 0,
-      "thru": "4",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 64
-    },
-    {
-      "position": "T58",
-      "score": "E",
-      "score_num": 0,
-      "thru": "4",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 65
     },
     {
       "position": "T65",
