@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:40:06.861280+01:00",
+  "generated_at": "2026-07-18T17:41:06.694829+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,7 +98,7 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
