@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:25:06.691223+01:00",
+  "generated_at": "2026-07-18T12:26:06.891917+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -658,7 +658,7 @@
       "position": "T58",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
