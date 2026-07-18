@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T10:20:07.401407+01:00",
+  "generated_at": "2026-07-18T10:21:07.124697+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -518,7 +518,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -528,7 +528,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -628,7 +628,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "10:10",
+      "thru": "1",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -765,7 +765,17 @@
       "order": 77
     },
     {
-      "position": "T77",
+      "position": "T70",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "5",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 78
+    },
+    {
+      "position": "78",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -773,16 +783,6 @@
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 76
-    },
-    {
-      "position": "T77",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "4",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 78
     },
     {
       "position": "-",
