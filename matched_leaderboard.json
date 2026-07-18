@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:02:06.808490+01:00",
+  "generated_at": "2026-07-18T14:03:06.780373+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -475,7 +475,17 @@
       "order": 47
     },
     {
-      "position": "T48",
+      "position": "T36",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "2",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 57
+    },
+    {
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -555,17 +565,7 @@
       "order": 55
     },
     {
-      "position": "T48",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "1",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 57
-    },
-    {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -575,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
