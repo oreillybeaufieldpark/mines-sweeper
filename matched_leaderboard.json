@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:14:06.423730+01:00",
+  "generated_at": "2026-07-18T17:15:06.574614+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -268,7 +268,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -348,7 +348,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -438,7 +438,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
@@ -448,7 +448,7 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -528,7 +528,7 @@
       "position": "T48",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -555,7 +555,7 @@
       "order": 56
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
