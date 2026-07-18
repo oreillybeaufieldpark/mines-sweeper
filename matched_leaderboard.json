@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:39:06.707749+01:00",
+  "generated_at": "2026-07-18T15:40:06.741706+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T11",
       "score": "-4",
       "score_num": -4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
@@ -215,7 +215,17 @@
       "order": 32
     },
     {
-      "position": "T22",
+      "position": "T11",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "3",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 34
+    },
+    {
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -225,7 +235,7 @@
       "order": 13
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -235,7 +245,7 @@
       "order": 14
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 23
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 24
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +275,7 @@
       "order": 25
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -275,7 +285,7 @@
       "order": 26
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -285,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -295,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -305,27 +315,17 @@
       "order": 31
     },
     {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 33
     },
     {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "2",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 34
-    },
-    {
-      "position": "T22",
+      "position": "T23",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
