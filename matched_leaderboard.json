@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T12:37:07.372400+01:00",
+  "generated_at": "2026-07-18T12:38:06.357763+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -488,16 +488,6 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 47
-    },
-    {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
       "thru": "4",
       "golfer": "Nick Taylor",
       "owner": "",
@@ -595,7 +585,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -605,7 +595,7 @@
       "order": 56
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "11",
@@ -615,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -625,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -635,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -645,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -655,7 +645,7 @@
       "order": 65
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -665,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -675,7 +665,17 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T67",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "5",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 47
+    },
+    {
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
