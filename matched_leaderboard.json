@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:24:06.772705+01:00",
+  "generated_at": "2026-07-18T18:25:06.752783+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -488,7 +488,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -558,7 +558,7 @@
       "position": "T50",
       "score": "E",
       "score_num": 0,
-      "thru": "16",
+      "thru": "17",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
