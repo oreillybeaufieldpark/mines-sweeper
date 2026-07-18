@@ -1,11 +1,21 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:20:06.882338+01:00",
+  "generated_at": "2026-07-18T17:21:07.084648+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "T1",
+      "position": "1",
+      "score": "-9",
+      "score_num": -9,
+      "thru": "8",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Donal Brogan",
+      "order": 2
+    },
+    {
+      "position": "T2",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -15,17 +25,7 @@
       "order": 1
     },
     {
-      "position": "T1",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "7",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Donal Brogan",
-      "order": 2
-    },
-    {
-      "position": "T1",
+      "position": "T2",
       "score": "-8",
       "score_num": -8,
       "thru": "5",
@@ -705,6 +705,16 @@
       "order": 70
     },
     {
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 74
+    },
+    {
       "position": "-",
       "score": "+2",
       "score_num": 2,
@@ -895,7 +905,7 @@
       "order": 97
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -905,7 +915,7 @@
       "order": 71
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -915,7 +925,7 @@
       "order": 72
     },
     {
-      "position": "T71",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -1025,17 +1035,7 @@
       "order": 107
     },
     {
-      "position": "T74",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "F",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 74
-    },
-    {
-      "position": "T74",
+      "position": "T75",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
@@ -1045,7 +1045,7 @@
       "order": 75
     },
     {
-      "position": "T74",
+      "position": "T75",
       "score": "+4",
       "score_num": 4,
       "thru": "F",
