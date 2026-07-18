@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T11:42:07.263663+01:00",
+  "generated_at": "2026-07-18T11:43:07.387243+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -418,16 +418,6 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
-      "golfer": "Marco Penge",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 42
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
       "thru": "4",
       "golfer": "Kristoffer Reitan",
       "owner": "",
@@ -595,7 +585,17 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
+      "score": "E",
+      "score_num": 0,
+      "thru": "4",
+      "golfer": "Marco Penge",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 42
+    },
+    {
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -635,17 +635,17 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "11:25",
@@ -655,17 +655,17 @@
       "order": 65
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
-      "thru": "11:15",
+      "thru": "2",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 66
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "E",
       "score_num": 0,
       "thru": "11:15",
