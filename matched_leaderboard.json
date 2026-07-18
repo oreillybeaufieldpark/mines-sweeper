@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:31:06.706255+01:00",
+  "generated_at": "2026-07-18T13:32:06.773995+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -408,7 +408,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:20",
+      "thru": "1",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -438,7 +438,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "13:20",
+      "thru": "1",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
@@ -528,16 +528,6 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 54
-    },
-    {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
       "thru": "2",
       "golfer": "Matthew Southgate",
       "owner": "",
@@ -565,7 +555,7 @@
       "order": 59
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -575,7 +565,17 @@
       "order": 51
     },
     {
-      "position": "T57",
+      "position": "T56",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 54
+    },
+    {
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -585,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -595,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -698,7 +698,7 @@
       "position": "T65",
       "score": "+1",
       "score_num": 1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -738,7 +738,7 @@
       "position": "T71",
       "score": "+2",
       "score_num": 2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
