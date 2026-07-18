@@ -1,11 +1,21 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:00:07.254825+01:00",
+  "generated_at": "2026-07-18T18:01:07.097637+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "T1",
+      "position": "1",
+      "score": "-9",
+      "score_num": -9,
+      "thru": "9",
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 4
+    },
+    {
+      "position": "T2",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -15,7 +25,7 @@
       "order": 1
     },
     {
-      "position": "T1",
+      "position": "T2",
       "score": "-8",
       "score_num": -8,
       "thru": "11",
@@ -23,16 +33,6 @@
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
       "order": 2
-    },
-    {
-      "position": "T1",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "8",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 4
     },
     {
       "position": "T4",
@@ -68,7 +68,7 @@
       "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -488,7 +488,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
