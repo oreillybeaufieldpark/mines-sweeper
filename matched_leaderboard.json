@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:23:06.780983+01:00",
+  "generated_at": "2026-07-18T13:24:06.811593+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "5",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -558,26 +558,6 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 56
-    },
-    {
-      "position": "T48",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "1",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 57
-    },
-    {
-      "position": "T48",
-      "score": "-1",
-      "score_num": -1,
       "thru": "6",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
@@ -585,7 +565,27 @@
       "order": 61
     },
     {
-      "position": "T59",
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "4",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 56
+    },
+    {
+      "position": "T57",
+      "score": "E",
+      "score_num": 0,
+      "thru": "3",
+      "golfer": "John Parry",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 57
+    },
+    {
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -595,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T59",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -605,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T59",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -615,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T59",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -625,10 +625,10 @@
       "order": 63
     },
     {
-      "position": "T59",
+      "position": "T57",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "4",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
