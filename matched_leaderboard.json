@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:48:06.351179+01:00",
+  "generated_at": "2026-07-18T17:49:06.843126+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -108,7 +108,7 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
