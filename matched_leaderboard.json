@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T14:29:07.002607+01:00",
+  "generated_at": "2026-07-18T14:30:07.070238+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -338,16 +338,6 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "14:15",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 34
-    },
-    {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
       "thru": "14:25",
       "golfer": "J.J. Spaun",
       "owner": "",
@@ -358,7 +348,7 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "14:15",
+      "thru": "1",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
       "owner_redraw": "Finbarr Callaly",
@@ -373,6 +363,26 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 37
+    },
+    {
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "4",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 47
+    },
+    {
+      "position": "T38",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "1",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 34
     },
     {
       "position": "T38",
@@ -465,16 +475,6 @@
       "order": 46
     },
     {
-      "position": "T38",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "3",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 47
-    },
-    {
       "position": "T48",
       "score": "-1",
       "score_num": -1,
@@ -548,7 +548,7 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
