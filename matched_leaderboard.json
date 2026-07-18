@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:45:07.271372+01:00",
+  "generated_at": "2026-07-18T16:46:06.348493+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,7 +98,7 @@
       "position": "T10",
       "score": "-4",
       "score_num": -4,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
@@ -1255,6 +1255,16 @@
       "order": 156
     },
     {
+      "position": "78",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 78
+    },
+    {
       "position": "-",
       "score": "+6",
       "score_num": 6,
@@ -1313,16 +1323,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 131
-    },
-    {
-      "position": "78",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 78
     },
     {
       "position": "-",
