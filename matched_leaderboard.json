@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T13:19:07.233064+01:00",
+  "generated_at": "2026-07-18T13:20:07.237056+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -83,16 +83,6 @@
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
       "order": 8
-    },
-    {
-      "position": "T9",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "17",
-      "golfer": "Josele Ballester",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 9
     },
     {
       "position": "T9",
@@ -195,7 +185,17 @@
       "order": 19
     },
     {
-      "position": "T20",
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Josele Ballester",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 9
+    },
+    {
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:15",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "13:55",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "13:55",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:25",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "14:05",
