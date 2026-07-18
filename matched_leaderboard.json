@@ -1,21 +1,11 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T17:30:06.893435+01:00",
+  "generated_at": "2026-07-18T17:31:07.033016+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
-      "score": "-9",
-      "score_num": -9,
-      "thru": "8",
-      "golfer": "Sam Burns",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Donal Brogan",
-      "order": 2
-    },
-    {
-      "position": "T2",
+      "position": "T1",
       "score": "-8",
       "score_num": -8,
       "thru": "F",
@@ -25,7 +15,17 @@
       "order": 1
     },
     {
-      "position": "T2",
+      "position": "T1",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "9",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Donal Brogan",
+      "order": 2
+    },
+    {
+      "position": "T1",
       "score": "-8",
       "score_num": -8,
       "thru": "10",
@@ -35,7 +35,7 @@
       "order": 5
     },
     {
-      "position": "T2",
+      "position": "T1",
       "score": "-8",
       "score_num": -8,
       "thru": "7",
@@ -118,7 +118,7 @@
       "position": "T8",
       "score": "-5",
       "score_num": -5,
-      "thru": "6",
+      "thru": "8",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
