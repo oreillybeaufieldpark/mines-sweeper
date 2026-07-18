@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:08:09.077063+01:00",
+  "generated_at": "2026-07-18T16:09:06.927848+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T3",
       "score": "-6",
       "score_num": -6,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -458,7 +458,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -645,7 +645,17 @@
       "order": 65
     },
     {
-      "position": "T65",
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "13",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 70
+    },
+    {
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
@@ -655,7 +665,7 @@
       "order": 64
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -665,7 +675,7 @@
       "order": 66
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T65",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -693,16 +703,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 69
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "12",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 70
     },
     {
       "position": "-",
