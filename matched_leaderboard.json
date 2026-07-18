@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:13:07.060339+01:00",
+  "generated_at": "2026-07-18T18:14:06.877863+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -49,16 +49,6 @@
       "score": "-7",
       "score_num": -7,
       "thru": "10",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Stephen Walker",
-      "order": 6
-    },
-    {
-      "position": "T4",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "10",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -75,7 +65,17 @@
       "order": 4
     },
     {
-      "position": "T7",
+      "position": "T4",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "10",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Stephen Walker",
+      "order": 6
+    },
+    {
+      "position": "T6",
       "score": "-6",
       "score_num": -6,
       "thru": "17",
@@ -128,7 +128,7 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
