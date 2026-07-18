@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T18:18:07.244449+01:00",
+  "generated_at": "2026-07-18T18:19:07.093847+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -278,7 +278,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
@@ -368,7 +368,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
