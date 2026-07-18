@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:21:07.517228+01:00",
+  "generated_at": "2026-07-18T15:22:06.520004+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -225,7 +225,27 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T9",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "F",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 28
+    },
+    {
+      "position": "T9",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "5",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 33
+    },
+    {
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -235,7 +255,7 @@
       "order": 14
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "6",
@@ -245,7 +265,7 @@
       "order": 15
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +275,7 @@
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +285,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,17 +295,7 @@
       "order": 27
     },
     {
-      "position": "T23",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "17",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 28
-    },
-    {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -295,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -305,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -325,17 +335,7 @@
       "order": 32
     },
     {
-      "position": "T23",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "4",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 33
-    },
-    {
-      "position": "T23",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -468,16 +468,6 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 47
-    },
-    {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
       "thru": "13",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
@@ -488,7 +478,7 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
@@ -498,7 +488,7 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -545,7 +535,17 @@
       "order": 55
     },
     {
-      "position": "T55",
+      "position": "T44",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 47
+    },
+    {
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -555,7 +555,7 @@
       "order": 51
     },
     {
-      "position": "T55",
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T55",
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T55",
+      "position": "T54",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -648,16 +648,6 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "12",
-      "golfer": "Jesper Svensson",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 65
-    },
-    {
-      "position": "T60",
-      "score": "+1",
-      "score_num": 1,
       "thru": "10",
       "golfer": "Matthew Southgate",
       "owner": "",
@@ -665,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -675,7 +665,7 @@
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +675,7 @@
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +685,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +695,7 @@
       "order": 70
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "16",
@@ -715,7 +705,7 @@
       "order": 71
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -725,7 +715,7 @@
       "order": 72
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
@@ -925,7 +915,17 @@
       "order": 97
     },
     {
-      "position": "T74",
+      "position": "T73",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Jesper Svensson",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 65
+    },
+    {
+      "position": "T73",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -935,7 +935,7 @@
       "order": 74
     },
     {
-      "position": "T74",
+      "position": "T73",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
