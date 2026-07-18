@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T15:13:06.853412+01:00",
+  "generated_at": "2026-07-18T15:14:06.857625+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -488,16 +488,6 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 49
-    },
-    {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
       "thru": "13",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
@@ -565,7 +555,7 @@
       "order": 63
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -575,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -585,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -595,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -605,17 +595,17 @@
       "order": 59
     },
     {
-      "position": "T57",
-      "score": "E",
-      "score_num": 0,
-      "thru": "14",
-      "golfer": "Nick Taylor",
+      "position": "T60",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "17",
+      "golfer": "MJ Daffue",
       "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 60
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 49
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -625,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -635,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -645,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -655,7 +645,7 @@
       "order": 65
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -665,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T62",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -675,7 +665,17 @@
       "order": 72
     },
     {
-      "position": "T68",
+      "position": "T67",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "16",
+      "golfer": "Nick Taylor",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 60
+    },
+    {
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -685,7 +685,7 @@
       "order": 67
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -705,7 +705,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -715,7 +715,7 @@
       "order": 70
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -725,7 +725,7 @@
       "order": 71
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
