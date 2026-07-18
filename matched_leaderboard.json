@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-18T16:20:06.815849+01:00",
+  "generated_at": "2026-07-18T16:21:06.715852+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -489,23 +489,23 @@
       "score": "-1",
       "score_num": -1,
       "thru": "11",
-      "golfer": "Corey Conners",
-      "owner": "Colm Geary",
-      "owner_redraw": "Michael Murray",
-      "order": 49
-    },
-    {
-      "position": "T41",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "11",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Corey Conners",
+      "owner": "Colm Geary",
+      "owner_redraw": "Michael Murray",
+      "order": 49
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -698,7 +698,7 @@
       "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
