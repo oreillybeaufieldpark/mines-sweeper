@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:26:06.343845+01:00",
+  "generated_at": "2026-07-19T18:27:06.714107+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -82,7 +82,7 @@
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
-      "order": 9
+      "order": 8
     },
     {
       "position": "T7",
@@ -92,17 +92,7 @@
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
-      "order": 10
-    },
-    {
-      "position": "T10",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "F",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 8
+      "order": 9
     },
     {
       "position": "T10",
@@ -112,7 +102,7 @@
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
-      "order": 11
+      "order": 10
     },
     {
       "position": "T10",
@@ -122,7 +112,7 @@
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
-      "order": 12
+      "order": 11
     },
     {
       "position": "T10",
@@ -132,6 +122,16 @@
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
+      "order": 12
+    },
+    {
+      "position": "T10",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
       "order": 13
     },
     {
