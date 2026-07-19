@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:56:06.625674+01:00",
+  "generated_at": "2026-07-19T08:57:06.761145+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -698,17 +698,7 @@
       "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "08:40",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 70
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "08:40",
+      "thru": "1",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
@@ -915,7 +905,7 @@
       "order": 97
     },
     {
-      "position": "73",
+      "position": "72",
       "score": "+3",
       "score_num": 3,
       "thru": "2",
@@ -1025,7 +1015,17 @@
       "order": 107
     },
     {
-      "position": "T74",
+      "position": "T73",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "1",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 70
+    },
+    {
+      "position": "T73",
       "score": "+4",
       "score_num": 4,
       "thru": "5",
@@ -1035,7 +1035,7 @@
       "order": 74
     },
     {
-      "position": "T74",
+      "position": "T73",
       "score": "+4",
       "score_num": 4,
       "thru": "3",
@@ -1185,17 +1185,7 @@
       "order": 121
     },
     {
-      "position": "77",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Keegan Bradley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 76
-    },
-    {
-      "position": "T76",
+      "position": "76",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1253,6 +1243,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 156
+    },
+    {
+      "position": "77",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Keegan Bradley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 76
     },
     {
       "position": "-",
