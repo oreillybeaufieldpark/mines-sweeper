@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:58:07.360868+01:00",
+  "generated_at": "2026-07-19T11:59:06.494712+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -228,7 +228,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
@@ -588,16 +588,6 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 59
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
       "thru": "14",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
@@ -645,7 +635,17 @@
       "order": 65
     },
     {
-      "position": "T65",
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 59
+    },
+    {
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -655,7 +655,7 @@
       "order": 62
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T65",
+      "position": "T64",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
