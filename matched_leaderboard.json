@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:47:07.310914+01:00",
+  "generated_at": "2026-07-19T12:48:07.233617+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -248,7 +248,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
@@ -428,7 +428,7 @@
       "position": "T38",
       "score": "-2",
       "score_num": -2,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -478,16 +478,6 @@
       "position": "T46",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 49
-    },
-    {
-      "position": "T46",
-      "score": "-1",
-      "score_num": -1,
       "thru": "13",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
@@ -515,7 +505,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -525,7 +515,17 @@
       "order": 41
     },
     {
-      "position": "T52",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "15",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 49
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -545,7 +545,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -555,7 +555,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -565,7 +565,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -575,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -585,7 +585,7 @@
       "order": 59
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "8",
@@ -595,7 +595,7 @@
       "order": 60
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -605,17 +605,7 @@
       "order": 61
     },
     {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "17",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 62
-    },
-    {
-      "position": "T62",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -625,7 +615,7 @@
       "order": 54
     },
     {
-      "position": "T62",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -635,7 +625,17 @@
       "order": 63
     },
     {
-      "position": "T64",
+      "position": "T63",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 62
+    },
+    {
+      "position": "T63",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T64",
+      "position": "T63",
       "score": "+2",
       "score_num": 2,
       "thru": "17",
