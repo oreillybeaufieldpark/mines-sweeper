@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:02:06.640223+01:00",
+  "generated_at": "2026-07-19T13:03:08.544991+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -148,16 +148,6 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "6",
-      "golfer": "Rory McIlroy",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 14
-    },
-    {
-      "position": "T13",
-      "score": "-4",
-      "score_num": -4,
       "thru": "4",
       "golfer": "Kristoffer Reitan",
       "owner": "",
@@ -255,7 +245,17 @@
       "order": 24
     },
     {
-      "position": "T26",
+      "position": "T25",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "7",
+      "golfer": "Rory McIlroy",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 14
+    },
+    {
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -488,7 +488,7 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
