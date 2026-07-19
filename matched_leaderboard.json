@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:17:06.868394+01:00",
+  "generated_at": "2026-07-19T11:18:07.253994+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -425,7 +425,17 @@
       "order": 48
     },
     {
-      "position": "T43",
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "2",
+      "golfer": "Shaun Norris",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 54
+    },
+    {
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -435,7 +445,7 @@
       "order": 40
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -445,7 +455,7 @@
       "order": 42
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -455,7 +465,7 @@
       "order": 43
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -465,7 +475,7 @@
       "order": 45
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -475,7 +485,7 @@
       "order": 46
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -485,7 +495,7 @@
       "order": 47
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -495,17 +505,17 @@
       "order": 49
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 50
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -525,17 +535,7 @@
       "order": 53
     },
     {
-      "position": "T43",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "1",
-      "golfer": "Shaun Norris",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 54
-    },
-    {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -568,7 +568,7 @@
       "position": "T55",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -585,7 +585,17 @@
       "order": 59
     },
     {
-      "position": "T59",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "5",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Igor Fleming",
+      "order": 65
+    },
+    {
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "6",
@@ -595,7 +605,7 @@
       "order": 56
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -635,7 +645,7 @@
       "order": 63
     },
     {
-      "position": "T59",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -643,16 +653,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 64
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Igor Fleming",
-      "order": 65
     },
     {
       "position": "T66",
