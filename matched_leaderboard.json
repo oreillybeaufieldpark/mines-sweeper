@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:25:06.900831+01:00",
+  "generated_at": "2026-07-19T12:26:06.723671+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -355,7 +355,17 @@
       "order": 35
     },
     {
-      "position": "T36",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "11",
+      "golfer": "Brooks Koepka",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 41
+    },
+    {
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -395,27 +405,17 @@
       "order": 40
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "10",
-      "golfer": "Brooks Koepka",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 41
-    },
-    {
-      "position": "T36",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 42
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -425,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -435,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -445,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -455,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T36",
+      "position": "T37",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -465,7 +465,17 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T37",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "10",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 51
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -475,7 +485,7 @@
       "order": 39
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -505,17 +515,7 @@
       "order": 50
     },
     {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "9",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 51
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -888,7 +888,7 @@
       "position": "T66",
       "score": "+3",
       "score_num": 3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Alex Fitzpatrick",
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
