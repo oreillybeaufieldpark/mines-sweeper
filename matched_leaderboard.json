@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:02:06.804756+01:00",
+  "generated_at": "2026-07-19T12:03:06.826255+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -335,7 +335,17 @@
       "order": 37
     },
     {
-      "position": "T34",
+      "position": "T21",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "1",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 45
+    },
+    {
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "6",
@@ -345,7 +355,7 @@
       "order": 22
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -355,7 +365,7 @@
       "order": 33
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -365,17 +375,17 @@
       "order": 34
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 36
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -425,17 +435,17 @@
       "order": 42
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "11:50",
+      "thru": "1",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 43
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -445,17 +455,7 @@
       "order": 44
     },
     {
-      "position": "T34",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "11:50",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 45
-    },
-    {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -465,10 +465,10 @@
       "order": 48
     },
     {
-      "position": "T34",
+      "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
