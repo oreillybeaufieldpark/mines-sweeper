@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:57:06.637668+01:00",
+  "generated_at": "2026-07-19T16:58:06.728189+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -275,7 +275,17 @@
       "order": 27
     },
     {
-      "position": "T28",
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "17",
+      "golfer": "Shane Lowry",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 47
+    },
+    {
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -285,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -295,7 +305,7 @@
       "order": 29
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +315,7 @@
       "order": 30
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T28",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,17 +465,7 @@
       "order": 45
     },
     {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
-      "golfer": "Shane Lowry",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 47
-    },
-    {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
