@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:47:07.052980+01:00",
+  "generated_at": "2026-07-19T17:48:07.322735+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -268,7 +268,7 @@
       "position": "T18",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
