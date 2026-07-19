@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:13:06.796851+01:00",
+  "generated_at": "2026-07-19T08:14:06.807912+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -705,6 +705,36 @@
       "order": 70
     },
     {
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "2",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 71
+    },
+    {
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "2",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 72
+    },
+    {
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "1",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 75
+    },
+    {
       "position": "-",
       "score": "+2",
       "score_num": 2,
@@ -895,27 +925,7 @@
       "order": 97
     },
     {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "1",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "1",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 72
-    },
-    {
-      "position": "T71",
+      "position": "T74",
       "score": "+3",
       "score_num": 3,
       "thru": "08:10",
@@ -925,7 +935,7 @@
       "order": 73
     },
     {
-      "position": "T71",
+      "position": "T74",
       "score": "+3",
       "score_num": 3,
       "thru": "08:10",
@@ -933,16 +943,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 74
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "08:00",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 75
     },
     {
       "position": "-",
