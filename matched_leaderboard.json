@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:37:07.461594+01:00",
+  "generated_at": "2026-07-19T11:38:06.692074+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -465,17 +465,27 @@
       "order": 46
     },
     {
-      "position": "T47",
+      "position": "T30",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "9",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 49
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -485,17 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 49
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -518,7 +518,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -528,7 +528,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -538,7 +538,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -608,7 +608,7 @@
       "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
