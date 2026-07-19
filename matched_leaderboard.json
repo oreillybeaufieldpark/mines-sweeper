@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:24:06.659486+01:00",
+  "generated_at": "2026-07-19T13:25:06.752555+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -365,7 +365,17 @@
       "order": 36
     },
     {
-      "position": "T37",
+      "position": "T26",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "3",
+      "golfer": "Josele Ballester",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 43
+    },
+    {
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -375,7 +385,7 @@
       "order": 37
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -385,7 +395,7 @@
       "order": 38
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -425,17 +435,7 @@
       "order": 42
     },
     {
-      "position": "T37",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "2",
-      "golfer": "Josele Ballester",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 43
-    },
-    {
-      "position": "T37",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -598,16 +598,6 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "17",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 60
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
       "thru": "15",
       "golfer": "Michael Brennan",
       "owner": "",
@@ -625,7 +615,17 @@
       "order": 62
     },
     {
-      "position": "T63",
+      "position": "T62",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "F",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 60
+    },
+    {
+      "position": "T62",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -655,7 +655,7 @@
       "order": 65
     },
     {
-      "position": "T63",
+      "position": "T62",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
