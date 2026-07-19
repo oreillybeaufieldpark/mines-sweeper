@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:41:07.501585+01:00",
+  "generated_at": "2026-07-19T14:42:06.383923+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -138,7 +138,7 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -178,7 +178,7 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -208,7 +208,7 @@
       "position": "T20",
       "score": "-4",
       "score_num": -4,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -478,7 +478,7 @@
       "position": "T43",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
@@ -495,7 +495,17 @@
       "order": 49
     },
     {
-      "position": "T50",
+      "position": "T43",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "17",
+      "golfer": "Michael Thorbjornsen",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 53
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -525,17 +535,7 @@
       "order": 52
     },
     {
-      "position": "T50",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Michael Thorbjornsen",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 53
-    },
-    {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T50",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -588,7 +588,7 @@
       "position": "T57",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
