@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:19:07.198442+01:00",
+  "generated_at": "2026-07-19T10:20:07.086817+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -395,7 +395,17 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "1",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 51
+    },
+    {
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:40",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:40",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:25",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:25",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:15",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10:15",
@@ -505,17 +515,7 @@
       "order": 50
     },
     {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "10:05",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 51
-    },
-    {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -568,7 +568,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "10:05",
+      "thru": "1",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
