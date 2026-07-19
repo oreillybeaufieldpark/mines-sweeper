@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:38:07.366979+01:00",
+  "generated_at": "2026-07-19T15:39:06.738867+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T1",
       "score": "-9",
       "score_num": -9,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -128,7 +128,7 @@
       "position": "T10",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -298,7 +298,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "Fergal O'Reilly",
@@ -398,16 +398,6 @@
       "position": "T34",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 40
-    },
-    {
-      "position": "T34",
-      "score": "-2",
-      "score_num": -2,
       "thru": "10",
       "golfer": "Daniel Brown",
       "owner": "",
@@ -415,7 +405,17 @@
       "order": 51
     },
     {
-      "position": "T42",
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "16",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 40
+    },
+    {
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -495,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
