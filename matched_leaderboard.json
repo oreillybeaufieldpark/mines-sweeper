@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:07:06.870273+01:00",
+  "generated_at": "2026-07-19T17:08:06.832231+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,16 +28,6 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "17",
-      "golfer": "Scottie Scheffler",
-      "owner": "Donal Maher",
-      "owner_redraw": "Richard Kendrick",
-      "order": 3
-    },
-    {
-      "position": "T2",
-      "score": "-8",
-      "score_num": -8,
       "thru": "12",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
@@ -45,7 +35,17 @@
       "order": 5
     },
     {
-      "position": "T5",
+      "position": "T4",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "F",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 3
+    },
+    {
+      "position": "T4",
       "score": "-7",
       "score_num": -7,
       "thru": "12",
@@ -55,7 +55,7 @@
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "T4",
       "score": "-7",
       "score_num": -7,
       "thru": "13",
