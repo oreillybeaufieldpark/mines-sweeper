@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:48:07.322735+01:00",
+  "generated_at": "2026-07-19T17:49:07.296869+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -455,17 +455,7 @@
       "order": 45
     },
     {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "17",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 46
-    },
-    {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -475,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -485,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +505,7 @@
       "order": 51
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +515,7 @@
       "order": 52
     },
     {
-      "position": "T47",
+      "position": "T46",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +525,17 @@
       "order": 53
     },
     {
-      "position": "T54",
+      "position": "T53",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "F",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 46
+    },
+    {
+      "position": "T53",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T54",
+      "position": "T53",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
