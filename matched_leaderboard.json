@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:35:07.245305+01:00",
+  "generated_at": "2026-07-19T16:36:07.240940+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,14 +168,24 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 18
     },
     {
-      "position": "T18",
+      "position": "T13",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "14",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 30
+    },
+    {
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -185,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,17 +265,17 @@
       "order": 26
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
       "order": 27
     },
     {
-      "position": "T18",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -273,16 +283,6 @@
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
       "order": 29
-    },
-    {
-      "position": "T18",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "13",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 30
     },
     {
       "position": "T29",
@@ -528,7 +528,7 @@
       "position": "T48",
       "score": "E",
       "score_num": 0,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
