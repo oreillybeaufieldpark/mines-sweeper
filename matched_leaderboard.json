@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:11:07.210716+01:00",
+  "generated_at": "2026-07-19T09:12:07.199401+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -705,6 +705,16 @@
       "order": 70
     },
     {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "2",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 71
+    },
+    {
       "position": "-",
       "score": "+2",
       "score_num": 2,
@@ -893,16 +903,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 97
-    },
-    {
-      "position": "71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "1",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
     },
     {
       "position": "-",
