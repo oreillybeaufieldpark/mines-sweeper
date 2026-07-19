@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:34:06.517681+01:00",
+  "generated_at": "2026-07-19T12:35:06.303591+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -118,7 +118,7 @@
       "position": "T12",
       "score": "-4",
       "score_num": -4,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -368,7 +368,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
@@ -385,7 +385,17 @@
       "order": 45
     },
     {
-      "position": "T39",
+      "position": "T23",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "3",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 47
+    },
+    {
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 36
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -405,7 +415,7 @@
       "order": 37
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -415,17 +425,17 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -455,17 +465,17 @@
       "order": 46
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
-      "golfer": "Casey Jarvis",
-      "owner": "",
+      "thru": "10",
+      "golfer": "Corey Conners",
+      "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
-      "order": 47
+      "order": 50
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -475,7 +485,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,17 +505,7 @@
       "order": 49
     },
     {
-      "position": "T48",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "9",
-      "golfer": "Corey Conners",
-      "owner": "Colm Geary",
-      "owner_redraw": "Michael Murray",
-      "order": 50
-    },
-    {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -515,7 +515,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T49",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -628,7 +628,7 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
