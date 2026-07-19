@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:45:06.975022+01:00",
+  "generated_at": "2026-07-19T08:46:07.067409+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -708,7 +708,7 @@
       "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "08:30",
+      "thru": "1",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
