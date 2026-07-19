@@ -55,6 +55,27 @@ th{
   color:#003b7a;
 }
 
+.sort-button{
+  width:100%;
+  padding:0;
+  border:0;
+  background:transparent;
+  color:inherit;
+  font:inherit;
+  font-weight:bold;
+  text-align:left;
+  cursor:pointer;
+}
+
+.position .sort-button{
+  text-align:center;
+}
+
+.sort-button:hover,
+.sort-button:focus-visible{
+  text-decoration:underline;
+}
+
 .owner{width:34%}
 .player{width:50%}
 .position{width:16%;text-align:center}
@@ -85,9 +106,13 @@ th{
 <table id="table">
 <thead>
 <tr>
-  <th class="owner">Owner</th>
+  <th id="owner-heading" class="owner" aria-sort="ascending">
+    <button class="sort-button" type="button" data-sort="owner">Owner ▲</button>
+  </th>
   <th class="player">Player</th>
-  <th class="position">Position</th>
+  <th id="position-heading" class="position" aria-sort="none">
+    <button class="sort-button" type="button" data-sort="position">Position</button>
+  </th>
 </tr>
 </thead>
 <tbody id="draw"></tbody>
@@ -97,6 +122,10 @@ th{
 </main>
 
 <script>
+let redrawRows = [];
+let sortKey = 'owner';
+let sortDirection = 1;
+
 function escapeHtml(value){
   return String(value || '')
     .replaceAll('&', '&amp;')
@@ -106,35 +135,68 @@ function escapeHtml(value){
     .replaceAll("'", '&#039;');
 }
 
+function positionNumber(value){
+  const match = String(value || '').match(/\d+/);
+  return match ? Number(match[0]) : Number.MAX_SAFE_INTEGER;
+}
+
+function renderDraw(){
+  const rows = [...redrawRows].sort((a, b) => {
+    let result;
+
+    if(sortKey === 'position'){
+      result = positionNumber(a.position) - positionNumber(b.position);
+    }else{
+      result = a.owner_redraw.localeCompare(b.owner_redraw);
+    }
+
+    return result * sortDirection ||
+      a.owner_redraw.localeCompare(b.owner_redraw) ||
+      Number(a.score_num) - Number(b.score_num) ||
+      Number(a.order) - Number(b.order);
+  });
+
+  let previousOwner = '';
+  document.getElementById('draw').innerHTML = rows.map(player => {
+    const firstForOwner = sortKey === 'owner' && player.owner_redraw !== previousOwner;
+    previousOwner = player.owner_redraw;
+
+    return `
+      <tr class="${firstForOwner ? 'owner-start' : ''}">
+        <td class="owner owner-name">${escapeHtml(player.owner_redraw)}</td>
+        <td class="player">${escapeHtml(player.golfer)}</td>
+        <td class="position">${escapeHtml(player.position)}</td>
+      </tr>
+    `;
+  }).join('');
+
+  const arrow = sortDirection === 1 ? '▲' : '▼';
+  const ownerHeading = document.getElementById('owner-heading');
+  const positionHeading = document.getElementById('position-heading');
+  ownerHeading.setAttribute('aria-sort', sortKey === 'owner' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
+  positionHeading.setAttribute('aria-sort', sortKey === 'position' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
+  ownerHeading.querySelector('button').textContent = `Owner ${sortKey === 'owner' ? arrow : ''}`.trim();
+  positionHeading.querySelector('button').textContent = `Position ${sortKey === 'position' ? arrow : ''}`.trim();
+}
+
+document.querySelectorAll('.sort-button').forEach(button => {
+  button.addEventListener('click', () => {
+    const nextKey = button.dataset.sort;
+    sortDirection = sortKey === nextKey ? sortDirection * -1 : 1;
+    sortKey = nextKey;
+    renderDraw();
+  });
+});
+
 async function loadDraw(){
   try{
     const res = await fetch('matched_leaderboard.json?t=' + Date.now());
     if(!res.ok) throw new Error('Leaderboard request failed');
 
     const data = await res.json();
-    const rows = (data.players || [])
-      .filter(player => player.owner_redraw)
-      .sort((a, b) =>
-        a.owner_redraw.localeCompare(b.owner_redraw) ||
-        Number(a.score_num) - Number(b.score_num) ||
-        Number(a.order) - Number(b.order)
-      );
-
-    let previousOwner = '';
-    draw.innerHTML = rows.map(player => {
-      const firstForOwner = player.owner_redraw !== previousOwner;
-      previousOwner = player.owner_redraw;
-
-      return `
-        <tr class="${firstForOwner ? 'owner-start' : ''}">
-          <td class="owner owner-name">${escapeHtml(player.owner_redraw)}</td>
-          <td class="player">${escapeHtml(player.golfer)}</td>
-          <td class="position">${escapeHtml(player.position)}</td>
-        </tr>
-      `;
-    }).join('');
-
-    if(!rows.length) throw new Error('No saved redraw found');
+    redrawRows = (data.players || []).filter(player => player.owner_redraw);
+    if(!redrawRows.length) throw new Error('No saved redraw found');
+    renderDraw();
   }catch(err){
     table.style.display = 'none';
     error.style.display = 'block';
