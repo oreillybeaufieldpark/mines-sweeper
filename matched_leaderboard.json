@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:27:07.130991+01:00",
+  "generated_at": "2026-07-19T10:28:07.250518+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -288,16 +288,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "3",
-      "golfer": "Victor Perez",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 29
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "4",
       "golfer": "J.J. Spaun",
       "owner": "",
@@ -405,7 +395,17 @@
       "order": 40
     },
     {
-      "position": "T41",
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "4",
+      "golfer": "Victor Perez",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 29
+    },
+    {
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:40",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:40",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:25",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:25",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:15",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:15",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -535,7 +535,17 @@
       "order": 54
     },
     {
-      "position": "T54",
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "3",
+      "golfer": "Patrick Cantlay",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Michael Murray",
+      "order": 57
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -545,7 +555,7 @@
       "order": 53
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -565,17 +575,7 @@
       "order": 56
     },
     {
-      "position": "T54",
-      "score": "E",
-      "score_num": 0,
-      "thru": "2",
-      "golfer": "Patrick Cantlay",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Michael Murray",
-      "order": 57
-    },
-    {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "1",
