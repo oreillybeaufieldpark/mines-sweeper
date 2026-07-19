@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:49:06.412052+01:00",
+  "generated_at": "2026-07-19T09:50:06.494318+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -518,7 +518,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "3",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
