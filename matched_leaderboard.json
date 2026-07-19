@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:40:06.979212+01:00",
+  "generated_at": "2026-07-19T08:41:06.889513+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -918,21 +918,11 @@
       "position": "T72",
       "score": "+3",
       "score_num": 3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 74
-    },
-    {
-      "position": "T72",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "1",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 75
     },
     {
       "position": "-",
@@ -1035,7 +1025,7 @@
       "order": 107
     },
     {
-      "position": "T75",
+      "position": "T74",
       "score": "+4",
       "score_num": 4,
       "thru": "4",
@@ -1045,7 +1035,17 @@
       "order": 73
     },
     {
-      "position": "T75",
+      "position": "T74",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "2",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 75
+    },
+    {
+      "position": "T74",
       "score": "+4",
       "score_num": 4,
       "thru": "5",
@@ -1055,7 +1055,7 @@
       "order": 76
     },
     {
-      "position": "T75",
+      "position": "T74",
       "score": "+4",
       "score_num": 4,
       "thru": "3",
