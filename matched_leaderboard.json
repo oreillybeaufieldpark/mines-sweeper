@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:48:06.541048+01:00",
+  "generated_at": "2026-07-19T15:49:06.650086+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -68,7 +68,7 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -135,17 +135,17 @@
       "order": 13
     },
     {
-      "position": "T10",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "7",
+      "position": "T14",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "8",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 14
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "7",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -165,17 +165,17 @@
       "order": 16
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
       "order": 17
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T15",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "9",
@@ -458,16 +458,6 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 46
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
       "thru": "16",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
@@ -495,7 +485,17 @@
       "order": 50
     },
     {
-      "position": "T50",
+      "position": "T49",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 46
+    },
+    {
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 51
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 52
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 53
     },
     {
-      "position": "T50",
+      "position": "T49",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -598,7 +598,7 @@
       "position": "T54",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
