@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:04:06.811734+01:00",
+  "generated_at": "2026-07-19T15:05:06.688511+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
@@ -198,7 +198,7 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -478,7 +478,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
