@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:22:06.785947+01:00",
+  "generated_at": "2026-07-19T14:23:07.125558+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -198,16 +198,6 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "7",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 21
-    },
-    {
-      "position": "T18",
-      "score": "-4",
-      "score_num": -4,
       "thru": "4",
       "golfer": "Cameron John",
       "owner": "",
@@ -255,7 +245,7 @@
       "order": 28
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +255,17 @@
       "order": 18
     },
     {
-      "position": "T26",
+      "position": "T25",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "8",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 21
+    },
+    {
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +275,7 @@
       "order": 25
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -285,7 +285,7 @@
       "order": 26
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T26",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -488,7 +488,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -498,7 +498,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
