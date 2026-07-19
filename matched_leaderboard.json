@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:50:07.616493+01:00",
+  "generated_at": "2026-07-19T08:51:06.471980+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T58",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -713,6 +713,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 71
+    },
+    {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "3",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 72
     },
     {
       "position": "-",
@@ -905,17 +915,7 @@
       "order": 97
     },
     {
-      "position": "T72",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "2",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 72
-    },
-    {
-      "position": "T72",
+      "position": "73",
       "score": "+3",
       "score_num": 3,
       "thru": "2",
@@ -1028,7 +1028,7 @@
       "position": "T74",
       "score": "+4",
       "score_num": 4,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
