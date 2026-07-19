@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:47:06.967676+01:00",
+  "generated_at": "2026-07-19T13:48:06.982333+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -158,7 +158,7 @@
       "position": "T15",
       "score": "-4",
       "score_num": -4,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -388,16 +388,6 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 38
-    },
-    {
-      "position": "T35",
-      "score": "-2",
-      "score_num": -2,
       "thru": "12",
       "golfer": "Marco Penge",
       "owner": "",
@@ -455,7 +445,17 @@
       "order": 46
     },
     {
-      "position": "T46",
+      "position": "T45",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "16",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 38
+    },
+    {
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -465,7 +465,7 @@
       "order": 43
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -505,17 +505,17 @@
       "order": 50
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 51
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T46",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
