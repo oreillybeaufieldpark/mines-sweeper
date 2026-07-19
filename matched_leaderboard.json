@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:17:06.475643+01:00",
+  "generated_at": "2026-07-19T15:18:06.480829+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -75,7 +75,17 @@
       "order": 7
     },
     {
-      "position": "T8",
+      "position": "T5",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "5",
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 11
+    },
+    {
+      "position": "T9",
       "score": "-6",
       "score_num": -6,
       "thru": "17",
@@ -85,7 +95,7 @@
       "order": 8
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-6",
       "score_num": -6,
       "thru": "8",
@@ -95,7 +105,7 @@
       "order": 9
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-6",
       "score_num": -6,
       "thru": "5",
@@ -103,16 +113,6 @@
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
       "order": 10
-    },
-    {
-      "position": "T8",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "4",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 11
     },
     {
       "position": "T12",
@@ -148,7 +148,7 @@
       "position": "T12",
       "score": "-5",
       "score_num": -5,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Brogan",
@@ -385,7 +385,17 @@
       "order": 37
     },
     {
-      "position": "T39",
+      "position": "T34",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "14",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 49
+    },
+    {
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -395,7 +405,7 @@
       "order": 27
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -475,17 +485,7 @@
       "order": 48
     },
     {
-      "position": "T39",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 49
-    },
-    {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -495,7 +495,7 @@
       "order": 50
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -505,7 +505,7 @@
       "order": 51
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
