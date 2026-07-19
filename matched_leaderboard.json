@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:09:06.885745+01:00",
+  "generated_at": "2026-07-19T14:10:07.148516+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -138,7 +138,7 @@
       "position": "T14",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -435,7 +435,17 @@
       "order": 43
     },
     {
-      "position": "T44",
+      "position": "T33",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "14",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 47
+    },
+    {
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,17 +475,7 @@
       "order": 46
     },
     {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 47
-    },
-    {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
