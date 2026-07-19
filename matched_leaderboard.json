@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:13:07.265653+01:00",
+  "generated_at": "2026-07-19T12:14:07.562778+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -465,7 +465,17 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T37",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "5",
+      "golfer": "Matt Wallace",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 51
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -475,7 +485,7 @@
       "order": 40
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -485,7 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -495,7 +505,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -505,17 +515,7 @@
       "order": 50
     },
     {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "4",
-      "golfer": "Matt Wallace",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 51
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -525,7 +525,7 @@
       "order": 57
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -568,17 +568,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "10",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 55
-    },
-    {
-      "position": "T54",
-      "score": "E",
-      "score_num": 0,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -595,7 +585,17 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "11",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 55
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -615,7 +615,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -625,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
