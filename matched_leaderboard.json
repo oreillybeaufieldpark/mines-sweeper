@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:54:07.315161+01:00",
+  "generated_at": "2026-07-19T09:55:07.331203+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1028,7 +1028,7 @@
       "position": "74",
       "score": "+4",
       "score_num": 4,
-      "thru": "4",
+      "thru": "6",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
