@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:34:07.140758+01:00",
+  "generated_at": "2026-07-19T17:35:07.230856+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -85,7 +85,17 @@
       "order": 8
     },
     {
-      "position": "T9",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "17",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 11
+    },
+    {
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -95,7 +105,7 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -105,17 +115,7 @@
       "order": 10
     },
     {
-      "position": "T9",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "16",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 11
-    },
-    {
-      "position": "T9",
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "14",
@@ -125,7 +125,17 @@
       "order": 12
     },
     {
-      "position": "T13",
+      "position": "T10",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "17",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 27
+    },
+    {
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -155,7 +165,7 @@
       "order": 15
     },
     {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "16",
@@ -165,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +205,7 @@
       "order": 19
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +215,7 @@
       "order": 20
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +225,7 @@
       "order": 21
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +235,7 @@
       "order": 22
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +245,7 @@
       "order": 23
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 24
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,17 +265,7 @@
       "order": 25
     },
     {
-      "position": "T17",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "16",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 27
-    },
-    {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -275,7 +275,7 @@
       "order": 28
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
