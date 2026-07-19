@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:56:07.037104+01:00",
+  "generated_at": "2026-07-19T10:57:06.776519+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -288,26 +288,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
-      "golfer": "Victor Perez",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 29
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "5",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 30
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "3",
       "golfer": "Bud Cauley",
       "owner": "",
@@ -405,6 +385,36 @@
       "order": 40
     },
     {
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "8",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 42
+    },
+    {
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "6",
+      "golfer": "Victor Perez",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 29
+    },
+    {
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "6",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 30
+    },
+    {
       "position": "T41",
       "score": "-1",
       "score_num": -1,
@@ -413,16 +423,6 @@
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 41
-    },
-    {
-      "position": "T41",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "7",
-      "golfer": "Thomas Detry",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 42
     },
     {
       "position": "T41",
