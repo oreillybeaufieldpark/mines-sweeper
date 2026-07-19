@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:16:06.531918+01:00",
+  "generated_at": "2026-07-19T14:17:06.546454+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -76,8 +76,8 @@
     },
     {
       "position": "T8",
-      "score": "-6",
-      "score_num": -6,
+      "score": "-7",
+      "score_num": -7,
       "thru": "13",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T8",
+      "position": "T9",
       "score": "-6",
       "score_num": -6,
       "thru": "14:00",
@@ -238,6 +238,16 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
+      "thru": "17",
+      "golfer": "Corey Conners",
+      "owner": "Colm Geary",
+      "owner_redraw": "Michael Murray",
+      "order": 27
+    },
+    {
+      "position": "T18",
+      "score": "-4",
+      "score_num": -4,
       "thru": "16",
       "golfer": "Adam Scott",
       "owner": "",
@@ -245,7 +255,7 @@
       "order": 28
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 18
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +275,7 @@
       "order": 25
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,17 +285,7 @@
       "order": 26
     },
     {
-      "position": "T25",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "16",
-      "golfer": "Corey Conners",
-      "owner": "Colm Geary",
-      "owner_redraw": "Michael Murray",
-      "order": 27
-    },
-    {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
