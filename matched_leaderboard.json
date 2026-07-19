@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:35:07.239687+01:00",
+  "generated_at": "2026-07-19T14:36:07.359678+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "14:10",
+      "thru": "1",
       "golfer": "Si Woo Kim",
       "owner": "Donal Maher",
       "owner_redraw": "Dave Smyth",
@@ -68,7 +68,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "14:10",
+      "thru": "1",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -498,7 +498,7 @@
       "position": "T44",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
