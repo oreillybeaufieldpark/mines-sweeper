@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:08:07.382292+01:00",
+  "generated_at": "2026-07-19T09:09:08.231411+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -588,17 +588,7 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
-      "golfer": "Matthew Southgate",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 59
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -653,6 +643,16 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 65
+    },
+    {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "6",
+      "golfer": "Matthew Southgate",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 59
     },
     {
       "position": "T66",
