@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:51:06.471980+01:00",
+  "generated_at": "2026-07-19T08:52:07.383047+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1038,7 +1038,7 @@
       "position": "T74",
       "score": "+4",
       "score_num": 4,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Kazuki Higa",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
