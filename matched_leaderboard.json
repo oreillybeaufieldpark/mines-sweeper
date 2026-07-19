@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:54:06.543038+01:00",
+  "generated_at": "2026-07-19T11:55:06.319486+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -465,7 +465,17 @@
       "order": 46
     },
     {
-      "position": "T47",
+      "position": "T34",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "11",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 49
+    },
+    {
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -475,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,17 +495,7 @@
       "order": 48
     },
     {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "10",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 49
-    },
-    {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -578,7 +578,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
