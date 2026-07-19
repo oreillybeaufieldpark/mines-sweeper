@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:33:07.215588+01:00",
+  "generated_at": "2026-07-19T16:34:07.229047+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -125,17 +125,7 @@
       "order": 12
     },
     {
-      "position": "T9",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "10",
-      "golfer": "Bryson DeChambeau",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Maher",
-      "order": 13
-    },
-    {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +135,7 @@
       "order": 14
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -155,7 +145,7 @@
       "order": 15
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -165,7 +155,7 @@
       "order": 16
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -175,7 +165,7 @@
       "order": 17
     },
     {
-      "position": "T14",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -185,7 +175,7 @@
       "order": 18
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +185,7 @@
       "order": 19
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +195,7 @@
       "order": 20
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +205,7 @@
       "order": 21
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +215,7 @@
       "order": 22
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +225,7 @@
       "order": 23
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +235,7 @@
       "order": 24
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +245,7 @@
       "order": 25
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +255,7 @@
       "order": 26
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -275,7 +265,7 @@
       "order": 27
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -285,7 +275,7 @@
       "order": 29
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -295,7 +285,17 @@
       "order": 30
     },
     {
-      "position": "T30",
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "11",
+      "golfer": "Bryson DeChambeau",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Maher",
+      "order": 13
+    },
+    {
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -305,7 +305,7 @@
       "order": 28
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,17 +365,17 @@
       "order": 36
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 37
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T30",
+      "position": "T29",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -645,16 +645,6 @@
       "order": 64
     },
     {
-      "position": "T59",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "17",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Richard Kendrick",
-      "order": 65
-    },
-    {
       "position": "-",
       "score": "+2",
       "score_num": 2,
@@ -845,7 +835,17 @@
       "order": 97
     },
     {
-      "position": "66",
+      "position": "T65",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "F",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Richard Kendrick",
+      "order": 65
+    },
+    {
+      "position": "T65",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
