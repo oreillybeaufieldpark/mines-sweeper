@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:25:07.704452+01:00",
+  "generated_at": "2026-07-19T15:26:06.540008+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T16",
       "score": "-4",
       "score_num": -4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -468,16 +468,6 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 47
-    },
-    {
-      "position": "T41",
-      "score": "-1",
-      "score_num": -1,
       "thru": "12",
       "golfer": "Alex Smalley",
       "owner": "",
@@ -488,7 +478,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -515,7 +505,17 @@
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "14",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 47
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "16",
