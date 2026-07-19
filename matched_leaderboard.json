@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:45:06.880554+01:00",
+  "generated_at": "2026-07-19T15:46:06.911084+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -118,7 +118,7 @@
       "position": "T10",
       "score": "-5",
       "score_num": -5,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -268,7 +268,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
