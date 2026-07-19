@@ -1,11 +1,21 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:53:07.166100+01:00",
+  "generated_at": "2026-07-19T15:54:06.784802+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
+      "score": "-10",
+      "score_num": -10,
+      "thru": "17",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Stephen Walker",
+      "order": 1
+    },
+    {
+      "position": "T1",
       "score": "-10",
       "score_num": -10,
       "thru": "7",
@@ -15,17 +25,7 @@
       "order": 3
     },
     {
-      "position": "T2",
-      "score": "-9",
-      "score_num": -9,
-      "thru": "16",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Stephen Walker",
-      "order": 1
-    },
-    {
-      "position": "T2",
+      "position": "3",
       "score": "-9",
       "score_num": -9,
       "thru": "6",
@@ -298,7 +298,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -385,17 +385,7 @@
       "order": 38
     },
     {
-      "position": "T32",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "11",
-      "golfer": "Daniel Brown",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 40
-    },
-    {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +395,17 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "12",
+      "golfer": "Daniel Brown",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 40
+    },
+    {
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,17 +455,17 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
       "order": 47
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -475,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
