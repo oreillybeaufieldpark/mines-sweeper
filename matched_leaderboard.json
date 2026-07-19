@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:03:07.105121+01:00",
+  "generated_at": "2026-07-19T14:04:07.274972+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -425,7 +425,17 @@
       "order": 42
     },
     {
-      "position": "T43",
+      "position": "T34",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "17",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 48
+    },
+    {
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -435,7 +445,7 @@
       "order": 40
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,17 +485,7 @@
       "order": 47
     },
     {
-      "position": "T43",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "16",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 48
-    },
-    {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -505,7 +505,7 @@
       "order": 51
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -515,7 +515,7 @@
       "order": 52
     },
     {
-      "position": "T43",
+      "position": "T44",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
