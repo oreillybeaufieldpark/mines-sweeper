@@ -69,7 +69,8 @@ th{
   touch-action:manipulation;
 }
 
-.position .sort-button{
+.position .sort-button,
+.espn-order .sort-button{
   text-align:center;
 }
 
@@ -78,9 +79,10 @@ th{
   text-decoration:underline;
 }
 
-.owner{width:32%}
-.player{width:44%}
-.position{width:24%;text-align:center}
+.owner{width:29%}
+.player{width:39%}
+.position{width:16%;text-align:center}
+.espn-order{width:16%;text-align:center}
 
 .owner-start td{
   border-top:2px solid #9cbce5;
@@ -113,7 +115,10 @@ th{
   </th>
   <th class="player">Player</th>
   <th id="position-heading" class="position" aria-sort="none">
-    <button id="sort-position" class="sort-button" type="button">ESPN Position</button>
+    <button id="sort-position" class="sort-button" type="button">Cut Position</button>
+  </th>
+  <th id="order-heading" class="espn-order" aria-sort="none">
+    <button id="sort-order" class="sort-button" type="button">ESPN Position</button>
   </th>
 </tr>
 </thead>
@@ -149,6 +154,10 @@ function renderDraw(){
         Number(a.cut_order) - Number(b.cut_order);
     }
 
+    if(sortKey === 'espn-order'){
+      return (Number(a.cut_order) - Number(b.cut_order)) * sortDirection;
+    }
+
     return a.owner_redraw.localeCompare(b.owner_redraw) * sortDirection ||
       Number(a.score_num) - Number(b.score_num) ||
       Number(a.order) - Number(b.order);
@@ -164,6 +173,7 @@ function renderDraw(){
         <td class="owner owner-name">${escapeHtml(player.owner_redraw)}</td>
         <td class="player">${escapeHtml(player.golfer)}</td>
         <td class="position">${escapeHtml(player.cut_position)}</td>
+        <td class="espn-order">${escapeHtml(player.cut_order)}</td>
       </tr>
     `;
   }).join('');
@@ -171,10 +181,13 @@ function renderDraw(){
   const arrow = sortDirection === 1 ? '▲' : '▼';
   const ownerHeading = document.getElementById('owner-heading');
   const positionHeading = document.getElementById('position-heading');
+  const orderHeading = document.getElementById('order-heading');
   ownerHeading.setAttribute('aria-sort', sortKey === 'owner' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
   positionHeading.setAttribute('aria-sort', sortKey === 'position' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
+  orderHeading.setAttribute('aria-sort', sortKey === 'espn-order' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
   document.getElementById('sort-owner').textContent = `Owner ${sortKey === 'owner' ? arrow : ''}`.trim();
-  document.getElementById('sort-position').textContent = `ESPN Position ${sortKey === 'position' ? arrow : ''}`.trim();
+  document.getElementById('sort-position').textContent = `Cut Position ${sortKey === 'position' ? arrow : ''}`.trim();
+  document.getElementById('sort-order').textContent = `ESPN Position ${sortKey === 'espn-order' ? arrow : ''}`.trim();
 }
 
 function changeSort(nextKey){
@@ -185,6 +198,7 @@ function changeSort(nextKey){
 
 document.getElementById('sort-owner').addEventListener('click', () => changeSort('owner'));
 document.getElementById('sort-position').addEventListener('click', () => changeSort('position'));
+document.getElementById('sort-order').addEventListener('click', () => changeSort('espn-order'));
 
 async function loadDraw(){
   try{
