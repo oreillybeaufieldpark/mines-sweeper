@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:47:06.489827+01:00",
+  "generated_at": "2026-07-19T11:48:06.651093+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -195,17 +195,17 @@
       "order": 19
     },
     {
-      "position": "T20",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "1",
+      "position": "T11",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "2",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:45",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:35",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:35",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:25",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:25",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:15",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:15",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:05",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:05",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -305,7 +305,7 @@
       "order": 33
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -315,7 +315,7 @@
       "order": 35
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -398,7 +398,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -548,7 +548,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
