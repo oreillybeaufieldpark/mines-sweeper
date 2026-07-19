@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:13:06.991931+01:00",
+  "generated_at": "2026-07-19T11:14:06.986626+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -298,7 +298,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -545,7 +545,17 @@
       "order": 54
     },
     {
-      "position": "T55",
+      "position": "T42",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "Brooks Koepka",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 57
+    },
+    {
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -555,27 +565,7 @@
       "order": 55
     },
     {
-      "position": "T55",
-      "score": "E",
-      "score_num": 0,
-      "thru": "5",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 56
-    },
-    {
-      "position": "T55",
-      "score": "E",
-      "score_num": 0,
-      "thru": "4",
-      "golfer": "Brooks Koepka",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 57
-    },
-    {
-      "position": "T55",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -585,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T55",
+      "position": "T56",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -595,17 +585,27 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "6",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 56
+    },
+    {
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "12",
       "golfer": "Min Woo Lee",
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -1175,6 +1175,16 @@
       "order": 74
     },
     {
+      "position": "T72",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 76
+    },
+    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1225,7 +1235,7 @@
       "order": 156
     },
     {
-      "position": "T75",
+      "position": "T76",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1235,17 +1245,7 @@
       "order": 75
     },
     {
-      "position": "T75",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 76
-    },
-    {
-      "position": "T75",
+      "position": "T76",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
