@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:38:06.600600+01:00",
+  "generated_at": "2026-07-19T14:39:06.991517+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -388,16 +388,6 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "12",
-      "golfer": "Sahith Theegala",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Michael Murray",
-      "order": 39
-    },
-    {
-      "position": "T32",
-      "score": "-2",
-      "score_num": -2,
       "thru": "11",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
@@ -435,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -445,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -475,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -485,7 +475,7 @@
       "order": 48
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -495,7 +485,7 @@
       "order": 49
     },
     {
-      "position": "T44",
+      "position": "T43",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -505,7 +495,17 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "13",
+      "golfer": "Sahith Theegala",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Michael Murray",
+      "order": 39
+    },
+    {
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -555,7 +555,7 @@
       "order": 60
     },
     {
-      "position": "T51",
+      "position": "T50",
       "score": "E",
       "score_num": 0,
       "thru": "13",
