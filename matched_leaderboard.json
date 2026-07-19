@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:53:07.430114+01:00",
+  "generated_at": "2026-07-19T09:54:07.315161+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -619,16 +619,6 @@
       "score": "+1",
       "score_num": 1,
       "thru": "5",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 62
-    },
-    {
-      "position": "T62",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "5",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
@@ -665,27 +655,37 @@
       "order": 66
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
-      "thru": "8",
+      "thru": "6",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 62
+    },
+    {
+      "position": "T66",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "9",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 67
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
-      "thru": "6",
+      "thru": "8",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 68
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "5",
@@ -695,7 +695,7 @@
       "order": 69
     },
     {
-      "position": "T67",
+      "position": "T66",
       "score": "+2",
       "score_num": 2,
       "thru": "1",
@@ -898,7 +898,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -918,7 +918,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
