@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:39:07.359126+01:00",
+  "generated_at": "2026-07-19T12:40:07.324721+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -278,7 +278,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -375,17 +375,17 @@
       "order": 37
     },
     {
-      "position": "T23",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "12:25",
+      "position": "T38",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "1",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
       "order": 38
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "1",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -455,7 +455,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T38",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -608,7 +608,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "Donal Maher",
