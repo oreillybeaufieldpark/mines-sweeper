@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:37:06.403587+01:00",
+  "generated_at": "2026-07-19T09:38:07.222504+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -618,16 +618,6 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "5",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 61
-    },
-    {
-      "position": "T62",
-      "score": "+1",
-      "score_num": 1,
       "thru": "4",
       "golfer": "Ryo Hisatsune",
       "owner": "",
@@ -685,7 +675,17 @@
       "order": 69
     },
     {
-      "position": "T69",
+      "position": "T68",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "6",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 61
+    },
+    {
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
@@ -898,7 +898,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -908,7 +908,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
@@ -1038,7 +1038,7 @@
       "position": "75",
       "score": "+4",
       "score_num": 4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
