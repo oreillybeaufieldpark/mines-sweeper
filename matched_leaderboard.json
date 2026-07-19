@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:51:07.232113+01:00",
+  "generated_at": "2026-07-19T12:52:07.061576+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -278,7 +278,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
@@ -288,7 +288,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -298,7 +298,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -318,7 +318,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -328,7 +328,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -368,6 +368,16 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
+      "thru": "2",
+      "golfer": "Jacob Bridgeman",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 39
+    },
+    {
+      "position": "T26",
+      "score": "-3",
+      "score_num": -3,
       "thru": "14",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
@@ -385,37 +395,27 @@
       "order": 44
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 29
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Justin Thomas",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Richard Kendrick",
       "order": 38
     },
     {
-      "position": "T39",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "1",
-      "golfer": "Jacob Bridgeman",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 39
-    },
-    {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -445,7 +445,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -455,7 +455,7 @@
       "order": 48
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
