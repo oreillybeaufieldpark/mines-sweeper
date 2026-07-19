@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:08:06.579623+01:00",
+  "generated_at": "2026-07-19T11:09:06.804961+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -995,17 +995,7 @@
       "order": 107
     },
     {
-      "position": "T71",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "14",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
-    },
-    {
-      "position": "T71",
+      "position": "71",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1155,7 +1145,17 @@
       "order": 121
     },
     {
-      "position": "T73",
+      "position": "T72",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 71
+    },
+    {
+      "position": "T72",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1165,7 +1165,7 @@
       "order": 73
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",

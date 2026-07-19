@@ -57,7 +57,8 @@ th{
 
 .sort-button{
   width:100%;
-  padding:0;
+  min-height:32px;
+  padding:4px 2px;
   border:0;
   background:transparent;
   color:inherit;
@@ -65,6 +66,7 @@ th{
   font-weight:bold;
   text-align:left;
   cursor:pointer;
+  touch-action:manipulation;
 }
 
 .position .sort-button{
@@ -107,11 +109,11 @@ th{
 <thead>
 <tr>
   <th id="owner-heading" class="owner" aria-sort="ascending">
-    <button class="sort-button" type="button" data-sort="owner">Owner ▲</button>
+    <button id="sort-owner" class="sort-button" type="button">Owner ▲</button>
   </th>
   <th class="player">Player</th>
   <th id="position-heading" class="position" aria-sort="none">
-    <button class="sort-button" type="button" data-sort="position">Position</button>
+    <button id="sort-position" class="sort-button" type="button">Position</button>
   </th>
 </tr>
 </thead>
@@ -142,16 +144,12 @@ function positionNumber(value){
 
 function renderDraw(){
   const rows = [...redrawRows].sort((a, b) => {
-    let result;
-
     if(sortKey === 'position'){
-      result = positionNumber(a.position) - positionNumber(b.position);
-    }else{
-      result = a.owner_redraw.localeCompare(b.owner_redraw);
+      return (positionNumber(a.position) - positionNumber(b.position)) * sortDirection ||
+        Number(a.order) - Number(b.order);
     }
 
-    return result * sortDirection ||
-      a.owner_redraw.localeCompare(b.owner_redraw) ||
+    return a.owner_redraw.localeCompare(b.owner_redraw) * sortDirection ||
       Number(a.score_num) - Number(b.score_num) ||
       Number(a.order) - Number(b.order);
   });
@@ -175,18 +173,18 @@ function renderDraw(){
   const positionHeading = document.getElementById('position-heading');
   ownerHeading.setAttribute('aria-sort', sortKey === 'owner' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
   positionHeading.setAttribute('aria-sort', sortKey === 'position' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
-  ownerHeading.querySelector('button').textContent = `Owner ${sortKey === 'owner' ? arrow : ''}`.trim();
-  positionHeading.querySelector('button').textContent = `Position ${sortKey === 'position' ? arrow : ''}`.trim();
+  document.getElementById('sort-owner').textContent = `Owner ${sortKey === 'owner' ? arrow : ''}`.trim();
+  document.getElementById('sort-position').textContent = `Position ${sortKey === 'position' ? arrow : ''}`.trim();
 }
 
-document.querySelectorAll('.sort-button').forEach(button => {
-  button.addEventListener('click', () => {
-    const nextKey = button.dataset.sort;
+function changeSort(nextKey){
     sortDirection = sortKey === nextKey ? sortDirection * -1 : 1;
     sortKey = nextKey;
     renderDraw();
-  });
-});
+}
+
+document.getElementById('sort-owner').addEventListener('click', () => changeSort('owner'));
+document.getElementById('sort-position').addEventListener('click', () => changeSort('position'));
 
 async function loadDraw(){
   try{
