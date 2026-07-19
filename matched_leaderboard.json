@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:27:06.607630+01:00",
+  "generated_at": "2026-07-19T16:28:08.279007+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -55,7 +55,17 @@
       "order": 5
     },
     {
-      "position": "T6",
+      "position": "6",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "16",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 7
+    },
+    {
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "F",
@@ -65,17 +75,7 @@
       "order": 6
     },
     {
-      "position": "T6",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "15",
-      "golfer": "Scottie Scheffler",
-      "owner": "Donal Maher",
-      "owner_redraw": "Richard Kendrick",
-      "order": 7
-    },
-    {
-      "position": "T6",
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "9",
@@ -388,7 +388,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -578,7 +578,7 @@
       "position": "T54",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
