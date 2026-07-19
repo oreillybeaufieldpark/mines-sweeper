@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:03:06.760935+01:00",
+  "generated_at": "2026-07-19T08:04:06.900209+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -898,41 +898,11 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "08:10",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 71
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "08:10",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 72
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "08:00",
-      "golfer": "Ben Griffin",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Dave Smyth",
-      "order": 73
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
       "thru": "1",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
-      "order": 75
+      "order": 71
     },
     {
       "position": "T71",
@@ -942,7 +912,37 @@
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
-      "order": 76
+      "order": 72
+    },
+    {
+      "position": "T71",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "08:10",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 73
+    },
+    {
+      "position": "T71",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "08:10",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 74
+    },
+    {
+      "position": "T71",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "08:00",
+      "golfer": "Ben Griffin",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Dave Smyth",
+      "order": 75
     },
     {
       "position": "-",
@@ -1048,20 +1048,20 @@
       "position": "T76",
       "score": "+4",
       "score_num": 4,
-      "thru": "08:00",
-      "golfer": "Jack McDonald",
+      "thru": "2",
+      "golfer": "Keegan Bradley",
       "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 74
+      "owner_redraw": "Stephen Walker",
+      "order": 76
     },
     {
       "position": "T76",
       "score": "+4",
       "score_num": 4,
-      "thru": "2",
-      "golfer": "Keegan Bradley",
+      "thru": "08:00",
+      "golfer": "Jack McDonald",
       "owner": "",
-      "owner_redraw": "Stephen Walker",
+      "owner_redraw": "Donal Maher",
       "order": 77
     },
     {
