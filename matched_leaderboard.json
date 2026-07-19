@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:35:06.303591+01:00",
+  "generated_at": "2026-07-19T12:36:07.480638+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -448,16 +448,6 @@
       "position": "T40",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
-      "golfer": "Shaun Norris",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 44
-    },
-    {
-      "position": "T40",
-      "score": "-2",
-      "score_num": -2,
       "thru": "3",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
@@ -485,6 +475,26 @@
       "order": 51
     },
     {
+      "position": "T40",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "8",
+      "golfer": "Michael Thorbjornsen",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 52
+    },
+    {
+      "position": "T49",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "8",
+      "golfer": "Shaun Norris",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 44
+    },
+    {
       "position": "T49",
       "score": "-1",
       "score_num": -1,
@@ -503,16 +513,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
       "order": 49
-    },
-    {
-      "position": "T49",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "7",
-      "golfer": "Michael Thorbjornsen",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 52
     },
     {
       "position": "T49",
