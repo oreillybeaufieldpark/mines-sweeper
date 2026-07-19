@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:05:07.372445+01:00",
+  "generated_at": "2026-07-19T13:06:07.197695+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -138,16 +138,6 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "10",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 13
-    },
-    {
-      "position": "T13",
-      "score": "-4",
-      "score_num": -4,
       "thru": "5",
       "golfer": "Kristoffer Reitan",
       "owner": "",
@@ -248,11 +238,31 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
+      "thru": "9",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 30
+    },
+    {
+      "position": "T13",
+      "score": "-4",
+      "score_num": -4,
       "thru": "5",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 33
+    },
+    {
+      "position": "T26",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "11",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 13
     },
     {
       "position": "T26",
@@ -308,17 +318,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 30
-    },
-    {
-      "position": "T26",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -428,7 +428,7 @@
       "position": "T39",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -478,7 +478,7 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
@@ -579,16 +579,6 @@
       "score": "E",
       "score_num": 0,
       "thru": "9",
-      "golfer": "Shaun Norris",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 58
-    },
-    {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "9",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -605,7 +595,17 @@
       "order": 60
     },
     {
-      "position": "T61",
+      "position": "T60",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "10",
+      "golfer": "Shaun Norris",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 58
+    },
+    {
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T61",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
