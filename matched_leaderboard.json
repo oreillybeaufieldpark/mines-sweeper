@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:42:07.341937+01:00",
+  "generated_at": "2026-07-19T12:43:06.526273+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -538,16 +538,6 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 54
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
       "thru": "16",
       "golfer": "Eugenio Chacarra",
       "owner": "",
@@ -625,7 +615,17 @@
       "order": 62
     },
     {
-      "position": "63",
+      "position": "T62",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "F",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
+      "order": 54
+    },
+    {
+      "position": "T62",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
