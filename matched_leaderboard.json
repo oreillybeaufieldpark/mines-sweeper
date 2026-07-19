@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:06:06.634425+01:00",
+  "generated_at": "2026-07-19T15:07:06.873193+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -188,7 +188,7 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Kristoffer Reitan",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -305,7 +305,17 @@
       "order": 30
     },
     {
-      "position": "T31",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "17",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 36
+    },
+    {
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +325,7 @@
       "order": 31
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +335,7 @@
       "order": 32
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,17 +365,7 @@
       "order": 35
     },
     {
-      "position": "T31",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "16",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 36
-    },
-    {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "15",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "11",
@@ -395,7 +395,7 @@
       "order": 40
     },
     {
-      "position": "T31",
+      "position": "T32",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -505,7 +505,17 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "17",
+      "golfer": "Matt Wallace",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 55
+    },
+    {
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -515,7 +525,7 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -543,16 +553,6 @@
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
       "order": 54
-    },
-    {
-      "position": "T51",
-      "score": "E",
-      "score_num": 0,
-      "thru": "16",
-      "golfer": "Matt Wallace",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 55
     },
     {
       "position": "T56",
