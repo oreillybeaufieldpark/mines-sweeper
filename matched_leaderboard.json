@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:12:06.937828+01:00",
+  "generated_at": "2026-07-19T08:13:06.796851+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1045,7 +1045,7 @@
       "order": 107
     },
     {
-      "position": "T76",
+      "position": "76",
       "score": "+4",
       "score_num": 4,
       "thru": "2",
@@ -1053,16 +1053,6 @@
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 76
-    },
-    {
-      "position": "T76",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "08:00",
-      "golfer": "Jack McDonald",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 77
     },
     {
       "position": "-",
@@ -1203,6 +1193,16 @@
       "owner": "Donal Brogan",
       "owner_redraw": "",
       "order": 121
+    },
+    {
+      "position": "77",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 77
     },
     {
       "position": "-",
