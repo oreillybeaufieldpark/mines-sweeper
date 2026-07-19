@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:09:06.499032+01:00",
+  "generated_at": "2026-07-19T10:10:06.413402+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -568,17 +568,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "09:55",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 57
-    },
-    {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "09:55",
+      "thru": "1",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -605,7 +595,17 @@
       "order": 60
     },
     {
-      "position": "T61",
+      "position": "T60",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "1",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 57
+    },
+    {
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T61",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T61",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T61",
+      "position": "T60",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
