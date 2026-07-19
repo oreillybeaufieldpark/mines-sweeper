@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:20:07.175944+01:00",
+  "generated_at": "2026-07-19T11:21:07.219959+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -418,11 +418,21 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
       "order": 48
+    },
+    {
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "3",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 49
     },
     {
       "position": "T29",
@@ -435,7 +445,7 @@
       "order": 54
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -445,7 +455,7 @@
       "order": 40
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -455,7 +465,7 @@
       "order": 42
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -465,7 +475,7 @@
       "order": 43
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -475,7 +485,7 @@
       "order": 45
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -485,7 +495,7 @@
       "order": 46
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "4",
@@ -495,17 +505,7 @@
       "order": 47
     },
     {
-      "position": "T44",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "2",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 49
-    },
-    {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -515,7 +515,7 @@
       "order": 50
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -525,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -545,7 +545,7 @@
       "order": 55
     },
     {
-      "position": "T44",
+      "position": "T45",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -665,17 +665,7 @@
       "order": 69
     },
     {
-      "position": "T67",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "12",
-      "golfer": "Andy Sullivan",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 66
-    },
-    {
-      "position": "T67",
+      "position": "67",
       "score": "+2",
       "score_num": 2,
       "thru": "11",
@@ -875,7 +865,17 @@
       "order": 97
     },
     {
-      "position": "T69",
+      "position": "T68",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "13",
+      "golfer": "Andy Sullivan",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 66
+    },
+    {
+      "position": "T68",
       "score": "+3",
       "score_num": 3,
       "thru": "13",
@@ -885,17 +885,17 @@
       "order": 67
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+3",
       "score_num": 3,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 70
     },
     {
-      "position": "T69",
+      "position": "T68",
       "score": "+3",
       "score_num": 3,
       "thru": "15",
