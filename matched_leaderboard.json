@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:31:06.857320+01:00",
+  "generated_at": "2026-07-19T12:32:09.517501+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -358,6 +358,16 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
+      "thru": "16",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 38
+    },
+    {
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
       "thru": "11",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
@@ -375,7 +385,7 @@
       "order": 45
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -385,7 +395,7 @@
       "order": 36
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -395,27 +405,17 @@
       "order": 37
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
-      "golfer": "Rickie Fowler",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 38
-    },
-    {
-      "position": "T38",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 40
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "11",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "3",
@@ -455,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T38",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -498,7 +498,7 @@
       "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
