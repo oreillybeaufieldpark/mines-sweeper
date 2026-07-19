@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:43:06.526273+01:00",
+  "generated_at": "2026-07-19T12:44:06.306580+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -588,7 +588,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "Donal Brogan",
