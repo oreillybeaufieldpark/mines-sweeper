@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:31:06.859320+01:00",
+  "generated_at": "2026-07-19T15:32:07.545785+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -65,7 +65,7 @@
       "order": 6
     },
     {
-      "position": "T7",
+      "position": "7",
       "score": "-7",
       "score_num": -7,
       "thru": "5",
@@ -75,17 +75,17 @@
       "order": 7
     },
     {
-      "position": "T7",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "4",
+      "position": "T8",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "5",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 8
     },
     {
-      "position": "9",
+      "position": "T8",
       "score": "-6",
       "score_num": -6,
       "thru": "6",
@@ -258,7 +258,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -328,7 +328,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
