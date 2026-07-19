@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:21:06.740878+01:00",
+  "generated_at": "2026-07-19T14:22:06.785947+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -388,7 +388,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
