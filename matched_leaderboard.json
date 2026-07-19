@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:44:06.776566+01:00",
+  "generated_at": "2026-07-19T17:45:06.863376+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -128,7 +128,7 @@
       "position": "T10",
       "score": "-5",
       "score_num": -5,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Brogan",
