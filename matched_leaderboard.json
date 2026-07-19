@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:12:06.773858+01:00",
+  "generated_at": "2026-07-19T18:13:06.794174+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,7 +98,7 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
