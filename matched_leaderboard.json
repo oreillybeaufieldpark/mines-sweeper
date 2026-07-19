@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:10:07.097557+01:00",
+  "generated_at": "2026-07-19T15:11:07.007752+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T8",
       "score": "-6",
       "score_num": -6,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -268,16 +268,6 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
-      "golfer": "Rory McIlroy",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 27
-    },
-    {
-      "position": "T22",
-      "score": "-3",
-      "score_num": -3,
       "thru": "12",
       "golfer": "Jacob Bridgeman",
       "owner": "",
@@ -318,11 +308,21 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "Fergal O'Reilly",
       "order": 32
+    },
+    {
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "16",
+      "golfer": "Jordan Smith",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 39
     },
     {
       "position": "T33",
@@ -388,16 +388,6 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
-      "golfer": "Jordan Smith",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 39
-    },
-    {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
       "thru": "10",
       "golfer": "Josele Ballester",
       "owner": "",
@@ -405,7 +395,17 @@
       "order": 40
     },
     {
-      "position": "T41",
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "16",
+      "golfer": "Rory McIlroy",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 27
+    },
+    {
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
