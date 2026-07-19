@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:50:06.390904+01:00",
+  "generated_at": "2026-07-19T11:51:06.384490+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -568,26 +568,6 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "3",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 59
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
-      "thru": "3",
-      "golfer": "Marco Penge",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 60
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
       "thru": "14",
       "golfer": "Ryo Hisatsune",
       "owner": "",
@@ -605,7 +585,7 @@
       "order": 65
     },
     {
-      "position": "T61",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -615,7 +595,7 @@
       "order": 56
     },
     {
-      "position": "T61",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "6",
@@ -625,7 +605,27 @@
       "order": 58
     },
     {
-      "position": "T61",
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "4",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 59
+    },
+    {
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "4",
+      "golfer": "Marco Penge",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 60
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "17",
@@ -635,7 +635,7 @@
       "order": 61
     },
     {
-      "position": "T61",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -645,7 +645,7 @@
       "order": 62
     },
     {
-      "position": "T61",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -865,7 +865,7 @@
       "order": 97
     },
     {
-      "position": "68",
+      "position": "T68",
       "score": "+3",
       "score_num": 3,
       "thru": "16",
@@ -873,6 +873,16 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 68
+    },
+    {
+      "position": "T68",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "16",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 70
     },
     {
       "position": "-",
@@ -975,7 +985,7 @@
       "order": 107
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+4",
       "score_num": 4,
       "thru": "16",
@@ -985,17 +995,7 @@
       "order": 69
     },
     {
-      "position": "T69",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "15",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 70
-    },
-    {
-      "position": "T69",
+      "position": "T70",
       "score": "+4",
       "score_num": 4,
       "thru": "13",
@@ -1005,7 +1005,7 @@
       "order": 72
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+4",
       "score_num": 4,
       "thru": "14",
