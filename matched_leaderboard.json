@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:17:06.948488+01:00",
+  "generated_at": "2026-07-19T10:18:07.107900+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -548,7 +548,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -628,7 +628,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -653,16 +653,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 63
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "9",
-      "golfer": "Peter Uihlein",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 66
     },
     {
       "position": "T65",
@@ -885,7 +875,7 @@
       "order": 97
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -895,7 +885,7 @@
       "order": 67
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
       "thru": "6",
@@ -905,20 +895,10 @@
       "order": 70
     },
     {
-      "position": "T70",
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
-      "thru": "11",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
-    },
-    {
-      "position": "T70",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -1025,14 +1005,14 @@
       "order": 107
     },
     {
-      "position": "74",
+      "position": "72",
       "score": "+4",
       "score_num": 4,
-      "thru": "6",
-      "golfer": "Marcus Plunkett",
+      "thru": "11",
+      "golfer": "Laurie Canter",
       "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 74
+      "owner_redraw": "Dave Smyth",
+      "order": 71
     },
     {
       "position": "-",
@@ -1173,6 +1153,26 @@
       "owner": "Donal Brogan",
       "owner_redraw": "",
       "order": 121
+    },
+    {
+      "position": "T73",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 66
+    },
+    {
+      "position": "T73",
+      "score": "+5",
+      "score_num": 5,
+      "thru": "CUT",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 74
     },
     {
       "position": "-",
