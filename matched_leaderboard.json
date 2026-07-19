@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:59:07.002705+01:00",
+  "generated_at": "2026-07-19T10:00:07.140511+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,7 +558,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -628,21 +628,11 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 64
-    },
-    {
-      "position": "T62",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 65
     },
     {
       "position": "T62",
@@ -655,7 +645,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -665,7 +655,17 @@
       "order": 62
     },
     {
-      "position": "T66",
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "5",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 65
+    },
+    {
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "9",
@@ -675,7 +675,7 @@
       "order": 67
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -685,7 +685,7 @@
       "order": 68
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "5",
