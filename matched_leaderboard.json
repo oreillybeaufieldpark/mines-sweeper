@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:08:06.385989+01:00",
+  "generated_at": "2026-07-19T12:09:07.269087+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -218,7 +218,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -238,7 +238,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -408,7 +408,7 @@
       "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
@@ -548,7 +548,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
@@ -673,6 +673,16 @@
       "owner": "Stephen Walker",
       "owner_redraw": "Igor Fleming",
       "order": 67
+    },
+    {
+      "position": "T63",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "17",
+      "golfer": "Aldrich Potgieter",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 69
     },
     {
       "position": "-",
@@ -865,7 +875,7 @@
       "order": 97
     },
     {
-      "position": "T68",
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -875,17 +885,7 @@
       "order": 68
     },
     {
-      "position": "T68",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "16",
-      "golfer": "Aldrich Potgieter",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 69
-    },
-    {
-      "position": "T68",
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
       "thru": "14",
@@ -893,6 +893,16 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 70
+    },
+    {
+      "position": "T69",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "17",
+      "golfer": "Sepp Straka",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 71
     },
     {
       "position": "-",
@@ -993,16 +1003,6 @@
       "owner": "Michael Murray",
       "owner_redraw": "",
       "order": 107
-    },
-    {
-      "position": "71",
-      "score": "+4",
-      "score_num": 4,
-      "thru": "16",
-      "golfer": "Sepp Straka",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
     },
     {
       "position": "-",
