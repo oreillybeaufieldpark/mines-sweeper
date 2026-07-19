@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:23:06.520962+01:00",
+  "generated_at": "2026-07-19T12:24:06.622193+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -258,7 +258,7 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -268,7 +268,7 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
@@ -378,21 +378,11 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 38
-    },
-    {
-      "position": "T36",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "13",
-      "golfer": "Thomas Detry",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 39
     },
     {
       "position": "T36",
@@ -438,7 +428,7 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -475,7 +465,17 @@
       "order": 47
     },
     {
-      "position": "T48",
+      "position": "T47",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "14",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 39
+    },
+    {
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -558,7 +558,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -568,7 +568,7 @@
       "position": "T54",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -585,7 +585,27 @@
       "order": 58
     },
     {
-      "position": "T59",
+      "position": "T54",
+      "score": "E",
+      "score_num": 0,
+      "thru": "12",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 61
+    },
+    {
+      "position": "T54",
+      "score": "E",
+      "score_num": 0,
+      "thru": "6",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 63
+    },
+    {
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -595,7 +615,7 @@
       "order": 59
     },
     {
-      "position": "T59",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -605,17 +625,7 @@
       "order": 60
     },
     {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "11",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 61
-    },
-    {
-      "position": "T59",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -623,16 +633,6 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 62
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "5",
-      "golfer": "Alex Noren",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 63
     },
     {
       "position": "T64",
