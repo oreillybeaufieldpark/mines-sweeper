@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:55:06.873330+01:00",
+  "generated_at": "2026-07-19T10:56:07.037104+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -408,7 +408,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -538,16 +538,6 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
-      "golfer": "Tyrrell Hatton",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 54
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
       "thru": "4",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
@@ -595,7 +585,17 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "10",
+      "golfer": "Tyrrell Hatton",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 54
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "11",
@@ -615,7 +615,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -625,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -635,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "7",
@@ -645,7 +645,7 @@
       "order": 65
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "4",
@@ -655,7 +655,7 @@
       "order": 66
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -888,7 +888,7 @@
       "position": "T69",
       "score": "+3",
       "score_num": 3,
-      "thru": "10",
+      "thru": "12",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -998,7 +998,7 @@
       "position": "T71",
       "score": "+4",
       "score_num": 4,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Peter Uihlein",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -1013,6 +1013,16 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 72
+    },
+    {
+      "position": "T71",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "14",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 73
     },
     {
       "position": "-",
@@ -1155,17 +1165,7 @@
       "order": 121
     },
     {
-      "position": "T73",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 73
-    },
-    {
-      "position": "T73",
+      "position": "74",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
