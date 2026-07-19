@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:00:07.436275+01:00",
+  "generated_at": "2026-07-19T13:01:06.454629+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1145,16 +1145,6 @@
       "order": 71
     },
     {
-      "position": "T70",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 72
-    },
-    {
       "position": "-",
       "score": "+5",
       "score_num": 5,
@@ -1205,7 +1195,17 @@
       "order": 156
     },
     {
-      "position": "73",
+      "position": "T72",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 72
+    },
+    {
+      "position": "T72",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
