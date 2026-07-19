@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:02:07.044264+01:00",
+  "generated_at": "2026-07-19T11:03:06.813838+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -398,7 +398,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
