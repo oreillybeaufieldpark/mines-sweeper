@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:03:07.120992+01:00",
+  "generated_at": "2026-07-19T10:04:07.034887+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,16 +378,6 @@
       "position": "T38",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
-      "golfer": "Tyrrell Hatton",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 38
-    },
-    {
-      "position": "T38",
-      "score": "-1",
-      "score_num": -1,
       "thru": "11:10",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
@@ -515,7 +505,17 @@
       "order": 61
     },
     {
-      "position": "T52",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "6",
+      "golfer": "Tyrrell Hatton",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 38
+    },
+    {
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -525,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "6",
@@ -535,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -545,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -555,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -565,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "10:05",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "09:55",
@@ -585,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "09:55",
@@ -595,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "09:45",
@@ -605,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T52",
+      "position": "T51",
       "score": "E",
       "score_num": 0,
       "thru": "09:45",
@@ -1229,16 +1229,6 @@
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
-      "golfer": "Keegan Bradley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 75
-    },
-    {
-      "position": "T75",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
       "golfer": "Jack McDonald",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -1385,7 +1375,17 @@
       "order": 138
     },
     {
-      "position": "78",
+      "position": "T77",
+      "score": "+8",
+      "score_num": 8,
+      "thru": "CUT",
+      "golfer": "Keegan Bradley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 75
+    },
+    {
+      "position": "T77",
       "score": "+8",
       "score_num": 8,
       "thru": "CUT",
