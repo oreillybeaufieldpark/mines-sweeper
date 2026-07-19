@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:11:06.630169+01:00",
+  "generated_at": "2026-07-19T18:12:06.773858+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -48,31 +48,21 @@
       "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "16",
-      "golfer": "Si Woo Kim",
-      "owner": "Donal Maher",
-      "owner_redraw": "Dave Smyth",
-      "order": 6
+      "thru": "F",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 5
     },
     {
       "position": "T4",
       "score": "-7",
       "score_num": -7,
-      "thru": "F",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 8
-    },
-    {
-      "position": "T7",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "17",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 5
+      "thru": "16",
+      "golfer": "Si Woo Kim",
+      "owner": "Donal Maher",
+      "owner_redraw": "Dave Smyth",
+      "order": 6
     },
     {
       "position": "T7",
@@ -88,21 +78,31 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "16",
-      "golfer": "Ryan Gerard",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 9
+      "thru": "17",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 8
     },
     {
       "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "17",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 13
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 9
+    },
+    {
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "16",
+      "golfer": "Ryan Gerard",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 10
     },
     {
       "position": "T11",
@@ -112,7 +112,7 @@
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
-      "order": 10
+      "order": 11
     },
     {
       "position": "T11",
@@ -122,7 +122,7 @@
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
-      "order": 11
+      "order": 12
     },
     {
       "position": "T11",
@@ -132,7 +132,7 @@
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
-      "order": 12
+      "order": 13
     },
     {
       "position": "T14",
