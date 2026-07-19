@@ -1,11 +1,11 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:02:10.435565+01:00",
+  "generated_at": "2026-07-19T18:03:06.393647+01:00",
   "has_redraw": true,
   "players": [
     {
-      "position": "1",
+      "position": "T1",
       "score": "-9",
       "score_num": -9,
       "thru": "F",
@@ -28,7 +28,7 @@
       "position": "3",
       "score": "-8",
       "score_num": -8,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
