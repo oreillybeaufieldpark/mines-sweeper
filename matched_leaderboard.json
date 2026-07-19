@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:34:07.099310+01:00",
+  "generated_at": "2026-07-19T14:35:07.239687+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -185,7 +185,17 @@
       "order": 21
     },
     {
-      "position": "T19",
+      "position": "T13",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "6",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 22
+    },
+    {
+      "position": "T20",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -195,7 +205,7 @@
       "order": 12
     },
     {
-      "position": "T19",
+      "position": "T20",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -205,17 +215,7 @@
       "order": 18
     },
     {
-      "position": "T19",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "5",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 22
-    },
-    {
-      "position": "T19",
+      "position": "T20",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -288,7 +288,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -368,7 +368,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
