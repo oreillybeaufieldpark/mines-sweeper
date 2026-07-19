@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:48:06.615242+01:00",
+  "generated_at": "2026-07-19T09:49:06.412052+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -648,7 +648,7 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "1",
+      "thru": "3",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
