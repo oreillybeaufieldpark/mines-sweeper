@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:06:06.626028+01:00",
+  "generated_at": "2026-07-19T18:07:06.995846+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -95,7 +95,17 @@
       "order": 9
     },
     {
-      "position": "T10",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "17",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 13
+    },
+    {
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -115,7 +125,7 @@
       "order": 11
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -123,16 +133,6 @@
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 12
-    },
-    {
-      "position": "T10",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "16",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 13
     },
     {
       "position": "T14",
@@ -168,7 +168,7 @@
       "position": "T14",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
