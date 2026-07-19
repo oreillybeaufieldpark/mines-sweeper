@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:48:06.359232+01:00",
+  "generated_at": "2026-07-19T10:49:07.350071+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -678,7 +678,7 @@
       "position": "T67",
       "score": "+2",
       "score_num": 2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Nick Taylor",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -998,7 +998,7 @@
       "position": "T71",
       "score": "+4",
       "score_num": 4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
