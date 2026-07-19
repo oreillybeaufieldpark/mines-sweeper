@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:22:06.778157+01:00",
+  "generated_at": "2026-07-19T15:23:06.854691+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-6",
       "score_num": -6,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -308,7 +308,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "Fergal O'Reilly",
@@ -328,7 +328,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
