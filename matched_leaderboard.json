@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:11:07.227019+01:00",
+  "generated_at": "2026-07-19T14:12:07.246417+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -178,16 +178,6 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "17",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 18
-    },
-    {
-      "position": "T18",
-      "score": "-4",
-      "score_num": -4,
       "thru": "12",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
@@ -218,7 +208,7 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -245,7 +235,17 @@
       "order": 24
     },
     {
-      "position": "T25",
+      "position": "T24",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 18
+    },
+    {
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -295,17 +295,17 @@
       "order": 29
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
       "order": 30
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T25",
+      "position": "T24",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -358,7 +358,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
@@ -488,7 +488,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -518,7 +518,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
