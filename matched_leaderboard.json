@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:42:07.247628+01:00",
+  "generated_at": "2026-07-19T15:43:07.453224+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -45,7 +45,7 @@
       "order": 4
     },
     {
-      "position": "T5",
+      "position": "5",
       "score": "-8",
       "score_num": -8,
       "thru": "12",
@@ -55,10 +55,10 @@
       "order": 5
     },
     {
-      "position": "T5",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "8",
+      "position": "6",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "9",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
@@ -248,7 +248,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -298,7 +298,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -398,7 +398,7 @@
       "position": "T34",
       "score": "-2",
       "score_num": -2,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
