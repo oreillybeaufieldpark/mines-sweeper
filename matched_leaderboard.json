@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:57:06.776519+01:00",
+  "generated_at": "2026-07-19T10:58:07.224676+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -405,7 +405,7 @@
       "order": 29
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -415,7 +415,7 @@
       "order": 30
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -425,17 +425,17 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "10:50",
@@ -525,7 +525,27 @@
       "order": 52
     },
     {
-      "position": "T53",
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 55
+    },
+    {
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "5",
+      "golfer": "Kurt Kitayama",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 57
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -535,17 +555,7 @@
       "order": 53
     },
     {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
-      "thru": "4",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 55
-    },
-    {
-      "position": "T53",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -555,17 +565,7 @@
       "order": 56
     },
     {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
-      "thru": "3",
-      "golfer": "Kurt Kitayama",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 57
-    },
-    {
-      "position": "T53",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -575,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T53",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -638,7 +638,7 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
