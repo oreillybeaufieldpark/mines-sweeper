@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:25:06.809430+01:00",
+  "generated_at": "2026-07-19T14:26:06.812199+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -118,16 +118,6 @@
       "position": "T12",
       "score": "-5",
       "score_num": -5,
-      "thru": "10",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 12
-    },
-    {
-      "position": "T12",
-      "score": "-5",
-      "score_num": -5,
       "thru": "6",
       "golfer": "Shane Lowry",
       "owner": "Richard Kendrick",
@@ -175,6 +165,26 @@
       "order": 17
     },
     {
+      "position": "T12",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "11",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 21
+    },
+    {
+      "position": "T18",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "11",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 12
+    },
+    {
       "position": "T18",
       "score": "-4",
       "score_num": -4,
@@ -203,16 +213,6 @@
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
       "order": 20
-    },
-    {
-      "position": "T18",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "10",
-      "golfer": "Casey Jarvis",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 21
     },
     {
       "position": "T18",
