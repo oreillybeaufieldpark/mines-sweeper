@@ -1,14 +1,14 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:44:06.374293+01:00",
+  "generated_at": "2026-07-19T14:45:06.696624+01:00",
   "has_redraw": true,
   "players": [
     {
       "position": "1",
       "score": "-10",
       "score_num": -10,
-      "thru": "14:20",
+      "thru": "1",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -38,7 +38,7 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "14:20",
+      "thru": "1",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -128,7 +128,7 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -168,16 +168,6 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "5",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 17
-    },
-    {
-      "position": "T13",
-      "score": "-5",
-      "score_num": -5,
       "thru": "4",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
@@ -195,7 +185,17 @@
       "order": 19
     },
     {
-      "position": "T20",
+      "position": "T19",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "6",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 17
+    },
+    {
+      "position": "T19",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -298,7 +298,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
@@ -388,7 +388,7 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
