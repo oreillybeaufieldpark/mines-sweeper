@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:05:06.592147+01:00",
+  "generated_at": "2026-07-19T14:06:06.768855+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -35,17 +35,17 @@
       "order": 3
     },
     {
-      "position": "T4",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "8",
+      "position": "T2",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "9",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
       "order": 4
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-7",
       "score_num": -7,
       "thru": "5",
@@ -55,7 +55,7 @@
       "order": 5
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-7",
       "score_num": -7,
       "thru": "14:10",
@@ -65,7 +65,7 @@
       "order": 6
     },
     {
-      "position": "T4",
+      "position": "T5",
       "score": "-7",
       "score_num": -7,
       "thru": "14:00",
@@ -115,7 +115,17 @@
       "order": 11
     },
     {
-      "position": "T12",
+      "position": "T8",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "1",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 16
+    },
+    {
+      "position": "T13",
       "score": "-5",
       "score_num": -5,
       "thru": "5",
@@ -125,7 +135,7 @@
       "order": 12
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-5",
       "score_num": -5,
       "thru": "2",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-5",
       "score_num": -5,
       "thru": "2",
@@ -145,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-5",
       "score_num": -5,
       "thru": "13:40",
@@ -155,17 +165,7 @@
       "order": 15
     },
     {
-      "position": "T12",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "13:40",
-      "golfer": "Tommy Fleetwood",
-      "owner": "Simon Smyth",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 16
-    },
-    {
-      "position": "T12",
+      "position": "T13",
       "score": "-5",
       "score_num": -5,
       "thru": "9",
