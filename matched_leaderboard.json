@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:32:07.085391+01:00",
+  "generated_at": "2026-07-19T10:33:07.106675+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -498,26 +498,6 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "10:15",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 51
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "10:15",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Igor Fleming",
-      "order": 52
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
       "thru": "8",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
@@ -545,7 +525,7 @@
       "order": 57
     },
     {
-      "position": "T55",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -555,7 +535,27 @@
       "order": 41
     },
     {
-      "position": "T55",
+      "position": "T53",
+      "score": "E",
+      "score_num": 0,
+      "thru": "1",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 51
+    },
+    {
+      "position": "T53",
+      "score": "E",
+      "score_num": 0,
+      "thru": "1",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Igor Fleming",
+      "order": 52
+    },
+    {
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -565,7 +565,7 @@
       "order": 53
     },
     {
-      "position": "T55",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -575,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T55",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T55",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
