@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:19:07.450466+01:00",
+  "generated_at": "2026-07-19T15:20:06.660942+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -288,7 +288,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -298,7 +298,7 @@
       "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
