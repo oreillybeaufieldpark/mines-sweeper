@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:20:07.046869+01:00",
+  "generated_at": "2026-07-19T17:21:07.628993+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -388,16 +388,6 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "17",
-      "golfer": "Jon Rahm",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Michael Murray",
-      "order": 38
-    },
-    {
-      "position": "T29",
-      "score": "-2",
-      "score_num": -2,
       "thru": "15",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
@@ -405,7 +395,7 @@
       "order": 40
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +405,7 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +415,7 @@
       "order": 42
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +425,7 @@
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +435,7 @@
       "order": 44
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +445,7 @@
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -465,7 +455,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "15",
@@ -475,7 +465,17 @@
       "order": 47
     },
     {
-      "position": "T48",
+      "position": "T47",
+      "score": "E",
+      "score_num": 0,
+      "thru": "F",
+      "golfer": "Jon Rahm",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Michael Murray",
+      "order": 38
+    },
+    {
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T48",
+      "position": "T47",
       "score": "E",
       "score_num": 0,
       "thru": "F",
