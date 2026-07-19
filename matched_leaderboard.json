@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:58:06.573809+01:00",
+  "generated_at": "2026-07-19T15:59:06.680914+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "3",
       "score": "-9",
       "score_num": -9,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -38,7 +38,7 @@
       "position": "4",
       "score": "-8",
       "score_num": -8,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -95,7 +95,17 @@
       "order": 9
     },
     {
-      "position": "T10",
+      "position": "T6",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "F",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 12
+    },
+    {
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -105,7 +115,7 @@
       "order": 10
     },
     {
-      "position": "T10",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -115,17 +125,7 @@
       "order": 11
     },
     {
-      "position": "T10",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "17",
-      "golfer": "Casey Jarvis",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 12
-    },
-    {
-      "position": "T10",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "11",
