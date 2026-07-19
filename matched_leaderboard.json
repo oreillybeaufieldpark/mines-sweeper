@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:38:07.222504+01:00",
+  "generated_at": "2026-07-19T09:39:07.089114+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -919,16 +919,6 @@
       "score": "+3",
       "score_num": 3,
       "thru": "5",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 72
-    },
-    {
-      "position": "T71",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "5",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -1035,7 +1025,7 @@
       "order": 107
     },
     {
-      "position": "75",
+      "position": "74",
       "score": "+4",
       "score_num": 4,
       "thru": "4",
@@ -1235,7 +1225,17 @@
       "order": 156
     },
     {
-      "position": "T76",
+      "position": "T75",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 72
+    },
+    {
+      "position": "T75",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1245,7 +1245,7 @@
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
