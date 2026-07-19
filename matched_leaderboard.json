@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:00:07.162469+01:00",
+  "generated_at": "2026-07-19T11:01:07.021703+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -575,7 +575,17 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "5",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 66
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -585,7 +595,7 @@
       "order": 54
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "3",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
@@ -615,7 +625,7 @@
       "order": 63
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -625,7 +635,7 @@
       "order": 64
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "8",
@@ -635,17 +645,7 @@
       "order": 65
     },
     {
-      "position": "T58",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "4",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 66
-    },
-    {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "10",
