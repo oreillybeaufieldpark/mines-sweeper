@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:02:07.257573+01:00",
+  "generated_at": "2026-07-19T09:03:07.322326+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -575,7 +575,17 @@
       "order": 57
     },
     {
-      "position": "T58",
+      "position": "T50",
+      "score": "E",
+      "score_num": 0,
+      "thru": "1",
+      "golfer": "Tyrrell Hatton",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 64
+    },
+    {
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "5",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "09:25",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "09:15",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "09:15",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "09:00",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T58",
+      "position": "T59",
       "score": "+1",
       "score_num": 1,
       "thru": "09:00",
@@ -633,16 +643,6 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 63
-    },
-    {
-      "position": "T58",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "08:50",
-      "golfer": "Tyrrell Hatton",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 64
     },
     {
       "position": "T65",
@@ -683,16 +683,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 68
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "08:50",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 69
     },
     {
       "position": "T65",
@@ -905,7 +895,17 @@
       "order": 97
     },
     {
-      "position": "72",
+      "position": "T71",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "1",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 69
+    },
+    {
+      "position": "T71",
       "score": "+3",
       "score_num": 3,
       "thru": "2",
