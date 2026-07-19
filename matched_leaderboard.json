@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:11:07.008733+01:00",
+  "generated_at": "2026-07-19T17:12:07.397956+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -528,7 +528,7 @@
       "position": "T48",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
