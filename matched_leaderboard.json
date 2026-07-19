@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:23:07.055593+01:00",
+  "generated_at": "2026-07-19T11:24:07.172299+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -308,7 +308,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
@@ -428,7 +428,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "11:10",
+      "thru": "1",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -538,7 +538,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "11:10",
+      "thru": "1",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
@@ -1159,16 +1159,6 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Kazuki Higa",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 73
-    },
-    {
-      "position": "T72",
-      "score": "+5",
-      "score_num": 5,
-      "thru": "CUT",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -1235,7 +1225,17 @@
       "order": 156
     },
     {
-      "position": "T76",
+      "position": "T75",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Kazuki Higa",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 73
+    },
+    {
+      "position": "T75",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1245,7 +1245,7 @@
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
