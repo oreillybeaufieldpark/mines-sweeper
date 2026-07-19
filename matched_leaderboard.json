@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:18:07.471368+01:00",
+  "generated_at": "2026-07-19T16:19:06.811478+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -268,7 +268,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
@@ -358,7 +358,7 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -528,7 +528,7 @@
       "position": "T48",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -578,16 +578,6 @@
       "position": "T54",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Richard Kendrick",
-      "order": 58
-    },
-    {
-      "position": "T54",
-      "score": "+1",
-      "score_num": 1,
       "thru": "15",
       "golfer": "Josele Ballester",
       "owner": "",
@@ -595,7 +585,17 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T59",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "17",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Richard Kendrick",
+      "order": 58
+    },
+    {
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -605,7 +605,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -615,7 +615,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -625,7 +625,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -635,7 +635,7 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
@@ -645,7 +645,7 @@
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T59",
       "score": "+2",
       "score_num": 2,
       "thru": "F",
