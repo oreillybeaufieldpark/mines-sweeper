@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:22:07.131748+01:00",
+  "generated_at": "2026-07-19T11:23:07.055593+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -458,7 +458,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -483,16 +483,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 48
-    },
-    {
-      "position": "T45",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "6",
-      "golfer": "Kurt Kitayama",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 49
     },
     {
       "position": "T45",
@@ -555,7 +545,17 @@
       "order": 55
     },
     {
-      "position": "T56",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Kurt Kitayama",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 49
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "1",
