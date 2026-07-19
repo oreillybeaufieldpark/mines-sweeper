@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:28:07.250518+01:00",
+  "generated_at": "2026-07-19T10:29:11.801415+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -408,16 +408,6 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "2",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 41
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
       "thru": "11:10",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
@@ -538,6 +528,16 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
+      "thru": "7",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 55
+    },
+    {
+      "position": "T40",
+      "score": "-1",
+      "score_num": -1,
       "thru": "3",
       "golfer": "Patrick Cantlay",
       "owner": "Donal Brogan",
@@ -548,21 +548,21 @@
       "position": "T55",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 53
+      "thru": "3",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 41
     },
     {
       "position": "T55",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
-      "golfer": "Rickie Fowler",
+      "thru": "9",
+      "golfer": "John Parry",
       "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 55
+      "owner_redraw": "Donal Maher",
+      "order": 53
     },
     {
       "position": "T55",
@@ -638,7 +638,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
