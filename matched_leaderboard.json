@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:34:06.931311+01:00",
+  "generated_at": "2026-07-19T10:35:06.663870+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -629,16 +629,6 @@
       "score": "+1",
       "score_num": 1,
       "thru": "7",
-      "golfer": "Nick Taylor",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 63
-    },
-    {
-      "position": "T60",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "7",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -665,6 +655,26 @@
       "order": 68
     },
     {
+      "position": "T60",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "6",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 71
+    },
+    {
+      "position": "T67",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "8",
+      "golfer": "Nick Taylor",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 63
+    },
+    {
       "position": "T67",
       "score": "+2",
       "score_num": 2,
@@ -683,16 +693,6 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 67
-    },
-    {
-      "position": "T67",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "5",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 71
     },
     {
       "position": "-",
@@ -885,7 +885,7 @@
       "order": 97
     },
     {
-      "position": "T70",
+      "position": "70",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -893,16 +893,6 @@
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
       "order": 69
-    },
-    {
-      "position": "T70",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "7",
-      "golfer": "MJ Daffue",
-      "owner": "",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 70
     },
     {
       "position": "-",
@@ -1005,7 +995,17 @@
       "order": 107
     },
     {
-      "position": "72",
+      "position": "T71",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "8",
+      "golfer": "MJ Daffue",
+      "owner": "",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 70
+    },
+    {
+      "position": "T71",
       "score": "+4",
       "score_num": 4,
       "thru": "11",
