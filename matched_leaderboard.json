@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:50:07.370975+01:00",
+  "generated_at": "2026-07-19T12:51:07.232113+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -228,6 +228,16 @@
       "position": "T12",
       "score": "-4",
       "score_num": -4,
+      "thru": "10",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 25
+    },
+    {
+      "position": "T12",
+      "score": "-4",
+      "score_num": -4,
       "thru": "6",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
@@ -245,7 +255,7 @@
       "order": 32
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -255,7 +265,7 @@
       "order": 12
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -265,17 +275,7 @@
       "order": 24
     },
     {
-      "position": "T25",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "9",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 25
-    },
-    {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -285,7 +285,7 @@
       "order": 26
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -295,7 +295,7 @@
       "order": 27
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "6",
@@ -305,7 +305,7 @@
       "order": 28
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -325,7 +325,7 @@
       "order": 33
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "2",
@@ -335,7 +335,7 @@
       "order": 34
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "12:45",
@@ -345,7 +345,7 @@
       "order": 35
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -355,7 +355,7 @@
       "order": 36
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -365,7 +365,7 @@
       "order": 37
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -375,7 +375,7 @@
       "order": 42
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "11",
@@ -455,7 +455,17 @@
       "order": 48
     },
     {
-      "position": "T46",
+      "position": "T39",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "14",
+      "golfer": "Patrick Cantlay",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Michael Murray",
+      "order": 50
+    },
+    {
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -465,27 +475,17 @@
       "order": 45
     },
     {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
       "order": 46
     },
     {
-      "position": "T46",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Patrick Cantlay",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Michael Murray",
-      "order": 50
-    },
-    {
-      "position": "T46",
+      "position": "T47",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
