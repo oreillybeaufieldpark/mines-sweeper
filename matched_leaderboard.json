@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:12:07.408509+01:00",
+  "generated_at": "2026-07-19T13:13:06.556201+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -318,7 +318,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
