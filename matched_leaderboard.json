@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T18:20:06.829372+01:00",
+  "generated_at": "2026-07-19T18:21:07.677495+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "3",
       "score": "-8",
       "score_num": -8,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -79,16 +79,6 @@
       "score": "-6",
       "score_num": -6,
       "thru": "17",
-      "golfer": "Ludvig \u00c5berg",
-      "owner": "Colm Geary",
-      "owner_redraw": "Donal Brogan",
-      "order": 8
-    },
-    {
-      "position": "T7",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "17",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -105,7 +95,17 @@
       "order": 10
     },
     {
-      "position": "T11",
+      "position": "T10",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 8
+    },
+    {
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T11",
+      "position": "T10",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
