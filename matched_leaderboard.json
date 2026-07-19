@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:23:07.878332+01:00",
+  "generated_at": "2026-07-19T13:24:06.659486+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -68,7 +68,7 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
@@ -328,7 +328,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -458,7 +458,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
