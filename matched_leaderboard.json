@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:28:06.827816+01:00",
+  "generated_at": "2026-07-19T13:29:06.977550+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -178,7 +178,7 @@
       "position": "T14",
       "score": "-4",
       "score_num": -4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
@@ -338,7 +338,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Rory McIlroy",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
