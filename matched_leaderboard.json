@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:42:06.981288+01:00",
+  "generated_at": "2026-07-19T10:43:06.747366+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -399,16 +399,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "8",
-      "golfer": "Tyrrell Hatton",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 40
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
       "golfer": "Rickie Fowler",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -525,7 +515,17 @@
       "order": 52
     },
     {
-      "position": "T53",
+      "position": "T52",
+      "score": "E",
+      "score_num": 0,
+      "thru": "9",
+      "golfer": "Tyrrell Hatton",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 40
+    },
+    {
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "5",
@@ -545,7 +545,7 @@
       "order": 54
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -603,16 +603,6 @@
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 60
-    },
-    {
-      "position": "T60",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "8",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 61
     },
     {
       "position": "T60",
@@ -638,7 +628,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -675,7 +665,17 @@
       "order": 68
     },
     {
-      "position": "68",
+      "position": "T67",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "9",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 61
+    },
+    {
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
