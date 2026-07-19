@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:47:06.711989+01:00",
+  "generated_at": "2026-07-19T09:48:06.615242+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -658,16 +658,6 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "09:25",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 67
-    },
-    {
-      "position": "T62",
-      "score": "+1",
-      "score_num": 1,
       "thru": "5",
       "golfer": "Aldrich Potgieter",
       "owner": "",
@@ -675,7 +665,7 @@
       "order": 69
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "6",
@@ -685,7 +675,17 @@
       "order": 61
     },
     {
-      "position": "T68",
+      "position": "T67",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "1",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 67
+    },
+    {
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -695,7 +695,7 @@
       "order": 68
     },
     {
-      "position": "T68",
+      "position": "T67",
       "score": "+2",
       "score_num": 2,
       "thru": "4",
