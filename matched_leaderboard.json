@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:54:07.270159+01:00",
+  "generated_at": "2026-07-19T16:55:07.175825+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
@@ -125,7 +125,17 @@
       "order": 12
     },
     {
-      "position": "T13",
+      "position": "T9",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "14",
+      "golfer": "Rasmus Neergaard-Petersen",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 16
+    },
+    {
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -145,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "15",
@@ -155,17 +165,7 @@
       "order": 15
     },
     {
-      "position": "T13",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "13",
-      "golfer": "Rasmus Neergaard-Petersen",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 16
-    },
-    {
-      "position": "T13",
+      "position": "T14",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
