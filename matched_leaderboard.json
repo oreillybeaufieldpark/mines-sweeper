@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:49:06.688470+01:00",
+  "generated_at": "2026-07-19T08:50:07.616493+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -658,21 +658,11 @@
       "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "08:50",
-      "golfer": "Min Woo Lee",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Dave Smyth",
-      "order": 66
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "08:40",
-      "golfer": "Marcus Plunkett",
+      "thru": "2",
+      "golfer": "John Parry",
       "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 67
+      "owner_redraw": "Donal Maher",
+      "order": 66
     },
     {
       "position": "T65",
@@ -682,27 +672,7 @@
       "golfer": "Aldrich Potgieter",
       "owner": "",
       "owner_redraw": "Colm Geary",
-      "order": 68
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "08:40",
-      "golfer": "Ryo Hisatsune",
-      "owner": "",
-      "owner_redraw": "",
-      "order": 69
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "2",
-      "golfer": "John Parry",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 70
+      "order": 67
     },
     {
       "position": "T65",
@@ -712,6 +682,36 @@
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
+      "order": 68
+    },
+    {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "08:50",
+      "golfer": "Min Woo Lee",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Dave Smyth",
+      "order": 69
+    },
+    {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "08:40",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 70
+    },
+    {
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "08:40",
+      "golfer": "Ryo Hisatsune",
+      "owner": "",
+      "owner_redraw": "",
       "order": 71
     },
     {
@@ -909,9 +909,9 @@
       "score": "+3",
       "score_num": 3,
       "thru": "2",
-      "golfer": "Sepp Straka",
+      "golfer": "Peter Uihlein",
       "owner": "",
-      "owner_redraw": "Dave Smyth",
+      "owner_redraw": "Simon Smyth",
       "order": 72
     },
     {
@@ -919,10 +919,10 @@
       "score": "+3",
       "score_num": 3,
       "thru": "2",
-      "golfer": "Peter Uihlein",
+      "golfer": "Sepp Straka",
       "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 74
+      "owner_redraw": "Dave Smyth",
+      "order": 73
     },
     {
       "position": "-",
@@ -1032,7 +1032,7 @@
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
-      "order": 73
+      "order": 74
     },
     {
       "position": "T74",
