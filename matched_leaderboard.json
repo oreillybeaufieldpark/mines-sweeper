@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:09:06.384755+01:00",
+  "generated_at": "2026-07-19T16:10:06.758150+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,14 +378,24 @@
       "position": "T30",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
       "order": 38
     },
     {
-      "position": "T39",
+      "position": "T30",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "F",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 45
+    },
+    {
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -395,7 +405,7 @@
       "order": 39
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,17 +455,7 @@
       "order": 44
     },
     {
-      "position": "T39",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "17",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 45
-    },
-    {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -465,7 +465,7 @@
       "order": 47
     },
     {
-      "position": "T39",
+      "position": "T40",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
