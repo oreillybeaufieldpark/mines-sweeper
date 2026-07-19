@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:51:07.361833+01:00",
+  "generated_at": "2026-07-19T16:52:06.510409+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -258,16 +258,6 @@
       "position": "T18",
       "score": "-3",
       "score_num": -3,
-      "thru": "17",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 26
-    },
-    {
-      "position": "T18",
-      "score": "-3",
-      "score_num": -3,
       "thru": "15",
       "golfer": "Kazuma Kobori",
       "owner": "",
@@ -275,7 +265,17 @@
       "order": 27
     },
     {
-      "position": "T28",
+      "position": "T27",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "F",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 26
+    },
+    {
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -315,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -325,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +345,7 @@
       "order": 34
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -375,7 +375,7 @@
       "order": 37
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "16",
@@ -385,7 +385,7 @@
       "order": 38
     },
     {
-      "position": "T28",
+      "position": "T27",
       "score": "-2",
       "score_num": -2,
       "thru": "12",
