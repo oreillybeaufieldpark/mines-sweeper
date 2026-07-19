@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:10:07.192157+01:00",
+  "generated_at": "2026-07-19T09:11:07.210716+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1028,7 +1028,7 @@
       "position": "T72",
       "score": "+4",
       "score_num": 4,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Sepp Straka",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -1038,7 +1038,7 @@
       "position": "T72",
       "score": "+4",
       "score_num": 4,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Marcus Plunkett",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
