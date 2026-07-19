@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:57:06.361918+01:00",
+  "generated_at": "2026-07-19T13:58:07.230211+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -165,7 +165,17 @@
       "order": 16
     },
     {
-      "position": "T17",
+      "position": "T12",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "9",
+      "golfer": "Kristoffer Reitan",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 21
+    },
+    {
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "14",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -195,37 +205,27 @@
       "order": 19
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 20
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "8",
-      "golfer": "Kristoffer Reitan",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 21
-    },
-    {
-      "position": "T17",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
       "order": 23
     },
     {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "2",
@@ -235,17 +235,7 @@
       "order": 24
     },
     {
-      "position": "T17",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "13:30",
-      "golfer": "Eric Cole",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 25
-    },
-    {
-      "position": "T17",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "13:30",
@@ -253,6 +243,16 @@
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
       "order": 26
+    },
+    {
+      "position": "T18",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "17",
+      "golfer": "Bud Cauley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 29
     },
     {
       "position": "T26",
@@ -263,6 +263,16 @@
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 22
+    },
+    {
+      "position": "T26",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "1",
+      "golfer": "Eric Cole",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 25
     },
     {
       "position": "T26",
@@ -283,16 +293,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 28
-    },
-    {
-      "position": "T26",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "16",
-      "golfer": "Bud Cauley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 29
     },
     {
       "position": "T26",
@@ -335,17 +335,17 @@
       "order": 33
     },
     {
-      "position": "T26",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "5",
+      "position": "T34",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "6",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 34
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +355,7 @@
       "order": 35
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +365,7 @@
       "order": 36
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -375,17 +375,17 @@
       "order": 37
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 38
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -395,7 +395,7 @@
       "order": 39
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "8",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "7",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "4",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T35",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
