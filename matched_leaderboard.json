@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:17:06.828162+01:00",
+  "generated_at": "2026-07-19T12:18:06.902138+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -195,7 +195,17 @@
       "order": 19
     },
     {
-      "position": "T20",
+      "position": "T11",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "1",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Stephen Walker",
+      "order": 36
+    },
+    {
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -205,7 +215,7 @@
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -215,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -225,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -235,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -245,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "3",
@@ -255,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "1",
@@ -265,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:45",
@@ -275,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:35",
@@ -285,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:35",
@@ -295,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:25",
@@ -305,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:25",
@@ -315,7 +325,7 @@
       "order": 32
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:15",
@@ -325,7 +335,7 @@
       "order": 33
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
       "thru": "12:15",
@@ -335,24 +345,14 @@
       "order": 34
     },
     {
-      "position": "T20",
+      "position": "T21",
       "score": "-3",
       "score_num": -3,
-      "thru": "12:05",
+      "thru": "1",
       "golfer": "Robert MacIntyre",
       "owner": "Stephen Walker",
       "owner_redraw": "Fergal O'Reilly",
       "order": 35
-    },
-    {
-      "position": "T20",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "12:05",
-      "golfer": "Cameron Young",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Stephen Walker",
-      "order": 36
     },
     {
       "position": "T36",
