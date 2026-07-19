@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:51:07.177769+01:00",
+  "generated_at": "2026-07-19T15:52:07.327642+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -128,7 +128,7 @@
       "position": "T10",
       "score": "-5",
       "score_num": -5,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -478,7 +478,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
