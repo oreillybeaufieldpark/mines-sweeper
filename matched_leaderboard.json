@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:37:07.079828+01:00",
+  "generated_at": "2026-07-19T10:38:06.957676+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -675,17 +675,7 @@
       "order": 68
     },
     {
-      "position": "T68",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "9",
-      "golfer": "Sepp Straka",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 67
-    },
-    {
-      "position": "T68",
+      "position": "68",
       "score": "+2",
       "score_num": 2,
       "thru": "8",
@@ -885,7 +875,17 @@
       "order": 97
     },
     {
-      "position": "70",
+      "position": "T69",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "10",
+      "golfer": "Sepp Straka",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 67
+    },
+    {
+      "position": "T69",
       "score": "+3",
       "score_num": 3,
       "thru": "12",
@@ -998,21 +998,21 @@
       "position": "T71",
       "score": "+4",
       "score_num": 4,
-      "thru": "11",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 71
-    },
-    {
-      "position": "T71",
-      "score": "+4",
-      "score_num": 4,
       "thru": "8",
       "golfer": "MJ Daffue",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 72
+    },
+    {
+      "position": "T71",
+      "score": "+4",
+      "score_num": 4,
+      "thru": "12",
+      "golfer": "Peter Uihlein",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 73
     },
     {
       "position": "-",
@@ -1159,10 +1159,10 @@
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
-      "golfer": "Peter Uihlein",
+      "golfer": "Laurie Canter",
       "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 73
+      "owner_redraw": "Dave Smyth",
+      "order": 71
     },
     {
       "position": "T73",
