@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:45:06.696624+01:00",
+  "generated_at": "2026-07-19T14:46:06.722136+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -48,7 +48,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
@@ -88,7 +88,7 @@
       "position": "T8",
       "score": "-6",
       "score_num": -6,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -108,7 +108,7 @@
       "position": "T8",
       "score": "-6",
       "score_num": -6,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -158,16 +158,6 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "6",
-      "golfer": "Cameron John",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 16
-    },
-    {
-      "position": "T13",
-      "score": "-5",
-      "score_num": -5,
       "thru": "4",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
@@ -178,14 +168,14 @@
       "position": "T13",
       "score": "-5",
       "score_num": -5,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 19
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "6",
@@ -195,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -205,7 +195,7 @@
       "order": 20
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "12",
@@ -215,7 +205,7 @@
       "order": 21
     },
     {
-      "position": "T19",
+      "position": "T18",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -225,7 +215,17 @@
       "order": 22
     },
     {
-      "position": "T23",
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "7",
+      "golfer": "Cameron John",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 16
+    },
+    {
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -275,7 +275,7 @@
       "order": 28
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "9",
@@ -285,7 +285,7 @@
       "order": 29
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -295,7 +295,7 @@
       "order": 30
     },
     {
-      "position": "T23",
+      "position": "T22",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -408,7 +408,7 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -488,7 +488,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Daniel Brown",
       "owner": "",
       "owner_redraw": "Igor Fleming",
@@ -528,7 +528,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
