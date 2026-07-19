@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:41:06.696493+01:00",
+  "generated_at": "2026-07-19T17:42:06.834541+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -16,6 +16,16 @@
     },
     {
       "position": "T2",
+      "score": "-9",
+      "score_num": -9,
+      "thru": "13",
+      "golfer": "Ryan Fox",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 3
+    },
+    {
+      "position": "T2",
       "score": "-8",
       "score_num": -8,
       "thru": "14",
@@ -23,16 +33,6 @@
       "owner": "Donal Maher",
       "owner_redraw": "Dave Smyth",
       "order": 2
-    },
-    {
-      "position": "T2",
-      "score": "-8",
-      "score_num": -8,
-      "thru": "13",
-      "golfer": "Ryan Fox",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 3
     },
     {
       "position": "T2",
