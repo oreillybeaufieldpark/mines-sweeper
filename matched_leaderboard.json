@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:23:06.854691+01:00",
+  "generated_at": "2026-07-19T15:24:06.722114+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -98,16 +98,6 @@
       "position": "T9",
       "score": "-6",
       "score_num": -6,
-      "thru": "8",
-      "golfer": "Kazuma Kobori",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 9
-    },
-    {
-      "position": "T9",
-      "score": "-6",
-      "score_num": -6,
       "thru": "6",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
@@ -115,7 +105,17 @@
       "order": 10
     },
     {
-      "position": "T12",
+      "position": "T11",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "9",
+      "golfer": "Kazuma Kobori",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 9
+    },
+    {
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "F",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "15",
@@ -135,17 +135,17 @@
       "order": 13
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 16
     },
     {
-      "position": "T12",
+      "position": "T11",
       "score": "-5",
       "score_num": -5,
       "thru": "5",
