@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:01:06.722543+01:00",
+  "generated_at": "2026-07-19T12:02:06.804756+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,7 +378,7 @@
       "position": "T34",
       "score": "-2",
       "score_num": -2,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Shaun Norris",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -458,6 +458,16 @@
       "position": "T34",
       "score": "-2",
       "score_num": -2,
+      "thru": "13",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 48
+    },
+    {
+      "position": "T34",
+      "score": "-2",
+      "score_num": -2,
       "thru": "11",
       "golfer": "J.J. Spaun",
       "owner": "",
@@ -465,7 +475,7 @@
       "order": 49
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -475,7 +485,7 @@
       "order": 46
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "16",
@@ -485,37 +495,27 @@
       "order": 47
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "12",
-      "golfer": "Thomas Detry",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 48
-    },
-    {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
       "order": 50
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
       "order": 52
     },
     {
-      "position": "T47",
+      "position": "T48",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -568,7 +568,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
