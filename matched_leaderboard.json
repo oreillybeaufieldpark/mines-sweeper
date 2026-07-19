@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:35:06.774143+01:00",
+  "generated_at": "2026-07-19T15:36:08.965667+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T16",
       "score": "-4",
       "score_num": -4,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -518,16 +518,6 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 47
-    },
-    {
-      "position": "T51",
-      "score": "E",
-      "score_num": 0,
       "thru": "F",
       "golfer": "Matthew Southgate",
       "owner": "",
@@ -565,7 +555,17 @@
       "order": 55
     },
     {
-      "position": "T57",
+      "position": "T56",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "15",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 47
+    },
+    {
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T57",
+      "position": "T56",
       "score": "+1",
       "score_num": 1,
       "thru": "13",
