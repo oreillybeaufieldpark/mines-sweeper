@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:47:07.351552+01:00",
+  "generated_at": "2026-07-19T16:48:07.257745+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -378,7 +378,7 @@
       "position": "T28",
       "score": "-2",
       "score_num": -2,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Cameron John",
       "owner": "",
       "owner_redraw": "Igor Fleming",
