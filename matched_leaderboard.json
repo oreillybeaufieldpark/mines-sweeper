@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:10:07.104188+01:00",
+  "generated_at": "2026-07-19T12:11:06.996349+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -438,7 +438,7 @@
       "position": "T37",
       "score": "-2",
       "score_num": -2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Michael Murray",
@@ -528,6 +528,16 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
+      "thru": "9",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 57
+    },
+    {
+      "position": "T47",
+      "score": "-1",
+      "score_num": -1,
       "thru": "8",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
@@ -535,7 +545,7 @@
       "order": 58
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -545,7 +555,7 @@
       "order": 53
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -555,7 +565,7 @@
       "order": 54
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -565,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -575,17 +585,7 @@
       "order": 56
     },
     {
-      "position": "T54",
-      "score": "E",
-      "score_num": 0,
-      "thru": "8",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 57
-    },
-    {
-      "position": "T54",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "5",
