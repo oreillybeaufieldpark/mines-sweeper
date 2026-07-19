@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:01:06.454629+01:00",
+  "generated_at": "2026-07-19T13:02:06.640223+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -258,7 +258,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -505,7 +505,17 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T48",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "14",
+      "golfer": "Kurt Kitayama",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 57
+    },
+    {
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -515,7 +525,7 @@
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "17",
@@ -525,7 +535,7 @@
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "16",
@@ -545,37 +555,27 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "15",
+      "thru": "16",
       "golfer": "J.J. Spaun",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
       "order": 56
     },
     {
-      "position": "T51",
-      "score": "E",
-      "score_num": 0,
-      "thru": "13",
-      "golfer": "Kurt Kitayama",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 57
-    },
-    {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -595,7 +595,7 @@
       "order": 59
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
