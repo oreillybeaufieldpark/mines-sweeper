@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:55:06.414199+01:00",
+  "generated_at": "2026-07-19T12:56:07.369917+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -58,7 +58,7 @@
       "position": "T6",
       "score": "-6",
       "score_num": -6,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
