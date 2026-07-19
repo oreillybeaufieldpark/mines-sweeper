@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:13:07.283942+01:00",
+  "generated_at": "2026-07-19T14:14:06.451945+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -235,7 +235,17 @@
       "order": 24
     },
     {
-      "position": "T24",
+      "position": "T18",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "16",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 28
+    },
+    {
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +255,7 @@
       "order": 18
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 25
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -275,17 +285,7 @@
       "order": 27
     },
     {
-      "position": "T24",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "15",
-      "golfer": "Adam Scott",
-      "owner": "",
-      "owner_redraw": "Colm Geary",
-      "order": 28
-    },
-    {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "14",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -305,17 +305,17 @@
       "order": 30
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
       "order": 31
     },
     {
-      "position": "T24",
+      "position": "T25",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -418,7 +418,7 @@
       "position": "T33",
       "score": "-2",
       "score_num": -2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -588,7 +588,7 @@
       "position": "T56",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
       "owner_redraw": "Stephen Walker",
