@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:30:07.459779+01:00",
+  "generated_at": "2026-07-19T13:31:06.571996+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -318,7 +318,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Adam Scott",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -509,16 +509,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "12",
-      "golfer": "Patrick Reed",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Stephen Walker",
-      "order": 49
-    },
-    {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "12",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -555,7 +545,17 @@
       "order": 54
     },
     {
-      "position": "T56",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "13",
+      "golfer": "Patrick Reed",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Stephen Walker",
+      "order": 49
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -598,7 +598,7 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "15",
+      "thru": "16",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
