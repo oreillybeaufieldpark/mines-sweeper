@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:12:06.955771+01:00",
+  "generated_at": "2026-07-19T11:13:06.991931+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -398,6 +398,16 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
+      "thru": "7",
+      "golfer": "Patrick Cantlay",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Michael Murray",
+      "order": 44
+    },
+    {
+      "position": "T29",
+      "score": "-2",
+      "score_num": -2,
       "thru": "2",
       "golfer": "Patrick Reed",
       "owner": "Igor Fleming",
@@ -405,7 +415,7 @@
       "order": 48
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -415,7 +425,7 @@
       "order": 40
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -425,7 +435,7 @@
       "order": 41
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
@@ -435,7 +445,7 @@
       "order": 42
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "5",
@@ -445,27 +455,17 @@
       "order": 43
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "6",
-      "golfer": "Patrick Cantlay",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Michael Murray",
-      "order": 44
-    },
-    {
-      "position": "T41",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 45
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -475,7 +475,7 @@
       "order": 46
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "3",
@@ -485,7 +485,7 @@
       "order": 47
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "2",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -505,7 +505,7 @@
       "order": 50
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "11:10",
@@ -515,7 +515,7 @@
       "order": 51
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -525,7 +525,7 @@
       "order": 52
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
@@ -535,7 +535,7 @@
       "order": 53
     },
     {
-      "position": "T41",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "1",
@@ -1245,6 +1245,16 @@
       "order": 76
     },
     {
+      "position": "T75",
+      "score": "+6",
+      "score_num": 6,
+      "thru": "CUT",
+      "golfer": "Keegan Bradley",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 77
+    },
+    {
       "position": "-",
       "score": "+6",
       "score_num": 6,
@@ -1303,16 +1313,6 @@
       "owner": "",
       "owner_redraw": "",
       "order": 131
-    },
-    {
-      "position": "77",
-      "score": "+7",
-      "score_num": 7,
-      "thru": "CUT",
-      "golfer": "Keegan Bradley",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 77
     },
     {
       "position": "-",
