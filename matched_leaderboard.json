@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:55:09.545322+01:00",
+  "generated_at": "2026-07-19T15:56:06.574227+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -88,7 +88,7 @@
       "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -158,16 +158,6 @@
       "position": "T14",
       "score": "-4",
       "score_num": -4,
-      "thru": "13",
-      "golfer": "Max Homa",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Igor Fleming",
-      "order": 16
-    },
-    {
-      "position": "T14",
-      "score": "-4",
-      "score_num": -4,
       "thru": "9",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
@@ -195,7 +185,17 @@
       "order": 19
     },
     {
-      "position": "T20",
+      "position": "T19",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "14",
+      "golfer": "Max Homa",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Igor Fleming",
+      "order": 16
+    },
+    {
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -285,7 +285,7 @@
       "order": 28
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -295,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "11",
@@ -305,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T20",
+      "position": "T19",
       "score": "-3",
       "score_num": -3,
       "thru": "10",
@@ -458,7 +458,7 @@
       "position": "T39",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
