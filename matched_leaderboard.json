@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:15:07.359388+01:00",
+  "generated_at": "2026-07-19T10:16:08.104412+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -515,17 +515,27 @@
       "order": 51
     },
     {
-      "position": "T52",
+      "position": "T39",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "2",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 60
+    },
+    {
+      "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10:05",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -575,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -583,16 +593,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Michael Murray",
       "order": 59
-    },
-    {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "1",
-      "golfer": "Chris Gotterup",
-      "owner": "Donal Brogan",
-      "owner_redraw": "Donal Brogan",
-      "order": 60
     },
     {
       "position": "T60",
