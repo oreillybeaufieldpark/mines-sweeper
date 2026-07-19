@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:41:07.236398+01:00",
+  "generated_at": "2026-07-19T12:42:07.341937+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -653,6 +653,16 @@
       "owner": "",
       "owner_redraw": "Colm Geary",
       "order": 65
+    },
+    {
+      "position": "T64",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "17",
+      "golfer": "Nick Taylor",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 67
     },
     {
       "position": "-",
@@ -845,7 +855,7 @@
       "order": 97
     },
     {
-      "position": "T66",
+      "position": "T67",
       "score": "+3",
       "score_num": 3,
       "thru": "F",
@@ -855,17 +865,7 @@
       "order": 66
     },
     {
-      "position": "T66",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "16",
-      "golfer": "Nick Taylor",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 67
-    },
-    {
-      "position": "T66",
+      "position": "T67",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
