@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:18:06.388574+01:00",
+  "generated_at": "2026-07-19T14:19:06.541749+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -88,17 +88,7 @@
       "position": "T9",
       "score": "-6",
       "score_num": -6,
-      "thru": "3",
-      "golfer": "Hideki Matsuyama",
-      "owner": "Donal Maher",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 9
-    },
-    {
-      "position": "T9",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Tommy Fleetwood",
       "owner": "Simon Smyth",
       "owner_redraw": "Fergal O'Reilly",
@@ -125,17 +115,27 @@
       "order": 12
     },
     {
-      "position": "T9",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "13:50",
+      "position": "T12",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "4",
+      "golfer": "Hideki Matsuyama",
+      "owner": "Donal Maher",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 9
+    },
+    {
+      "position": "T12",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "1",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 13
     },
     {
-      "position": "T14",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
       "thru": "10",
@@ -145,7 +145,7 @@
       "order": 14
     },
     {
-      "position": "T14",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
       "thru": "6",
@@ -155,7 +155,7 @@
       "order": 15
     },
     {
-      "position": "T14",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
       "thru": "4",
@@ -165,10 +165,10 @@
       "order": 16
     },
     {
-      "position": "T14",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -228,7 +228,7 @@
       "position": "T18",
       "score": "-4",
       "score_num": -4,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Xander Schauffele",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Simon Smyth",
@@ -438,7 +438,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
