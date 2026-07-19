@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:24:07.108878+01:00",
+  "generated_at": "2026-07-19T10:25:07.256177+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -525,6 +525,16 @@
       "order": 52
     },
     {
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "8",
+      "golfer": "Tyrrell Hatton",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 54
+    },
+    {
       "position": "T53",
       "score": "E",
       "score_num": 0,
@@ -533,16 +543,6 @@
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 53
-    },
-    {
-      "position": "T53",
-      "score": "E",
-      "score_num": 0,
-      "thru": "7",
-      "golfer": "Tyrrell Hatton",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 54
     },
     {
       "position": "T53",
