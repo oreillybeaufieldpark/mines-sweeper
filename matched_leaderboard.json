@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T09:52:07.093043+01:00",
+  "generated_at": "2026-07-19T09:53:07.430114+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -505,27 +505,37 @@
       "order": 50
     },
     {
-      "position": "T51",
+      "position": "T38",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "1",
+      "golfer": "J.J. Spaun",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 61
+    },
+    {
+      "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "6",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 51
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Andy Sullivan",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 52
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -535,7 +545,7 @@
       "order": 53
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -545,7 +555,7 @@
       "order": 54
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -555,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "10:05",
@@ -565,7 +575,7 @@
       "order": 56
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "09:55",
@@ -575,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "09:55",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "09:45",
@@ -595,7 +605,7 @@
       "order": 59
     },
     {
-      "position": "T51",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "09:45",
@@ -603,16 +613,6 @@
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 60
-    },
-    {
-      "position": "T51",
-      "score": "E",
-      "score_num": 0,
-      "thru": "09:35",
-      "golfer": "J.J. Spaun",
-      "owner": "",
-      "owner_redraw": "Michael Murray",
-      "order": 61
     },
     {
       "position": "T62",
@@ -628,7 +628,7 @@
       "position": "T62",
       "score": "+1",
       "score_num": 1,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
