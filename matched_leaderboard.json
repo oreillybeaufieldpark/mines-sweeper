@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:42:06.383923+01:00",
+  "generated_at": "2026-07-19T14:43:07.409745+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -48,16 +48,6 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "15",
-      "golfer": "Russell Henley",
-      "owner": "Finbarr Callaly",
-      "owner_redraw": "Donal Brogan",
-      "order": 5
-    },
-    {
-      "position": "T5",
-      "score": "-7",
-      "score_num": -7,
       "thru": "8",
       "golfer": "Scottie Scheffler",
       "owner": "Donal Maher",
@@ -85,7 +75,17 @@
       "order": 8
     },
     {
-      "position": "T9",
+      "position": "T8",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "16",
+      "golfer": "Russell Henley",
+      "owner": "Finbarr Callaly",
+      "owner_redraw": "Donal Brogan",
+      "order": 5
+    },
+    {
+      "position": "T8",
       "score": "-6",
       "score_num": -6,
       "thru": "5",
@@ -95,7 +95,7 @@
       "order": 9
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-6",
       "score_num": -6,
       "thru": "4",
@@ -105,7 +105,7 @@
       "order": 10
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-6",
       "score_num": -6,
       "thru": "2",
@@ -115,7 +115,7 @@
       "order": 11
     },
     {
-      "position": "T9",
+      "position": "T8",
       "score": "-6",
       "score_num": -6,
       "thru": "2",
@@ -218,7 +218,7 @@
       "position": "T20",
       "score": "-4",
       "score_num": -4,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -288,7 +288,7 @@
       "position": "T23",
       "score": "-3",
       "score_num": -3,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -408,16 +408,6 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "10",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 41
-    },
-    {
-      "position": "T31",
-      "score": "-2",
-      "score_num": -2,
       "thru": "8",
       "golfer": "Josele Ballester",
       "owner": "",
@@ -425,7 +415,17 @@
       "order": 42
     },
     {
-      "position": "T43",
+      "position": "T42",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "11",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 41
+    },
+    {
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "9",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "8",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "6",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T43",
+      "position": "T42",
       "score": "-1",
       "score_num": -1,
       "thru": "17",
