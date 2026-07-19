@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:57:06.425138+01:00",
+  "generated_at": "2026-07-19T11:58:07.360868+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -508,16 +508,6 @@
       "position": "T47",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
-      "golfer": "Pierceson Coody",
-      "owner": "",
-      "owner_redraw": "Simon Smyth",
-      "order": 51
-    },
-    {
-      "position": "T47",
-      "score": "-1",
-      "score_num": -1,
       "thru": "4",
       "golfer": "Michael Thorbjornsen",
       "owner": "",
@@ -525,7 +515,17 @@
       "order": 52
     },
     {
-      "position": "T53",
+      "position": "T52",
+      "score": "E",
+      "score_num": 0,
+      "thru": "8",
+      "golfer": "Pierceson Coody",
+      "owner": "",
+      "owner_redraw": "Simon Smyth",
+      "order": 51
+    },
+    {
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "F",
@@ -535,17 +535,17 @@
       "order": 53
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Ryo Hisatsune",
       "owner": "",
       "owner_redraw": "",
       "order": 54
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "12",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T53",
+      "position": "T52",
       "score": "E",
       "score_num": 0,
       "thru": "7",
@@ -619,16 +619,6 @@
       "score": "+1",
       "score_num": 1,
       "thru": "7",
-      "golfer": "Alex Fitzpatrick",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Igor Fleming",
-      "order": 62
-    },
-    {
-      "position": "T59",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "7",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -655,7 +645,17 @@
       "order": 65
     },
     {
-      "position": "T66",
+      "position": "T65",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "8",
+      "golfer": "Alex Fitzpatrick",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Igor Fleming",
+      "order": 62
+    },
+    {
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -665,7 +665,7 @@
       "order": 66
     },
     {
-      "position": "T66",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "13",
@@ -998,16 +998,6 @@
       "position": "T70",
       "score": "+4",
       "score_num": 4,
-      "thru": "14",
-      "golfer": "Marcus Plunkett",
-      "owner": "",
-      "owner_redraw": "Richard Kendrick",
-      "order": 71
-    },
-    {
-      "position": "T70",
-      "score": "+4",
-      "score_num": 4,
       "thru": "13",
       "golfer": "MJ Daffue",
       "owner": "",
@@ -1155,7 +1145,7 @@
       "order": 121
     },
     {
-      "position": "73",
+      "position": "72",
       "score": "+5",
       "score_num": 5,
       "thru": "CUT",
@@ -1215,7 +1205,7 @@
       "order": 156
     },
     {
-      "position": "T74",
+      "position": "T73",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1225,7 +1215,7 @@
       "order": 74
     },
     {
-      "position": "T74",
+      "position": "T73",
       "score": "+6",
       "score_num": 6,
       "thru": "CUT",
@@ -1295,7 +1285,17 @@
       "order": 131
     },
     {
-      "position": "T76",
+      "position": "T75",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Marcus Plunkett",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 71
+    },
+    {
+      "position": "T75",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
@@ -1305,7 +1305,7 @@
       "order": 76
     },
     {
-      "position": "T76",
+      "position": "T75",
       "score": "+7",
       "score_num": 7,
       "thru": "CUT",
