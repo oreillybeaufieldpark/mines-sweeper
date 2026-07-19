@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:03:08.544991+01:00",
+  "generated_at": "2026-07-19T13:04:06.318008+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -318,7 +318,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Collin Morikawa",
       "owner": "Dave Smyth",
       "owner_redraw": "Igor Fleming",
@@ -338,21 +338,11 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
       "order": 34
-    },
-    {
-      "position": "T25",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "3",
-      "golfer": "Nico Echavarria",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 35
     },
     {
       "position": "T25",
@@ -368,7 +358,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Max Homa",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Igor Fleming",
@@ -378,7 +368,7 @@
       "position": "T25",
       "score": "-3",
       "score_num": -3,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Alex Smalley",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
@@ -395,7 +385,17 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T39",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "4",
+      "golfer": "Nico Echavarria",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 35
+    },
+    {
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -405,7 +405,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "14",
@@ -415,7 +415,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "9",
@@ -435,17 +435,17 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "5",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "2",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T40",
+      "position": "T39",
       "score": "-2",
       "score_num": -2,
       "thru": "13",
