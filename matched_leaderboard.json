@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:45:07.156961+01:00",
+  "generated_at": "2026-07-19T16:46:07.407539+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -168,7 +168,7 @@
       "position": "T13",
       "score": "-4",
       "score_num": -4,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -388,7 +388,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -468,7 +468,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
