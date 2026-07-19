@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:56:06.525751+01:00",
+  "generated_at": "2026-07-19T13:57:06.361918+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T8",
       "score": "-6",
       "score_num": -6,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
