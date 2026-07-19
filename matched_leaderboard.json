@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:07:06.690454+01:00",
+  "generated_at": "2026-07-19T10:08:06.700884+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -598,7 +598,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "09:45",
+      "thru": "1",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
@@ -898,7 +898,7 @@
       "position": "T71",
       "score": "+3",
       "score_num": 3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Laurie Canter",
       "owner": "",
       "owner_redraw": "Dave Smyth",
