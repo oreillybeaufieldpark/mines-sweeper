@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:41:06.983792+01:00",
+  "generated_at": "2026-07-19T13:42:07.065901+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -135,7 +135,17 @@
       "order": 13
     },
     {
-      "position": "T14",
+      "position": "T12",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "4",
+      "golfer": "Shane Lowry",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 21
+    },
+    {
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -145,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -155,17 +165,17 @@
       "order": 15
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Casey Jarvis",
       "owner": "",
       "owner_redraw": "Michael Murray",
       "order": 16
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "8",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "6",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -195,7 +205,7 @@
       "order": 19
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "5",
@@ -205,17 +215,7 @@
       "order": 20
     },
     {
-      "position": "T14",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "3",
-      "golfer": "Shane Lowry",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 21
-    },
-    {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "1",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "13:30",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "13:30",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "1",
@@ -255,10 +255,10 @@
       "order": 25
     },
     {
-      "position": "T14",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
-      "thru": "13:15",
+      "thru": "1",
       "golfer": "Kazuma Kobori",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -448,7 +448,7 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Jon Rahm",
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
