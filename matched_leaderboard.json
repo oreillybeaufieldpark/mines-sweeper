@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:37:06.928588+01:00",
+  "generated_at": "2026-07-19T08:38:07.083935+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -578,7 +578,7 @@
       "position": "T58",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
