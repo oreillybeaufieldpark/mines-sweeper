@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:14:06.986626+01:00",
+  "generated_at": "2026-07-19T11:15:06.854575+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -448,7 +448,7 @@
       "position": "T42",
       "score": "-1",
       "score_num": -1,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Kurt Kitayama",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -519,16 +519,6 @@
       "score": "-1",
       "score_num": -1,
       "thru": "11:00",
-      "golfer": "Marco Penge",
-      "owner": "",
-      "owner_redraw": "Donal Brogan",
-      "order": 52
-    },
-    {
-      "position": "T42",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "11:00",
       "golfer": "Alex Noren",
       "owner": "",
       "owner_redraw": "Donal Brogan",
@@ -555,7 +545,17 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T55",
+      "score": "E",
+      "score_num": 0,
+      "thru": "1",
+      "golfer": "Marco Penge",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 52
+    },
+    {
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "13",
@@ -565,7 +565,7 @@
       "order": 55
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -575,7 +575,7 @@
       "order": 58
     },
     {
-      "position": "T56",
+      "position": "T55",
       "score": "E",
       "score_num": 0,
       "thru": "15",
@@ -618,7 +618,7 @@
       "position": "T59",
       "score": "+1",
       "score_num": 1,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
