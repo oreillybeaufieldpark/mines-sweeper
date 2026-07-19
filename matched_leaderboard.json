@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:12:07.218852+01:00",
+  "generated_at": "2026-07-19T15:13:07.287700+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -68,7 +68,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -138,16 +138,6 @@
       "position": "T12",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
-      "golfer": "Shane Lowry",
-      "owner": "Richard Kendrick",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 14
-    },
-    {
-      "position": "T12",
-      "score": "-5",
-      "score_num": -5,
       "thru": "6",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
@@ -175,7 +165,17 @@
       "order": 17
     },
     {
-      "position": "T18",
+      "position": "T17",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "10",
+      "golfer": "Shane Lowry",
+      "owner": "Richard Kendrick",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 14
+    },
+    {
+      "position": "T17",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-4",
       "score_num": -4,
       "thru": "14",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-4",
       "score_num": -4,
       "thru": "13",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -318,6 +318,16 @@
       "position": "T22",
       "score": "-3",
       "score_num": -3,
+      "thru": "17",
+      "golfer": "Collin Morikawa",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Igor Fleming",
+      "order": 38
+    },
+    {
+      "position": "T22",
+      "score": "-3",
+      "score_num": -3,
       "thru": "16",
       "golfer": "Jordan Smith",
       "owner": "",
@@ -325,7 +335,7 @@
       "order": 39
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -335,7 +345,7 @@
       "order": 33
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -345,7 +355,7 @@
       "order": 34
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -355,7 +365,7 @@
       "order": 35
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -365,7 +375,7 @@
       "order": 36
     },
     {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "F",
@@ -375,17 +385,7 @@
       "order": 37
     },
     {
-      "position": "T33",
-      "score": "-2",
-      "score_num": -2,
-      "thru": "16",
-      "golfer": "Collin Morikawa",
-      "owner": "Dave Smyth",
-      "owner_redraw": "Igor Fleming",
-      "order": 38
-    },
-    {
-      "position": "T33",
+      "position": "T34",
       "score": "-2",
       "score_num": -2,
       "thru": "10",
