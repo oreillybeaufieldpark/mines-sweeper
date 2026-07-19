@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:33:07.030855+01:00",
+  "generated_at": "2026-07-19T14:34:07.099310+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -555,7 +555,17 @@
       "order": 60
     },
     {
-      "position": "T56",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "13",
+      "golfer": "Hennie Du Plessis",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 61
+    },
+    {
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "14",
@@ -565,7 +575,7 @@
       "order": 55
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -575,7 +585,7 @@
       "order": 56
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -585,7 +595,7 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "16",
@@ -593,16 +603,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 59
-    },
-    {
-      "position": "T56",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "12",
-      "golfer": "Hennie Du Plessis",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 61
     },
     {
       "position": "T61",
