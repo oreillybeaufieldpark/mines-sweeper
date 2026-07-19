@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:36:08.965667+01:00",
+  "generated_at": "2026-07-19T15:37:07.156360+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -288,7 +288,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "13",
+      "thru": "14",
       "golfer": "Jacob Bridgeman",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -555,7 +555,17 @@
       "order": 55
     },
     {
-      "position": "T56",
+      "position": "T51",
+      "score": "E",
+      "score_num": 0,
+      "thru": "14",
+      "golfer": "Justin Thomas",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Richard Kendrick",
+      "order": 60
+    },
+    {
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -565,7 +575,7 @@
       "order": 47
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -575,7 +585,7 @@
       "order": 57
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -585,7 +595,7 @@
       "order": 58
     },
     {
-      "position": "T56",
+      "position": "T57",
       "score": "+1",
       "score_num": 1,
       "thru": "F",
@@ -593,16 +603,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 59
-    },
-    {
-      "position": "T56",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "13",
-      "golfer": "Justin Thomas",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Richard Kendrick",
-      "order": 60
     },
     {
       "position": "T61",
