@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:41:06.975185+01:00",
+  "generated_at": "2026-07-19T10:42:06.981288+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -498,7 +498,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "10:25",
+      "thru": "1",
       "golfer": "Corey Conners",
       "owner": "Colm Geary",
       "owner_redraw": "Michael Murray",
@@ -518,7 +518,7 @@
       "position": "T40",
       "score": "-1",
       "score_num": -1,
-      "thru": "10:25",
+      "thru": "1",
       "golfer": "Johnny Keefer",
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
