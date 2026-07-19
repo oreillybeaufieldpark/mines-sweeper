@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:11:06.946754+01:00",
+  "generated_at": "2026-07-19T16:12:06.995727+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -25,7 +25,7 @@
       "order": 1
     },
     {
-      "position": "3",
+      "position": "T2",
       "score": "-9",
       "score_num": -9,
       "thru": "7",
