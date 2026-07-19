@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:35:06.885896+01:00",
+  "generated_at": "2026-07-19T13:36:06.932574+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -105,17 +105,17 @@
       "order": 10
     },
     {
-      "position": "T11",
-      "score": "-5",
-      "score_num": -5,
-      "thru": "10",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "11",
       "golfer": "Russell Henley",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
       "order": 11
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
       "thru": "13:40",
@@ -125,7 +125,7 @@
       "order": 12
     },
     {
-      "position": "T11",
+      "position": "T12",
       "score": "-5",
       "score_num": -5,
       "thru": "13:40",
@@ -168,7 +168,7 @@
       "position": "T14",
       "score": "-4",
       "score_num": -4,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Sungjae Im",
       "owner": "Igor Fleming",
       "owner_redraw": "Donal Brogan",
@@ -328,7 +328,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Matt Wallace",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -388,7 +388,7 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Pierceson Coody",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -408,7 +408,7 @@
       "position": "T36",
       "score": "-2",
       "score_num": -2,
-      "thru": "5",
+      "thru": "6",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
