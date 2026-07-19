@@ -202,14 +202,16 @@ document.getElementById('sort-order').addEventListener('click', () => changeSort
 
 async function loadDraw(){
   try{
+    const cacheToken = Date.now();
     const [leaderboardRes, cutPositionsRes] = await Promise.all([
-      fetch('matched_leaderboard.json?t=' + Date.now()),
-      fetch('redraw_cut_positions.json')
+      fetch('matched_leaderboard.json?t=' + cacheToken),
+      fetch('redraw_cut_positions.json?t=' + cacheToken)
     ]);
     if(!leaderboardRes.ok || !cutPositionsRes.ok) throw new Error('Redraw request failed');
 
     const data = await leaderboardRes.json();
     const cutData = await cutPositionsRes.json();
+    if(!cutData.positions || !cutData.orders) throw new Error('Incomplete cut-position snapshot');
     redrawRows = (data.players || [])
       .filter(player => player.owner_redraw)
       .map(player => ({
