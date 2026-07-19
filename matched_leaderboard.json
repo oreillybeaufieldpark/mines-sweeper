@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:22:07.374168+01:00",
+  "generated_at": "2026-07-19T10:23:07.113552+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -558,7 +558,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "4",
+      "thru": "5",
       "golfer": "Thomas Detry",
       "owner": "",
       "owner_redraw": "Dave Smyth",
@@ -683,6 +683,16 @@
       "owner": "Stephen Walker",
       "owner_redraw": "Dave Smyth",
       "order": 68
+    },
+    {
+      "position": "T66",
+      "score": "+2",
+      "score_num": 2,
+      "thru": "5",
+      "golfer": "Naoyuki Kataoka",
+      "owner": "",
+      "owner_redraw": "Igor Fleming",
+      "order": 71
     },
     {
       "position": "-",
@@ -875,7 +885,7 @@
       "order": 97
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+3",
       "score_num": 3,
       "thru": "11",
@@ -885,7 +895,7 @@
       "order": 69
     },
     {
-      "position": "T69",
+      "position": "T70",
       "score": "+3",
       "score_num": 3,
       "thru": "7",
@@ -893,16 +903,6 @@
       "owner": "",
       "owner_redraw": "Fergal O'Reilly",
       "order": 70
-    },
-    {
-      "position": "T69",
-      "score": "+3",
-      "score_num": 3,
-      "thru": "4",
-      "golfer": "Naoyuki Kataoka",
-      "owner": "",
-      "owner_redraw": "Igor Fleming",
-      "order": 71
     },
     {
       "position": "-",
