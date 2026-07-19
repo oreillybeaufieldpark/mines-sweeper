@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:16:06.868165+01:00",
+  "generated_at": "2026-07-19T13:17:06.638895+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -258,7 +258,7 @@
       "position": "T24",
       "score": "-3",
       "score_num": -3,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Victor Perez",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -428,7 +428,7 @@
       "position": "T38",
       "score": "-2",
       "score_num": -2,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
