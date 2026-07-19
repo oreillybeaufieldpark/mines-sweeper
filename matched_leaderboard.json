@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:24:06.476771+01:00",
+  "generated_at": "2026-07-19T16:25:06.613509+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "4",
       "score": "-8",
       "score_num": -8,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -128,7 +128,7 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Brogan",
