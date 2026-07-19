@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:49:07.350071+01:00",
+  "generated_at": "2026-07-19T10:50:07.072846+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -298,7 +298,7 @@
       "position": "T29",
       "score": "-2",
       "score_num": -2,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Bud Cauley",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -568,7 +568,7 @@
       "position": "T53",
       "score": "E",
       "score_num": 0,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Brooks Koepka",
       "owner": "Dave Smyth",
       "owner_redraw": "Finbarr Callaly",
