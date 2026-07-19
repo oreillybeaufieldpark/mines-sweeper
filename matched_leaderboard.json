@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:35:06.884157+01:00",
+  "generated_at": "2026-07-19T08:36:06.963661+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -698,7 +698,7 @@
       "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "08:20",
+      "thru": "1",
       "golfer": "John Parry",
       "owner": "",
       "owner_redraw": "Donal Maher",
@@ -713,16 +713,6 @@
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 71
-    },
-    {
-      "position": "T65",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "08:20",
-      "golfer": "Sepp Straka",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 72
     },
     {
       "position": "-",
@@ -915,7 +905,17 @@
       "order": 97
     },
     {
-      "position": "T73",
+      "position": "T72",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "1",
+      "golfer": "Sepp Straka",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 72
+    },
+    {
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "3",
@@ -925,7 +925,7 @@
       "order": 73
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "1",
@@ -935,7 +935,7 @@
       "order": 74
     },
     {
-      "position": "T73",
+      "position": "T72",
       "score": "+3",
       "score_num": 3,
       "thru": "1",
