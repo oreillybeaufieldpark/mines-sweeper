@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:13:07.049589+01:00",
+  "generated_at": "2026-07-19T10:14:07.174175+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -528,7 +528,7 @@
       "position": "T52",
       "score": "E",
       "score_num": 0,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Tyrrell Hatton",
       "owner": "Fergal O'Reilly",
       "owner_redraw": "Colm Geary",
