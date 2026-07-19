@@ -6,7 +6,7 @@ source /home/foreilly/golf-sweep/.venv/bin/activate
 
 python3 match_test.py
 
-git add index.html redraw.html matched_leaderboard.json match_test.py config.json owners.csv
+git add index.html redraw.html redraw_cut_positions.json matched_leaderboard.json match_test.py config.json owners.csv
 [ -f owners_redraw.csv ] && git add owners_redraw.csv
 
 if git diff --cached --quiet; then

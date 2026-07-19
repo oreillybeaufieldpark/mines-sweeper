@@ -102,7 +102,7 @@ th{
 <body>
 <main>
 <h1>Post-cut Redraw</h1>
-<p class="intro">The saved redraw, grouped by owner. Positions come from the leaderboard and the draw itself is not rerun.</p>
+<p class="intro">The saved redraw, grouped by owner. Positions are fixed at the post-cut standings used for the draw.</p>
 <a class="page-link" href="index.html">Back to live leaderboard</a>
 
 <table id="table">
@@ -145,7 +145,7 @@ function positionNumber(value){
 function renderDraw(){
   const rows = [...redrawRows].sort((a, b) => {
     if(sortKey === 'position'){
-      return (positionNumber(a.position) - positionNumber(b.position)) * sortDirection ||
+      return (positionNumber(a.cut_position) - positionNumber(b.cut_position)) * sortDirection ||
         Number(a.order) - Number(b.order);
     }
 
@@ -163,7 +163,7 @@ function renderDraw(){
       <tr class="${firstForOwner ? 'owner-start' : ''}">
         <td class="owner owner-name">${escapeHtml(player.owner_redraw)}</td>
         <td class="player">${escapeHtml(player.golfer)}</td>
-        <td class="position">${escapeHtml(player.position)}</td>
+        <td class="position">${escapeHtml(player.cut_position)}</td>
       </tr>
     `;
   }).join('');
@@ -188,11 +188,20 @@ document.getElementById('sort-position').addEventListener('click', () => changeS
 
 async function loadDraw(){
   try{
-    const res = await fetch('matched_leaderboard.json?t=' + Date.now());
-    if(!res.ok) throw new Error('Leaderboard request failed');
+    const [leaderboardRes, cutPositionsRes] = await Promise.all([
+      fetch('matched_leaderboard.json?t=' + Date.now()),
+      fetch('redraw_cut_positions.json')
+    ]);
+    if(!leaderboardRes.ok || !cutPositionsRes.ok) throw new Error('Redraw request failed');
 
-    const data = await res.json();
-    redrawRows = (data.players || []).filter(player => player.owner_redraw);
+    const data = await leaderboardRes.json();
+    const cutData = await cutPositionsRes.json();
+    redrawRows = (data.players || [])
+      .filter(player => player.owner_redraw)
+      .map(player => ({
+        ...player,
+        cut_position: cutData.positions[player.golfer] || ''
+      }));
     if(!redrawRows.length) throw new Error('No saved redraw found');
     renderDraw();
   }catch(err){
