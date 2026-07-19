@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:05:06.804898+01:00",
+  "generated_at": "2026-07-19T17:06:06.921181+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T2",
       "score": "-8",
       "score_num": -8,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -48,7 +48,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "11",
+      "thru": "12",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
