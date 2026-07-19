@@ -1,9 +1,19 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T20:03:31.615019+01:00",
+  "generated_at": "2026-07-19T20:04:06.737424+01:00",
   "has_redraw": true,
   "players": [
+    {
+      "position": "1",
+      "score": "-10",
+      "score_num": -10,
+      "thru": "F",
+      "golfer": "Ryan Fox",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 1
+    },
     {
       "position": "2",
       "score": "-9",
@@ -89,6 +99,16 @@
       "score": "-5",
       "score_num": -5,
       "thru": "F",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 10
+    },
+    {
+      "position": "T9",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
       "golfer": "Rasmus Neergaard-Petersen",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
@@ -99,10 +119,30 @@
       "score": "-5",
       "score_num": -5,
       "thru": "F",
+      "golfer": "Ludvig \u00c5berg",
+      "owner": "Colm Geary",
+      "owner_redraw": "Donal Brogan",
+      "order": 12
+    },
+    {
+      "position": "T9",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
       "golfer": "Ryan Gerard",
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 13
+    },
+    {
+      "position": "T14",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "F",
+      "golfer": "Corey Conners",
+      "owner": "Colm Geary",
+      "owner_redraw": "Michael Murray",
+      "order": 14
     },
     {
       "position": "T14",
@@ -139,10 +179,30 @@
       "score": "-3",
       "score_num": -3,
       "thru": "F",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 18
+    },
+    {
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
       "order": 19
+    },
+    {
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 20
     },
     {
       "position": "T18",
