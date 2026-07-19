@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:45:07.106388+01:00",
+  "generated_at": "2026-07-19T10:46:07.006599+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -515,7 +515,17 @@
       "order": 52
     },
     {
-      "position": "T52",
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "7",
+      "golfer": "Thomas Detry",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 54
+    },
+    {
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "9",
@@ -525,7 +535,7 @@
       "order": 40
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "10",
@@ -535,17 +545,7 @@
       "order": 53
     },
     {
-      "position": "T52",
-      "score": "E",
-      "score_num": 0,
-      "thru": "5",
-      "golfer": "Thomas Detry",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 54
-    },
-    {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "4",
@@ -555,7 +555,7 @@
       "order": 55
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "3",
@@ -565,7 +565,7 @@
       "order": 56
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "2",
@@ -575,7 +575,7 @@
       "order": 57
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -585,7 +585,7 @@
       "order": 58
     },
     {
-      "position": "T52",
+      "position": "T53",
       "score": "E",
       "score_num": 0,
       "thru": "1",
@@ -638,7 +638,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Naoyuki Kataoka",
       "owner": "",
       "owner_redraw": "Igor Fleming",
