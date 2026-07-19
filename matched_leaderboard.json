@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:27:07.182253+01:00",
+  "generated_at": "2026-07-19T11:28:07.232153+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -478,7 +478,7 @@
       "position": "T45",
       "score": "-1",
       "score_num": -1,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Chris Gotterup",
       "owner": "Donal Brogan",
       "owner_redraw": "Donal Brogan",
@@ -595,7 +595,17 @@
       "order": 59
     },
     {
-      "position": "T60",
+      "position": "T54",
+      "score": "E",
+      "score_num": 0,
+      "thru": "7",
+      "golfer": "Michael Brennan",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 66
+    },
+    {
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "15",
@@ -605,7 +615,7 @@
       "order": 60
     },
     {
-      "position": "T60",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -615,7 +625,7 @@
       "order": 61
     },
     {
-      "position": "T60",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -625,7 +635,7 @@
       "order": 62
     },
     {
-      "position": "T60",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "12",
@@ -635,17 +645,17 @@
       "order": 63
     },
     {
-      "position": "T60",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
-      "thru": "10",
+      "thru": "11",
       "golfer": "Eugenio Chacarra",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 64
     },
     {
-      "position": "T60",
+      "position": "T61",
       "score": "+1",
       "score_num": 1,
       "thru": "9",
@@ -653,16 +663,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 65
-    },
-    {
-      "position": "T60",
-      "score": "+1",
-      "score_num": 1,
-      "thru": "6",
-      "golfer": "Michael Brennan",
-      "owner": "",
-      "owner_redraw": "Stephen Walker",
-      "order": 66
     },
     {
       "position": "67",
