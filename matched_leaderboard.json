@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T10:53:06.886912+01:00",
+  "generated_at": "2026-07-19T10:54:06.750793+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -658,7 +658,7 @@
       "position": "T60",
       "score": "+1",
       "score_num": 1,
-      "thru": "3",
+      "thru": "4",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
