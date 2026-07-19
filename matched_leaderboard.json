@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:16:07.112149+01:00",
+  "generated_at": "2026-07-19T16:17:07.073254+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -128,16 +128,6 @@
       "position": "T9",
       "score": "-5",
       "score_num": -5,
-      "thru": "12",
-      "golfer": "Kazuma Kobori",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 13
-    },
-    {
-      "position": "T9",
-      "score": "-5",
-      "score_num": -5,
       "thru": "9",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
@@ -155,7 +145,17 @@
       "order": 18
     },
     {
-      "position": "T16",
+      "position": "T15",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "13",
+      "golfer": "Kazuma Kobori",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 13
+    },
+    {
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "F",
@@ -165,7 +165,7 @@
       "order": 15
     },
     {
-      "position": "T16",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "11",
@@ -175,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T16",
+      "position": "T15",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -288,7 +288,7 @@
       "position": "T19",
       "score": "-3",
       "score_num": -3,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Hideki Matsuyama",
       "owner": "Donal Maher",
       "owner_redraw": "Fergal O'Reilly",
