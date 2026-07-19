@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T08:28:06.330449+01:00",
+  "generated_at": "2026-07-19T08:29:06.323985+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -635,37 +635,27 @@
       "order": 63
     },
     {
-      "position": "T64",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "2",
-      "golfer": "Laurie Canter",
-      "owner": "",
-      "owner_redraw": "Dave Smyth",
-      "order": 64
-    },
-    {
-      "position": "T64",
-      "score": "+2",
-      "score_num": 2,
-      "thru": "2",
+      "position": "T58",
+      "score": "+1",
+      "score_num": 1,
+      "thru": "3",
       "golfer": "Matthew Southgate",
       "owner": "",
       "owner_redraw": "Donal Maher",
       "order": 65
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
-      "thru": "1",
+      "thru": "2",
       "golfer": "Ben Griffin",
       "owner": "Richard Kendrick",
       "owner_redraw": "Dave Smyth",
       "order": 66
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:50",
@@ -675,7 +665,7 @@
       "order": 67
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:40",
@@ -685,7 +675,7 @@
       "order": 68
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:30",
@@ -695,7 +685,7 @@
       "order": 69
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:40",
@@ -705,7 +695,7 @@
       "order": 70
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:20",
@@ -715,7 +705,7 @@
       "order": 71
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:30",
@@ -725,7 +715,7 @@
       "order": 72
     },
     {
-      "position": "T64",
+      "position": "T65",
       "score": "+2",
       "score_num": 2,
       "thru": "08:20",
@@ -925,7 +915,17 @@
       "order": 97
     },
     {
-      "position": "T74",
+      "position": "T73",
+      "score": "+3",
+      "score_num": 3,
+      "thru": "3",
+      "golfer": "Laurie Canter",
+      "owner": "",
+      "owner_redraw": "Dave Smyth",
+      "order": 64
+    },
+    {
+      "position": "T73",
       "score": "+3",
       "score_num": 3,
       "thru": "1",
@@ -935,7 +935,7 @@
       "order": 74
     },
     {
-      "position": "T74",
+      "position": "T73",
       "score": "+3",
       "score_num": 3,
       "thru": "1",
