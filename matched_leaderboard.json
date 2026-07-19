@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:26:06.812199+01:00",
+  "generated_at": "2026-07-19T14:27:07.334074+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -78,7 +78,7 @@
       "position": "T5",
       "score": "-7",
       "score_num": -7,
-      "thru": "14:00",
+      "thru": "1",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
@@ -108,7 +108,7 @@
       "position": "T9",
       "score": "-6",
       "score_num": -6,
-      "thru": "14:00",
+      "thru": "1",
       "golfer": "Ludvig \u00c5berg",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Brogan",
@@ -245,7 +245,17 @@
       "order": 24
     },
     {
-      "position": "T25",
+      "position": "T18",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "10",
+      "golfer": "Sungjae Im",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Donal Brogan",
+      "order": 30
+    },
+    {
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +265,7 @@
       "order": 25
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -265,7 +275,7 @@
       "order": 26
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +285,7 @@
       "order": 27
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -285,7 +295,7 @@
       "order": 28
     },
     {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -295,17 +305,7 @@
       "order": 29
     },
     {
-      "position": "T25",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "9",
-      "golfer": "Sungjae Im",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Donal Brogan",
-      "order": 30
-    },
-    {
-      "position": "T25",
+      "position": "T26",
       "score": "-3",
       "score_num": -3,
       "thru": "8",
@@ -408,7 +408,7 @@
       "position": "T32",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Nico Echavarria",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
