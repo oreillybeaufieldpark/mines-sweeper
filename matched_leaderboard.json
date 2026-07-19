@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T14:57:07.302498+01:00",
+  "generated_at": "2026-07-19T14:58:07.369701+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T3",
       "score": "-8",
       "score_num": -8,
-      "thru": "12",
+      "thru": "13",
       "golfer": "Cameron Young",
       "owner": "Dave Smyth",
       "owner_redraw": "Stephen Walker",
@@ -388,16 +388,6 @@
       "position": "T31",
       "score": "-2",
       "score_num": -2,
-      "thru": "12",
-      "golfer": "Robert MacIntyre",
-      "owner": "Stephen Walker",
-      "owner_redraw": "Fergal O'Reilly",
-      "order": 39
-    },
-    {
-      "position": "T31",
-      "score": "-2",
-      "score_num": -2,
       "thru": "11",
       "golfer": "Jacob Bridgeman",
       "owner": "",
@@ -415,7 +405,17 @@
       "order": 41
     },
     {
-      "position": "T42",
+      "position": "T41",
+      "score": "-1",
+      "score_num": -1,
+      "thru": "13",
+      "golfer": "Robert MacIntyre",
+      "owner": "Stephen Walker",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 39
+    },
+    {
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +425,7 @@
       "order": 42
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +435,7 @@
       "order": 43
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +445,7 @@
       "order": 44
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +455,7 @@
       "order": 45
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -465,7 +465,7 @@
       "order": 46
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "14",
@@ -475,7 +475,7 @@
       "order": 47
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "12",
@@ -485,7 +485,7 @@
       "order": 48
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "10",
@@ -495,7 +495,7 @@
       "order": 49
     },
     {
-      "position": "T42",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "7",
