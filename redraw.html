@@ -78,9 +78,9 @@ th{
   text-decoration:underline;
 }
 
-.owner{width:34%}
-.player{width:50%}
-.position{width:16%;text-align:center}
+.owner{width:32%}
+.player{width:44%}
+.position{width:24%;text-align:center}
 
 .owner-start td{
   border-top:2px solid #9cbce5;
@@ -113,7 +113,7 @@ th{
   </th>
   <th class="player">Player</th>
   <th id="position-heading" class="position" aria-sort="none">
-    <button id="sort-position" class="sort-button" type="button">Position</button>
+    <button id="sort-position" class="sort-button" type="button">ESPN Position</button>
   </th>
 </tr>
 </thead>
@@ -146,7 +146,7 @@ function renderDraw(){
   const rows = [...redrawRows].sort((a, b) => {
     if(sortKey === 'position'){
       return (positionNumber(a.cut_position) - positionNumber(b.cut_position)) * sortDirection ||
-        Number(a.order) - Number(b.order);
+        Number(a.cut_order) - Number(b.cut_order);
     }
 
     return a.owner_redraw.localeCompare(b.owner_redraw) * sortDirection ||
@@ -174,7 +174,7 @@ function renderDraw(){
   ownerHeading.setAttribute('aria-sort', sortKey === 'owner' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
   positionHeading.setAttribute('aria-sort', sortKey === 'position' ? (sortDirection === 1 ? 'ascending' : 'descending') : 'none');
   document.getElementById('sort-owner').textContent = `Owner ${sortKey === 'owner' ? arrow : ''}`.trim();
-  document.getElementById('sort-position').textContent = `Position ${sortKey === 'position' ? arrow : ''}`.trim();
+  document.getElementById('sort-position').textContent = `ESPN Position ${sortKey === 'position' ? arrow : ''}`.trim();
 }
 
 function changeSort(nextKey){
@@ -200,7 +200,8 @@ async function loadDraw(){
       .filter(player => player.owner_redraw)
       .map(player => ({
         ...player,
-        cut_position: cutData.positions[player.golfer] || ''
+        cut_position: cutData.positions[player.golfer] || '',
+        cut_order: cutData.orders[player.golfer]
       }));
     if(!redrawRows.length) throw new Error('No saved redraw found');
     renderDraw();
