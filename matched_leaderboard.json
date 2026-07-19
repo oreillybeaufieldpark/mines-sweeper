@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:15:07.738928+01:00",
+  "generated_at": "2026-07-19T16:16:07.112149+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -45,17 +45,7 @@
       "order": 4
     },
     {
-      "position": "T5",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "14",
-      "golfer": "Scottie Scheffler",
-      "owner": "Donal Maher",
-      "owner_redraw": "Richard Kendrick",
-      "order": 5
-    },
-    {
-      "position": "T5",
+      "position": "5",
       "score": "-7",
       "score_num": -7,
       "thru": "9",
@@ -65,7 +55,17 @@
       "order": 9
     },
     {
-      "position": "T7",
+      "position": "T6",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "15",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 5
+    },
+    {
+      "position": "T6",
       "score": "-6",
       "score_num": -6,
       "thru": "F",
@@ -75,7 +75,7 @@
       "order": 6
     },
     {
-      "position": "T7",
+      "position": "T6",
       "score": "-6",
       "score_num": -6,
       "thru": "8",
@@ -178,7 +178,7 @@
       "position": "T16",
       "score": "-4",
       "score_num": -4,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
@@ -588,7 +588,7 @@
       "position": "T54",
       "score": "+1",
       "score_num": 1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
