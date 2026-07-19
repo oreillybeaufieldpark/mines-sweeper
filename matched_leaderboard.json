@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T17:02:06.782057+01:00",
+  "generated_at": "2026-07-19T17:03:06.933846+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -165,17 +165,17 @@
       "order": 16
     },
     {
-      "position": "T14",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "12",
+      "position": "T17",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "13",
       "golfer": "Jackson Suber",
       "owner": "",
       "owner_redraw": "Simon Smyth",
       "order": 17
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -185,7 +185,7 @@
       "order": 18
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -195,7 +195,7 @@
       "order": 19
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -205,7 +205,7 @@
       "order": 20
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -215,7 +215,7 @@
       "order": 21
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -225,7 +225,7 @@
       "order": 22
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -235,7 +235,7 @@
       "order": 23
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -245,7 +245,7 @@
       "order": 24
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -255,7 +255,7 @@
       "order": 25
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -265,7 +265,7 @@
       "order": 26
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -275,7 +275,7 @@
       "order": 27
     },
     {
-      "position": "T18",
+      "position": "T17",
       "score": "-3",
       "score_num": -3,
       "thru": "17",
