@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T16:13:06.893073+01:00",
+  "generated_at": "2026-07-19T16:14:06.937649+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -28,7 +28,7 @@
       "position": "T2",
       "score": "-9",
       "score_num": -9,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Ryan Fox",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -38,7 +38,7 @@
       "position": "4",
       "score": "-8",
       "score_num": -8,
-      "thru": "7",
+      "thru": "8",
       "golfer": "Sam Burns",
       "owner": "Simon Smyth",
       "owner_redraw": "Donal Brogan",
@@ -53,6 +53,16 @@
       "owner": "Donal Maher",
       "owner_redraw": "Richard Kendrick",
       "order": 5
+    },
+    {
+      "position": "T6",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "8",
+      "golfer": "Lucas Herbert",
+      "owner": "",
+      "owner_redraw": "Finbarr Callaly",
+      "order": 9
     },
     {
       "position": "T6",
@@ -83,16 +93,6 @@
       "owner": "",
       "owner_redraw": "Richard Kendrick",
       "order": 8
-    },
-    {
-      "position": "T6",
-      "score": "-6",
-      "score_num": -6,
-      "thru": "8",
-      "golfer": "Lucas Herbert",
-      "owner": "",
-      "owner_redraw": "Finbarr Callaly",
-      "order": 9
     },
     {
       "position": "T10",
@@ -395,7 +395,17 @@
       "order": 39
     },
     {
-      "position": "T40",
+      "position": "T30",
+      "score": "-2",
+      "score_num": -2,
+      "thru": "14",
+      "golfer": "Jon Rahm",
+      "owner": "Igor Fleming",
+      "owner_redraw": "Michael Murray",
+      "order": 47
+    },
+    {
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -405,7 +415,7 @@
       "order": 40
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -415,7 +425,7 @@
       "order": 41
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -425,7 +435,7 @@
       "order": 42
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -435,7 +445,7 @@
       "order": 43
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -445,7 +455,7 @@
       "order": 44
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "F",
@@ -455,7 +465,7 @@
       "order": 45
     },
     {
-      "position": "T40",
+      "position": "T41",
       "score": "-1",
       "score_num": -1,
       "thru": "13",
@@ -463,16 +473,6 @@
       "owner": "",
       "owner_redraw": "Igor Fleming",
       "order": 46
-    },
-    {
-      "position": "T40",
-      "score": "-1",
-      "score_num": -1,
-      "thru": "13",
-      "golfer": "Jon Rahm",
-      "owner": "Igor Fleming",
-      "owner_redraw": "Michael Murray",
-      "order": 47
     },
     {
       "position": "T48",
