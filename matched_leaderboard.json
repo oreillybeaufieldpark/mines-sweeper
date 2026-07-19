@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T13:46:06.791542+01:00",
+  "generated_at": "2026-07-19T13:47:06.967676+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -255,7 +255,17 @@
       "order": 26
     },
     {
-      "position": "T26",
+      "position": "T15",
+      "score": "-4",
+      "score_num": -4,
+      "thru": "10",
+      "golfer": "Rory McIlroy",
+      "owner": "Fergal O'Reilly",
+      "owner_redraw": "Colm Geary",
+      "order": 33
+    },
+    {
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "7",
@@ -265,7 +275,7 @@
       "order": 18
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "F",
@@ -275,7 +285,7 @@
       "order": 27
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "16",
@@ -285,7 +295,7 @@
       "order": 29
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "15",
@@ -295,7 +305,7 @@
       "order": 30
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "13",
@@ -305,7 +315,7 @@
       "order": 31
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "12",
@@ -315,17 +325,7 @@
       "order": 32
     },
     {
-      "position": "T26",
-      "score": "-3",
-      "score_num": -3,
-      "thru": "9",
-      "golfer": "Rory McIlroy",
-      "owner": "Fergal O'Reilly",
-      "owner_redraw": "Colm Geary",
-      "order": 33
-    },
-    {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "4",
@@ -335,7 +335,7 @@
       "order": 34
     },
     {
-      "position": "T26",
+      "position": "T27",
       "score": "-3",
       "score_num": -3,
       "thru": "5",
@@ -408,7 +408,7 @@
       "position": "T35",
       "score": "-2",
       "score_num": -2,
-      "thru": "9",
+      "thru": "10",
       "golfer": "Jordan Smith",
       "owner": "",
       "owner_redraw": "Stephen Walker",
@@ -598,7 +598,7 @@
       "position": "T58",
       "score": "+1",
       "score_num": 1,
-      "thru": "16",
+      "thru": "17",
       "golfer": "Michael Brennan",
       "owner": "",
       "owner_redraw": "Stephen Walker",
