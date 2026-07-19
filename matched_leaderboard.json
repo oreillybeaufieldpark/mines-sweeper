@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T12:56:07.369917+01:00",
+  "generated_at": "2026-07-19T12:57:06.458331+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -115,7 +115,17 @@
       "order": 11
     },
     {
-      "position": "T12",
+      "position": "T10",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "1",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 25
+    },
+    {
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "17",
@@ -125,7 +135,7 @@
       "order": 12
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "10",
@@ -135,7 +145,7 @@
       "order": 13
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "6",
@@ -145,7 +155,7 @@
       "order": 14
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "4",
@@ -155,7 +165,7 @@
       "order": 15
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "4",
@@ -165,7 +175,7 @@
       "order": 16
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:30",
@@ -175,7 +185,7 @@
       "order": 17
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:30",
@@ -185,7 +195,7 @@
       "order": 18
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:15",
@@ -195,7 +205,7 @@
       "order": 19
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:15",
@@ -205,7 +215,7 @@
       "order": 20
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:05",
@@ -215,7 +225,7 @@
       "order": 21
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "12:55",
@@ -225,7 +235,7 @@
       "order": 22
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "13:05",
@@ -235,7 +245,7 @@
       "order": 23
     },
     {
-      "position": "T12",
+      "position": "T13",
       "score": "-4",
       "score_num": -4,
       "thru": "12:55",
@@ -243,16 +253,6 @@
       "owner": "Igor Fleming",
       "owner_redraw": "Michael Murray",
       "order": 24
-    },
-    {
-      "position": "T12",
-      "score": "-4",
-      "score_num": -4,
-      "thru": "12:45",
-      "golfer": "Scottie Scheffler",
-      "owner": "Donal Maher",
-      "owner_redraw": "Richard Kendrick",
-      "order": 25
     },
     {
       "position": "T26",
@@ -388,7 +388,7 @@
       "position": "T26",
       "score": "-3",
       "score_num": -3,
-      "thru": "12:45",
+      "thru": "1",
       "golfer": "Josele Ballester",
       "owner": "",
       "owner_redraw": "Michael Murray",
@@ -598,7 +598,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Marco Penge",
       "owner": "",
       "owner_redraw": "Donal Brogan",
