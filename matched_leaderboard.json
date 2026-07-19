@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:02:06.947577+01:00",
+  "generated_at": "2026-07-19T15:03:06.998811+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -38,7 +38,7 @@
       "position": "T3",
       "score": "-8",
       "score_num": -8,
-      "thru": "2",
+      "thru": "3",
       "golfer": "Si Woo Kim",
       "owner": "Donal Maher",
       "owner_redraw": "Dave Smyth",
@@ -458,7 +458,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Sahith Theegala",
       "owner": "Finbarr Callaly",
       "owner_redraw": "Michael Murray",
@@ -468,7 +468,7 @@
       "position": "T41",
       "score": "-1",
       "score_num": -1,
-      "thru": "14",
+      "thru": "15",
       "golfer": "Hennie Du Plessis",
       "owner": "",
       "owner_redraw": "Donal Maher",
