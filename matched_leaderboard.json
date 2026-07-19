@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T15:32:07.545785+01:00",
+  "generated_at": "2026-07-19T15:33:07.766220+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -65,17 +65,17 @@
       "order": 6
     },
     {
-      "position": "7",
-      "score": "-7",
-      "score_num": -7,
-      "thru": "5",
+      "position": "T7",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "6",
       "golfer": "Lucas Herbert",
       "owner": "",
       "owner_redraw": "Finbarr Callaly",
       "order": 7
     },
     {
-      "position": "T8",
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
       "thru": "5",
@@ -85,10 +85,10 @@
       "order": 8
     },
     {
-      "position": "T8",
+      "position": "T7",
       "score": "-6",
       "score_num": -6,
-      "thru": "6",
+      "thru": "7",
       "golfer": "Bryson DeChambeau",
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
@@ -318,7 +318,7 @@
       "position": "T20",
       "score": "-3",
       "score_num": -3,
-      "thru": "8",
+      "thru": "9",
       "golfer": "Eric Cole",
       "owner": "",
       "owner_redraw": "Colm Geary",
@@ -548,7 +548,7 @@
       "position": "T51",
       "score": "E",
       "score_num": 0,
-      "thru": "17",
+      "thru": "F",
       "golfer": "Francesco Molinari",
       "owner": "",
       "owner_redraw": "Donal Maher",
