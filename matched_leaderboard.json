@@ -1,9 +1,69 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T19:14:32.258982+01:00",
+  "generated_at": "2026-07-19T19:15:06.778262+01:00",
   "has_redraw": true,
   "players": [
+    {
+      "position": "1",
+      "score": "-10",
+      "score_num": -10,
+      "thru": "F",
+      "golfer": "Ryan Fox",
+      "owner": "",
+      "owner_redraw": "Stephen Walker",
+      "order": 1
+    },
+    {
+      "position": "2",
+      "score": "-9",
+      "score_num": -9,
+      "thru": "F",
+      "golfer": "Cameron Young",
+      "owner": "Dave Smyth",
+      "owner_redraw": "Stephen Walker",
+      "order": 2
+    },
+    {
+      "position": "3",
+      "score": "-8",
+      "score_num": -8,
+      "thru": "F",
+      "golfer": "Sam Burns",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Donal Brogan",
+      "order": 3
+    },
+    {
+      "position": "T4",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "F",
+      "golfer": "Scottie Scheffler",
+      "owner": "Donal Maher",
+      "owner_redraw": "Richard Kendrick",
+      "order": 4
+    },
+    {
+      "position": "T4",
+      "score": "-7",
+      "score_num": -7,
+      "thru": "F",
+      "golfer": "Tommy Fleetwood",
+      "owner": "Simon Smyth",
+      "owner_redraw": "Fergal O'Reilly",
+      "order": 5
+    },
+    {
+      "position": "T6",
+      "score": "-6",
+      "score_num": -6,
+      "thru": "F",
+      "golfer": "Casey Jarvis",
+      "owner": "",
+      "owner_redraw": "Michael Murray",
+      "order": 6
+    },
     {
       "position": "T6",
       "score": "-6",
@@ -33,6 +93,16 @@
       "owner": "Finbarr Callaly",
       "owner_redraw": "Donal Brogan",
       "order": 9
+    },
+    {
+      "position": "T9",
+      "score": "-5",
+      "score_num": -5,
+      "thru": "F",
+      "golfer": "Adam Scott",
+      "owner": "",
+      "owner_redraw": "Colm Geary",
+      "order": 10
     },
     {
       "position": "T9",
@@ -103,6 +173,36 @@
       "owner": "Colm Geary",
       "owner_redraw": "Donal Maher",
       "order": 17
+    },
+    {
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Rickie Fowler",
+      "owner": "",
+      "owner_redraw": "Richard Kendrick",
+      "order": 18
+    },
+    {
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Chris Gotterup",
+      "owner": "Donal Brogan",
+      "owner_redraw": "Donal Brogan",
+      "order": 19
+    },
+    {
+      "position": "T18",
+      "score": "-3",
+      "score_num": -3,
+      "thru": "F",
+      "golfer": "Alex Noren",
+      "owner": "",
+      "owner_redraw": "Donal Brogan",
+      "order": 20
     },
     {
       "position": "T18",
