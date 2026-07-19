@@ -1,7 +1,7 @@
 {
   "event_name": "The Open Championship",
   "page_title": "The Open Sweep",
-  "generated_at": "2026-07-19T11:24:07.172299+01:00",
+  "generated_at": "2026-07-19T11:25:07.112808+01:00",
   "has_redraw": true,
   "players": [
     {
@@ -1245,16 +1245,6 @@
       "order": 76
     },
     {
-      "position": "T75",
-      "score": "+6",
-      "score_num": 6,
-      "thru": "CUT",
-      "golfer": "Jack McDonald",
-      "owner": "",
-      "owner_redraw": "Donal Maher",
-      "order": 77
-    },
-    {
       "position": "-",
       "score": "+6",
       "score_num": 6,
@@ -1313,6 +1303,16 @@
       "owner": "",
       "owner_redraw": "",
       "order": 131
+    },
+    {
+      "position": "77",
+      "score": "+7",
+      "score_num": 7,
+      "thru": "CUT",
+      "golfer": "Jack McDonald",
+      "owner": "",
+      "owner_redraw": "Donal Maher",
+      "order": 77
     },
     {
       "position": "-",
